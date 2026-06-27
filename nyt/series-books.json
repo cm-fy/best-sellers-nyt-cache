@@ -1,0 +1,572 @@
+{
+  "display_name": "Children’s & Young Adult Series",
+  "list_name": "Children’s & Young Adult Series",
+  "list_name_encoded": "series-books",
+  "normal_list_ends_at": 10,
+  "updated": "WEEKLY",
+  "list_id": 10,
+  "uri": "nyt://bestsellerslist/dbcc20b2-cb77-5173-84db-1d041dcd634d",
+  "books": [
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeff Kinney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419782695.jpg",
+      "book_image_height": 500,
+      "book_image_width": 340,
+      "book_review_link": "",
+      "book_uri": "nyt://book/66984c6d-dc3b-5b77-9b25-295fe913478a",
+      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
+      "contributor_note": "Illustrated by Jeff Kinney",
+      "created_date": "2026-03-12T21:08:22.271Z",
+      "dagger": 0,
+      "description": "The travails and challenges of adolescence. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781419782695",
+      "publisher": "Amulet",
+      "rank": 1,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "DIARY OF A WIMPY KID",
+      "updated_date": "2026-03-12T21:08:22.271Z",
+      "weeks_on_list": 901,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781419782695"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781419782695?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419782695&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartypooper-jeff-kinney%2F1147057877%3Fean%3D9781419782695&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartypooper-Diary-Wimpy-Kid-Book%2FJeff-Kinney%2F9781419782695"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781419782695"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1546171460?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Suzanne Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546171461.jpg",
+      "book_image_height": 500,
+      "book_image_width": 335,
+      "book_review_link": "",
+      "book_uri": "nyt://book/607989ae-2b4b-59ab-a796-b0980885a038",
+      "contributor": "by Suzanne Collins",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.489Z",
+      "dagger": 0,
+      "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546171461",
+      "publisher": "Scholastic",
+      "rank": 2,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE HUNGER GAMES",
+      "updated_date": "2026-03-12T21:08:22.489Z",
+      "weeks_on_list": 428,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546171461"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546171460?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546171461?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546171461&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsunrise-on-the-reaping-suzanne-collins%2F1145703863%3Fean%3D9781546171461&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSunrise-Reaping-Hunger-Games-Novel%2FSuzanne-Collins%2F9781546171461"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546171461"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chloe Walsh",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
+      "contributor": "by Chloe Walsh",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:04.785Z",
+      "dagger": 0,
+      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464277061",
+      "publisher": "Bloom",
+      "rank": 3,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "BOYS OF TOMMEN",
+      "updated_date": "2026-03-04T23:40:04.785Z",
+      "weeks_on_list": 77,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464277061"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464277061"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 10 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.768Z",
+      "dagger": 0,
+      "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338878929",
+      "publisher": "Scholastic",
+      "rank": 4,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER",
+      "updated_date": "2026-03-12T21:08:22.768Z",
+      "weeks_on_list": 900,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338878929"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338878929"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316581097.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/757f1518-d1fd-5a6b-bf5b-4778f7cdd775",
+      "contributor": "by Peter Brown",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.318Z",
+      "dagger": 0,
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316581097",
+      "publisher": "Little, Brown",
+      "rank": 5,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-05-20T18:34:32.318Z",
+      "weeks_on_list": 122,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316581097"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316581097?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316581097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1146354980%3Fean%3D9780316581097&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316581097"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316581097"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Holly Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217116775.jpg",
+      "book_image_height": 500,
+      "book_image_width": 362,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9cbddc9c-e57c-5e04-af89-c2c44135025c",
+      "contributor": "by Holly Jackson",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:23.465Z",
+      "dagger": 0,
+      "description": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217116775",
+      "publisher": "Delacorte",
+      "rank": 6,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "A GOOD GIRL'S GUIDE TO MURDER",
+      "updated_date": "2026-03-12T21:08:23.465Z",
+      "weeks_on_list": 224,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217116775"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217116775?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217116775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-good-girls-guide-to-murder-holly-jackson%2F1147236329%3Fean%3D9798217116775&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGood-Girls-Guide-Murder%2FHolly-Jackson%2F9798217116775"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217116775"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tui T. Sutherland",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
+      "contributor": "by Tui T. Sutherland",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.079Z",
+      "dagger": 0,
+      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546129547",
+      "publisher": "Scholastic",
+      "rank": 7,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "WINGS OF FIRE",
+      "updated_date": "2026-03-12T21:08:22.079Z",
+      "weeks_on_list": 247,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546129547"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546129547"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1419760874?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alex Aster",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419760877.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/072a11c1-910e-5bfb-8bcb-b8850052e9c1",
+      "contributor": "by Alex Aster",
+      "contributor_note": "",
+      "created_date": "2026-06-10T17:37:54.477Z",
+      "dagger": 0,
+      "description": "Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place. (Ages 13 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781419760877",
+      "publisher": "Amulet",
+      "rank": 8,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "LIGHTLARK SAGA",
+      "updated_date": "2026-06-10T17:37:54.477Z",
+      "weeks_on_list": 48,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781419760877"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1419760874?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781419760877?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419760877&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flightlark-alex-aster%2F1140972942%3Fean%3D9781419760877&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLightlark-Saga-Book%2FAlex-Aster%2F9781419760877"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781419760877"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 340,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
+      "contributor": "by Rick Riordan",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.452Z",
+      "dagger": 0,
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368051477",
+      "publisher": "Disney-Hyperion",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-05-20T18:34:32.452Z",
+      "weeks_on_list": 833,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368051477"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368051477"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mary Pope Osborne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
+      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
+      "contributor_note": "Illustrated by Sal Murdocca",
+      "created_date": "2026-05-20T18:34:32.732Z",
+      "dagger": 0,
+      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375813658",
+      "publisher": "Stepping Stone/Random House",
+      "rank": 10,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "MAGIC TREE HOUSE",
+      "updated_date": "2026-05-20T18:34:32.732Z",
+      "weeks_on_list": 335,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375813658"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375813658"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

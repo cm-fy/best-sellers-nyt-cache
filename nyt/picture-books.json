@@ -1,0 +1,572 @@
+{
+  "display_name": "Children’s Picture Books",
+  "list_name": "Children’s Picture Books",
+  "list_name_encoded": "picture-books",
+  "normal_list_ends_at": 10,
+  "updated": "WEEKLY",
+  "list_id": 7,
+  "uri": "nyt://bestsellerslist/4c7bb964-8202-55a0-8069-432a2a775777",
+  "books": [
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1492667838?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gregory E. Lang",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492667834.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/036420d0-5c18-5df5-9b89-bb8f8cce56cc",
+      "contributor": "by Gregory E. Lang. Illustrated by Sydney Hanson",
+      "contributor_note": "Illustrated by Sydney Hanson",
+      "created_date": "2026-05-20T18:34:31.77Z",
+      "dagger": 0,
+      "description": "A father's love for his daughter. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781492667834",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 1,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "WHY A DAUGHTER NEEDS A DAD",
+      "updated_date": "2026-05-20T18:34:31.77Z",
+      "weeks_on_list": 30,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781492667834"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1492667838?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781492667834?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492667834&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-a-daughter-needs-a-dad-gregory-e-lang%2F1100221485%3Fean%3D9781492667834&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHY%2BA%2BDAUGHTER%2BNEEDS%2BA%2BDAD%2FGregory%2BE.%2BLang.%2F9781492667834"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781492667834"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/1728235871?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gregory E. Lang",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235875.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6d62a792-84e9-522f-b4fc-a2b79991f609",
+      "contributor": "by Gregory E. Lang. Illustrated by Gail Yerrill",
+      "contributor_note": "Illustrated by Gail Yerrill",
+      "created_date": "2026-05-27T18:33:46.416Z",
+      "dagger": 0,
+      "description": "The bond between father and son. (Ages 4 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728235875",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WHY A SON NEEDS A DAD",
+      "updated_date": "2026-05-27T18:33:46.416Z",
+      "weeks_on_list": 22,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728235875"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728235871?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728235875?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235875&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-a-son-needs-a-dad-gregory-e-lang%2F1101113314%3Fean%3D9781728235875&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHY%2BA%2BSON%2BNEEDS%2BA%2BDAD%2FGregory%2BE.%2BLang.%2F9781728235875"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728235875"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 5",
+      "amazon_product_url": "https://www.amazon.com/Love-Hungry-Caterpillar-World-Carle/dp/152478589X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eric Carle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781524785895.jpg",
+      "book_image_height": 404,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c5925fde-fb59-5ce8-8253-fe253cafbda0",
+      "contributor": "by Eric Carle",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.024Z",
+      "dagger": 0,
+      "description": "Celebrating dad with help from that insatiable insect. (Ages 3 to 5)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781524785895",
+      "publisher": "Grosset & Dunlap",
+      "rank": 3,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "I LOVE DAD WITH THE VERY HUNGRY CATERPILLAR",
+      "updated_date": "2026-05-20T18:34:32.024Z",
+      "weeks_on_list": 43,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781524785895"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Love-Hungry-Caterpillar-World-Carle/dp/152478589X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781524785895?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781524785895&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-love-dad-with-the-very-hungry-caterpillar-eric-carle%2F1126477727%3Fean%3D9781524785895&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BLOVE%2BDAD%2BWITH%2BTHE%2BVERY%2BHUNGRY%2BCATERPILLAR%2FEric%2BCarle%2F9781524785895"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781524785895"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dr",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217228560.jpg",
+      "book_image_height": 500,
+      "book_image_width": 366,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8fc085f9-ae0e-5284-ab77-eb0adad3aaca",
+      "contributor": "by Dr. Seuss",
+      "contributor_note": "Seuss",
+      "created_date": "2026-06-10T17:37:53.983Z",
+      "dagger": 0,
+      "description": "A song that helps children remember the names of the 50 states of America. (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217228560",
+      "publisher": "Random House",
+      "rank": 4,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "SING THE 50 UNITED STATES!",
+      "updated_date": "2026-06-10T17:37:53.983Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217228560"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217228560?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217228560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsing-the-50-united-states-dr-seuss%2F1148595673%3Fean%3D9798217228560&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSing-United-States%2FDr-Seuss%2F9798217228560"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217228560"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1728266181?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Walstead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728266183.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9bf98777-bcc2-5425-a42c-80d84aeb6a9f",
+      "contributor": "by Alice Walstead. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-06-24T16:49:38.062Z",
+      "dagger": 0,
+      "description": "The Catch Club Kids attempt to snare the Daddysaurus, known for his acts of kindness and bravery. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728266183",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A DADDYSAURUS",
+      "updated_date": "2026-06-24T16:49:38.062Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728266183"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728266181?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728266183?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728266183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-daddysaurus-alice-walstead%2F1141663369%3Fean%3D9781728266183&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BDADDYSAURUS%2FAlice%2BWalstead.%2F9781728266183"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728266183"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0310184223?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ainsley Earhardt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780310184225.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f030701a-92b7-5bac-b5e4-cfdb53422656",
+      "contributor": "by Ainsley Earhardt. Illustrated by Kim Barnes",
+      "contributor_note": "Illustrated by Kim Barnes",
+      "created_date": "2026-06-10T17:37:54.16Z",
+      "dagger": 0,
+      "description": "A celebration of America’s birthday. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780310184225",
+      "publisher": "Zonderkidz",
+      "rank": 6,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "AMERICA, I'M SO GLAD YOU WERE BORN",
+      "updated_date": "2026-06-10T17:37:54.16Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780310184225"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0310184223?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780310184225?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780310184225&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Famerica-im-so-glad-you-were-born-ainsley-earhardt%2F1148743491%3Fean%3D9780310184225&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmerica-Im-So-Glad-Were%2FAinsley-Earhardt%2F9780310184225"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780310184225"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/0593518969?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rob Biddulph",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217445820.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1eed78e8-b536-5db5-812a-2230f49462d3",
+      "contributor": "by Rob Biddulph",
+      "contributor_note": "",
+      "created_date": "2026-06-17T02:00:11.756Z",
+      "dagger": 0,
+      "description": "A minuscule blue whale shows bravery despite his size. (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217445820",
+      "publisher": "Doubleday",
+      "rank": 7,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "GIGANTIC",
+      "updated_date": "2026-06-17T02:00:11.756Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217445820"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593518969?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593518960?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217445820&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgigantic-rob-biddulph%2F1147835541%3Fean%3D9798217445820&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/Gigantic/Rob-Biddulph/9780593518960"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593518960"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0593709403?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Suzanne Lang",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593709405.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/286973af-7423-5a94-b951-b8ee79485a2e",
+      "contributor": "by Suzanne Lang. Illustrated by Max Lang",
+      "contributor_note": "Illustrated by Max Lang",
+      "created_date": "2026-06-03T18:21:55.02Z",
+      "dagger": 0,
+      "description": "Jim, Chip and Grandpanzee celebrate Father’s Day differently. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593709405",
+      "publisher": "Random House Studio",
+      "rank": 8,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "GRUMPY MONKEY FATHER'S DAY FUSS",
+      "updated_date": "2026-06-03T18:21:55.02Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593709405"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593709403?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593709405?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593709405&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrumpy-monkey-fathers-day-fuss-suzanne-lang%2F1147750314%3Fean%3D9780593709405&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrumpy-Monkey-Fathers-Day-Fuss%2FSuzanne-Lang%2F9780593709405"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593709405"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 2 to 5",
+      "amazon_product_url": "https://www.amazon.com/dp/0593523164?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eric Carle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593523162.jpg",
+      "book_image_height": 500,
+      "book_image_width": 412,
+      "book_review_link": "",
+      "book_uri": "nyt://book/dffd8daf-a5a4-50ec-b249-80cb6fc6b6a2",
+      "contributor": "by Eric Carle",
+      "contributor_note": "",
+      "created_date": "2026-06-24T16:49:38.233Z",
+      "dagger": 0,
+      "description": "The caterpillar shows love to granddad. (Ages 2 to 5)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593523162",
+      "publisher": "World of Eric Carle",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "I LOVE GRANDPA WITH THE VERY HUNGRY CATERPILLAR",
+      "updated_date": "2026-06-24T16:49:38.233Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593523162"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593523164?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593523162?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593523162&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-love-grandpa-with-the-very-hungry-caterpillar-eric-carle%2F1141658743%3Fean%3D9780593523162&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BLOVE%2BGRANDPA%2BWITH%2BTHE%2BVERY%2BHUNGRY%2BCATERPILLAR%2FEric%2BCarle%2F9780593523162"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593523162"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 2 to 5",
+      "amazon_product_url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Luna Chi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736446280.jpg",
+      "book_image_height": 500,
+      "book_image_width": 414,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0c7c39c8-d758-5d7e-a8fe-9fa1db0a6f10",
+      "contributor": "by Luna Chi. Illustrated by Mario Oscar Gabriele",
+      "contributor_note": "Illustrated by Mario Oscar Gabriele",
+      "created_date": "2026-06-17T17:38:15.832Z",
+      "dagger": 0,
+      "description": "It's toys versus tech in this adaptation of the latest \"Toy Story\" film. (Ages 2 to 5)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780736446280",
+      "publisher": "Golden/Disney",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "DISNEY AND PIXAR TOY STORY 5",
+      "updated_date": "2026-06-17T17:38:15.832Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780736446280"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780736446280?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736446280&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdisney-and-pixar-toy-story-5-little-golden-book-golden-books%2F1148300189%3Fean%3D9780736446280&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDisney-Pixar-Toy-Story-Little%2FGolden-Books%2F9780736446280"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780736446280"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

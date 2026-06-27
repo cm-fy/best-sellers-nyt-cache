@@ -1,0 +1,572 @@
+{
+  "display_name": "Advice, How-To & Miscellaneous",
+  "list_name": "Advice, How-To & Miscellaneous",
+  "list_name_encoded": "advice-how-to-and-miscellaneous",
+  "normal_list_ends_at": 10,
+  "updated": "WEEKLY",
+  "list_id": 24,
+  "uri": "nyt://bestsellerslist/563f5f49-2ffa-50f8-a856-638b955867a1",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mel Robbins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+      "contributor": "by Mel Robbins",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.513Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781401971366",
+      "publisher": "Hay House",
+      "rank": 1,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THE LET THEM THEORY",
+      "updated_date": "2026-03-04T23:40:19.513Z",
+      "weeks_on_list": 78,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781401971366"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781401971366"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Clear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+      "contributor": "by James Clear",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.644Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780735211292",
+      "publisher": "Avery",
+      "rank": 2,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "ATOMIC HABITS",
+      "updated_date": "2026-03-04T23:40:19.644Z",
+      "weeks_on_list": 343,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780735211292"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780735211292"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1523524332?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Glenn Boozan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781523524334.jpg",
+      "book_image_height": 500,
+      "book_image_width": 379,
+      "book_review_link": "",
+      "book_uri": "nyt://book/06696137-4fe3-57c6-926b-8ff9feb09d2c",
+      "contributor": "by Glenn Boozan. Illustrated by Priscilla Witte",
+      "contributor_note": "Illustrated by Priscilla Witte",
+      "created_date": "2026-06-10T17:37:56.735Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781523524334",
+      "publisher": "Workman",
+      "rank": 3,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "THERE ARE DADS WAY WORSE THAN YOU",
+      "updated_date": "2026-06-10T17:37:56.735Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781523524334"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1523524332?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781523524334?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781523524334&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthere-are-dads-way-worse-than-you-glenn-boozan%2F1143886152%3Fean%3D9781523524334&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHERE%2BARE%2BDADS%2BWAY%2BWORSE%2BTHAN%2BYOU%2FGlenn%2BBoozan.%2F9781523524334"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781523524334"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "William H. McRaven",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
+      "contributor": "by William H. McRaven",
+      "contributor_note": "",
+      "created_date": "2026-05-27T21:16:16.066Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781455570249",
+      "publisher": "Grand Central",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAKE YOUR BED",
+      "updated_date": "2026-05-27T21:16:16.066Z",
+      "weeks_on_list": 150,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781455570249"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781455570249"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "John Bevere",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
+      "contributor": "by John Bevere",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:17.164Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781400349678",
+      "publisher": "Thomas Nelson",
+      "rank": 5,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE KING IS COMING",
+      "updated_date": "2026-06-17T17:38:17.164Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781400349678"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781400349678"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Will Guidara",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593418574.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bc1ec950-e54a-57a5-a404-c9007374b508",
+      "contributor": "by Will Guidara",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.771Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593418574",
+      "publisher": "Optimism",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "UNREASONABLE HOSPITALITY",
+      "updated_date": "2026-03-04T23:40:19.771Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593418574"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593418574?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593418574&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funreasonable-hospitality-will-guidara%2F1140825098%3Fean%3D9780593418574&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNREASONABLE%2BHOSPITALITY%2FWill%2BGuidara%2F9780593418574"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593418574"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gabe Poirot",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
+      "contributor": "by Gabe Poirot",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:07.722Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781667512549",
+      "publisher": "Harrison House",
+      "rank": 7,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "18 DAYS IN HEAVEN",
+      "updated_date": "2026-04-15T21:36:07.722Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781667512549"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781667512549"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Joseph Nguyen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310153.jpg",
+      "book_image_height": 500,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
+      "contributor": "by Joseph Nguyen",
+      "contributor_note": "",
+      "created_date": "2026-06-24T18:31:19.291Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798893310153",
+      "publisher": "Authors Equity",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
+      "updated_date": "2026-06-24T18:31:19.291Z",
+      "weeks_on_list": 59,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798893310153"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798893310153?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310153&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-believe-everything-you-think-joseph-nguyen%2F1141623542%3Fean%3D9798893310153&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Believe-Everything-Think-Expanded%2FJoseph-Nguyen%2F9798893310153"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798893310153"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jen Hamilton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538771471.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3ac41b1d-ffb0-5db3-91fc-a8c2949db9b8",
+      "contributor": "by Jen Hamilton",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:21.928Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538771471",
+      "publisher": "Grand Central",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIRTH VIBES",
+      "updated_date": "2026-05-13T17:27:21.928Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538771471"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538771471?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538771471&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbirth-vibes-jen-hamilton%2F1148495495%3Fean%3D9781538771471&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBirth-Vibes%2FJen-Hamilton%2F9781538771471"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538771471"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mark Manson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062457714.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/61980bbe-79bd-5824-9412-31c5f07762fd",
+      "contributor": "by Mark Manson",
+      "contributor_note": "",
+      "created_date": "2026-06-24T17:09:01.509Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062457714",
+      "publisher": "Harper",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
+      "updated_date": "2026-06-24T17:09:01.509Z",
+      "weeks_on_list": 328,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062457714"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062457714?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062457714&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-subtle-art-of-not-giving-a-f-ck-mark-manson%2F1123517507%3Fean%3D9780062457714&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSUBTLE%2BART%2BOF%2BNOT%2BGIVING%2BA%2BF%252ACK%2FMark%2BManson%2F9780062457714"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062457714"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,852 @@
+{
+  "display_name": "Paperback Trade Fiction",
+  "list_name": "Paperback Trade Fiction",
+  "list_name_encoded": "trade-fiction-paperback",
+  "normal_list_ends_at": 15,
+  "updated": "WEEKLY",
+  "list_id": 17,
+  "uri": "nyt://bestsellerslist/a32b36a5-1c5d-5c09-a8be-8055c22233ec",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Allen Levi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3e1f4c8-34a3-54a3-8305-277666e21b4b",
+      "contributor": "by Allen Levi",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:20.88Z",
+      "dagger": 0,
+      "description": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668236512",
+      "publisher": "Atria",
+      "rank": 1,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THEO OF GOLDEN",
+      "updated_date": "2026-03-04T23:40:20.88Z",
+      "weeks_on_list": 30,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668236512"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668236512?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668236512&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftheo-of-golden-allen-levi%2F1143923011%3Fean%3D9781668236512&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTheo-Golden%2FAllen-Levi%2F9781668236512"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668236512"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
+      "contributor_note": "",
+      "created_date": "2026-05-20T22:02:25.385Z",
+      "dagger": 0,
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 2,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 52,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593135228"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593135228"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:35.241Z",
+      "dagger": 0,
+      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293934",
+      "publisher": "Bloom",
+      "rank": 3,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE DEAL",
+      "updated_date": "2026-05-20T18:34:35.241Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293934"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293934"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:55:48.983Z",
+      "dagger": 0,
+      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249631",
+      "publisher": "Poisoned Pen",
+      "rank": 4,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE DIVORCE",
+      "updated_date": "2026-06-03T18:55:48.983Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249631"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249631"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:21.805Z",
+      "dagger": 0,
+      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593820254",
+      "publisher": "Ace",
+      "rank": 5,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "DUNGEON CRAWLER CARL",
+      "updated_date": "2026-03-04T23:40:21.805Z",
+      "weeks_on_list": 25,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593820254"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593820254?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820254&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820254&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593820254"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293941.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/156df172-6f7d-5be8-8a1e-6641087631f9",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-27T18:33:48.866Z",
+      "dagger": 0,
+      "description": "The second book in the Off-Campus series. A college hockey player attempts to redeem himself to a rising sophomore.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293941",
+      "publisher": "Bloom",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE MISTAKE",
+      "updated_date": "2026-05-27T18:33:48.866Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293941"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293941?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mistake-elle-kennedy%2F1114716266%3Fean%3D9781775293941&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMistake%2FElle-Kennedy%2F9781775293941"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293941"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593952758?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ashley Poston",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593952757.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ab74ea44-27f0-52ef-8501-96510e91d9b9",
+      "contributor": "by Ashley Poston",
+      "contributor_note": "",
+      "created_date": "2026-06-24T16:49:39.505Z",
+      "dagger": 0,
+      "description": "Sophie Drear is hired to revitalize a manor in coastal Maine and discovers a secret garden where a mysterious figure dwells.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593952757",
+      "publisher": "Berkley",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SOMEDAY GARDEN",
+      "updated_date": "2026-06-24T16:49:39.505Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593952757"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593952758?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593952757?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593952757&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-someday-garden-ashley-poston%2F1148361621%3Fean%3D9780593952757&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSomeday-Garden%2FAshley-Poston%2F9780593952757"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593952757"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-27T18:33:49.019Z",
+      "dagger": 0,
+      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293958",
+      "publisher": "Bloom",
+      "rank": 8,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE SCORE",
+      "updated_date": "2026-05-27T18:33:49.019Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293958"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293958"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shelby Van Pelt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
+      "contributor": "by Shelby Van Pelt",
+      "contributor_note": "",
+      "created_date": "2026-05-20T22:38:49.21Z",
+      "dagger": 0,
+      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063204164",
+      "publisher": "Ecco",
+      "rank": 9,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "REMARKABLY BRIGHT CREATURES",
+      "updated_date": "2026-05-20T22:38:49.21Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063204164"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063204164"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593438531?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Carley Fortune",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593438534.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0cddff04-5dc7-547d-94d0-481dd4deb0d3",
+      "contributor": "by Carley Fortune",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:34.112Z",
+      "dagger": 0,
+      "description": "The love story of Percy and Sam is told over the course of six summers and one weekend.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593438534",
+      "publisher": "Berkley",
+      "rank": 10,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "EVERY SUMMER AFTER",
+      "updated_date": "2026-05-20T18:34:34.112Z",
+      "weeks_on_list": 22,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593438534"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593438531?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593438534?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593438534&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fevery-summer-after-carley-fortune%2F1139996467%3Fean%3D9780593438534&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVERY%2BSUMMER%2BAFTER%2FCarley%2BFortune%2F9780593438534"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593438534"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Carley Fortune",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593638910.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/de287fb4-bfd9-51ea-b8f4-885865aa16ed",
+      "contributor": "by Carley Fortune",
+      "contributor_note": "",
+      "created_date": "2026-06-10T17:37:55.828Z",
+      "dagger": 0,
+      "description": "A photographer returns to a place where she spent a summer as a teenager and runs into the guy she had a crush on back then.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593638910",
+      "publisher": "Berkley",
+      "rank": 11,
+      "rank_last_week": 13,
+      "sunday_review_link": "",
+      "title": "ONE GOLDEN SUMMER",
+      "updated_date": "2026-06-10T17:37:55.828Z",
+      "weeks_on_list": 20,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593638910"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593638910?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593638910&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-golden-summer-carley-fortune%2F1146137717%3Fean%3D9780593638910&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BGOLDEN%2BSUMMER%2FCarley%2BFortune%2F9780593638910"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593638910"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Taylor Jenkins Reid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
+      "book_image_height": 500,
+      "book_image_width": 368,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
+      "contributor": "by Taylor Jenkins Reid",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:16.612Z",
+      "dagger": 0,
+      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593158739",
+      "publisher": "Ballantine",
+      "rank": 12,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "ATMOSPHERE",
+      "updated_date": "2026-06-17T17:38:16.612Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593158739"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593158739"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293965.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f9b0290b-f9a4-5610-aa38-e826b89988cc",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-27T18:33:47.842Z",
+      "dagger": 0,
+      "description": "The fourth book in the Off-Campus series. Pregnancy complicates things between a college senior and a hockey player.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293965",
+      "publisher": "Bloom",
+      "rank": 13,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE GOAL",
+      "updated_date": "2026-05-27T18:33:47.842Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293965"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293965?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-goal-elle-kennedy%2F1124458795%3Fean%3D9781775293965&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoal%2FElle-Kennedy%2F9781775293965"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293965"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Annabel Monaghan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593853979.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a4c2a7c9-004a-5a79-b161-fba14b8ecd82",
+      "contributor": "by Annabel Monaghan",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:57.106Z",
+      "dagger": 0,
+      "description": "When Dolly agrees to help Stewart after his public breakup, things might evolve into something more.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593853979",
+      "publisher": "Putnam",
+      "rank": 14,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "DOLLY ALL THE TIME",
+      "updated_date": "2026-06-03T18:21:57.106Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593853979"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593853979?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593853979&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-all-the-time-annabel-monaghan%2F1148118343%3Fean%3D9780593853979&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-All-Time%2FAnnabel-Monaghan%2F9798217349197"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593853979"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464246750?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Meghan Quinn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246753.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7471b3df-3a28-50c9-93f5-0c3583576b5e",
+      "contributor": "by Meghan Quinn",
+      "contributor_note": "",
+      "created_date": "2026-05-27T21:18:42.416Z",
+      "dagger": 0,
+      "description": "Renley Gossage, who bought a failing candy shop, and Theo Williams, who got engaged on a drunken dare, spend the summer in close proximity.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464246753",
+      "publisher": "Bloom",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RULES FOR THE SUMMER",
+      "updated_date": "2026-05-27T21:18:42.416Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464246753"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464246750?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464246753?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246753&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frules-for-the-summer-meghan-quinn%2F1149140924%3Fean%3D9781464246753&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRules-Summer-Standard%2FMeghan-Quinn%2F9781464246753"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464246753"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,572 @@
+{
+  "display_name": "Audio Advice, How-To & Misc",
+  "list_name": "Audio Advice, How-To & Misc",
+  "list_name_encoded": "audio-advice-how-to-and-miscellaneous",
+  "normal_list_ends_at": 10,
+  "updated": "MONTHLY",
+  "list_id": 304,
+  "uri": "nyt://bestsellerslist/6e0edf01-08a3-5583-9667-9c49a2e0e524",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mel Robbins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798350429084.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/04808006-247f-5918-b0bf-3b502287dcb0",
+      "contributor": "by Mel Robbins",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:58.685Z",
+      "dagger": 0,
+      "description": "Read by the author. 10 hours, 38 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798350429084",
+      "publisher": "Audible Studios",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LET THEM THEORY",
+      "updated_date": "2026-06-10T20:13:58.685Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798350429084"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971373&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971373&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLet-Them-Theory%2FMel-Robbins%2F9781401971366"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781401971366"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0735211299?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Clear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781524779269.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f10133f4-bb63-5625-a349-7138bed61594",
+      "contributor": "by James Clear",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:58.945Z",
+      "dagger": 0,
+      "description": "Read by the author. 5 hours, 35 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781524779269",
+      "publisher": "Penguin Audio",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ATOMIC HABITS",
+      "updated_date": "2026-06-10T20:13:58.945Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781524779269"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0735211299?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781524779269?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211308&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211308&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtomic-Habits%2FJames-Clear%2F9780735211292"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780735211292"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jen Hamilton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668656440.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/005d4b1e-d359-5805-9971-a19869734f74",
+      "contributor": "by Jen Hamilton",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:59.163Z",
+      "dagger": 0,
+      "description": "Read by the author. 11 hours, 15 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668656440",
+      "publisher": "Hachette Audio",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIRTH VIBES",
+      "updated_date": "2026-06-10T20:13:59.163Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668656440"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668656440?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538771495&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbirth-vibes-jen-hamilton%2F1148495495%3Fean%3D9781538771495&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBirth-Vibes%2FJen-Hamilton%2F9781538771471"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538771471"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0140280197?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Robert Greene",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781622318643.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cb26385c-1c4e-5750-9e7f-0826c7819439",
+      "contributor": "by Robert Greene",
+      "contributor_note": "",
+      "created_date": "2026-06-03T19:42:37.869Z",
+      "dagger": 0,
+      "description": "Read by Richard Poe. 23 hours, 6 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781622318643",
+      "publisher": "HighBridge",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE 48 LAWS OF POWER",
+      "updated_date": "2026-06-03T19:42:37.869Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781622318643"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0140280197?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781622318643?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101042458&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-48-laws-of-power-robert-greene%2F1116705941%3Fean%3D9781101042458&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%252048%2520LAWS%2520OF%2520POWER%2520by%2520Robert%2520Greene"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781101042458"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1949759229?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brianna Wiest",
+      "book_image": "https://static01.nyt.com/bestsellers/images/DBKACX0303323.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/43008457-7db0-51c7-b791-b100e6125777",
+      "contributor": "by Brianna Wiest",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:59.346Z",
+      "dagger": 0,
+      "description": "Read by Stacey Glemboski. 5 hours, 44 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "DBKACX0303323",
+      "publisher": "Thought Catalog",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE MOUNTAIN IS YOU",
+      "updated_date": "2026-06-10T20:13:59.346Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "DBKACX0303323"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1949759229?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781662206610?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=A00B089DQRDSV"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520MOUNTAIN%2520IS%2520YOU%2520by%2520Brianna%2520Wiest"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781949759945"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chris Voss with Tahl Raz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062471253.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/48d3065b-68d2-561a-b6ab-679299078f7e",
+      "contributor": "by Chris Voss with Tahl Raz",
+      "contributor_note": "",
+      "created_date": "2026-05-29T16:46:47.881Z",
+      "dagger": 0,
+      "description": "Read by Michael Kramer. 8 hours, 7 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062471253",
+      "publisher": "Harper Business",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NEVER SPLIT THE DIFFERENCE",
+      "updated_date": "2026-05-29T16:46:47.881Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062471253"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062471253?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062407818&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-split-the-difference-chris-voss%2F1122714695%3Fean%3D9780062407818&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DNEVER%2520SPLIT%2520THE%2520DIFFERENCE%2520by%2520Chris%2520Voss%2520with%2520Tahl%2520Raz"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062407818"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mark Manson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062562982.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d77a3f49-23f6-50d2-afb8-9d049d189a0f",
+      "contributor": "by Mark Manson",
+      "contributor_note": "",
+      "created_date": "2026-06-03T19:45:12.068Z",
+      "dagger": 0,
+      "description": "Read by Roger Wayne. 5 hours, 17 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062562982",
+      "publisher": "Harper",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
+      "updated_date": "2026-06-03T19:45:12.068Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062562982"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062562982?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062457738&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-subtle-art-of-not-giving-a-f-ck-mark-manson%2F1123517507%3Fean%3D9780062457738&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520SUBTLE%2520ART%2520OF%2520NOT%2520GIVING%2520A%2520F*CK%2520by%2520Mark%2520Manson"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062457738"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Joseph Nguyen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781797187266.jpg",
+      "book_image_height": 500,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a8ae8c69-7cb0-533a-b7eb-72160a175f94",
+      "contributor": "by Joseph Nguyen",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:59.495Z",
+      "dagger": 0,
+      "description": "Read by the author. 2 hours, 36 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781797187266",
+      "publisher": "Simon & Schuster Audio",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DON'T BELIEVE EVERYTHING YOU THINK",
+      "updated_date": "2026-06-10T20:13:59.495Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781797187266"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781797187266?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798986406510&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-believe-everything-you-think-joseph-nguyen%2F1141623542%3Fean%3D9798986406510&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Believe-Everything-Think-Expanded%2FJoseph-Nguyen%2F9798893310153"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798893310153"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0764243667?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeremiah J. Johnston",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781545932223.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/313e236b-c1a9-539b-8643-0faee13f0614",
+      "contributor": "by Jeremiah J. Johnston",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:59.691Z",
+      "dagger": 0,
+      "description": "Read by Mike Lenz. 5 hours, 6 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781545932223",
+      "publisher": "Christian Audio",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE JESUS DISCOVERIES",
+      "updated_date": "2026-06-10T20:13:59.691Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781545932223"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0764243667?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781545932223?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9781545932223"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520JESUS%2520DISCOVERIES%2520by%2520Jeremiah%2520J.%2520Johnston"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781545932223"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1878424319?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Don Miguel Ruiz with Janet Mills",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217170050.jpg",
+      "book_image_height": 500,
+      "book_image_width": 345,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1a3a85c9-21b1-5bf2-b93e-083dd0483961",
+      "contributor": "by Don Miguel Ruiz with Janet Mills",
+      "contributor_note": "",
+      "created_date": "2026-06-10T20:13:59.859Z",
+      "dagger": 0,
+      "description": "Read by Peter Coyote. 2 hours, 32 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217170050",
+      "publisher": "Penguin Audio",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE FOUR AGREEMENTS",
+      "updated_date": "2026-06-10T20:13:59.859Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217170050"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1878424319?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217170050?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781934408018&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-four-agreements-don-miguel-ruiz%2F1100993587%3Fean%3D9781934408018&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFour-Agreements%2FDon-Miguel-Ruiz%2F9781878424310"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781934408650"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,552 @@
+{
+  "display_name": "Middle Grade Paperback",
+  "list_name": "Middle Grade Paperback",
+  "list_name_encoded": "middle-grade-paperback-monthly",
+  "normal_list_ends_at": 10,
+  "updated": "MONTHLY",
+  "list_id": 10015,
+  "uri": "nyt://bestsellerslist/48bb3be2-9c04-58c9-9e78-b36c49d531c0",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250423422?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250423429.jpg",
+      "book_image_height": 500,
+      "book_image_width": 347,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6df1db11-27a6-5b23-a247-ec668a25ea53",
+      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
+      "contributor_note": "Illustrated by Charles Santoso",
+      "created_date": "2026-05-06T17:41:05.452Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250423429",
+      "publisher": "Square Fish",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ODDER",
+      "updated_date": "2026-05-06T17:41:05.452Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250423429"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250423422?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250423429?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250423429&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fodder-katherine-applegate%2F1146314543%3Fean%3D9781250423429&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOdder%2FKatherine-Applegate%2F9781250423429"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250423429"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jonathan Haidt and Catherine Price",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217111916.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0972e753-99a1-5e9b-adc0-087cafe67b77",
+      "contributor": "by Jonathan Haidt and Catherine Price. Illustrated by Cynthia Yuan Cheng",
+      "contributor_note": "Illustrated by Cynthia Yuan Cheng",
+      "created_date": "2026-06-03T18:35:44.051Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217111916",
+      "publisher": "Rocky Pond",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE AMAZING GENERATION",
+      "updated_date": "2026-06-03T18:35:44.051Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217111916"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217111916?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217111916&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-amazing-generation-jonathan-haidt%2F1147543016%3Fean%3D9798217111916&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmazing-Generation-How-Choose-Fun%2FJonathan-Haidt%2F9798217111916"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217111916"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Restart-Gordon-Korman/dp/1338053809?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gordon Korman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338053807.jpg",
+      "book_image_height": 480,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/33e0a0a4-8158-58ef-9e88-1c49b4167580",
+      "contributor": "by Gordon Korman",
+      "contributor_note": "",
+      "created_date": "2026-04-01T17:34:07.278Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338053807",
+      "publisher": "Scholastic",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RESTART",
+      "updated_date": "2026-04-01T17:34:07.278Z",
+      "weeks_on_list": 65,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338053807"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Restart-Gordon-Korman/dp/1338053809?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338053807?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338053807&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frestart-gordon-korman%2F1125014973%3Fean%3D9781338053807&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRESTART%2FGordon%2BKorman%2F9781338053807"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338053807"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0547577311?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Linda Sue Park",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780547577319.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/72728168-095d-521b-90d2-2380bdc74220",
+      "contributor": "by Linda Sue Park",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:44.22Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780547577319",
+      "publisher": "Clarion",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A LONG WALK TO WATER",
+      "updated_date": "2026-06-03T18:35:44.22Z",
+      "weeks_on_list": 79,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780547577319"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0547577311?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780547577319?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780547577319&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-long-walk-to-water-linda-sue-park%2F1100179784%3Fean%3D9780547577319&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLong-Walk-Water%2FLinda-Sue-Park%2F9780547577319"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780547577319"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593889452?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Goldie Hawn and Lin Oliver",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593889459.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1f0972a8-717b-59bc-bcea-ed36722339bb",
+      "contributor": "by Goldie Hawn and Lin Oliver. Illustrated by Breanna Chambers",
+      "contributor_note": "Illustrated by Breanna Chambers",
+      "created_date": "2026-06-03T20:13:41.84Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593889459",
+      "publisher": "Penguin Workshop",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE AFTER-SCHOOL KINDNESS CREW: POOCH ON THE LOOSE",
+      "updated_date": "2026-06-03T20:13:41.84Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593889459"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593889452?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593889459?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/the-after-school-kindness-crew-goldie-hawn/1148704889?ean=9780593889459"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/After-School-Kindness-Crew/Goldie-Hawn/9780593889459"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/p/books/the-after-school-kindness-crew-pooch-on-the-loose-1-goldie-hawn/abc5f1ccc93c8fd6?ean=9780593889459&next=t&next=t&affiliate=3546"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1635864348?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Catherine Newman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635864342.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b5008f85-4fe9-534f-9b0e-42cf97c15114",
+      "contributor": "by Catherine Newman. Illustrated by Debbie Fong",
+      "contributor_note": "Illustrated by Debbie Fong",
+      "created_date": "2026-03-05T19:00:37.752Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781635864342",
+      "publisher": "Storey",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WHAT CAN I SAY?",
+      "updated_date": "2026-03-05T19:00:37.752Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781635864342"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1635864348?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781635864342?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635864342&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhat-can-i-say-catherine-newman%2F1140361402%3Fean%3D9781635864342&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHAT%2BCAN%2BI%2BSAY%3F%2FCatherine%2BNewman%2F9781635864342"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781635864342"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynda Mullaly Hunt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bcd9be95-b252-588a-a9a8-f2aef2f3be6a",
+      "contributor": "by Lynda Mullaly Hunt",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:56.022Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780142426425",
+      "publisher": "Nancy Paulsen",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FISH IN A TREE",
+      "updated_date": "2026-06-03T18:21:56.022Z",
+      "weeks_on_list": 37,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780142426425"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780142426425?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142426425&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffish-in-a-tree-lynda-mullaly-hunt%2F1120198328%3Fean%3D9780142426425&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFISH%2BIN%2BA%2BTREE%2FLynda%2BMullaly%2BHunt%2F9780142426425"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780142426425"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316601853?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kit Brooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316601856.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/692ce976-9fd3-55d6-ae3d-b67e0d40ef39",
+      "contributor": "by Kit Brooks. Illustrated by Brandon Dorman",
+      "contributor_note": "Illustrated by Brandon Dorman",
+      "created_date": "2026-06-03T20:17:36.307Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316601856",
+      "publisher": "Christy Ottaviano",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LAST IMMORTALS: DAWN OF THE AXOLOTL",
+      "updated_date": "2026-06-03T20:17:36.307Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316601856"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316601853?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316601856?at=10lIEQ"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316601856"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063449536?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erin Hunter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063449534.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/087dba0f-86e7-5778-8915-287f9a488716",
+      "contributor": "by Erin Hunter",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:56.351Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063449534",
+      "publisher": "HarperCollins",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RENEGADES: THE MAGIC AWAKENS",
+      "updated_date": "2026-06-03T18:21:56.351Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063449534"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063449536?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063449534?at=10lIEQ"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593809890?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Rundell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593809891.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d90869d4-eef4-525e-8b03-bd09ab59c3c3",
+      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
+      "contributor_note": "Illustrated by Ashley Mackenzie",
+      "created_date": "2026-03-05T18:48:56.39Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593809891",
+      "publisher": "Yearling",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IMPOSSIBLE CREATURES",
+      "updated_date": "2026-03-05T18:48:56.39Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593809891"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593809890?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593809891?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593809891&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fimpossible-creatures-katherine-rundell%2F1143746993%3Fean%3D9780593809891&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIMPOSSIBLE%2BCREATURES%2FKatherine%2BRundell%2F9780593809891"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593809891"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,572 @@
+{
+  "display_name": "Business",
+  "list_name": "Business",
+  "list_name_encoded": "business-books",
+  "normal_list_ends_at": 10,
+  "updated": "MONTHLY",
+  "list_id": 532,
+  "uri": "nyt://bestsellerslist/9690453f-1539-59f0-bdb1-6ab50a8c561a",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mel Robbins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+      "contributor": "by Mel Robbins",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.513Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781401971366",
+      "publisher": "Hay House",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LET THEM THEORY",
+      "updated_date": "2026-03-04T23:40:19.513Z",
+      "weeks_on_list": 18,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781401971366"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781401971366"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Clear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+      "contributor": "by James Clear",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.644Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780735211292",
+      "publisher": "Avery",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ATOMIC HABITS",
+      "updated_date": "2026-03-04T23:40:19.644Z",
+      "weeks_on_list": 92,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780735211292"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780735211292"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Will Guidara",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593418574.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bc1ec950-e54a-57a5-a404-c9007374b508",
+      "contributor": "by Will Guidara",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.771Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593418574",
+      "publisher": "Optimism",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "UNREASONABLE HOSPITALITY",
+      "updated_date": "2026-03-04T23:40:19.771Z",
+      "weeks_on_list": 24,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593418574"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593418574?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593418574&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funreasonable-hospitality-will-guidara%2F1140825098%3Fean%3D9780593418574&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNREASONABLE%2BHOSPITALITY%2FWill%2BGuidara%2F9780593418574"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593418574"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668085488?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emma Grede",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668085486.jpg",
+      "book_image_height": 500,
+      "book_image_width": 338,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2343854b-c348-52bd-958a-badd2794dcf4",
+      "contributor": "by Emma Grede",
+      "contributor_note": "",
+      "created_date": "2026-04-22T17:21:11.93Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668085486",
+      "publisher": "Avid Reader",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "START WITH YOURSELF",
+      "updated_date": "2026-04-22T17:21:11.93Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668085486"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668085488?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668085486?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668085486&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstart-with-yourself-emma-grede%2F1148547712%3Fean%3D9781668085486&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStart-Yourself%2FEmma-Grede%2F9781668085486"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668085486"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593832833?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Theo Baker",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593832837.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9659ab0b-21cf-563d-842e-5e7db892860a",
+      "contributor": "by Theo Baker",
+      "contributor_note": "",
+      "created_date": "2026-05-27T22:36:38.115Z",
+      "dagger": 0,
+      "description": "The Stanford University student chronicles his investigation that helped end the tenure of Marc Tessier-Lavigne as the school’s president.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593832837",
+      "publisher": "Penguin Press",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO RULE THE WORLD",
+      "updated_date": "2026-05-27T22:36:38.115Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593832837"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593832833?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593832844?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593832837&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-rule-the-world-theo-baker%2F1148911913%3Fean%3D9780593832837&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Rule-World%2FTheo-Baker%2F9780593832837"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593832837"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593715713?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Epstein",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593715710.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e2a48475-df44-5925-bb2d-5ff7479dd7b1",
+      "contributor": "by David Epstein",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:22:00.619Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593715710",
+      "publisher": "Riverhead",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "INSIDE THE BOX",
+      "updated_date": "2026-06-03T18:22:00.619Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593715710"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593715713?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593715710?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593715710&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finside-the-box-david-epstein%2F1148074547%3Fean%3D9780593715710&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInside-Box%2FDavid-Epstein%2F9780593715710"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593715710"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jocko Willink and Leif Babin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250183866.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b0cec2f9-300f-5850-8c43-8a67152a96a5",
+      "contributor": "by Jocko Willink and Leif Babin",
+      "contributor_note": "",
+      "created_date": "2026-06-03T19:51:54.564Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250183866",
+      "publisher": "St. Martin's",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "EXTREME OWNERSHIP",
+      "updated_date": "2026-06-03T19:51:54.564Z",
+      "weeks_on_list": 77,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250183866"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781427264305?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250183866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextreme-ownership-jocko-willink%2F1121081209%3Fean%3D9781250183866&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEXTREME%2BOWNERSHIP%2FJocko%2BWillink%2Band%2BLeif%2BBabin%2F9781427264305"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781427264305"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316609552?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jodi Kantor",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316609555.jpg",
+      "book_image_height": 500,
+      "book_image_width": 351,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b90b997b-9917-5cf1-9da3-0f37af979bc7",
+      "contributor": "by Jodi Kantor",
+      "contributor_note": "",
+      "created_date": "2026-04-29T16:56:32.846Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316609555",
+      "publisher": "Little, Brown",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO START",
+      "updated_date": "2026-04-29T16:56:32.846Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316609555"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316609552?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316609555?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316609555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-start-jodi-kantor%2F1148758911%3Fean%3D9780316609555&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Start%2FJodi-Kantor%2F9780316609555"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316609555"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "JL Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310474.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9cb07452-70f0-5f31-92a6-938e3af01632",
+      "contributor": "by JL Collins",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:22:00.748Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798893310474",
+      "publisher": "Authors Equity",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SIMPLE PATH TO WEALTH",
+      "updated_date": "2026-06-03T18:22:00.748Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798893310474"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798893310474?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310474&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-simple-path-to-wealth-j-l-collins%2F1123947856%3Fean%3D9798893310474&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSIMPLE%2BPATH%2BTO%2BWEALTH%2FJL%2BCollins%2F9798893310474"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798893310474"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Rubin with Neil Strauss",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593652886.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/da28ca16-1ebd-55aa-aba3-fde278604a82",
+      "contributor": "by Rick Rubin with Neil Strauss",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:20.231Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593652886",
+      "publisher": "Penguin Press",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE CREATIVE ACT",
+      "updated_date": "2026-03-04T23:40:20.231Z",
+      "weeks_on_list": 36,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593652886"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593652886?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593652886&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-creative-act-rick-rubin%2F1141404747%3Fean%3D9780593652886&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCREATIVE%2BACT%2FRick%2BRubin%2Bwith%2BNeil%2BStrauss%2F9780593652886"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593652886"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

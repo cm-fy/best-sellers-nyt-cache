@@ -1,0 +1,548 @@
+{
+  "display_name": "Young Adult Paperback",
+  "list_name": "Young Adult Paperback",
+  "list_name_encoded": "young-adult-paperback-monthly",
+  "normal_list_ends_at": 10,
+  "updated": "MONTHLY",
+  "list_id": 10016,
+  "uri": "nyt://bestsellerslist/1209f88f-a8b8-5408-80ed-ceb9cc57a515",
+  "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464219176?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "K.L. Walther",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464219177.jpg",
+      "book_image_height": 500,
+      "book_image_width": 393,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c9c2d4a-9239-590d-a77e-736f6538f7b4",
+      "contributor": "by K.L. Walther",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:56.489Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464219177",
+      "publisher": "Sourcebooks Fire",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SUMMER OF SECOND CHANCES",
+      "updated_date": "2026-06-03T18:21:56.489Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464219177"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464219176?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464219177?at=10lIEQ"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781534467637.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1bf449fc-40e6-556e-8e7a-f4dc8ea61c3a",
+      "contributor": "by Lynn Painter",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:09.053Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781534467637",
+      "publisher": "Simon & Schuster",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BETTER THAN THE MOVIES",
+      "updated_date": "2026-03-04T23:40:09.053Z",
+      "weeks_on_list": 43,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781534467637"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665990301?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781534467637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetter-than-the-movies-lynn-painter%2F1137941902%3Fean%3D9781534467637&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBetter-Than-Movies-Collectors%2FLynn-Painter%2F9781665990301"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665990301"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/If-He-Had-Been-Me-ebook/dp/B00APIVOIE?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Laura Nowlin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728205489.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/06b8daaf-e835-5d8a-b7fc-fc6ad002bef2",
+      "contributor": "by Laura Nowlin",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:08.762Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728205489",
+      "publisher": "Sourcebooks Fire",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IF HE HAD BEEN WITH ME",
+      "updated_date": "2026-03-04T23:40:08.762Z",
+      "weeks_on_list": 42,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728205489"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/If-He-Had-Been-Me-ebook/dp/B00APIVOIE?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728205489?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728205489&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-he-had-been-with-me-laura-nowlin%2F1112689781%3Fean%3D9781728205489&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIF%2BHE%2BHAD%2BBEEN%2BWITH%2BME%2FLaura%2BNowlin%2F9781728205489"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728205489"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593616960?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sabaa Tahir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593616963.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b7b131ee-ff0c-50a2-a07b-426f49adb1c7",
+      "contributor": "by Sabaa Tahir",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:56.636Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593616963",
+      "publisher": "Putnam",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HEIR",
+      "updated_date": "2026-06-03T18:21:56.636Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593616963"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593616960?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593616956?at=10lIEQ"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FH168T37?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah Beth Durst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217024308.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/30ce1b63-fd95-5292-9eb9-21850716f19f",
+      "contributor": "by Sarah Beth Durst",
+      "contributor_note": "",
+      "created_date": "2026-05-06T17:41:30.045Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217024308",
+      "publisher": "Delacorte",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE FARAWAY INN",
+      "updated_date": "2026-05-06T17:41:30.045Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217024308"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FH168T37?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217024308?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217024308&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-faraway-inn-sarah-beth-durst%2F1147793835%3Fean%3D9798217024308&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFaraway-Inn%2FSarah-Beth-Durst%2F9798217024308"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217024308"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Girl-Pieces-Kathleen-Glasgow/dp/1101934719?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kathleen Glasgow",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781101934746.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4c61a5f1-f0f8-5184-978c-c7056c96a644",
+      "contributor": "by Kathleen Glasgow",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:09.335Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781101934746",
+      "publisher": "Ember",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GIRL IN PIECES",
+      "updated_date": "2026-03-04T23:40:09.335Z",
+      "weeks_on_list": 54,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781101934746"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Girl-Pieces-Kathleen-Glasgow/dp/1101934719?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781101934746?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101934746&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgirl-in-pieces-kathleen-glasgow%2F1123197256%3Fean%3D9781101934746&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGIRL%2BIN%2BPIECES%2FKathleen%2BGlasgow%2F9781101934746"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781101934746"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665947144?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665947145.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ab0ac75e-ea60-5116-9d4f-afca94940f73",
+      "contributor": "by Lynn Painter",
+      "contributor_note": "",
+      "created_date": "2026-04-01T17:34:15.277Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665947145",
+      "publisher": "Simon & Schuster",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NOTHING LIKE THE MOVIES",
+      "updated_date": "2026-04-01T17:34:15.277Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665947145"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665947144?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665947145?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665947145&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnothing-like-the-movies-lynn-painter%2F1144786603%3Fean%3D9781665947145&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNOTHING%2BLIKE%2BTHE%2BMOVIES%2FLynn%2BPainter%2F9781665947145"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665947145"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Laura Nowlin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728276229.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/596bbc7d-3bb4-5aa5-955d-1a8a4a56369c",
+      "contributor": "by Laura Nowlin",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:09.204Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728276229",
+      "publisher": "Sourcebooks Fire",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IF ONLY I HAD TOLD HER",
+      "updated_date": "2026-03-04T23:40:09.204Z",
+      "weeks_on_list": 28,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728276229"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464254529?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728276229&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-only-i-had-told-her-laura-nowlin%2F1142811940%3Fean%3D9781728276229&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Only-Had-Told-Her%2FLaura-Nowlin%2F9781464254529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464254529"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Markus Zusak",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375842207.jpg",
+      "book_image_height": 495,
+      "book_image_width": 321,
+      "book_review_link": "https://www.nytimes.com/2006/03/27/books/27masl.html",
+      "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
+      "contributor": "by Markus Zusak",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:44.381Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375842207",
+      "publisher": "Knopf",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
+      "title": "THE BOOK THIEF",
+      "updated_date": "2026-06-03T18:35:44.381Z",
+      "weeks_on_list": 61,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375842207"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375842207?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780375842207"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BTHIEF%2FMarkus%2BZusak%2F9780375842207"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375842207"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593904796?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "K.L. Walther",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593904794.jpg",
+      "book_image_height": 500,
+      "book_image_width": 362,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9f29ff96-4f59-5aee-88d5-224bfe7bfad1",
+      "contributor": "by K.L. Walther",
+      "contributor_note": "",
+      "created_date": "2026-05-06T17:41:30.225Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593904794",
+      "publisher": "Delacorte Romance",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WE'RE A BAD IDEA, RIGHT?",
+      "updated_date": "2026-05-06T17:41:30.225Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593904794"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593904796?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593904794?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593904794&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwere-a-bad-idea-right-k-l-walther%2F1147562558%3Fean%3D9780593904794&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWere-Bad-Idea-Right%2FK-L-Walther%2F9780593904794"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593904794"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

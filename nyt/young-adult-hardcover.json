@@ -1,0 +1,572 @@
+{
+  "display_name": "Young Adult Hardcover",
+  "list_name": "Young Adult Hardcover",
+  "list_name_encoded": "young-adult-hardcover",
+  "normal_list_ends_at": 10,
+  "updated": "WEEKLY",
+  "list_id": 14,
+  "uri": "nyt://bestsellerslist/c22b1c9b-9f15-5e27-8d75-788b90a4b935",
+  "books": [
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921268.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/067f4986-d5a2-585d-be92-dfeedfa0482f",
+      "contributor": "by Lynn Painter",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:06.707Z",
+      "dagger": 0,
+      "description": "After years of separation, the childhood friends Alec and Dani reunite and face their true feelings toward each other. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665921268",
+      "publisher": "Simon & Schuster",
+      "rank": 1,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "FAKE SKATING",
+      "updated_date": "2026-03-04T23:40:06.707Z",
+      "weeks_on_list": 38,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665921268"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665921268?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921268&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffake-skating-lynn-painter%2F1146890400%3Fean%3D9781665921268&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFake-Skating%2FLynn-Painter%2F9781665921268"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665921268"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Marissa Meyer and Tamara Moss",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
+      "contributor": "by Marissa Meyer and Tamara Moss",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:06.768Z",
+      "dagger": 0,
+      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217006120",
+      "publisher": "Putnam",
+      "rank": 2,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE ESCAPE GAME",
+      "updated_date": "2026-04-15T21:36:06.768Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217006120"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217006120"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katie Abdou",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665984775.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01aa7486-741a-5d89-b3c3-6a9caf4ae7d8",
+      "contributor": "by Katie Abdou",
+      "contributor_note": "",
+      "created_date": "2026-06-24T16:49:38.741Z",
+      "dagger": 0,
+      "description": "In order to avoid an arranged marriage, Kit Davenport ends up aboard the Deliverance and meets the charismatic Captain Sharpe. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665984775",
+      "publisher": "Atheneum",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A PRINCE AMONG PIRATES",
+      "updated_date": "2026-06-24T16:49:38.741Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665984775"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665984775?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665984775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-prince-among-pirates-katie-abdou%2F1148559958%3Fean%3D9781665984775&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrince-Among-Pirates%2FKatie-Abdou%2F9781665984775"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665984775"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tahereh Mafi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
+      "contributor": "by Tahereh Mafi",
+      "contributor_note": "",
+      "created_date": "2026-04-22T17:21:11.073Z",
+      "dagger": 0,
+      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063419056",
+      "publisher": "Storytide",
+      "rank": 4,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "RELEASE ME",
+      "updated_date": "2026-04-22T17:21:11.073Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063419056"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063419056"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Laura Nowlin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464254529.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/685048d8-8ed7-546b-9bcd-5e7153a3f30b",
+      "contributor": "by Laura Nowlin",
+      "contributor_note": "",
+      "created_date": "2026-06-17T18:31:10.447Z",
+      "dagger": 0,
+      "description": "In this companion to “If He Had Been With Me,” the story of Finn and Autumn is told through three different perspectives. (Ages 14 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464254529",
+      "publisher": "Sourcebooks Fire",
+      "rank": 5,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "IF ONLY I HAD TOLD HER",
+      "updated_date": "2026-06-17T18:31:10.447Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464254529"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728276229?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464254529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-only-i-had-told-her-laura-nowlin%2F1142811940%3Fean%3D9781464254529&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Only-Had-Told-Her%2FLaura-Nowlin%2F9781464254529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464254529"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cindy Pham",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113026.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/79e29cc5-c91d-5c35-b213-0475a1eb6c50",
+      "contributor": "by Cindy Pham",
+      "contributor_note": "",
+      "created_date": "2026-06-10T17:37:55.1Z",
+      "dagger": 0,
+      "description": "Two sisters discover an underground, magical dreamworld. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217113026",
+      "publisher": "Kokila",
+      "rank": 6,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THE SECRET WORLD OF BRIAR ROSE",
+      "updated_date": "2026-06-10T17:37:55.1Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217113026"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217113026?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113026&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-world-of-briar-rose-cindy-pham%2F1148300226%3Fean%3D9798217113026&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-World-Briar-Rose%2FCindy-Pham%2F9798217113026"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217113026"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shannon J. Spann",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
+      "contributor": "by Shannon J. Spann",
+      "contributor_note": "",
+      "created_date": "2026-02-24T22:20:24.062Z",
+      "dagger": 0,
+      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781649379511",
+      "publisher": "Mayhem",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A STAGE SET FOR VILLAINS",
+      "updated_date": "2026-02-24T22:20:24.062Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781649379511"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781649379511"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278112.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e7372b9f-42df-51ce-997f-3723a5d17fff",
+      "contributor": "by Alexis Patton",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:21.046Z",
+      "dagger": 0,
+      "description": "Khalani Kanes struggles to survive in an underground prison for a crime she did not commit. (Ages 15 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464278112",
+      "publisher": "Bloom",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "US DARK FEW",
+      "updated_date": "2026-05-13T17:27:21.046Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464278112"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464278112?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278112&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-dark-few-alexis-patton%2F1143977060%3Fean%3D9781464278112&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Dark-Few%2FAlexis-Patton%2F9781464278112"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464278112"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665990301.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4b1e1772-9041-5bdc-b1ec-a58248c36214",
+      "contributor": "by Lynn Painter",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:07.094Z",
+      "dagger": 0,
+      "description": "Hopeless romantic Liz has a crush on Michael but finds out that she likes being around her neighbor Wes. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665990301",
+      "publisher": "Simon & Schuster",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "BETTER THAN THE MOVIES",
+      "updated_date": "2026-03-04T23:40:07.094Z",
+      "weeks_on_list": 19,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665990301"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665990301?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665990301&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetter-than-the-movies-lynn-painter%2F1137941902%3Fean%3D9781665990301&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBetter-Than-Movies-Collectors%2FLynn-Painter%2F9781665990301"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665990301"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1368098452?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Allison Saft",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368098458.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/82cac24f-d64b-5cb6-8811-47f2c12d94fc",
+      "contributor": "by Allison Saft",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:06.971Z",
+      "dagger": 0,
+      "description": "Clarion, the successor to the throne of Pixie Hollow, is determined to confront a monster that threatens the land. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368098458",
+      "publisher": "Disney",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WINGS OF STARLIGHT",
+      "updated_date": "2026-03-04T23:40:06.971Z",
+      "weeks_on_list": 64,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368098458"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368098452?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368098458?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368098458&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwings-of-starlight-allison-saft%2F1145552828%3Fean%3D9781368098458&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWINGS%2BOF%2BSTARLIGHT%2FAllison%2BSaft%2F9781368098458"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368098458"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

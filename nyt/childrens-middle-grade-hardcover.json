@@ -1,0 +1,572 @@
+{
+  "display_name": "Children’s Middle Grade Hardcover",
+  "list_name": "Children’s Middle Grade Hardcover",
+  "list_name_encoded": "childrens-middle-grade-hardcover",
+  "normal_list_ends_at": 10,
+  "updated": "WEEKLY",
+  "list_id": 13,
+  "uri": "nyt://bestsellerslist/5a42c923-07ed-586b-a304-b8c416fb241f",
+  "books": [
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "R.J. Palacio",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
+      "book_image_height": 500,
+      "book_image_width": 339,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+      "contributor": "by R.J. Palacio",
+      "contributor_note": "",
+      "created_date": "2026-06-24T18:31:19.14Z",
+      "dagger": 0,
+      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375869020",
+      "publisher": "Knopf",
+      "rank": 1,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "WONDER",
+      "updated_date": "2026-06-24T18:31:19.14Z",
+      "weeks_on_list": 548,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375869020"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375869020"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "book_image_height": 500,
+      "book_image_width": 352,
+      "book_review_link": "",
+      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
+      "contributor": "by Katherine Applegate",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:20.403Z",
+      "dagger": 0,
+      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063221178",
+      "publisher": "Storytide",
+      "rank": 2,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "WOMBAT WAITING",
+      "updated_date": "2026-05-13T17:27:20.403Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063221178"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063221178"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 7 to 10",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jessica Yoon",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
+      "book_image_height": 500,
+      "book_image_width": 337,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
+      "contributor": "by Jessica Yoon",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:19.077Z",
+      "dagger": 0,
+      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217234288",
+      "publisher": "Random House",
+      "rank": 3,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "KPOP DEMON HUNTERS",
+      "updated_date": "2026-04-08T18:13:19.077Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217234288"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217234288"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/1665961112?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Aaron Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665961110.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/52c10683-b24d-575b-b62a-0b57ea6eb640",
+      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+      "contributor_note": "Illustrated by Peter Brown",
+      "created_date": "2026-02-24T22:20:23.151Z",
+      "dagger": 0,
+      "description": "Thadeus and Oliver take a bite out of a salad that may bite back! (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665961110",
+      "publisher": "Simon & Schuster",
+      "rank": 4,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "UNSETTLING SALAD!",
+      "updated_date": "2026-02-24T22:20:23.151Z",
+      "weeks_on_list": 19,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665961110"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665961112?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665961110?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665961110&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funsettling-salad-aaron-reynolds%2F1147556555%3Fean%3D9781665961110&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnsettling-Salad%2FAaron-Reynolds%2F9781665961110"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665961110"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250904362.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/43f94763-9d3f-56da-ba4f-0750070c5258",
+      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
+      "contributor_note": "Illustrated by Charles Santoso",
+      "created_date": "2026-04-15T23:10:31.812Z",
+      "dagger": 0,
+      "description": "Zephyrina brings a rare stuffed bear back to the Second Chances Home for the Tossed and Treasured. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250904362",
+      "publisher": "Feiwel & Friends",
+      "rank": 5,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "POCKET BEAR",
+      "updated_date": "2026-04-15T23:10:31.812Z",
+      "weeks_on_list": 40,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250904362"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250904362?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250904362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpocket-bear-katherine-applegate%2F1146474049%3Fean%3D9781250904362&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPocket-Bear%2FKatherine-Applegate%2F9781250904362"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250904362"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0374393494?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Zach Weinersmith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374393496.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7f192773-cd00-51a2-9cf3-68d7673d1c71",
+      "contributor": "by Zach Weinersmith",
+      "contributor_note": "",
+      "created_date": "2026-06-24T16:49:38.536Z",
+      "dagger": 0,
+      "description": "Slacker Sawyer Lee gets himself caught up in the mystery of the annual gourd festival. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780374393496",
+      "publisher": "Farrar, Straus & Giroux",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SAWYER LEE AND THE QUEST TO JUST STAY HOME",
+      "updated_date": "2026-06-24T16:49:38.536Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780374393496"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0374393494?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780374393496?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374393496&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsawyer-lee-and-the-quest-to-just-stay-home-zach-weinersmith%2F1147744477%3Fean%3D9780374393496&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSawyer-Lee-Quest-Just-Stay%2FZach-Weinersmith%2F9780374393496"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780374393496"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 10 to 14",
+      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan and Mark Oshiro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
+      "contributor": "by Rick Riordan and Mark Oshiro",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:06.042Z",
+      "dagger": 0,
+      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368109116",
+      "publisher": "Disney Hyperion",
+      "rank": 7,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE COURT OF THE DEAD",
+      "updated_date": "2026-03-04T23:40:06.042Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368109116"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368109116"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Beth Ferry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae51c986-5b35-53b1-8565-95844c1ccea0",
+      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
+      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
+      "created_date": "2026-06-17T18:31:10.281Z",
+      "dagger": 0,
+      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665989817",
+      "publisher": "Simon & Schuster",
+      "rank": 8,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "GROWING HOME",
+      "updated_date": "2026-06-17T18:31:10.281Z",
+      "weeks_on_list": 43,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665989817"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989817&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665989817&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrowing-Home%2FBeth-Ferry%2F9781665942485"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665942485"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 10 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Rundell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593809907.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d087899a-eba5-5397-8876-e5bac2e2eeaa",
+      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
+      "contributor_note": "Illustrated by Ashley Mackenzie",
+      "created_date": "2026-03-04T23:40:06.576Z",
+      "dagger": 0,
+      "description": "Christopher and Anya must save the dragons of the Archipelago from a strange new threat. (Ages 10 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593809907",
+      "publisher": "Knopf",
+      "rank": 9,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE POISONED KING",
+      "updated_date": "2026-03-04T23:40:06.576Z",
+      "weeks_on_list": 36,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593809907"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593809907?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593809907&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poisoned-king-katherine-rundell%2F1146144609%3Fean%3D9780593809907&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoisoned-King%2FKatherine-Rundell%2F9780593809907"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593809907"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1338736108?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alan Gratz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338736106.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3646077-4911-5ba1-8706-89a9816bccac",
+      "contributor": "by Alan Gratz",
+      "contributor_note": "",
+      "created_date": "2026-03-11T22:40:16.123Z",
+      "dagger": 0,
+      "description": "During the 1936 Olympic Games, a young American gymnast is recruited to rob a Nazi bank. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338736106",
+      "publisher": "Scholastic",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WAR GAMES",
+      "updated_date": "2026-03-11T22:40:16.123Z",
+      "weeks_on_list": 26,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338736106"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338736108?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338736106?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338736106&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwar-games-alan-gratz%2F1146576012%3Fean%3D9781338736106&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWar-Games%2FAlan-Gratz%2F9781338736106"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338736106"
+        }
+      ]
+    }
+  ],
+  "corrections": []
+}

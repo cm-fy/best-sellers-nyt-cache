@@ -1,0 +1,121 @@
+{
+  "published_date": "2026-07-05",
+  "fetched_at": "2026-06-20",
+  "list_count": 19,
+  "lists": [
+    {
+      "slug": "combined-print-and-e-book-fiction",
+      "display_name": "Combined Print & E-Book Fiction",
+      "updated": "WEEKLY",
+      "book_count": 15
+    },
+    {
+      "slug": "combined-print-and-e-book-nonfiction",
+      "display_name": "Combined Print & E-Book Nonfiction",
+      "updated": "WEEKLY",
+      "book_count": 15
+    },
+    {
+      "slug": "hardcover-fiction",
+      "display_name": "Hardcover Fiction",
+      "updated": "WEEKLY",
+      "book_count": 15
+    },
+    {
+      "slug": "hardcover-nonfiction",
+      "display_name": "Hardcover Nonfiction",
+      "updated": "WEEKLY",
+      "book_count": 15
+    },
+    {
+      "slug": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "book_count": 15
+    },
+    {
+      "slug": "advice-how-to-and-miscellaneous",
+      "display_name": "Advice, How-To & Miscellaneous",
+      "updated": "WEEKLY",
+      "book_count": 10
+    },
+    {
+      "slug": "childrens-middle-grade-hardcover",
+      "display_name": "Children’s Middle Grade Hardcover",
+      "updated": "WEEKLY",
+      "book_count": 10
+    },
+    {
+      "slug": "picture-books",
+      "display_name": "Children’s Picture Books",
+      "updated": "WEEKLY",
+      "book_count": 10
+    },
+    {
+      "slug": "series-books",
+      "display_name": "Children’s & Young Adult Series",
+      "updated": "WEEKLY",
+      "book_count": 10
+    },
+    {
+      "slug": "young-adult-hardcover",
+      "display_name": "Young Adult Hardcover",
+      "updated": "WEEKLY",
+      "book_count": 10
+    },
+    {
+      "slug": "audio-advice-how-to-and-miscellaneous",
+      "display_name": "Audio Advice, How-To & Misc",
+      "updated": "MONTHLY",
+      "book_count": 10
+    },
+    {
+      "slug": "audio-childrens",
+      "display_name": "Audio Children's",
+      "updated": "MONTHLY",
+      "book_count": 15
+    },
+    {
+      "slug": "audio-fiction",
+      "display_name": "Audio Fiction",
+      "updated": "MONTHLY",
+      "book_count": 15
+    },
+    {
+      "slug": "audio-nonfiction",
+      "display_name": "Audio Nonfiction",
+      "updated": "MONTHLY",
+      "book_count": 15
+    },
+    {
+      "slug": "business-books",
+      "display_name": "Business",
+      "updated": "MONTHLY",
+      "book_count": 10
+    },
+    {
+      "slug": "graphic-books-and-manga",
+      "display_name": "Graphic Books and Manga",
+      "updated": "MONTHLY",
+      "book_count": 15
+    },
+    {
+      "slug": "middle-grade-paperback-monthly",
+      "display_name": "Middle Grade Paperback",
+      "updated": "MONTHLY",
+      "book_count": 10
+    },
+    {
+      "slug": "paperback-nonfiction-monthly",
+      "display_name": "Paperback Nonfiction",
+      "updated": "MONTHLY",
+      "book_count": 15
+    },
+    {
+      "slug": "young-adult-paperback-monthly",
+      "display_name": "Young Adult Paperback",
+      "updated": "MONTHLY",
+      "book_count": 10
+    }
+  ]
+}
