@@ -16,38 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch overview and split into per-list JSON
-        env:
-          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+      - name: Create nyt directory and fetch
         run: |
-          set -euo pipefail
           mkdir -p nyt
-
-          # Fetch the overview (all lists in one call)
-          OVERVIEW=$(curl -sS \
-            "https://api.nytimes.com/svc/books/v3/lists/overview.json?api-key=${NYT_API_KEY}")
-
-          STATUS=$(echo "$OVERVIEW" | python3 -c "import sys,json; print(json.load(sys.stdin).get('status',''))")
-          if [ "$STATUS" != "OK" ]; then
-            echo "NYT API returned status: $STATUS" >&2
-            exit 1
-          fi
-
-          # Save the full overview
-          echo "$OVERVIEW" | python3 -c "
+          curl -sS "https://api.nytimes.com/svc/books/v3/lists/overview.json?api-key=${{ secrets.NYT_API_KEY }}" | python3 -c "
           import sys, json, os
           data = json.load(sys.stdin)
           published = data.get('results', {}).get('published_date', 'unknown')
-          # Write overview
           with open('nyt/overview.json', 'w', encoding='utf-8') as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
-          # Write per-list files
           for lst in data.get('results', {}).get('lists', []):
               slug = lst.get('list_name_encoded', '')
               if slug:
                   with open(f'nyt/{slug}.json', 'w', encoding='utf-8') as f:
                       json.dump(lst, f, ensure_ascii=False, indent=2)
-          # Write metadata
           meta = {
               'published_date': published,
               'fetched_at': data.get('results', {}).get('bestsellers_date', ''),
@@ -70,7 +52,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A nyt/
           if git diff --cached --quiet; then
