@@ -21,6 +21,7 @@ jobs:
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: |
           set -euo pipefail
+          mkdir -p nyt
 
           # Fetch the overview (all lists in one call)
           OVERVIEW=$(curl -sS \
