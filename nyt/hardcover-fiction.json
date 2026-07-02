@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/9a17d782-35c8-55d5-8f9d-8f27c99af35a",
+  "uri": "nyt://bestsellerslist/5da31f22-9642-5241-874a-04df6409a38d",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
       "rank": 1,
-      "rank_last_week": 3,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
       "rank": 3,
-      "rank_last_week": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +177,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lisa Jewell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668033906.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4581a2c9-8d89-5bc7-842c-f18914ebedea",
+      "contributor": "by Lisa Jewell",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:45:18.547Z",
+      "dagger": 0,
+      "description": "When a teenager is reported missing, Jane Trevally visits a house that holds unsettling memories for her.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668033906",
+      "publisher": "Atria",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IT COULD HAVE BEEN HER",
+      "updated_date": "2026-07-01T20:45:18.547Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668033906"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668033906?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668033906&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fit-could-have-been-her-lisa-jewell%2F1148540193%3Fean%3D9781668033906&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCould-Been-Her%2FLisa-Jewell%2F9781668033906"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668033906"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Danielle Steel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973110.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/236d8de3-dfaf-566b-9a1e-4b4e3f34814a",
+      "contributor": "by Danielle Steel",
+      "contributor_note": "",
+      "created_date": "2026-07-01T18:58:06.689Z",
+      "dagger": 0,
+      "description": "The daughter of a celebrated wedding dress designer becomes engaged and the women in the family contend with relationship complications.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593973110",
+      "publisher": "Delacorte",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WEDDINGS",
+      "updated_date": "2026-07-01T18:58:06.689Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593973110"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593973110?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780593973110"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWeddings%2FDanielle-Steel%2F9780593973110"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593973110"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
-      "rank": 4,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 34,
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
@@ -238,13 +350,13 @@
       "asterisk": 0,
       "author": "Matt Dinniman",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780593820261.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/e84133b7-b087-54fe-aa42-0605dff68e6f",
       "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:39:58.983Z",
+      "created_date": "2026-07-01T15:37:32.806Z",
       "dagger": 0,
       "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "first_chapter_link": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820261",
       "publisher": "Ace",
-      "rank": 5,
-      "rank_last_week": 10,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-03-04T23:39:58.983Z",
-      "weeks_on_list": 23,
+      "updated_date": "2026-07-01T15:37:32.806Z",
+      "weeks_on_list": 24,
       "isbns": [
         {
           "isbn10": "",
@@ -274,7 +386,7 @@
           "url": "https://goto.applebooks.apple/9780593820261?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820261&intsrc=APIG_15890"
         },
         {
@@ -284,230 +396,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593820261"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Carley Fortune",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593953242.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c31d52e-f772-5ed7-967e-812a9d7f26b4",
-      "contributor": "by Carley Fortune",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:22.856Z",
-      "dagger": 0,
-      "description": "After her fiancé leaves her, Frankie goes on her planned honeymoon trip with her best friend from childhood, George.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593953242",
-      "publisher": "Berkley",
-      "rank": 6,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "OUR PERFECT STORM",
-      "updated_date": "2026-05-13T17:27:22.856Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593953242"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593953242?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593953242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-perfect-storm-carley-fortune%2F1148089562%3Fean%3D9780593953242&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Perfect-Storm%2FCarley-Fortune%2F9780593953242"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593953242"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217190065.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c633032-8b5d-5fbd-a14b-7e43c0e8df79",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-06-24T18:31:18.547Z",
-      "dagger": 0,
-      "description": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217190065",
-      "publisher": "Ace",
-      "rank": 7,
-      "rank_last_week": 15,
-      "sunday_review_link": "",
-      "title": "A PARADE OF HORRIBLES",
-      "updated_date": "2026-06-24T18:31:18.547Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217190065"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217190065?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-parade-of-horribles-matt-dinniman%2F1148612407%3Fean%3D9798217190065&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FParade-Horribles%2FMatt-Dinniman%2F9798217190065"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217190065"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "James Patterson and Matt Eversmann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316600118.jpg",
-      "book_image_height": 500,
-      "book_image_width": 318,
-      "book_review_link": "",
-      "book_uri": "nyt://book/fab3b975-30c8-5442-887a-38166cd06b2b",
-      "contributor": "by James Patterson and Matt Eversmann",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:18.071Z",
-      "dagger": 0,
-      "description": "A murder interrupts a presidential campaign and Nat Phillips leads a team of special operators.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316600118",
-      "publisher": "Little, Brown",
-      "rank": 8,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "ROCKET'S RED GLARE",
-      "updated_date": "2026-06-17T17:38:18.071Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316600118"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316600118?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316600118&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frockets-red-glare-james-patterson%2F1148562851%3Fean%3D9780316600118&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRockets-Red-Glare%2FJames-Patterson%2F9780316600118"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316600118"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668065924?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brad Thor",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065921.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/27e8abf5-a1d8-5342-bcaa-4c7427809f90",
-      "contributor": "by Brad Thor",
-      "contributor_note": "",
-      "created_date": "2026-06-24T16:49:37.093Z",
-      "dagger": 0,
-      "description": "The 25th book in the Scot Harvath series. America’s top spy investigates bombings that may portend a shake up in the geopolitical balance.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668065921",
-      "publisher": "Atria/Emily Bestler",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CHOKE POINT",
-      "updated_date": "2026-06-24T16:49:37.093Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668065921"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668065924?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668065921?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065921&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchoke-point-brad-thor%2F1148757143%3Fean%3D9781668065921&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChoke-Point%2FBrad-Thor%2F9781668065921"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668065921"
         }
       ]
     },
@@ -524,7 +412,7 @@
       "book_uri": "nyt://book/87acdbd7-b1e9-576a-a712-830df9715448",
       "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-06-24T18:31:18.746Z",
+      "created_date": "2026-07-01T20:45:16.953Z",
       "dagger": 0,
       "description": "The third book in the \"Dungeon Crawler Carl\" series. Carl and Donut are up against a subway system filled with monsters.",
       "first_chapter_link": "",
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820285",
       "publisher": "Ace",
-      "rank": 10,
-      "rank_last_week": 13,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
-      "updated_date": "2026-06-24T18:31:18.746Z",
-      "weeks_on_list": 16,
+      "updated_date": "2026-07-01T20:45:16.953Z",
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
@@ -569,169 +457,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
+      "author": "Carley Fortune",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593953242.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/253e5724-9547-5551-b50d-97d71cbcfa45",
-      "contributor": "by Matt Dinniman",
+      "book_uri": "nyt://book/7c31d52e-f772-5ed7-967e-812a9d7f26b4",
+      "contributor": "by Carley Fortune",
       "contributor_note": "",
-      "created_date": "2026-03-25T22:37:41.297Z",
+      "created_date": "2026-05-13T17:27:22.856Z",
       "dagger": 0,
-      "description": "The fourth book in the Dungeon Crawler Carl series. Obstacles abound on the fifth floor of the dungeon.",
+      "description": "After her fiancé leaves her, Frankie goes on her planned honeymoon trip with her best friend from childhood, George.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593955970",
-      "publisher": "Ace",
-      "rank": 11,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593953242",
+      "publisher": "Berkley",
+      "rank": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "THE GATE OF THE FERAL GODS",
-      "updated_date": "2026-03-25T22:37:41.297Z",
-      "weeks_on_list": 7,
+      "title": "OUR PERFECT STORM",
+      "updated_date": "2026-05-13T17:27:22.856Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593955970"
+          "isbn13": "9780593953242"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593955970?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593953242?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gate-of-the-feral-gods-matt-dinniman%2F1146460801%3Fean%3D9780593955970&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593953242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-perfect-storm-carley-fortune%2F1148089562%3Fean%3D9780593953242&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGATE%2BOF%2BTHE%2BFERAL%2BGODS%2FMatt%2BDinniman%2F9780593955970"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Perfect-Storm%2FCarley-Fortune%2F9780593953242"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593955970"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955994.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ed5d8c7e-78fc-53ed-a79c-a374413b2e20",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-04-01T17:34:49.898Z",
-      "dagger": 0,
-      "description": "The fifth book in the Dungeon Crawler Carl series. The action moves to the sixth floor, which is known as the Hunting Grounds.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593955994",
-      "publisher": "Ace",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BUTCHER'S MASQUERADE",
-      "updated_date": "2026-04-01T17:34:49.898Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593955994"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593955994?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955994&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-butchers-masquerade-matt-dinniman%2F1146460803%3Fean%3D9780593955994&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBUTCHER%2527S%2BMASQUERADE%2FMatt%2BDinniman%2F9780593955994"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593955994"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059395601X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593956014.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5a0fad44-9436-5d12-b323-ed551bb20ad5",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-04-01T17:34:50.202Z",
-      "dagger": 0,
-      "description": "The sixth book in the Dungeon Crawler Carl series. On the eighth floor, Carl and Donut must capture a lethal monster.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593956014",
-      "publisher": "Ace",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE EYE OF THE BEDLAM BRIDE",
-      "updated_date": "2026-04-01T17:34:50.202Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593956014"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059395601X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593956014?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593956014&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-eye-of-the-bedlam-bride-matt-dinniman%2F1146460700%3Fean%3D9780593956014&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BEYE%2BOF%2BTHE%2BBEDLAM%2BBRIDE%2FMatt%2BDinniman%2F9780593956014"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593956014"
+          "url": "https://bookshop.org/a/3546/9780593953242"
         }
       ]
     },
@@ -756,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593320648",
       "publisher": "Knopf",
-      "rank": 14,
-      "rank_last_week": 8,
+      "rank": 10,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "LAND",
       "updated_date": "2026-06-10T17:37:57.053Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +569,281 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1638932123?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Brynne Weaver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638932123.jpg",
+      "author": "James Patterson and Matt Eversmann",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316600118.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 318,
       "book_review_link": "",
-      "book_uri": "nyt://book/7e301d92-5c83-543a-a955-be0287499211",
-      "contributor": "by Brynne Weaver",
+      "book_uri": "nyt://book/fab3b975-30c8-5442-887a-38166cd06b2b",
+      "contributor": "by James Patterson and Matt Eversmann",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:17.747Z",
+      "created_date": "2026-06-17T17:38:18.071Z",
       "dagger": 0,
-      "description": "The second book in the Seasons of Carnage trilogy. Loyalties become more complicated as secrets and death emerge.",
+      "description": "A murder interrupts a presidential campaign and Nat Phillips leads a team of special operators.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638932123",
-      "publisher": "Slowburn",
-      "rank": 15,
-      "rank_last_week": 1,
+      "primary_isbn13": "9780316600118",
+      "publisher": "Little, Brown",
+      "rank": 11,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "HARVEST SEASON",
-      "updated_date": "2026-06-17T17:38:17.747Z",
-      "weeks_on_list": 2,
+      "title": "ROCKET'S RED GLARE",
+      "updated_date": "2026-06-17T17:38:18.071Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638932123"
+          "isbn13": "9780316600118"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1638932123?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781638932123?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316600118?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638932123&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharvest-season-brynne-weaver%2F1148569279%3Fean%3D9781638932123&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316600118&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frockets-red-glare-james-patterson%2F1148562851%3Fean%3D9780316600118&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarvest-Season%2FBrynne-Weaver%2F9781638932123"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRockets-Red-Glare%2FJames-Patterson%2F9780316600118"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638932123"
+          "url": "https://bookshop.org/a/3546/9780316600118"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217190065.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c633032-8b5d-5fbd-a14b-7e43c0e8df79",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:45:17.087Z",
+      "dagger": 0,
+      "description": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217190065",
+      "publisher": "Ace",
+      "rank": 12,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "A PARADE OF HORRIBLES",
+      "updated_date": "2026-07-01T20:45:17.087Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217190065"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217190065?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-parade-of-horribles-matt-dinniman%2F1148612407%3Fean%3D9798217190065&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FParade-Horribles%2FMatt-Dinniman%2F9798217190065"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217190065"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/253e5724-9547-5551-b50d-97d71cbcfa45",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T16:41:58.139Z",
+      "dagger": 0,
+      "description": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593955970",
+      "publisher": "Ace",
+      "rank": 13,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "THE GATE OF THE FERAL GODS",
+      "updated_date": "2026-07-01T16:41:58.139Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593955970"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593955970?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gate-of-the-feral-gods-matt-dinniman%2F1146460801%3Fean%3D9780593955970&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGATE%2BOF%2BTHE%2BFERAL%2BGODS%2FMatt%2BDinniman%2F9780593955970"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593955970"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593594754?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Danny McBride",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593594759.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/38173c84-6a15-51ab-8f81-f69b64c57b4f",
+      "contributor": "by Danny McBride",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:45:17.249Z",
+      "dagger": 0,
+      "description": "A collection of 10 short stories that explore facets of masculinity.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593594759",
+      "publisher": "Random House",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THRILLING TALES OF MODERN MEN",
+      "updated_date": "2026-07-01T20:45:17.249Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593594759"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593594754?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593594759?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593594759&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthrilling-tales-of-modern-men-danny-mcbride%2F1148361656%3Fean%3D9780593594759&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThrilling-Tales-Modern-Men%2FDanny-McBride%2F9780593594759"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593594759"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593833376?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Haig",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593833377.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/05/26/books/review/the-midnight-train-matt-haig.html",
+      "book_uri": "nyt://book/9dc63e29-f045-5a3f-bc0b-d6d22ba19159",
+      "contributor": "by Matt Haig",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:22:01.356Z",
+      "dagger": 0,
+      "description": "The second book in the Midnight World series. Wilbur wants to go back in time to see how he might have lived differently.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593833377",
+      "publisher": "Viking",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE MIDNIGHT TRAIN",
+      "updated_date": "2026-06-03T18:22:01.356Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593833377"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593833376?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593833377?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593833377&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-midnight-train-matt-haig%2F1148503880%3Fean%3D9780593833377&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMidnight-Train%2FMatt-Haig%2F9780593833377"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593833377"
         }
       ]
     }

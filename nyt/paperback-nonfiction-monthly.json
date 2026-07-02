@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 10004,
-  "uri": "nyt://bestsellerslist/0005f14d-ef1a-5c0e-bff7-9d48ffdeaef0",
+  "uri": "nyt://bestsellerslist/c401eb33-9e57-5050-9ffc-fe1c87cad087",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-05-27T18:33:50.001Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -65,673 +65,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1641717459?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668018055?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rick Steves",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781641717458.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/73be18b0-ec10-512e-a29d-3b2d26c7bea5",
-      "contributor": "by Rick Steves",
-      "contributor_note": "",
-      "created_date": "2026-04-29T16:56:34.861Z",
-      "dagger": 0,
-      "description": "The travel writer and TV host recounts his journey from Istanbul to Kathmandu in the 1970s.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781641717458",
-      "publisher": "Avalon Travel",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ON THE HIPPIE TRAIL",
-      "updated_date": "2026-04-29T16:56:34.861Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781641717458"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1641717459?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781641717458?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781641717458&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fon-the-hippie-trail-rick-steves%2F1145948726%3Fean%3D9781641717458&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHippie-Trail%2FRick-Steves%2F9781641717458"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781641717458"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0374533555?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Kahneman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374533557.jpg",
-      "book_image_height": 500,
-      "book_image_width": 334,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9",
-      "contributor": "by Daniel Kahneman",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:53.826Z",
-      "dagger": 0,
-      "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780374533557",
-      "publisher": "Farrar, Straus & Giroux",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THINKING, FAST AND SLOW",
-      "updated_date": "2026-06-03T18:21:53.826Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780374533557"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0374533555?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374533557&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthinking-fast-and-slow-daniel-kahneman%2F1100169801%3Fean%3D9780374533557&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThinking-Fast-Slow%2FDaniel-Kahneman%2F9780374533557"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374533557"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0399591613?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Laura Lynne Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399591617.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/53640791-163b-5df1-9294-f143bd5e3fce",
-      "contributor": "by Laura Lynne Jackson",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:53.973Z",
-      "dagger": 0,
-      "description": "A medium details potential ways the deceased may speak to us through everyday events.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399591617",
-      "publisher": "Dial",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SIGNS",
-      "updated_date": "2026-06-03T18:21:53.973Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399591617"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0399591613?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399591617?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399591617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsigns-laura-lynne-jackson%2F1129767621%3Fean%3D9780399591617&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSigns%2FLaura-Lynne-Jackson%2F9780399591617"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399591617"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jennette McCurdy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781982185831.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/98873b7c-cacc-5b85-9763-b5cc78c2e6c9",
-      "contributor": "by Jennette McCurdy",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.111Z",
-      "dagger": 0,
-      "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781982185831",
-      "publisher": "Simon & Schuster",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "I'M GLAD MY MOM DIED",
-      "updated_date": "2026-06-03T18:21:54.111Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781982185831"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781982185831?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982185831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fim-glad-my-mom-died-jennette-mccurdy%2F1140377015%3Fean%3D9781982185831&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIm-Glad-My-Mom-Died%2FJennette-McCurdy%2F9781982185831"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781982185831"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250251095?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Immerwahr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250251091.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/dfcf788f-ab7b-598d-8962-33c8a5df1dc9",
-      "contributor": "by Daniel Immerwahr",
-      "contributor_note": "",
-      "created_date": "2026-03-18T22:38:14.171Z",
-      "dagger": 0,
-      "description": "The history of the territories outside the United States that are governed and inhabited by the United States.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250251091",
-      "publisher": "Picador",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HOW TO HIDE AN EMPIRE",
-      "updated_date": "2026-03-18T22:38:14.171Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250251091"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250251095?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250251091?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250251091&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-hide-an-empire-daniel-immerwahr%2F1128680305%3Fean%3D9781250251091&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Hide-Empire%2FDaniel-Immerwahr%2F9781250251091"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250251091"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385348762?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Erik Larson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385348768.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3a8226c6-99fa-5aa2-8e9a-8be4fcee1fba",
-      "contributor": "by Erik Larson",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.262Z",
-      "dagger": 0,
-      "description": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385348768",
-      "publisher": "Crown",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE DEMON OF UNREST",
-      "updated_date": "2026-06-03T18:21:54.262Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385348768"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385348762?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593861837?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385348768&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-demon-of-unrest-erik-larson%2F1144221144%3Fean%3D9780385348768&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDemon-Unrest%2FErik-Larson%2F9780385348768"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385348768"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Robin Wall Kimmerer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
-      "contributor": "by Robin Wall Kimmerer",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.415Z",
-      "dagger": 0,
-      "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781571313560",
-      "publisher": "Milkweed Editions",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BRAIDING SWEETGRASS",
-      "updated_date": "2026-06-03T18:21:54.415Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781571313560"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781571313560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbraiding-sweetgrass-robin-wall-kimmerer%2F1114828102%3Fean%3D9781571313560&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBraiding-Sweetgrass%2FRobin-Wall-Kimmerer%2F9781571313560"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781571313560"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1501183060?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kevin Fedarko",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781501183065.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d602e76d-4081-5fb2-a937-e45c0be24597",
-      "contributor": "by Kevin Fedarko",
-      "contributor_note": "",
-      "created_date": "2026-04-08T18:13:21.627Z",
-      "dagger": 0,
-      "description": "The author of “The Emerald Mile” goes with a friend on a journey to hike the Grand Canyon from end to end.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781501183065",
-      "publisher": "Scribner",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "A WALK IN THE PARK",
-      "updated_date": "2026-04-08T18:13:21.627Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781501183065"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1501183060?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781501183065?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781501183065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-walk-in-the-park-kevin-fedarko%2F1144473896%3Fean%3D9781501183065&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWalk-Park%2FKevin-Fedarko%2F9781501183065"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781501183065"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593689003?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Chloe Dalton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593689004.jpg",
-      "book_image_height": 500,
-      "book_image_width": 325,
-      "book_review_link": "",
-      "book_uri": "nyt://book/077ffbc2-bdd8-5ff8-8ee6-1723eb94b0af",
-      "contributor": "by Chloe Dalton",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:02.292Z",
-      "dagger": 0,
-      "description": "A political adviser and foreign policy specialist tells the story of taking care of a wild hare during the pandemic lockdown.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593689004",
-      "publisher": "Vintage",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "RAISING HARE",
-      "updated_date": "2026-03-04T23:40:02.292Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593689004"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593689003?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593689004?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593689004&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fraising-hare-chloe-dalton%2F1144996137%3Fean%3D9780593689004&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRaising-Hare%2FChloe-Dalton%2F9780593689004"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593689004"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593800028?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ina Garten",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593800027.jpg",
+      "author": "Stephen Starring Grant",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668018057.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/6130cb02-c1bc-5d06-be76-2d0086766ae8",
-      "contributor": "by Ina Garten",
+      "book_uri": "nyt://book/62f5e151-6bef-5b37-b113-cec23094fab1",
+      "contributor": "by Stephen Starring Grant",
       "contributor_note": "",
-      "created_date": "2026-05-06T23:07:07.1Z",
+      "created_date": "2026-06-25T15:13:26.885Z",
       "dagger": 0,
-      "description": "A memoir by the cookbook author and Food Network host known as the Barefoot Contessa.",
+      "description": "After losing his corporate job and being diagnosed with cancer, Grant becomes a mailman in the Blue Ridge Mountains of Virginia.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593800027",
-      "publisher": "Crown",
-      "rank": 11,
+      "primary_isbn13": "9781668018057",
+      "publisher": "Simon & Schuster",
+      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BE READY WHEN THE LUCK HAPPENS",
-      "updated_date": "2026-05-06T23:07:07.1Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593800027"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593800028?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217012275?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593800027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbe-ready-when-the-luck-happens-ina-garten%2F1145343611%3Fean%3D9780593800027&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBe-Ready-Luck-Happens%2FIna-Garten%2F9780593800027"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593800027"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "bell hooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780060938291.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e5585a92-f92a-509d-8329-f5eda5d1568a",
-      "contributor": "by bell hooks",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.556Z",
-      "dagger": 0,
-      "description": "The deceased author of “All About Love” prescribes ways for women to evolve love in intra- and interpersonal relationships.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780060938291",
-      "publisher": "Morrow",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "COMMUNION",
-      "updated_date": "2026-06-03T18:21:54.556Z",
+      "title": "MAILMAN",
+      "updated_date": "2026-06-25T15:13:26.885Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780060938291"
+          "isbn13": "9781668018057"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668018055?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780060938291?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668018057?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060938291&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-bell-hooks%2F1111664714%3Fean%3D9780060938291&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668018057&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmailman-stephen-starring-grant%2F1146384910%3Fean%3D9781668018057&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion%2FBell-Hooks%2F9780060938291"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMailman%2FStephen-Starring-Grant%2F9781668018057"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780060938291"
+          "url": "https://bookshop.org/a/3546/9781668018057"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/158642436X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "bell hooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "author": "Tad Stoermer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781586424367.jpg",
       "book_image_height": 500,
-      "book_image_width": 332,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
-      "contributor": "by bell hooks",
+      "book_uri": "nyt://book/dcc6d409-79aa-59db-bc29-abacf7b6d562",
+      "contributor": "by Tad Stoermer",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:35:43.403Z",
+      "created_date": "2026-06-10T17:37:57.935Z",
       "dagger": 0,
-      "description": "The deceased feminist icon explores the causes of a polarized society and the meaning of love.",
+      "description": "Moments in American history that elucidate the tension between resistance and power.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780060959470",
-      "publisher": "Morrow",
-      "rank": 13,
+      "primary_isbn13": "9781586424367",
+      "publisher": "Steerforth",
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ALL ABOUT LOVE",
-      "updated_date": "2026-06-03T18:35:43.403Z",
-      "weeks_on_list": 3,
+      "title": "A RESISTANCE HISTORY OF THE UNITED STATES",
+      "updated_date": "2026-06-10T17:37:57.935Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780060959470"
+          "isbn13": "9781586424367"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/158642436X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781586424367?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781586424367&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-resistance-history-of-the-united-states-tad-stoermer%2F1148177922%3Fean%3D9781586424367&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FResistance-History-United-States%2FTad-Stoermer%2F9781586424367"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780060959470"
+          "url": "https://bookshop.org/a/3546/9781586424367"
         }
       ]
     },
@@ -756,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780399588198",
       "publisher": "One World",
-      "rank": 14,
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "BORN A CRIME",
       "updated_date": "2026-06-03T18:21:54.871Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -793,6 +233,454 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "bell hooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780060938291.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e5585a92-f92a-509d-8329-f5eda5d1568a",
+      "contributor": "by bell hooks",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:54.556Z",
+      "dagger": 0,
+      "description": "The deceased author of “All About Love” prescribes ways for women to evolve love in intra- and interpersonal relationships.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780060938291",
+      "publisher": "Morrow",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "COMMUNION",
+      "updated_date": "2026-06-03T18:21:54.556Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780060938291"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780060938291?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060938291&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-bell-hooks%2F1111664714%3Fean%3D9780060938291&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion%2FBell-Hooks%2F9780060938291"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780060938291"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385348762?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erik Larson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385348768.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3a8226c6-99fa-5aa2-8e9a-8be4fcee1fba",
+      "contributor": "by Erik Larson",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:54.262Z",
+      "dagger": 0,
+      "description": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780385348768",
+      "publisher": "Crown",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE DEMON OF UNREST",
+      "updated_date": "2026-06-03T18:21:54.262Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780385348768"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385348762?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593861837?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385348768&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-demon-of-unrest-erik-larson%2F1144221144%3Fean%3D9780385348768&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDemon-Unrest%2FErik-Larson%2F9780385348768"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385348768"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1501183060?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kevin Fedarko",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781501183065.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d602e76d-4081-5fb2-a937-e45c0be24597",
+      "contributor": "by Kevin Fedarko",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:21.627Z",
+      "dagger": 0,
+      "description": "The author of “The Emerald Mile” goes with a friend on a journey to hike the Grand Canyon from end to end.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781501183065",
+      "publisher": "Scribner",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A WALK IN THE PARK",
+      "updated_date": "2026-04-08T18:13:21.627Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781501183065"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1501183060?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781501183065?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781501183065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-walk-in-the-park-kevin-fedarko%2F1144473896%3Fean%3D9781501183065&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWalk-Park%2FKevin-Fedarko%2F9781501183065"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781501183065"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Robin Wall Kimmerer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
+      "contributor": "by Robin Wall Kimmerer",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:54.415Z",
+      "dagger": 0,
+      "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781571313560",
+      "publisher": "Milkweed Editions",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BRAIDING SWEETGRASS",
+      "updated_date": "2026-06-03T18:21:54.415Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781571313560"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781571313560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbraiding-sweetgrass-robin-wall-kimmerer%2F1114828102%3Fean%3D9781571313560&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBraiding-Sweetgrass%2FRobin-Wall-Kimmerer%2F9781571313560"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781571313560"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jennette McCurdy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781982185831.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/98873b7c-cacc-5b85-9763-b5cc78c2e6c9",
+      "contributor": "by Jennette McCurdy",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:54.111Z",
+      "dagger": 0,
+      "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781982185831",
+      "publisher": "Simon & Schuster",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "I'M GLAD MY MOM DIED",
+      "updated_date": "2026-06-03T18:21:54.111Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781982185831"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781982185831?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982185831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fim-glad-my-mom-died-jennette-mccurdy%2F1140377015%3Fean%3D9781982185831&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIm-Glad-My-Mom-Died%2FJennette-McCurdy%2F9781982185831"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781982185831"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tara Westover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780399590528.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
+      "book_review_link": "https://www.nytimes.com/2018/03/01/books/review/tara-westover-educated.html",
+      "book_uri": "nyt://book/1ee7a801-b1ae-56e0-90ad-6b443e2881fd",
+      "contributor": "by Tara Westover",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:34.347Z",
+      "dagger": 0,
+      "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780399590528",
+      "publisher": "Random House",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "EDUCATED",
+      "updated_date": "2026-07-01T17:54:34.347Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780399590528"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780399590528?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399590528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feducated-tara-westover%2F1126358348%3Fean%3D9780399590528&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590528"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780399590528"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385534264?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Grann",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780307742490.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/423213d6-9fa7-5fb1-8543-79dcd840c76e",
+      "contributor": "by David Grann",
+      "contributor_note": "",
+      "created_date": "2026-05-06T17:38:05.093Z",
+      "dagger": 0,
+      "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780307742490",
+      "publisher": "Vintage",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE WAGER",
+      "updated_date": "2026-05-06T17:38:05.093Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780307742490"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385534264?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780307742490?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780307742490&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wager-david-grann%2F1141813906%3Fean%3D9780307742490&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWAGER%2FDavid%2BGrann%2F9780307742490"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780307742490"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "bell hooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
+      "contributor": "by bell hooks",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:43.403Z",
+      "dagger": 0,
+      "description": "The deceased feminist icon explores the causes of a polarized society and the meaning of love.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780060959470",
+      "publisher": "Morrow",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ALL ABOUT LOVE",
+      "updated_date": "2026-06-03T18:35:43.403Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780060959470"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780060959470"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1984898450?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -812,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781984898456",
       "publisher": "Vintage",
-      "rank": 15,
+      "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE ART THIEF",
       "updated_date": "2026-05-06T23:08:06.986Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +732,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781984898456"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593689003?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chloe Dalton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593689004.jpg",
+      "book_image_height": 500,
+      "book_image_width": 325,
+      "book_review_link": "",
+      "book_uri": "nyt://book/077ffbc2-bdd8-5ff8-8ee6-1723eb94b0af",
+      "contributor": "by Chloe Dalton",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:02.292Z",
+      "dagger": 0,
+      "description": "A political adviser and foreign policy specialist tells the story of taking care of a wild hare during the pandemic lockdown.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593689004",
+      "publisher": "Vintage",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RAISING HARE",
+      "updated_date": "2026-03-04T23:40:02.292Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593689004"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593689003?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593689004?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593689004&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fraising-hare-chloe-dalton%2F1144996137%3Fean%3D9780593689004&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRaising-Hare%2FChloe-Dalton%2F9780593689004"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593689004"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593657527?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Karen Hao",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593657522.jpg",
+      "book_image_height": 500,
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2ce3ac52-baa8-535e-a0ee-24837a4ef18d",
+      "contributor": "by Karen Hao",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:45:17.784Z",
+      "dagger": 0,
+      "description": "An examination of the disruptions made and resources taken by artificial intelligence.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593657522",
+      "publisher": "Penguin",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "EMPIRE OF AI",
+      "updated_date": "2026-07-01T20:45:17.784Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593657522"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593657527?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593657522?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593657522&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fempire-of-ai-karen-hao%2F1146711257%3Fean%3D9780593657522&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEmpire-AI%2FKaren-Hao%2F9780593657522"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593657522"
         }
       ]
     }

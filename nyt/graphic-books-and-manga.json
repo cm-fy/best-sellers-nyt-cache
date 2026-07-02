@@ -5,61 +5,61 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 719,
-  "uri": "nyt://bestsellerslist/9e968b3a-efc5-526c-93f3-69340a14749d",
+  "uri": "nyt://bestsellerslist/3f3c2246-82e4-52a5-80cf-a07d2b7f4fc7",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gege Akutami",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781974763405.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "John Patrick Green",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250357915.jpg",
+      "book_image_height": 500,
+      "book_image_width": 338,
       "book_review_link": "",
-      "book_uri": "nyt://book/225ea04f-daa3-50c3-9d7f-83066415c69d",
-      "contributor": "by Gege Akutami",
+      "book_uri": "nyt://book/a2a94ae6-d17c-5ac8-a706-2a5ff946d74a",
+      "contributor": "by John Patrick Green",
       "contributor_note": "",
-      "created_date": "2026-06-03T20:00:35.622Z",
+      "created_date": "2026-07-01T17:54:40.853Z",
       "dagger": 0,
-      "description": "In the final volume of this series, will Itadori end the battle with Sukuna once and for all?",
+      "description": "Mango and Brash, along with some feline agents, look into what is causing the rain to turn green and the city’s water supply to become milk.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781974763405",
-      "publisher": "VIZ Media",
+      "primary_isbn13": "9781250357915",
+      "publisher": "First Second",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "JUJUTSU KAISEN, VOL. 30",
-      "updated_date": "2026-06-03T20:00:35.622Z",
+      "title": "INVESTIGATORS: WEATHER OR NOT",
+      "updated_date": "2026-07-01T17:54:40.853Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781974763405"
+          "isbn13": "9781250357915"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781974763405?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250357915?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974763405&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-30-gege-akutami%2F1148560990%3Fean%3D9781974763405&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9781250357915"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9781974763405"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInvestigators%2FJohn-Patrick-Green%2F9781250357915"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781974763405"
+          "url": "https://bookshop.org/a/3546/9781250357915"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL, VOL. 1",
       "updated_date": "2026-06-03T19:58:25.757Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -121,53 +121,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Cassandra Calin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
+      "author": "Gege Akutami",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781974763405.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/b63cdd60-0b27-58bf-a48e-ee3f8c891f17",
-      "contributor": "by Cassandra Calin",
+      "book_uri": "nyt://book/225ea04f-daa3-50c3-9d7f-83066415c69d",
+      "contributor": "by Gege Akutami",
       "contributor_note": "",
-      "created_date": "2026-06-03T20:02:23.218Z",
+      "created_date": "2026-06-03T20:00:35.622Z",
       "dagger": 0,
-      "description": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
+      "description": "In the final volume of this series, will Itadori end the battle with Sukuna once and for all?",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781338762488",
-      "publisher": "Scholastic",
+      "primary_isbn13": "9781974763405",
+      "publisher": "VIZ Media",
       "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FIRST CRUSH",
-      "updated_date": "2026-06-03T20:02:23.218Z",
-      "weeks_on_list": 1,
+      "title": "JUJUTSU KAISEN, VOL. 30",
+      "updated_date": "2026-06-03T20:00:35.622Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781338762488"
+          "isbn13": "9781974763405"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338762488?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781974763405?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338762488&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-new-girl-cassandra-calin%2F1147905631%3Fean%3D9781338762488&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974763405&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-30-gege-akutami%2F1148560990%3Fean%3D9781974763405&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/9781974763405"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338762488"
+          "url": "https://bookshop.org/a/3546/9781974763405"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1974716465?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tatsuki Fujimoto",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781974716463.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/012851d8-a2c0-5b24-8b93-b38ce95c832a",
+      "contributor": "by Tatsuki Fujimoto",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:41.05Z",
+      "dagger": 0,
+      "description": "Denji starts eating everything around him and must work with Yoru to get free of the Aging Devil.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781974716463",
+      "publisher": "VIZ Media",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CHAINSAW MAN, VOL. 21",
+      "updated_date": "2026-07-01T17:54:41.05Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781974716463"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1974716465?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781974716463?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9781974716463"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChainsaw-Man%2FTatsuki-Fujimoto%2F9781974716463"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781974716463"
         }
       ]
     },
@@ -192,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546135548",
       "publisher": "Scholastic",
-      "rank": 4,
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "DAWN ON THE COAST",
       "updated_date": "2026-05-06T17:49:23.635Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -229,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cassandra Calin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b63cdd60-0b27-58bf-a48e-ee3f8c891f17",
+      "contributor": "by Cassandra Calin",
+      "contributor_note": "",
+      "created_date": "2026-07-01T23:35:55.134Z",
+      "dagger": 0,
+      "description": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338762488",
+      "publisher": "Scholastic",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FIRST CRUSH",
+      "updated_date": "2026-07-01T23:35:55.134Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338762488"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338762488?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338762488&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-new-girl-cassandra-calin%2F1147905631%3Fean%3D9781338762488&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/9781338762488"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338762488"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1546176187?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -248,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546176183",
       "publisher": "Scholastic",
-      "rank": 5,
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "BIG JIM BELIEVES",
       "updated_date": "2026-04-01T20:42:55.302Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -304,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546151210",
       "publisher": "Scholastic",
-      "rank": 6,
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "CAPTAIN UNDERPANTS: THE FIRST EPIC MANGA",
       "updated_date": "2026-05-06T17:49:23.822Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -341,266 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1339005131?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ann M. Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781339005133.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/beaf5360-4266-5ec6-bdc6-3a33c7a60bf6",
-      "contributor": "by Ann M. Martin. Illustrated by Shauna J. Grant",
-      "contributor_note": "Illustrated by Shauna J. Grant",
-      "created_date": "2026-06-03T18:22:02.687Z",
-      "dagger": 0,
-      "description": "When Karen is cast as a Thanksgiving turkey in the school play, she plans something unexpected.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781339005133",
-      "publisher": "Scholastic",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "KAREN'S SURPRISE",
-      "updated_date": "2026-06-03T18:22:02.687Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781339005133"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1339005131?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781339005133?at=10lIEQ"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FLDB3TWJ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kamome Shirahama",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798888777794.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a0d5021e-7e63-57af-b4d8-7ba410fffc95",
-      "contributor": "by Kamome Shirahama",
-      "contributor_note": "",
-      "created_date": "2026-06-03T20:11:38.678Z",
-      "dagger": 0,
-      "description": "After seeing a traveling magician, Coco sets about to become a witch.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798888777794",
-      "publisher": "Kodansha Comics",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WITCH HAT ATELIER: GRIMOIRE EDITION 1",
-      "updated_date": "2026-06-03T20:11:38.678Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798888777794"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FLDB3TWJ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798888777794?at=10lIEQ"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798888777794"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G48NF5SZ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234301.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c5a25ea4-476a-5c27-8e80-5cd898292265",
-      "contributor": "by based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
-      "contributor_note": "",
-      "created_date": "2026-05-06T17:49:24.043Z",
-      "dagger": 0,
-      "description": "An adaptation of the film.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217234301",
-      "publisher": "Random House",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "KPOP DEMON HUNTERS: THE MOVIE IN COMICS",
-      "updated_date": "2026-05-06T17:49:24.043Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217234301"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G48NF5SZ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217234301?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234301&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-random-house%2F1148827939%3Fean%3D9798217234301&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FRandom-House%2F9798217234301"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217234301"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1974710025?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gege Akutami",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781974710027.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1fd7a131-0d05-5a6d-8c27-250f75cb2de1",
-      "contributor": "by Gege Akutami",
-      "contributor_note": "",
-      "created_date": "2026-04-01T20:59:28.957Z",
-      "dagger": 0,
-      "description": "The athletic Yuji Itadori chooses to spend his time with members of the Occult Research Club, who unseal a cursed object.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781974710027",
-      "publisher": "VIZ Media",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "JUJUTSU KAISEN, VOL. 1",
-      "updated_date": "2026-04-01T20:59:28.957Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781974710027"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1974710025?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781974710027?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974710027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-1-gege-akutami%2F1130959945%3Fean%3D9781974710027&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJujutsu-Kaisen%2FGege-Akutami%2F9781974710027"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781974710027"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0C4XW16QN?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kei Urana",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798888770207.jpg",
-      "book_image_height": 500,
-      "book_image_width": 350,
-      "book_review_link": "",
-      "book_uri": "nyt://book/31c2e2c2-92a4-595f-b320-f1ff80bc95f5",
-      "contributor": "by Kei Urana. Designed by Hideyoshi Andou",
-      "contributor_note": "Designed by Hideyoshi Andou",
-      "created_date": "2026-04-01T20:58:17.639Z",
-      "dagger": 0,
-      "description": "A boy who lives in a floating city is wrongfully accused of murder and exiled to an abyss filled with garbage and monsters.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798888770207",
-      "publisher": "Kodansha",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GACHIAKUTA 1",
-      "updated_date": "2026-04-01T20:58:17.639Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798888770207"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0C4XW16QN?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798888770207?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798888770207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgachiakuta-1-kei-urana%2F1143472207%3Fean%3D9798888770207&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGachiakuta%2FKei-Urana%2F9798888770207"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798888770207"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063203871?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -620,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063203877",
       "publisher": "HarperAlley",
-      "rank": 12,
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "WARRIORS: THE PROPHECIES BEGIN",
       "updated_date": "2026-04-01T21:00:21.161Z",
-      "weeks_on_list": 21,
+      "weeks_on_list": 22,
       "isbns": [
         {
           "isbn10": "",
@@ -657,169 +513,337 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1974762017?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1974710025?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Gege Akutami",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781974762019.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781974710027.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/0ee7a621-f80d-5f78-95e5-a2159236a591",
+      "book_uri": "nyt://book/1fd7a131-0d05-5a6d-8c27-250f75cb2de1",
       "contributor": "by Gege Akutami",
       "contributor_note": "",
-      "created_date": "2026-04-01T20:47:21.963Z",
+      "created_date": "2026-04-01T20:59:28.957Z",
       "dagger": 0,
-      "description": "Sukuna and Itadori both use a black flash attack.",
+      "description": "The athletic Yuji Itadori chooses to spend his time with members of the Occult Research Club, who unseal a cursed object.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781974762019",
+      "primary_isbn13": "9781974710027",
       "publisher": "VIZ Media",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "JUJUTSU KAISEN, VOL. 1",
+      "updated_date": "2026-04-01T20:59:28.957Z",
+      "weeks_on_list": 13,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781974710027"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1974710025?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781974710027?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974710027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-1-gege-akutami%2F1130959945%3Fean%3D9781974710027&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJujutsu-Kaisen%2FGege-Akutami%2F9781974710027"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781974710027"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G48NF5SZ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234301.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c5a25ea4-476a-5c27-8e80-5cd898292265",
+      "contributor": "by based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
+      "contributor_note": "",
+      "created_date": "2026-05-06T17:49:24.043Z",
+      "dagger": 0,
+      "description": "An adaptation of the film.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217234301",
+      "publisher": "Random House",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "KPOP DEMON HUNTERS: THE MOVIE IN COMICS",
+      "updated_date": "2026-05-06T17:49:24.043Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217234301"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G48NF5SZ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217234301?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234301&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-random-house%2F1148827939%3Fean%3D9798217234301&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FRandom-House%2F9798217234301"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217234301"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0C4XW16QN?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kei Urana",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798888770207.jpg",
+      "book_image_height": 500,
+      "book_image_width": 350,
+      "book_review_link": "",
+      "book_uri": "nyt://book/31c2e2c2-92a4-595f-b320-f1ff80bc95f5",
+      "contributor": "by Kei Urana. Designed by Hideyoshi Andou",
+      "contributor_note": "Designed by Hideyoshi Andou",
+      "created_date": "2026-04-01T20:58:17.639Z",
+      "dagger": 0,
+      "description": "A boy who lives in a floating city is wrongfully accused of murder and exiled to an abyss filled with garbage and monsters.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798888770207",
+      "publisher": "Kodansha",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GACHIAKUTA 1",
+      "updated_date": "2026-04-01T20:58:17.639Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798888770207"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0C4XW16QN?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798888770207?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798888770207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgachiakuta-1-kei-urana%2F1143472207%3Fean%3D9798888770207&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGachiakuta%2FKei-Urana%2F9798888770207"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798888770207"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593872029?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rachel Smythe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593872024.jpg",
+      "book_image_height": 500,
+      "book_image_width": 392,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4a6932aa-063c-5774-927b-7837ddde0942",
+      "contributor": "by Rachel Smythe",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:41.193Z",
+      "dagger": 0,
+      "description": "Nuptial bliss for Hades and Persephone soon gives way as chaos reigns and Apollo poses a threat to humankind.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593872024",
+      "publisher": "Inklore",
       "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "JUJUTSU KAISEN, VOL. 29",
-      "updated_date": "2026-04-01T20:47:21.963Z",
-      "weeks_on_list": 4,
+      "title": "LORE OLYMPUS, VOL. TEN",
+      "updated_date": "2026-07-01T17:54:41.193Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781974762019"
+          "isbn13": "9780593872024"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1974762017?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593872029?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781974762019?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593872024?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974762019&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-29-gege-akutami%2F1147557298%3Fean%3D9781974762019&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/?ean=9780593872024"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJujutsu-Kaisen%2FGege-Akutami%2F9781974762019"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLore-Olympus%2FRachel-Smythe%2F9780593872024"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781974762019"
+          "url": "https://bookshop.org/a/3546/9780593872024"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1607064111?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "http://www.amazon.com/Persepolis-Childhood-Pantheon-Graphic-Novels/dp/037571457X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robert Kirkman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781607064114.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Marjane Satrapi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375714573.jpg",
+      "book_image_height": 475,
+      "book_image_width": 321,
       "book_review_link": "",
-      "book_uri": "nyt://book/18160850-1310-5c38-8a39-ad130dc7b761",
-      "contributor": "by Robert Kirkman. Illustrated by Corey Walker, Ryan Ottley et al",
-      "contributor_note": "Illustrated by Corey Walker, Ryan Ottley et al",
-      "created_date": "2026-06-03T20:13:29.167Z",
+      "book_uri": "nyt://book/044e0eec-801d-53c4-a027-fa98946920e4",
+      "contributor": "by Marjane Satrapi",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:41.327Z",
       "dagger": 0,
-      "description": "Mark Grayson faces the unexpected when he becomes a hero. Collects the first nine volumes of the comic and is the basis of the animated series.",
+      "description": "A memoir of the late author’s life from ages 6 to 14 in Iran, during and after its 1979 revolution, depicted through black-and-white comic strip images.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781607064114",
-      "publisher": "Image Comics",
+      "primary_isbn13": "9780375714573",
+      "publisher": "Pantheon",
       "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "INVINCIBLE COMPENDIUM ONE",
-      "updated_date": "2026-06-03T20:13:29.167Z",
-      "weeks_on_list": 4,
+      "title": "PERSEPOLIS",
+      "updated_date": "2026-07-01T17:54:41.327Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781607064114"
+          "isbn13": "9780375714573"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1607064111?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "http://www.amazon.com/Persepolis-Childhood-Pantheon-Graphic-Novels/dp/037571457X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781607064114?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780375714573?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781607064114&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finvincible-compendium-volume-1-robert-kirkman%2F1106496662%3Fean%3D9781607064114&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/?ean=9780375714573"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINVINCIBLE%2BCOMPENDIUM%2BONE%2FRobert%2BKirkman%2Bwith%2Bvarious%2Billustrators%2F9781607064114"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPERSEPOLIS%2FMarjane%2BSatrapi%2F9780375714573"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781607064114"
+          "url": "https://bookshop.org/a/3546/9780375714573"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1607067722?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robert Kirkman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781607067726.jpg",
-      "book_image_height": 500,
-      "book_image_width": 325,
+      "author": "Mokumokuren",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781975360542.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/e2950582-c5e5-5513-8066-231271de8541",
-      "contributor": "by Robert Kirkman. Illustrated by Corey Walker, Ryan Ottley et al",
-      "contributor_note": "Illustrated by Corey Walker, Ryan Ottley et al",
-      "created_date": "2026-05-06T17:49:24.333Z",
+      "book_uri": "nyt://book/6590733a-915c-5423-ab71-d6ee00c6bd25",
+      "contributor": "by Mokumokuren",
+      "contributor_note": "",
+      "created_date": "2026-07-01T23:37:09.808Z",
       "dagger": 0,
-      "description": "A second collection of the comic that is the basis of the animated series.",
+      "description": "Yoshiki suspects that the person that came down from the mountains is not really his friend, Hikaru; translated by Ajani Oloye.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781607067726",
-      "publisher": "Image Comics",
+      "primary_isbn13": "9781975360542",
+      "publisher": "Yen Press",
       "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "INVINCIBLE COMPENDIUM TWO",
-      "updated_date": "2026-05-06T17:49:24.333Z",
-      "weeks_on_list": 4,
+      "title": "THE SUMMER HIKARU DIED, VOL. 1",
+      "updated_date": "2026-07-01T23:37:09.808Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781607067726"
+          "isbn13": "9781975360542"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1607067722?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781607067726?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781975360542?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781607067726&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finvincible-compendium-volume-2-robert-kirkman%2F1115809339%3Fean%3D9781607067726&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/the-summer-hikaru-died-vol-1-mokumokuren/1142973723?ean=9781975360542"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FINVINCIBLE%2BCOMPENDIUM%2BTWO%2FRobert%2BKirkman%2Bwith%2Bvarious%2Billustrators%2F9781607067726"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSummer-Hikaru-Died%2FMokumokuren%2F9781975360542"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781607067726"
+          "url": "https://bookshop.org/a/3546/9781975360542"
         }
       ]
     }

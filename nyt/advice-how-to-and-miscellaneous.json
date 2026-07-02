@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/563f5f49-2ffa-50f8-a856-638b955867a1",
+  "uri": "nyt://bestsellerslist/bca4b48a-2897-59df-9057-9be8de34f862",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 78,
+      "weeks_on_list": 79,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 343,
+      "weeks_on_list": 344,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1523524332?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Glenn Boozan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781523524334.jpg",
-      "book_image_height": 500,
-      "book_image_width": 379,
-      "book_review_link": "",
-      "book_uri": "nyt://book/06696137-4fe3-57c6-926b-8ff9feb09d2c",
-      "contributor": "by Glenn Boozan. Illustrated by Priscilla Witte",
-      "contributor_note": "Illustrated by Priscilla Witte",
-      "created_date": "2026-06-10T17:37:56.735Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781523524334",
-      "publisher": "Workman",
-      "rank": 3,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THERE ARE DADS WAY WORSE THAN YOU",
-      "updated_date": "2026-06-10T17:37:56.735Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781523524334"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1523524332?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781523524334?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781523524334&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthere-are-dads-way-worse-than-you-glenn-boozan%2F1143886152%3Fean%3D9781523524334&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHERE%2BARE%2BDADS%2BWAY%2BWORSE%2BTHAN%2BYOU%2FGlenn%2BBoozan.%2F9781523524334"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781523524334"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781455570249",
       "publisher": "Grand Central",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "MAKE YOUR BED",
       "updated_date": "2026-05-27T21:16:16.066Z",
-      "weeks_on_list": 150,
+      "weeks_on_list": 151,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +177,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Bevere",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Charlie Mackesy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994825.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
-      "contributor": "by John Bevere",
+      "book_uri": "nyt://book/3474b3bb-37e6-5aea-8d76-12fe28e25a3f",
+      "contributor": "by Charlie Mackesy",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:17.164Z",
+      "created_date": "2026-02-24T22:20:28.318Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400349678",
-      "publisher": "Thomas Nelson",
-      "rank": 5,
-      "rank_last_week": 8,
+      "primary_isbn13": "9780593994825",
+      "publisher": "Penguin Life",
+      "rank": 4,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE KING IS COMING",
-      "updated_date": "2026-06-17T17:38:17.164Z",
-      "weeks_on_list": 4,
+      "title": "ALWAYS REMEMBER: THE BOY, THE MOLE, THE FOX, THE HORSE AND THE STORM",
+      "updated_date": "2026-02-24T22:20:28.318Z",
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400349678"
+          "isbn13": "9780593994825"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593994825?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994825&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falways-remember-charlie-mackesy%2F1147435644%3Fean%3D9780593994825&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlways-Remember%2FCharlie-Mackesy%2F9780593994825"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400349678"
+          "url": "https://bookshop.org/a/3546/9780593994825"
         }
       ]
     },
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -345,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gabe Poirot",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
-      "contributor": "by Gabe Poirot",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:07.722Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781667512549",
-      "publisher": "Harrison House",
-      "rank": 7,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "18 DAYS IN HEAVEN",
-      "updated_date": "2026-04-15T21:36:07.722Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781667512549"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781667512549"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -412,7 +300,7 @@
       "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
       "contributor": "by Joseph Nguyen",
       "contributor_note": "",
-      "created_date": "2026-06-24T18:31:19.291Z",
+      "created_date": "2026-07-01T17:54:36.98Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798893310153",
       "publisher": "Authors Equity",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
-      "updated_date": "2026-06-24T18:31:19.291Z",
-      "weeks_on_list": 59,
+      "updated_date": "2026-07-01T17:54:36.98Z",
+      "weeks_on_list": 60,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +345,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1954210566?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jen Hamilton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538771471.jpg",
+      "author": "Sarah Ahn and Nam Soon Ahn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781954210561.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 406,
       "book_review_link": "",
-      "book_uri": "nyt://book/3ac41b1d-ffb0-5db3-91fc-a8c2949db9b8",
-      "contributor": "by Jen Hamilton",
+      "book_uri": "nyt://book/1f6a0d23-f17c-541e-a8f5-81fba9f28573",
+      "contributor": "by Sarah Ahn and Nam Soon Ahn",
       "contributor_note": "",
-      "created_date": "2026-05-13T17:27:21.928Z",
+      "created_date": "2026-07-01T17:54:37.112Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781538771471",
-      "publisher": "Grand Central",
-      "rank": 9,
+      "primary_isbn13": "9781954210561",
+      "publisher": "America's Test Kitchen",
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BIRTH VIBES",
-      "updated_date": "2026-05-13T17:27:21.928Z",
-      "weeks_on_list": 5,
+      "title": "UMMA",
+      "updated_date": "2026-07-01T17:54:37.112Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781538771471"
+          "isbn13": "9781954210561"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1954210566?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538771471?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781954210561?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538771471&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbirth-vibes-jen-hamilton%2F1148495495%3Fean%3D9781538771471&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954210561&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fumma-sarah-ahn%2F1146332974%3Fean%3D9781954210561&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBirth-Vibes%2FJen-Hamilton%2F9781538771471"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUMMA%2FSarah%2BAhn%2Band%2BNam%2BSoon%2BAhn%2F9781954210561"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538771471"
+          "url": "https://bookshop.org/a/3546/9781954210561"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Mark Manson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062457714.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "John Bevere",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/61980bbe-79bd-5824-9412-31c5f07762fd",
-      "contributor": "by Mark Manson",
+      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
+      "contributor": "by John Bevere",
       "contributor_note": "",
-      "created_date": "2026-06-24T17:09:01.509Z",
-      "dagger": 1,
+      "created_date": "2026-06-17T17:38:17.164Z",
+      "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780062457714",
-      "publisher": "Harper",
-      "rank": 10,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781400349678",
+      "publisher": "Thomas Nelson",
+      "rank": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
-      "updated_date": "2026-06-24T17:09:01.509Z",
-      "weeks_on_list": 328,
+      "title": "THE KING IS COMING",
+      "updated_date": "2026-06-17T17:38:17.164Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780062457714"
+          "isbn13": "9781400349678"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062457714?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062457714&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-subtle-art-of-not-giving-a-f-ck-mark-manson%2F1123517507%3Fean%3D9780062457714&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSUBTLE%2BART%2BOF%2BNOT%2BGIVING%2BA%2BF%252ACK%2FMark%2BManson%2F9780062457714"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062457714"
+          "url": "https://bookshop.org/a/3546/9781400349678"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/059360265X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Joshua Giles",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593602652.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/736b5260-9425-5159-b581-7957a20021b8",
+      "contributor": "by Joshua Giles",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:37.258Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593602652",
+      "publisher": "WaterBrook",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SHIFT YOUR LIFE",
+      "updated_date": "2026-07-01T17:54:37.258Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593602652"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/059360265X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593602652?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780593602652"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShift-Your-Life%2FJoshua-Giles%2F9780593602652"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593602652"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gabe Poirot",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
+      "contributor": "by Gabe Poirot",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:07.722Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781667512549",
+      "publisher": "Harrison House",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "18 DAYS IN HEAVEN",
+      "updated_date": "2026-04-15T21:36:07.722Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781667512549"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781667512549"
         }
       ]
     }

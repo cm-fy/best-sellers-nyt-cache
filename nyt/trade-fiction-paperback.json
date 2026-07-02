@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/a32b36a5-1c5d-5c09-a8be-8055c22233ec",
+  "uri": "nyt://bestsellerslist/2dc7b968-1756-50d9-ba08-99b6edfd171c",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 52,
+      "weeks_on_list": 53,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:55:08.886Z",
+      "dagger": 0,
+      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593820254",
+      "publisher": "Ace",
+      "rank": 3,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "DUNGEON CRAWLER CARL",
+      "updated_date": "2026-07-01T20:55:08.886Z",
+      "weeks_on_list": 26,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593820254"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798688591507?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820254&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820254&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593820254"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
-      "rank": 4,
+      "rank": 5,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:21.805Z",
-      "dagger": 0,
-      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593820254",
-      "publisher": "Ace",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "DUNGEON CRAWLER CARL",
-      "updated_date": "2026-03-04T23:40:21.805Z",
-      "weeks_on_list": 25,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593820254"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820254?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820254&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820254&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820254"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781775293941",
       "publisher": "Bloom",
       "rank": 6,
-      "rank_last_week": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE MISTAKE",
       "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593952758?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ashley Poston",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593952757.jpg",
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 313,
       "book_review_link": "",
-      "book_uri": "nyt://book/ab74ea44-27f0-52ef-8501-96510e91d9b9",
-      "contributor": "by Ashley Poston",
+      "book_uri": "nyt://book/9161755e-78bb-5e4c-8778-33086f87bd6c",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-06-24T16:49:39.505Z",
+      "created_date": "2026-07-01T17:54:36.842Z",
       "dagger": 0,
-      "description": "Sophie Drear is hired to revitalize a manor in coastal Maine and discovers a secret garden where a mysterious figure dwells.",
+      "description": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593952757",
-      "publisher": "Berkley",
+      "primary_isbn13": "9781628860016",
+      "publisher": "Poisoned Pen",
       "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SOMEDAY GARDEN",
-      "updated_date": "2026-06-24T16:49:39.505Z",
+      "title": "THE HOUSEMAID'S WEDDING",
+      "updated_date": "2026-07-01T17:54:36.842Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593952757"
+          "isbn13": "9781628860016"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593952758?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593952757?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781628860016?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593952757&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-someday-garden-ashley-poston%2F1148361621%3Fean%3D9780593952757&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/?ean=9781628860016"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSomeday-Garden%2FAshley-Poston%2F9780593952757"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHousemaids-Wedding%2FFreida-McFadden%2F9781628860016"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593952757"
+          "url": "https://bookshop.org/a/3546/9781628860016"
         }
       ]
     },
@@ -421,11 +421,11 @@
       "primary_isbn13": "9781775293958",
       "publisher": "Bloom",
       "rank": 8,
-      "rank_last_week": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE SCORE",
       "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -477,11 +477,11 @@
       "primary_isbn13": "9780063204164",
       "publisher": "Ecco",
       "rank": 9,
-      "rank_last_week": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "REMARKABLY BRIGHT CREATURES",
       "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -533,11 +533,11 @@
       "primary_isbn13": "9780593438534",
       "publisher": "Berkley",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "EVERY SUMMER AFTER",
       "updated_date": "2026-05-20T18:34:34.112Z",
-      "weeks_on_list": 22,
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
@@ -569,118 +569,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Carley Fortune",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593638910.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/de287fb4-bfd9-51ea-b8f4-885865aa16ed",
-      "contributor": "by Carley Fortune",
-      "contributor_note": "",
-      "created_date": "2026-06-10T17:37:55.828Z",
-      "dagger": 0,
-      "description": "A photographer returns to a place where she spent a summer as a teenager and runs into the guy she had a crush on back then.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593638910",
-      "publisher": "Berkley",
-      "rank": 11,
-      "rank_last_week": 13,
-      "sunday_review_link": "",
-      "title": "ONE GOLDEN SUMMER",
-      "updated_date": "2026-06-10T17:37:55.828Z",
-      "weeks_on_list": 20,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593638910"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593638910?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593638910&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-golden-summer-carley-fortune%2F1146137717%3Fean%3D9780593638910&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BGOLDEN%2BSUMMER%2FCarley%2BFortune%2F9780593638910"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593638910"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Taylor Jenkins Reid",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
-      "book_image_height": 500,
-      "book_image_width": 368,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
-      "contributor": "by Taylor Jenkins Reid",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.612Z",
-      "dagger": 0,
-      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593158739",
-      "publisher": "Ballantine",
-      "rank": 12,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "ATMOSPHERE",
-      "updated_date": "2026-06-17T17:38:16.612Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593158739"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593158739"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -700,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293965",
       "publisher": "Bloom",
-      "rank": 13,
-      "rank_last_week": 10,
+      "rank": 11,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE GOAL",
       "updated_date": "2026-05-27T18:33:47.842Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -737,6 +625,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Taylor Jenkins Reid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
+      "book_image_height": 500,
+      "book_image_width": 368,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
+      "contributor": "by Taylor Jenkins Reid",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:16.612Z",
+      "dagger": 0,
+      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593158739",
+      "publisher": "Ballantine",
+      "rank": 12,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "ATMOSPHERE",
+      "updated_date": "2026-06-17T17:38:16.612Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593158739"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593158739"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -756,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593853979",
       "publisher": "Putnam",
-      "rank": 14,
-      "rank_last_week": 12,
+      "rank": 13,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "DOLLY ALL THE TIME",
       "updated_date": "2026-06-03T18:21:57.106Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464246750?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Meghan Quinn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246753.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Carley Fortune",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593638910.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/7471b3df-3a28-50c9-93f5-0c3583576b5e",
-      "contributor": "by Meghan Quinn",
+      "book_uri": "nyt://book/de287fb4-bfd9-51ea-b8f4-885865aa16ed",
+      "contributor": "by Carley Fortune",
       "contributor_note": "",
-      "created_date": "2026-05-27T21:18:42.416Z",
+      "created_date": "2026-06-10T17:37:55.828Z",
       "dagger": 0,
-      "description": "Renley Gossage, who bought a failing candy shop, and Theo Williams, who got engaged on a drunken dare, spend the summer in close proximity.",
+      "description": "A photographer returns to a place where she spent a summer as a teenager and runs into the guy she had a crush on back then.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464246753",
-      "publisher": "Bloom",
-      "rank": 15,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593638910",
+      "publisher": "Berkley",
+      "rank": 14,
+      "rank_last_week": 11,
       "sunday_review_link": "",
-      "title": "RULES FOR THE SUMMER",
-      "updated_date": "2026-05-27T21:18:42.416Z",
-      "weeks_on_list": 4,
+      "title": "ONE GOLDEN SUMMER",
+      "updated_date": "2026-06-10T17:37:55.828Z",
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464246753"
+          "isbn13": "9780593638910"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464246750?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464246753?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593638910?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246753&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frules-for-the-summer-meghan-quinn%2F1149140924%3Fean%3D9781464246753&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593638910&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-golden-summer-carley-fortune%2F1146137717%3Fean%3D9780593638910&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRules-Summer-Standard%2FMeghan-Quinn%2F9781464246753"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BGOLDEN%2BSUMMER%2FCarley%2BFortune%2F9780593638910"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464246753"
+          "url": "https://bookshop.org/a/3546/9780593638910"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538742570.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/34b29640-4b8c-59a9-8cf8-470356da1e2f",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-04-29T22:21:48.569Z",
+      "dagger": 0,
+      "description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538742570",
+      "publisher": "Grand Central",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE HOUSEMAID",
+      "updated_date": "2026-04-29T22:21:48.569Z",
+      "weeks_on_list": 162,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538742570"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781803144399?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538742570&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-housemaid-freida-mcfadden%2F1142009317%3Fean%3D9781538742570&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSEMAID%2FFreida%2BMcFadden%2F9781538742570"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538742570"
         }
       ]
     }

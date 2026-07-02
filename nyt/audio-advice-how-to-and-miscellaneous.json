@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 304,
-  "uri": "nyt://bestsellerslist/6e0edf01-08a3-5583-9667-9c49a2e0e524",
+  "uri": "nyt://bestsellerslist/5c01ccb9-0c76-5eab-a4c2-453901a2293a",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-06-10T20:13:58.685Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-06-10T20:13:58.945Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jen Hamilton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668656440.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/005d4b1e-d359-5805-9971-a19869734f74",
-      "contributor": "by Jen Hamilton",
-      "contributor_note": "",
-      "created_date": "2026-06-10T20:13:59.163Z",
-      "dagger": 0,
-      "description": "Read by the author. 11 hours, 15 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668656440",
-      "publisher": "Hachette Audio",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BIRTH VIBES",
-      "updated_date": "2026-06-10T20:13:59.163Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668656440"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668656440?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538771495&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbirth-vibes-jen-hamilton%2F1148495495%3Fean%3D9781538771495&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBirth-Vibes%2FJen-Hamilton%2F9781538771471"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538771471"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0140280197?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781622318643",
       "publisher": "HighBridge",
-      "rank": 4,
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE 48 LAWS OF POWER",
       "updated_date": "2026-06-03T19:42:37.869Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -238,13 +182,13 @@
       "asterisk": 0,
       "author": "Brianna Wiest",
       "book_image": "https://static01.nyt.com/bestsellers/images/DBKACX0303323.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/43008457-7db0-51c7-b791-b100e6125777",
       "contributor": "by Brianna Wiest",
       "contributor_note": "",
-      "created_date": "2026-06-10T20:13:59.346Z",
+      "created_date": "2026-07-01T21:01:14.196Z",
       "dagger": 0,
       "description": "Read by Stacey Glemboski. 5 hours, 44 minutes unabridged.",
       "first_chapter_link": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "DBKACX0303323",
       "publisher": "Thought Catalog",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE MOUNTAIN IS YOU",
-      "updated_date": "2026-06-10T20:13:59.346Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-07-01T21:01:14.196Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -274,8 +218,8 @@
           "url": "https://goto.applebooks.apple/9781662206610?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=A00B089DQRDSV"
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/the-mountain-is-you-brianna-wiest/1141829837?ean=2940175115810"
         },
         {
           "name": "Books-A-Million",
@@ -283,7 +227,7 @@
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781949759945"
+          "url": "https://bookshop.org/a/3546/9789355434142"
         }
       ]
     },
@@ -300,7 +244,7 @@
       "book_uri": "nyt://book/48d3065b-68d2-561a-b6ab-679299078f7e",
       "contributor": "by Chris Voss with Tahl Raz",
       "contributor_note": "",
-      "created_date": "2026-05-29T16:46:47.881Z",
+      "created_date": "2026-07-01T21:02:05.496Z",
       "dagger": 0,
       "description": "Read by Michael Kramer. 8 hours, 7 minutes unabridged.",
       "first_chapter_link": "",
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062471253",
       "publisher": "Harper Business",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "NEVER SPLIT THE DIFFERENCE",
-      "updated_date": "2026-05-29T16:46:47.881Z",
-      "weeks_on_list": 3,
+      "updated_date": "2026-07-01T21:02:05.496Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +289,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1544512279?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Mark Manson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062562982.jpg",
+      "author": "David Goggins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/DBKACX0133915.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/d77a3f49-23f6-50d2-afb8-9d049d189a0f",
-      "contributor": "by Mark Manson",
+      "book_uri": "nyt://book/d5342493-5872-51d8-82e4-1f5d234b5fe7",
+      "contributor": "by David Goggins",
       "contributor_note": "",
-      "created_date": "2026-06-03T19:45:12.068Z",
+      "created_date": "2026-07-01T21:02:57.591Z",
       "dagger": 0,
-      "description": "Read by Roger Wayne. 5 hours, 17 minutes unabridged.",
+      "description": "Read by Adam Skolnick and the author. 13 hours, 37 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780062562982",
-      "publisher": "Harper",
-      "rank": 7,
+      "primary_isbn13": "DBKACX0133915",
+      "publisher": "Lioncrest",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
-      "updated_date": "2026-06-03T19:45:12.068Z",
-      "weeks_on_list": 2,
+      "title": "CAN'T HURT ME",
+      "updated_date": "2026-07-01T21:02:57.591Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780062562982"
+          "isbn13": "DBKACX0133915"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1544512279?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062562982?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781544512273?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062457738&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-subtle-art-of-not-giving-a-f-ck-mark-manson%2F1123517507%3Fean%3D9780062457738&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/?ean=9781544512266"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520SUBTLE%2520ART%2520OF%2520NOT%2520GIVING%2520A%2520F*CK%2520by%2520Mark%2520Manson"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCant-Hurt%2FDavid-Goggins%2F9781544512273"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062457738"
+          "url": "https://bookshop.org/a/3546/9781544507859"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/007141858X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Leil Lowndes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781511305136.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5272eafe-7bdf-522c-99bd-e85296badee9",
+      "contributor": "by Leil Lowndes",
+      "contributor_note": "",
+      "created_date": "2026-07-01T21:04:20.267Z",
+      "dagger": 0,
+      "description": "Read by Joyce Bean and the author. 8 hours, 59 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781511305136",
+      "publisher": "Brilliance Audio",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO TALK TO ANYONE",
+      "updated_date": "2026-07-01T21:04:20.267Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781511305136"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/007141858X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780071418584?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780071433341"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Talk-Anyone%2FLeil-Lowndes%2F9780071418584"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780071418584"
         }
       ]
     },
@@ -425,7 +425,7 @@
       "sunday_review_link": "",
       "title": "DON'T BELIEVE EVERYTHING YOU THINK",
       "updated_date": "2026-06-10T20:13:59.495Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -457,62 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0764243667?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeremiah J. Johnston",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781545932223.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/313e236b-c1a9-539b-8643-0faee13f0614",
-      "contributor": "by Jeremiah J. Johnston",
-      "contributor_note": "",
-      "created_date": "2026-06-10T20:13:59.691Z",
-      "dagger": 0,
-      "description": "Read by Mike Lenz. 5 hours, 6 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781545932223",
-      "publisher": "Christian Audio",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE JESUS DISCOVERIES",
-      "updated_date": "2026-06-10T20:13:59.691Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781545932223"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0764243667?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781545932223?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781545932223"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520JESUS%2520DISCOVERIES%2520by%2520Jeremiah%2520J.%2520Johnston"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781545932223"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1878424319?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217170050",
       "publisher": "Penguin Audio",
-      "rank": 10,
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE FOUR AGREEMENTS",
       "updated_date": "2026-06-10T20:13:59.859Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781934408650"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Will Guidara",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593613313.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/567c59cf-52df-519e-bbf5-7086eff27b69",
+      "contributor": "by Will Guidara",
+      "contributor_note": "",
+      "created_date": "2026-07-01T17:54:39.609Z",
+      "dagger": 0,
+      "description": "Read by the author. 8 hours, 37 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593613313",
+      "publisher": "Penguin Audio",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "UNREASONABLE HOSPITALITY",
+      "updated_date": "2026-07-01T17:54:39.609Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593613313"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593613313?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780593418581"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnreasonable-Hospitality%2FWill-Guidara%2F9780593418574"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593418574"
         }
       ]
     }
