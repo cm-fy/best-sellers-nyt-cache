@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/0bee71e1-d633-5faf-8158-91387f76f6d1",
+  "uri": "nyt://bestsellerslist/0e2e9aa5-d9de-56aa-9f60-f7e83a581885",
   "books": [
     {
       "age_group": "Ages 14 and up",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9798217006120",
       "publisher": "Putnam",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE ESCAPE GAME",
       "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781665921268",
       "publisher": "Simon & Schuster",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780544824386",
       "publisher": "Clarion",
       "rank": 3,
-      "rank_last_week": 0,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE WAY THINGS WORK: NEWLY REVISED EDITION",
       "updated_date": "2026-07-01T20:45:18.253Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -176,62 +176,6 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tahereh Mafi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
-      "contributor": "by Tahereh Mafi",
-      "contributor_note": "",
-      "created_date": "2026-04-22T17:21:11.073Z",
-      "dagger": 0,
-      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063419056",
-      "publisher": "Storytide",
-      "rank": 4,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "RELEASE ME",
-      "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063419056"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063419056"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 34,
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +233,118 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tahereh Mafi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
+      "contributor": "by Tahereh Mafi",
+      "contributor_note": "",
+      "created_date": "2026-04-22T17:21:11.073Z",
+      "dagger": 0,
+      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063419056",
+      "publisher": "Storytide",
+      "rank": 5,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "RELEASE ME",
+      "updated_date": "2026-04-22T17:21:11.073Z",
+      "weeks_on_list": 13,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063419056"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063419056"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250878691?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily Varga",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250878694.jpg",
+      "book_image_height": 500,
+      "book_image_width": 369,
+      "book_review_link": "",
+      "book_uri": "nyt://book/df58d5bc-eda0-5129-b0ea-f690187eb847",
+      "contributor": "by Emily Varga",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:38.694Z",
+      "dagger": 0,
+      "description": "Yaseema and Kiyan fall in love while seeking an ancient relic that can save both of their worlds. (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250878694",
+      "publisher": "Wednesday",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE RIVER SHE BECAME",
+      "updated_date": "2026-07-08T17:19:38.694Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250878694"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250878691?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250878694?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250878694&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-river-she-became-emily-varga%2F1147243790%3Fean%3D9781250878694&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRiver-She-Became%2FEmily-Varga%2F9781250878694"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250878694"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217113026",
       "publisher": "Kokila",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE SECRET WORLD OF BRIAR ROSE",
       "updated_date": "2026-06-10T17:37:55.1Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -344,114 +400,114 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20",
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665990301.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
+      "author": "E. Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/4b1e1772-9041-5bdc-b1ec-a58248c36214",
-      "contributor": "by Lynn Painter",
+      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
+      "contributor": "by E. Kennedy",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:40:07.094Z",
+      "created_date": "2026-07-08T17:19:38.865Z",
       "dagger": 0,
-      "description": "Hopeless romantic Liz has a crush on Michael but finds out that she likes being around her neighbor Wes. (Ages 12 and up)",
+      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665990301",
-      "publisher": "Simon & Schuster",
-      "rank": 7,
-      "rank_last_week": 9,
+      "primary_isbn13": "9798217026500",
+      "publisher": "Delacorte",
+      "rank": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BETTER THAN THE MOVIES",
-      "updated_date": "2026-03-04T23:40:07.094Z",
-      "weeks_on_list": 20,
+      "title": "THORNBIRD",
+      "updated_date": "2026-07-08T17:19:38.865Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665990301"
+          "isbn13": "9798217026500"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665990301?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665990301&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetter-than-the-movies-lynn-painter%2F1137941902%3Fean%3D9781665990301&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBetter-Than-Movies-Collectors%2FLynn-Painter%2F9781665990301"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665990301"
+          "url": "https://bookshop.org/a/3546/9798217026500"
         }
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20",
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katie Abdou",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665984775.jpg",
+      "author": "Sarah Dessen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347108770.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 335,
       "book_review_link": "",
-      "book_uri": "nyt://book/01aa7486-741a-5d89-b3c3-6a9caf4ae7d8",
-      "contributor": "by Katie Abdou",
+      "book_uri": "nyt://book/9ad1fe25-b6b8-5847-b082-ff85e6a565c8",
+      "contributor": "by Sarah Dessen",
       "contributor_note": "",
-      "created_date": "2026-06-24T16:49:38.741Z",
+      "created_date": "2026-05-13T17:27:20.71Z",
       "dagger": 0,
-      "description": "In order to avoid an arranged marriage, Kit Davenport ends up aboard the Deliverance and meets the charismatic Captain Sharpe. (Ages 14 and up)",
+      "description": "The coming-of-age love story of a girl named Finley, who goes on a last-minute trip with her distant mother. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665984775",
-      "publisher": "Atheneum",
-      "rank": 8,
-      "rank_last_week": 3,
+      "primary_isbn13": "9798347108770",
+      "publisher": "Simon & Schuster",
+      "rank": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "A PRINCE AMONG PIRATES",
-      "updated_date": "2026-06-24T16:49:38.741Z",
-      "weeks_on_list": 2,
+      "title": "CHANGE OF PLANS",
+      "updated_date": "2026-05-13T17:27:20.71Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665984775"
+          "isbn13": "9798347108770"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665984775?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798347108770?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665984775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-prince-among-pirates-katie-abdou%2F1148559958%3Fean%3D9781665984775&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347108770&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchange-of-plans-sarah-dessen%2F1147844056%3Fean%3D9798347108770&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrince-Among-Pirates%2FKatie-Abdou%2F9781665984775"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChange-Plans%2FSarah-Dessen%2F9798347108770"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665984775"
+          "url": "https://bookshop.org/a/3546/9798347108770"
         }
       ]
     },
@@ -476,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250326997",
       "publisher": "Feiwel & Friends",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE HEIRS",
       "updated_date": "2026-06-10T17:37:55.273Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -508,62 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781250326997"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 16 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shannon J. Spann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
-      "contributor": "by Shannon J. Spann",
-      "contributor_note": "",
-      "created_date": "2026-02-24T22:20:24.062Z",
-      "dagger": 0,
-      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781649379511",
-      "publisher": "Mayhem",
-      "rank": 10,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "A STAGE SET FOR VILLAINS",
-      "updated_date": "2026-02-24T22:20:24.062Z",
-      "weeks_on_list": 13,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781649379511"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649379511"
         }
       ]
     }

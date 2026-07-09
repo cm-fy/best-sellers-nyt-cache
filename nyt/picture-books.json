@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/63015547-7040-5b4f-8ab2-7904247334a7",
+  "uri": "nyt://bestsellerslist/47607125-e544-5d1c-8e97-74038bc69047",
   "books": [
     {
       "age_group": "Ages 3 to 7",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9798217228560",
       "publisher": "Random House",
       "rank": 1,
-      "rank_last_week": 4,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "SING THE 50 UNITED STATES!",
       "updated_date": "2026-06-10T17:37:53.983Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780310184225",
       "publisher": "Zonderkidz",
       "rank": 2,
-      "rank_last_week": 6,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "AMERICA, I'M SO GLAD YOU WERE BORN",
       "updated_date": "2026-06-10T17:37:54.16Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9798217445820",
       "publisher": "Doubleday",
       "rank": 3,
-      "rank_last_week": 7,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "GIGANTIC",
       "updated_date": "2026-06-17T02:00:11.756Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -176,114 +176,58 @@
       ]
     },
     {
-      "age_group": "Ages 4 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/1728235871?tag=thenewyorktim-20",
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0063473976?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gregory E. Lang",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235875.jpg",
+      "author": "Neil Gorsuch and Janie Nitze",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063473973.jpg",
       "book_image_height": 500,
-      "book_image_width": 500,
+      "book_image_width": 411,
       "book_review_link": "",
-      "book_uri": "nyt://book/6d62a792-84e9-522f-b4fc-a2b79991f609",
-      "contributor": "by Gregory E. Lang. Illustrated by Gail Yerrill",
-      "contributor_note": "Illustrated by Gail Yerrill",
-      "created_date": "2026-05-27T18:33:46.416Z",
+      "book_uri": "nyt://book/773ebe36-82ee-52c0-bddd-a1466eeb2f0e",
+      "contributor": "by Neil Gorsuch and Janie Nitze. Illustrated by Chris Ellison",
+      "contributor_note": "Illustrated by Chris Ellison",
+      "created_date": "2026-05-13T17:27:19.514Z",
       "dagger": 0,
-      "description": "The bond between father and son. (Ages 4 to 7)",
+      "description": "A brief history of the Declaration of Independence. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781728235875",
-      "publisher": "Sourcebooks Wonderland",
+      "primary_isbn13": "9780063473973",
+      "publisher": "HarperCollins",
       "rank": 4,
-      "rank_last_week": 2,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WHY A SON NEEDS A DAD",
-      "updated_date": "2026-05-27T18:33:46.416Z",
-      "weeks_on_list": 23,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728235875"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728235871?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728235875?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235875&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-a-son-needs-a-dad-gregory-e-lang%2F1101113314%3Fean%3D9781728235875&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHY%2BA%2BSON%2BNEEDS%2BA%2BDAD%2FGregory%2BE.%2BLang.%2F9781728235875"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728235875"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 2 to 5",
-      "amazon_product_url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Luna Chi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780736446280.jpg",
-      "book_image_height": 500,
-      "book_image_width": 414,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0c7c39c8-d758-5d7e-a8fe-9fa1db0a6f10",
-      "contributor": "by Luna Chi. Illustrated by Mario Oscar Gabriele",
-      "contributor_note": "Illustrated by Mario Oscar Gabriele",
-      "created_date": "2026-06-17T17:38:15.832Z",
-      "dagger": 0,
-      "description": "It's toys versus tech in this adaptation of the latest \"Toy Story\" film. (Ages 2 to 5)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780736446280",
-      "publisher": "Golden/Disney",
-      "rank": 5,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "DISNEY AND PIXAR TOY STORY 5",
-      "updated_date": "2026-06-17T17:38:15.832Z",
+      "title": "HEROES OF 1776",
+      "updated_date": "2026-05-13T17:27:19.514Z",
       "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780736446280"
+          "isbn13": "9780063473973"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063473976?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780736446280?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063473973?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736446280&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdisney-and-pixar-toy-story-5-little-golden-book-golden-books%2F1148300189%3Fean%3D9780736446280&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063473973&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheroes-of-1776-neil-gorsuch%2F1148706470%3Fean%3D9780063473973&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDisney-Pixar-Toy-Story-Little%2FGolden-Books%2F9780736446280"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeroes-Story-Declaration-Independence%2FNeil-Gorsuch%2F9780063473973"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780736446280"
+          "url": "https://bookshop.org/a/3546/9780063473973"
         }
       ]
     },
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -344,187 +288,75 @@
       ]
     },
     {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 5",
+      "amazon_product_url": "https://www.amazon.com/dp/1454999624?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492669739.jpg",
-      "book_image_height": 330,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c45cf6ec-9c12-534e-99a7-c443a0d375ff",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-07-01T17:54:34.675Z",
-      "dagger": 0,
-      "description": "Children attempt to capture the mythical creature. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781492669739",
-      "publisher": "Sourcebooks Wonderland",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HOW TO CATCH A UNICORN",
-      "updated_date": "2026-07-01T17:54:34.675Z",
-      "weeks_on_list": 62,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781492669739"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492669739?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492669739&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-unicorn-adam-wallace%2F1128943354%3Fean%3D9781492669739&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BUNICORN%2FAdam%2BWallace.%2F9781492669739"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492669739"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 10",
-      "amazon_product_url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492680529.jpg",
+      "author": "Mo Willems",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781454999621.jpg",
       "book_image_height": 500,
-      "book_image_width": 500,
+      "book_image_width": 493,
       "book_review_link": "",
-      "book_uri": "nyt://book/0d1a3727-f06d-5193-a407-60ef9b68e363",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-07-01T17:54:34.833Z",
+      "book_uri": "nyt://book/c761ddd0-84eb-5822-a20d-5f723a6ae973",
+      "contributor": "by Mo Willems",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:18.578Z",
       "dagger": 0,
-      "description": "The How to Catch Kids try to wrangle a dinosaur for their school science fair. (Ages 4 to 10)",
+      "description": "The pigeon celebrates his birthday, but he’s not the only one. (Ages 3 to 5)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781492680529",
-      "publisher": "Sourcebooks Wonderland",
-      "rank": 8,
+      "primary_isbn13": "9781454999621",
+      "publisher": "Union Square Kids",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO CATCH A DINOSAUR",
-      "updated_date": "2026-07-01T17:54:34.833Z",
+      "title": "IT'S MY BIRD-DAY!",
+      "updated_date": "2026-04-08T18:13:18.578Z",
       "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781492680529"
+          "isbn13": "9781454999621"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1454999624?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492680529?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781454999621?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492680529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-dinosaur-adam-wallace%2F1129678150%3Fean%3D9781492680529&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454999621&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fits-my-bird-day-mo-willems%2F1148180769%3Fean%3D9781454999621&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BDINOSAUR%2FAdam%2BWallace.%2F9781492680529"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIts-My-Bird-Day%2FMo-Willems%2F9781454999621"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492680529"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/031631062X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Christopher Denise",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316310628.jpg",
-      "book_image_height": 500,
-      "book_image_width": 410,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bbd04a2c-756c-5097-9fe6-2de0224fa148",
-      "contributor": "by Christopher Denise",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:34.973Z",
-      "dagger": 0,
-      "description": "A young owl must prove himself when an intruder comes to the castle. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316310628",
-      "publisher": "Little, Brown/Christy Ottaviano",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "KNIGHT OWL",
-      "updated_date": "2026-07-01T17:54:34.973Z",
-      "weeks_on_list": 23,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316310628"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/031631062X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316310628?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316310628&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fknight-owl-christopher-denise%2F1138787292%3Fean%3D9780316310628&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKNIGHT%2BOWL%2FChristopher%2BDenise%2F9780316310628"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316310628"
+          "url": "https://bookshop.org/a/3546/9781454999621"
         }
       ]
     },
     {
       "age_group": "Ages 3 to 7",
-      "amazon_product_url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Emily Winfield Martin",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image_height": 500,
+      "book_image_width": 475,
       "book_review_link": "",
       "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
       "contributor": "by Emily Winfield Martin",
       "contributor_note": "",
-      "created_date": "2026-05-20T18:34:31.919Z",
+      "created_date": "2026-07-08T17:19:37.607Z",
       "dagger": 0,
       "description": "A celebration of future possibilities. (Ages 3 to 7)",
       "first_chapter_link": "",
@@ -532,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385376716",
       "publisher": "Random House",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE WONDERFUL THINGS YOU WILL BE",
-      "updated_date": "2026-05-20T18:34:31.919Z",
-      "weeks_on_list": 466,
+      "updated_date": "2026-07-08T17:19:37.607Z",
+      "weeks_on_list": 467,
       "isbns": [
         {
           "isbn10": "",
@@ -547,23 +379,191 @@
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
           "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984848819&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9781984848819&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BWONDERFUL%2BTHINGS%2BYOU%2BWILL%2BBE%2FEmily%2BWinfield%2BMartin%2F9780385376716"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
         },
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780385376716"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 2 to 5",
+      "amazon_product_url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Luna Chi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736446280.jpg",
+      "book_image_height": 500,
+      "book_image_width": 414,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0c7c39c8-d758-5d7e-a8fe-9fa1db0a6f10",
+      "contributor": "by Luna Chi. Illustrated by Mario Oscar Gabriele",
+      "contributor_note": "Illustrated by Mario Oscar Gabriele",
+      "created_date": "2026-06-17T17:38:15.832Z",
+      "dagger": 0,
+      "description": "It's toys versus tech in this adaptation of the latest \"Toy Story\" film. (Ages 2 to 5)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780736446280",
+      "publisher": "Golden/Disney",
+      "rank": 8,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "DISNEY AND PIXAR TOY STORY 5",
+      "updated_date": "2026-06-17T17:38:15.832Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780736446280"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0736446281?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780736446280?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736446280&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdisney-and-pixar-toy-story-5-little-golden-book-golden-books%2F1148300189%3Fean%3D9780736446280&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDisney-Pixar-Toy-Story-Little%2FGolden-Books%2F9780736446280"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780736446280"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 5",
+      "amazon_product_url": "https://www.amazon.com/dp/0803736800?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Rubin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780803736801.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/25d4f970-1f30-515b-a88c-691b4854bc63",
+      "contributor": "by Adam Rubin. Illustrated by Daniel Salmieri",
+      "contributor_note": "Illustrated by Daniel Salmieri",
+      "created_date": "2026-07-08T17:19:37.749Z",
+      "dagger": 0,
+      "description": "What to serve your dragon-guests. (Ages 3 to 5)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780803736801",
+      "publisher": "Dial",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DRAGONS LOVE TACOS",
+      "updated_date": "2026-07-08T17:19:37.749Z",
+      "weeks_on_list": 496,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780803736801"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0803736800?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780803736801?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780803736801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragons-love-tacos-adam-rubin%2F1107389326%3Fean%3D9780803736801&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragons-Love-Tacos%2FAdam-Rubin%2F9780803736801"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780803736801"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0063387840?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Schertle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063387843.jpg",
+      "book_image_height": 405,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fe17b579-d410-5ac9-a44a-dc1cda483aa6",
+      "contributor": "by Alice Schertle. Illustrated by Jill McElmurry",
+      "contributor_note": "Illustrated by Jill McElmurry",
+      "created_date": "2026-07-08T17:19:37.896Z",
+      "dagger": 0,
+      "description": "Red challenges Blue to a race. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063387843",
+      "publisher": "Clarion",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LITTLE BLUE TRUCK AND RACER RED",
+      "updated_date": "2026-07-08T17:19:37.896Z",
+      "weeks_on_list": 26,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063387843"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063387840?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063387843?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063387843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flittle-blue-truck-and-racer-red-alice-schertle%2F1146289963%3Fean%3D9780063387843&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLITTLE%2BBLUE%2BTRUCK%2BAND%2BRACER%2BRED%2FAlice%2BSchertle.%2F9780063387843"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063387843"
         }
       ]
     }

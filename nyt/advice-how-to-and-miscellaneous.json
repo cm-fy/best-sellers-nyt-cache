@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/bca4b48a-2897-59df-9057-9be8de34f862",
+  "uri": "nyt://bestsellerslist/042914fa-c3b9-5008-b80b-5bfb058f1659",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 79,
+      "weeks_on_list": 80,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 344,
+      "weeks_on_list": 345,
       "isbns": [
         {
           "isbn10": "",
@@ -121,113 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "William H. McRaven",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Gabe Poirot",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
-      "contributor": "by William H. McRaven",
+      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
+      "contributor": "by Gabe Poirot",
       "contributor_note": "",
-      "created_date": "2026-05-27T21:16:16.066Z",
+      "created_date": "2026-04-15T21:36:07.722Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781455570249",
-      "publisher": "Grand Central",
+      "primary_isbn13": "9781667512549",
+      "publisher": "Harrison House",
       "rank": 3,
-      "rank_last_week": 4,
+      "rank_last_week": 10,
       "sunday_review_link": "",
-      "title": "MAKE YOUR BED",
-      "updated_date": "2026-05-27T21:16:16.066Z",
-      "weeks_on_list": 151,
+      "title": "18 DAYS IN HEAVEN",
+      "updated_date": "2026-04-15T21:36:07.722Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781455570249"
+          "isbn13": "9781667512549"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781455570249"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Charlie Mackesy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994825.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3474b3bb-37e6-5aea-8d76-12fe28e25a3f",
-      "contributor": "by Charlie Mackesy",
-      "contributor_note": "",
-      "created_date": "2026-02-24T22:20:28.318Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593994825",
-      "publisher": "Penguin Life",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ALWAYS REMEMBER: THE BOY, THE MOLE, THE FOX, THE HORSE AND THE STORM",
-      "updated_date": "2026-02-24T22:20:28.318Z",
-      "weeks_on_list": 17,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593994825"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593994825?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994825&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falways-remember-charlie-mackesy%2F1147435644%3Fean%3D9780593994825&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlways-Remember%2FCharlie-Mackesy%2F9780593994825"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593994825"
+          "url": "https://bookshop.org/a/3546/9781667512549"
         }
       ]
     },
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 5,
-      "rank_last_week": 6,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -289,113 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Joseph Nguyen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310153.jpg",
-      "book_image_height": 500,
-      "book_image_width": 313,
+      "author": "William H. McRaven",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
-      "contributor": "by Joseph Nguyen",
+      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
+      "contributor": "by William H. McRaven",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:36.98Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798893310153",
-      "publisher": "Authors Equity",
-      "rank": 6,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
-      "updated_date": "2026-07-01T17:54:36.98Z",
-      "weeks_on_list": 60,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798893310153"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798893310153?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310153&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-believe-everything-you-think-joseph-nguyen%2F1141623542%3Fean%3D9798893310153&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Believe-Everything-Think-Expanded%2FJoseph-Nguyen%2F9798893310153"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798893310153"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1954210566?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sarah Ahn and Nam Soon Ahn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781954210561.jpg",
-      "book_image_height": 500,
-      "book_image_width": 406,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1f6a0d23-f17c-541e-a8f5-81fba9f28573",
-      "contributor": "by Sarah Ahn and Nam Soon Ahn",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:37.112Z",
+      "created_date": "2026-05-27T21:16:16.066Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781954210561",
-      "publisher": "America's Test Kitchen",
-      "rank": 7,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781455570249",
+      "publisher": "Grand Central",
+      "rank": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "UMMA",
-      "updated_date": "2026-07-01T17:54:37.112Z",
-      "weeks_on_list": 2,
+      "title": "MAKE YOUR BED",
+      "updated_date": "2026-05-27T21:16:16.066Z",
+      "weeks_on_list": 152,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781954210561"
+          "isbn13": "9781455570249"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1954210566?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781954210561?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954210561&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fumma-sarah-ahn%2F1146332974%3Fean%3D9781954210561&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUMMA%2FSarah%2BAhn%2Band%2BNam%2BSoon%2BAhn%2F9781954210561"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781954210561"
+          "url": "https://bookshop.org/a/3546/9781455570249"
         }
       ]
     },
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400349678",
       "publisher": "Thomas Nelson",
-      "rank": 8,
-      "rank_last_week": 5,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE KING IS COMING",
       "updated_date": "2026-06-17T17:38:17.164Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +345,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059360265X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Joshua Giles",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593602652.jpg",
+      "author": "Joseph Nguyen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310153.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 313,
       "book_review_link": "",
-      "book_uri": "nyt://book/736b5260-9425-5159-b581-7957a20021b8",
-      "contributor": "by Joshua Giles",
+      "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
+      "contributor": "by Joseph Nguyen",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:37.258Z",
+      "created_date": "2026-07-08T18:31:31.184Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593602652",
-      "publisher": "WaterBrook",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9798893310153",
+      "publisher": "Authors Equity",
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "SHIFT YOUR LIFE",
-      "updated_date": "2026-07-01T17:54:37.258Z",
-      "weeks_on_list": 1,
+      "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
+      "updated_date": "2026-07-08T18:31:31.184Z",
+      "weeks_on_list": 61,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593602652"
+          "isbn13": "9798893310153"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059360265X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593602652?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798893310153?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780593602652"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310153&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-believe-everything-you-think-joseph-nguyen%2F1141623542%3Fean%3D9798893310153&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShift-Your-Life%2FJoshua-Giles%2F9780593602652"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Believe-Everything-Think-Expanded%2FJoseph-Nguyen%2F9798893310153"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593602652"
+          "url": "https://bookshop.org/a/3546/9798893310153"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1419775685?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gabe Poirot",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
+      "author": "Phil Szostak",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419775680.jpg",
+      "book_image_height": 475,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
-      "contributor": "by Gabe Poirot",
+      "book_uri": "nyt://book/2cbe2aad-9501-56ee-84c4-7b8b3ffc3d46",
+      "contributor": "by Phil Szostak",
       "contributor_note": "",
-      "created_date": "2026-04-15T21:36:07.722Z",
+      "created_date": "2026-07-08T17:19:39.529Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781667512549",
-      "publisher": "Harrison House",
-      "rank": 10,
-      "rank_last_week": 7,
+      "primary_isbn13": "9781419775680",
+      "publisher": "Abrams",
+      "rank": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "18 DAYS IN HEAVEN",
-      "updated_date": "2026-04-15T21:36:07.722Z",
-      "weeks_on_list": 7,
+      "title": "THE ART OF STAR WARS: ANDOR (THE COMPLETE SERIES)",
+      "updated_date": "2026-07-08T17:19:39.529Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781667512549"
+          "isbn13": "9781419775680"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1419775685?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781419775680?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419775680&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-star-wars-phillip-szostak%2F1147799377%3Fean%3D9781419775680&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Star-Wars%2FPhillip-Szostak%2F9781419775680"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781667512549"
+          "url": "https://bookshop.org/a/3546/9781419775680"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Charlie Mackesy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994825.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3474b3bb-37e6-5aea-8d76-12fe28e25a3f",
+      "contributor": "by Charlie Mackesy",
+      "contributor_note": "",
+      "created_date": "2026-02-24T22:20:28.318Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593994825",
+      "publisher": "Penguin Life",
+      "rank": 9,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "ALWAYS REMEMBER: THE BOY, THE MOLE, THE FOX, THE HORSE AND THE STORM",
+      "updated_date": "2026-02-24T22:20:28.318Z",
+      "weeks_on_list": 18,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593994825"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593994825?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994825&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falways-remember-charlie-mackesy%2F1147435644%3Fean%3D9780593994825&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlways-Remember%2FCharlie-Mackesy%2F9780593994825"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593994825"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/059323006X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Brooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593230084.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e5917951-4f0d-5f13-a957-8a40f8817a24",
+      "contributor": "by David Brooks",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.646Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593230084",
+      "publisher": "Random House",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO KNOW A PERSON",
+      "updated_date": "2026-07-08T17:19:39.646Z",
+      "weeks_on_list": 22,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593230084"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/059323006X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593230084?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593230084&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-know-a-person-david-brooks%2F1143044416%3Fean%3D9780593230084&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BKNOW%2BA%2BPERSON%2FDavid%2BBrooks%2F9780593230084"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593230084"
         }
       ]
     }

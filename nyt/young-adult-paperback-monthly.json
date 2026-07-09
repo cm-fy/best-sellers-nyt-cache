@@ -126,13 +126,13 @@
       "asterisk": 0,
       "author": "Laura Steven",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781250346797.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/ca873686-c9fb-5bcb-b765-d17edf1964f6",
       "contributor": "by Laura Steven",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:36.377Z",
+      "created_date": "2026-07-02T19:24:46.77Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -144,7 +144,7 @@
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "EVERY EXQUISITE THING",
-      "updated_date": "2026-07-01T17:54:36.377Z",
+      "updated_date": "2026-07-02T19:24:46.77Z",
       "weeks_on_list": 1,
       "isbns": [
         {
@@ -162,8 +162,8 @@
           "url": "https://goto.applebooks.apple/9781250346797?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781250346797"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250346797&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fevery-exquisite-thing-laura-steven%2F1143169862%3Fean%3D9781250346797&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -182,13 +182,13 @@
       "asterisk": 0,
       "author": "K.L. Walther",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781464289460.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/bd13a85f-e874-5176-b90e-a53d3b87e4c2",
       "contributor": "by K.L. Walther",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:36.535Z",
+      "created_date": "2026-07-02T19:25:26.739Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -200,7 +200,7 @@
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE SUMMER OF SECOND CHANCES",
-      "updated_date": "2026-07-01T17:54:36.535Z",
+      "updated_date": "2026-07-02T19:25:26.739Z",
       "weeks_on_list": 2,
       "isbns": [
         {
@@ -218,8 +218,8 @@
           "url": "https://goto.applebooks.apple/9781464289460?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781464289460"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464289460&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-summer-of-second-chances-k-l-walther%2F1148080951%3Fean%3D9781464289460&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -356,9 +356,9 @@
       "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
       "contributor": "by Markus Zusak",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:45:18.398Z",
+      "created_date": "2026-07-07T20:23:43.581Z",
       "dagger": 0,
-      "description": "",
+      "description": "A girl saves books from Nazi burning.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
@@ -368,7 +368,7 @@
       "rank_last_week": 0,
       "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
       "title": "THE BOOK THIEF",
-      "updated_date": "2026-07-01T20:45:18.398Z",
+      "updated_date": "2026-07-07T20:23:43.581Z",
       "weeks_on_list": 62,
       "isbns": [
         {
@@ -386,8 +386,8 @@
           "url": "https://goto.applebooks.apple/9780375842207?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780375842207"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375842207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-thief-markus-zusak%2F1100189892%3Fean%3D9780375842207&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",

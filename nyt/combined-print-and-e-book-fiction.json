@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/8df448b0-f384-566a-9f09-4da9e4391af0",
+  "uri": "nyt://bestsellerslist/e80c4237-9174-5427-8ace-b7ab14bea7ea",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ann Patchett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511637.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6480f0ac-57e1-5272-9566-118c913fe058",
-      "contributor": "by Ann Patchett",
-      "contributor_note": "",
-      "created_date": "2026-06-10T21:51:30.058Z",
-      "dagger": 0,
-      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063511637",
-      "publisher": "Harper",
-      "rank": 3,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "WHISTLER",
-      "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063511637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063511637?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063511637"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 4,
-      "rank_last_week": 7,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +177,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "author": "Ann Patchett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511637.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
+      "book_uri": "nyt://book/6480f0ac-57e1-5272-9566-118c913fe058",
+      "contributor": "by Ann Patchett",
       "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
+      "created_date": "2026-06-10T21:51:30.058Z",
       "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 5,
-      "rank_last_week": 4,
+      "primary_isbn13": "9780063511637",
+      "publisher": "Harper",
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 55,
+      "title": "WHISTLER",
+      "updated_date": "2026-06-10T21:51:30.058Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593135228"
+          "isbn13": "9780063511637"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063511637?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511637&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
+          "url": "https://bookshop.org/a/3546/9780063511637"
         }
       ]
     },
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 6,
-      "rank_last_week": 8,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 25,
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
+      "contributor_note": "",
+      "created_date": "2026-05-20T22:02:25.385Z",
+      "dagger": 0,
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 56,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593135228"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593135228"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -365,11 +365,11 @@
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
       "rank": 7,
-      "rank_last_week": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -401,113 +401,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Danielle Steel",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973110.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Rina Kent",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464245640.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
       "book_review_link": "",
-      "book_uri": "nyt://book/236d8de3-dfaf-566b-9a1e-4b4e3f34814a",
-      "contributor": "by Danielle Steel",
+      "book_uri": "nyt://book/0c4ecc3a-2fdc-5bb9-96db-9d57eb970579",
+      "contributor": "by Rina Kent",
       "contributor_note": "",
-      "created_date": "2026-07-01T18:58:06.689Z",
+      "created_date": "2026-07-08T17:19:39.799Z",
       "dagger": 0,
-      "description": "The daughter of a celebrated wedding dress designer becomes engaged and the women in the family contend with relationship complications.",
+      "description": "The third book in the Vipers series. The relationship between hockey rivals may change.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593973110",
-      "publisher": "Delacorte",
+      "primary_isbn13": "9781464245640",
+      "publisher": "Bloom",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WEDDINGS",
-      "updated_date": "2026-07-01T18:58:06.689Z",
+      "title": "TEMPTING VENOM",
+      "updated_date": "2026-07-08T17:19:39.799Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593973110"
+          "isbn13": "9781464245640"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593973110?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464245640?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780593973110"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464245640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftempting-venom-rina-kent%2F1148080961%3Fean%3D9781464245640&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWeddings%2FDanielle-Steel%2F9780593973110"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTempting-Venom-Deluxe%2FRina-Kent%2F9781464245640"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593973110"
+          "url": "https://bookshop.org/a/3546/9781464245640"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lisa Jewell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668033906.jpg",
+      "author": "Jenny Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/4581a2c9-8d89-5bc7-842c-f18914ebedea",
-      "contributor": "by Lisa Jewell",
+      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
+      "contributor": "by Jenny Jackson",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:45:18.547Z",
+      "created_date": "2026-07-08T17:19:39.93Z",
       "dagger": 0,
-      "description": "When a teenager is reported missing, Jane Trevally visits a house that holds unsettling memories for her.",
+      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668033906",
-      "publisher": "Atria",
+      "primary_isbn13": "9798217059959",
+      "publisher": "Pamela Dorman",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "IT COULD HAVE BEEN HER",
-      "updated_date": "2026-07-01T20:45:18.547Z",
+      "title": "THE SHAMPOO EFFECT",
+      "updated_date": "2026-07-08T17:19:39.93Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668033906"
+          "isbn13": "9798217059959"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668033906?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668033906&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fit-could-have-been-her-lisa-jewell%2F1148540193%3Fean%3D9781668033906&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCould-Been-Her%2FLisa-Jewell%2F9781668033906"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668033906"
+          "url": "https://bookshop.org/a/3546/9798217059959"
         }
       ]
     },
@@ -533,11 +533,11 @@
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -589,11 +589,11 @@
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
       "rank": 11,
-      "rank_last_week": 12,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -645,11 +645,11 @@
       "primary_isbn13": "9781775293941",
       "publisher": "Bloom",
       "rank": 12,
-      "rank_last_week": 10,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE MISTAKE",
       "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -701,11 +701,11 @@
       "primary_isbn13": "9781775293958",
       "publisher": "Bloom",
       "rank": 13,
-      "rank_last_week": 11,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE SCORE",
       "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTF3Y45S?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293965.jpg",
+      "author": "Jayne Castle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217187386.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/f9b0290b-f9a4-5610-aa38-e826b89988cc",
-      "contributor": "by Elle Kennedy",
+      "book_uri": "nyt://book/352b0abe-1cf6-58b6-9fea-571381bedd23",
+      "contributor": "by Jayne Castle",
       "contributor_note": "",
-      "created_date": "2026-05-27T18:33:47.842Z",
+      "created_date": "2026-07-08T18:31:31.344Z",
       "dagger": 0,
-      "description": "The fourth book in the Off-Campus series. Pregnancy complicates things between a college senior and a hockey player.",
+      "description": "The 19th book in the Harmony series.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781775293965",
-      "publisher": "Bloom",
+      "primary_isbn13": "9798217187386",
+      "publisher": "Berkley",
       "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE GOAL",
-      "updated_date": "2026-05-27T18:33:47.842Z",
-      "weeks_on_list": 2,
+      "title": "ENTER THE NIGHTMARE",
+      "updated_date": "2026-07-08T18:31:31.344Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781775293965"
+          "isbn13": "9798217187386"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FTF3Y45S?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293965?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217187386?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-goal-elle-kennedy%2F1124458795%3Fean%3D9781775293965&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217187386&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fenter-the-nightmare-jayne-castle%2F1148429447%3Fean%3D9798217187386&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoal%2FElle-Kennedy%2F9781775293965"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEnter-Nightmare%2FJayne-Castle%2F9798217187379"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293965"
+          "url": "https://bookshop.org/a/3546/9798217187386"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Carley Fortune",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593953242.jpg",
+      "author": "Shelby Van Pelt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 332,
       "book_review_link": "",
-      "book_uri": "nyt://book/7c31d52e-f772-5ed7-967e-812a9d7f26b4",
-      "contributor": "by Carley Fortune",
+      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
+      "contributor": "by Shelby Van Pelt",
       "contributor_note": "",
-      "created_date": "2026-05-13T17:27:22.856Z",
+      "created_date": "2026-05-20T22:38:49.21Z",
       "dagger": 0,
-      "description": "After her fiancé leaves her, Frankie goes on her planned honeymoon trip with her best friend from childhood, George.",
+      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593953242",
-      "publisher": "Berkley",
+      "primary_isbn13": "9780063204164",
+      "publisher": "Ecco",
       "rank": 15,
-      "rank_last_week": 15,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "OUR PERFECT STORM",
-      "updated_date": "2026-05-13T17:27:22.856Z",
-      "weeks_on_list": 6,
+      "title": "REMARKABLY BRIGHT CREATURES",
+      "updated_date": "2026-05-20T22:38:49.21Z",
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593953242"
+          "isbn13": "9780063204164"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593953242?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593953242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-perfect-storm-carley-fortune%2F1148089562%3Fean%3D9780593953242&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Perfect-Storm%2FCarley-Fortune%2F9780593953242"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593953242"
+          "url": "https://bookshop.org/a/3546/9780063204164"
         }
       ]
     }

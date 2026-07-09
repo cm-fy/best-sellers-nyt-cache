@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/2dc7b968-1756-50d9-ba08-99b6edfd171c",
+  "uri": "nyt://bestsellerslist/699d9dad-c9be-5ef1-a527-dcca0520a7ad",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 53,
+      "weeks_on_list": 54,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rina Kent",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464245640.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0c4ecc3a-2fdc-5bb9-96db-9d57eb970579",
+      "contributor": "by Rina Kent",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.799Z",
+      "dagger": 0,
+      "description": "The third book in the Vipers series. The relationship between hockey rivals may change.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464245640",
+      "publisher": "Bloom",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "TEMPTING VENOM",
+      "updated_date": "2026-07-08T17:19:39.799Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464245640"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464245640?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464245640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftempting-venom-rina-kent%2F1148080961%3Fean%3D9781464245640&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTempting-Venom-Deluxe%2FRina-Kent%2F9781464245640"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464245640"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 3,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -177,62 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.241Z",
-      "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293934",
-      "publisher": "Bloom",
-      "rank": 4,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293934"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293934"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
       "rank": 5,
-      "rank_last_week": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:35.241Z",
+      "dagger": 0,
+      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293934",
+      "publisher": "Bloom",
+      "rank": 6,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE DEAL",
+      "updated_date": "2026-05-20T18:34:35.241Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293934"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293934"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293941",
       "publisher": "Bloom",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE MISTAKE",
       "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -345,118 +401,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
-      "book_image_height": 500,
-      "book_image_width": 313,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9161755e-78bb-5e4c-8778-33086f87bd6c",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:36.842Z",
-      "dagger": 0,
-      "description": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781628860016",
-      "publisher": "Poisoned Pen",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE HOUSEMAID'S WEDDING",
-      "updated_date": "2026-07-01T17:54:36.842Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781628860016"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781628860016?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781628860016"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHousemaids-Wedding%2FFreida-McFadden%2F9781628860016"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781628860016"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:49.019Z",
-      "dagger": 0,
-      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293958",
-      "publisher": "Bloom",
-      "rank": 8,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE SCORE",
-      "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293958"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293958"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063204164",
       "publisher": "Ecco",
-      "rank": 9,
+      "rank": 8,
       "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "REMARKABLY BRIGHT CREATURES",
       "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -513,6 +457,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-27T18:33:49.019Z",
+      "dagger": 0,
+      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293958",
+      "publisher": "Bloom",
+      "rank": 9,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE SCORE",
+      "updated_date": "2026-05-27T18:33:49.019Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293958"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293958"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9161755e-78bb-5e4c-8778-33086f87bd6c",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-07-02T17:49:39.19Z",
+      "dagger": 0,
+      "description": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781628860016",
+      "publisher": "Poisoned Pen",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE HOUSEMAID'S WEDDING",
+      "updated_date": "2026-07-02T17:49:39.19Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781628860016"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781628860016?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781628860016&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-housemaids-wedding-freida-mcfadden%2F1149365138%3Fean%3D9781628860016&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHousemaids-Wedding%2FFreida-McFadden%2F9781628860016"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781628860016"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593438531?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593438534",
       "publisher": "Berkley",
-      "rank": 10,
+      "rank": 11,
       "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "EVERY SUMMER AFTER",
       "updated_date": "2026-05-20T18:34:34.112Z",
-      "weeks_on_list": 23,
+      "weeks_on_list": 24,
       "isbns": [
         {
           "isbn10": "",
@@ -569,174 +625,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293965.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f9b0290b-f9a4-5610-aa38-e826b89988cc",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:47.842Z",
-      "dagger": 0,
-      "description": "The fourth book in the Off-Campus series. Pregnancy complicates things between a college senior and a hockey player.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293965",
-      "publisher": "Bloom",
-      "rank": 11,
-      "rank_last_week": 13,
-      "sunday_review_link": "",
-      "title": "THE GOAL",
-      "updated_date": "2026-05-27T18:33:47.842Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293965"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293965?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-goal-elle-kennedy%2F1124458795%3Fean%3D9781775293965&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoal%2FElle-Kennedy%2F9781775293965"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293965"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Taylor Jenkins Reid",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
-      "book_image_height": 500,
-      "book_image_width": 368,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
-      "contributor": "by Taylor Jenkins Reid",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.612Z",
-      "dagger": 0,
-      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593158739",
-      "publisher": "Ballantine",
-      "rank": 12,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "ATMOSPHERE",
-      "updated_date": "2026-06-17T17:38:16.612Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593158739"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593158739"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annabel Monaghan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593853979.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a4c2a7c9-004a-5a79-b161-fba14b8ecd82",
-      "contributor": "by Annabel Monaghan",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:57.106Z",
-      "dagger": 0,
-      "description": "When Dolly agrees to help Stewart after his public breakup, things might evolve into something more.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593853979",
-      "publisher": "Putnam",
-      "rank": 13,
-      "rank_last_week": 14,
-      "sunday_review_link": "",
-      "title": "DOLLY ALL THE TIME",
-      "updated_date": "2026-06-03T18:21:57.106Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593853979"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593853979?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593853979&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-all-the-time-annabel-monaghan%2F1148118343%3Fean%3D9780593853979&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-All-Time%2FAnnabel-Monaghan%2F9798217349197"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593853979"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593638913?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -756,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593638910",
       "publisher": "Berkley",
-      "rank": 14,
-      "rank_last_week": 11,
+      "rank": 12,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "ONE GOLDEN SUMMER",
       "updated_date": "2026-06-10T17:37:55.828Z",
-      "weeks_on_list": 21,
+      "weeks_on_list": 22,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538742570.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Taylor Jenkins Reid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
+      "book_image_height": 500,
+      "book_image_width": 368,
       "book_review_link": "",
-      "book_uri": "nyt://book/34b29640-4b8c-59a9-8cf8-470356da1e2f",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
+      "contributor": "by Taylor Jenkins Reid",
       "contributor_note": "",
-      "created_date": "2026-04-29T22:21:48.569Z",
+      "created_date": "2026-06-17T17:38:16.612Z",
       "dagger": 0,
-      "description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters; the basis of the movie.",
+      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781538742570",
-      "publisher": "Grand Central",
-      "rank": 15,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593158739",
+      "publisher": "Ballantine",
+      "rank": 13,
+      "rank_last_week": 12,
       "sunday_review_link": "",
-      "title": "THE HOUSEMAID",
-      "updated_date": "2026-04-29T22:21:48.569Z",
-      "weeks_on_list": 162,
+      "title": "ATMOSPHERE",
+      "updated_date": "2026-06-17T17:38:16.612Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781538742570"
+          "isbn13": "9780593158739"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781803144399?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538742570&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-housemaid-freida-mcfadden%2F1142009317%3Fean%3D9781538742570&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSEMAID%2FFreida%2BMcFadden%2F9781538742570"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538742570"
+          "url": "https://bookshop.org/a/3546/9780593158739"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Pierce Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780345539809.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/56e017f1-a5bc-5e04-ac89-d638b3623579",
+      "contributor": "by Pierce Brown",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.242Z",
+      "dagger": 0,
+      "description": "Darrow, a member of the lowest rung of a society on Mars in the future, mixes in with humanity’s overlords in the hopes of taking them down.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780345539809",
+      "publisher": "Del Rey",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RED RISING",
+      "updated_date": "2026-07-08T17:19:39.242Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780345539809"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780345539809?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780345539809&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fred-rising-pierce-brown%2F1110614785%3Fean%3D9780345539809&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRed-Rising%2FPierce-Brown%2F9780345539809"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780345539809"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293965.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f9b0290b-f9a4-5610-aa38-e826b89988cc",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-27T18:33:47.842Z",
+      "dagger": 0,
+      "description": "The fourth book in the Off-Campus series. Pregnancy complicates things between a college senior and a hockey player.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293965",
+      "publisher": "Bloom",
+      "rank": 15,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "THE GOAL",
+      "updated_date": "2026-05-27T18:33:47.842Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293965"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293963?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293965?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-goal-elle-kennedy%2F1124458795%3Fean%3D9781775293965&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoal%2FElle-Kennedy%2F9781775293965"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293965"
         }
       ]
     }

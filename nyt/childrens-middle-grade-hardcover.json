@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/8bcc9bda-9f08-5ef9-8dc0-710b9d482645",
+  "uri": "nyt://bestsellerslist/0cd5e9b9-d981-56ca-b708-8fc39c0ab2eb",
   "books": [
     {
       "age_group": "Ages 8 to 12",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:45:18.098Z",
+      "created_date": "2026-07-08T18:31:31.041Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-07-01T20:45:18.098Z",
-      "weeks_on_list": 549,
+      "updated_date": "2026-07-08T18:31:31.041Z",
+      "weeks_on_list": 550,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -145,7 +145,7 @@
       "sunday_review_link": "",
       "title": "KPOP DEMON HUNTERS",
       "updated_date": "2026-04-08T18:13:19.077Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "UNSETTLING SALAD!",
       "updated_date": "2026-02-24T22:20:23.151Z",
-      "weeks_on_list": 20,
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
@@ -232,6 +232,62 @@
       ]
     },
     {
+      "age_group": "Ages 10 to 14",
+      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan and Mark Oshiro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
+      "contributor": "by Rick Riordan and Mark Oshiro",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:06.042Z",
+      "dagger": 0,
+      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368109116",
+      "publisher": "Disney Hyperion",
+      "rank": 5,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE COURT OF THE DEAD",
+      "updated_date": "2026-03-04T23:40:06.042Z",
+      "weeks_on_list": 41,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368109116"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368109116"
+        }
+      ]
+    },
+    {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250904362",
       "publisher": "Feiwel & Friends",
-      "rank": 5,
+      "rank": 6,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "POCKET BEAR",
       "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593809907",
       "publisher": "Knopf",
-      "rank": 6,
-      "rank_last_week": 9,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE POISONED KING",
       "updated_date": "2026-03-04T23:40:06.576Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665989817",
       "publisher": "Simon & Schuster",
-      "rank": 7,
-      "rank_last_week": 8,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "GROWING HOME",
       "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -400,118 +456,6 @@
       ]
     },
     {
-      "age_group": "Ages 10 to 14",
-      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan and Mark Oshiro",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
-      "contributor": "by Rick Riordan and Mark Oshiro",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:06.042Z",
-      "dagger": 0,
-      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368109116",
-      "publisher": "Disney Hyperion",
-      "rank": 8,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE COURT OF THE DEAD",
-      "updated_date": "2026-03-04T23:40:06.042Z",
-      "weeks_on_list": 40,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368109116"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368109116"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
-      "book_image_height": 495,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
-      "contributor": "by Alan Gratz",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:05.762Z",
-      "dagger": 0,
-      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780545880831",
-      "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "REFUGEE",
-      "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 320,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780545880831"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780545880831"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1338736108?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338736106",
       "publisher": "Scholastic",
-      "rank": 10,
+      "rank": 9,
       "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "WAR GAMES",
       "updated_date": "2026-03-11T22:40:16.123Z",
-      "weeks_on_list": 27,
+      "weeks_on_list": 28,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781338736106"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alan Gratz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
+      "book_image_height": 495,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
+      "contributor": "by Alan Gratz",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:05.762Z",
+      "dagger": 0,
+      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780545880831",
+      "publisher": "Scholastic",
+      "rank": 10,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "REFUGEE",
+      "updated_date": "2026-03-04T23:40:05.762Z",
+      "weeks_on_list": 321,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780545880831"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780545880831"
         }
       ]
     }

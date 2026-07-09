@@ -233,30 +233,30 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0547577311?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/Long-Walk-Water-Based-Story/dp/0547577311?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Linda Sue Park",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780547577319.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_height": 495,
+      "book_image_width": 328,
       "book_review_link": "",
       "book_uri": "nyt://book/72728168-095d-521b-90d2-2380bdc74220",
       "contributor": "by Linda Sue Park",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:35:44.22Z",
+      "created_date": "2026-07-07T15:15:49.68Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9780547577319",
-      "publisher": "Clarion",
+      "publisher": "Houghton Mifflin Harcourt",
       "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "A LONG WALK TO WATER",
-      "updated_date": "2026-06-03T18:35:44.22Z",
+      "updated_date": "2026-07-07T15:15:49.68Z",
       "weeks_on_list": 80,
       "isbns": [
         {
@@ -267,19 +267,19 @@
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0547577311?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/Long-Walk-Water-Based-Story/dp/0547577311?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
           "url": "https://goto.applebooks.apple/9780547577319?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780547577319&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-long-walk-to-water-linda-sue-park%2F1100179784%3Fean%3D9780547577319&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780547577319"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLong-Walk-Water%2FLinda-Sue-Park%2F9780547577319"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BLONG%2BWALK%2BTO%2BWATER%2FLinda%2BSue%2BPark%2F9780547577319"
         },
         {
           "name": "Bookshop.org",
@@ -350,13 +350,13 @@
       "asterisk": 0,
       "author": "William Kamkwamba and Bryan Mealer",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780147510426.jpg",
-      "book_image_height": 495,
-      "book_image_width": 313,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/4f159983-be87-5d5e-8bba-e91c16d4f09c",
       "contributor": "by William Kamkwamba and Bryan Mealer. Illustrated by Anna Hymas",
       "contributor_note": "Illustrated by Anna Hymas",
-      "created_date": "2026-07-01T17:54:35.926Z",
+      "created_date": "2026-07-02T19:23:36.642Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -368,7 +368,7 @@
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE BOY WHO HARNESSED THE WIND",
-      "updated_date": "2026-07-01T17:54:35.926Z",
+      "updated_date": "2026-07-02T19:23:36.642Z",
       "weeks_on_list": 9,
       "isbns": [
         {
@@ -386,7 +386,7 @@
           "url": "https://goto.applebooks.apple/9780147510426?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780147510426&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-boy-who-harnessed-the-wind-william-kamkwamba%2F1109136621%3Fean%3D9780147510426&intsrc=APIG_15890"
         },
         {
