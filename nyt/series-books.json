@@ -5,61 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/9d536637-9b36-5924-898f-0d1f8e5c3ba4",
+  "uri": "nyt://bestsellerslist/a57ad4b5-c69b-5573-91ee-f1500f035e84",
   "books": [
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FT8PD5VL?tag=thenewyorktim-20",
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Leigh Bardugo",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798337404356.jpg",
+      "author": "Suzanne Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780439023528.jpg",
       "book_image_height": 500,
-      "book_image_width": 354,
+      "book_image_width": 327,
       "book_review_link": "",
-      "book_uri": "nyt://book/ea312948-32c2-5814-b9ce-7c7f6912e89d",
-      "contributor": "by Leigh Bardugo",
+      "book_uri": "nyt://book/074eaba5-6d04-5f14-bc2b-de8d2016c125",
+      "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:38.044Z",
+      "created_date": "2026-07-08T18:31:30.697Z",
       "dagger": 0,
-      "description": "Kaz Brekker leads a team of criminal outcasts in the city of Ketterdam. (Ages 12 to 18)",
+      "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798337404356",
-      "publisher": "Square Fish, Insight Editions",
+      "primary_isbn13": "9780439023528",
+      "publisher": "Scholastic",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "SIX OF CROWS",
-      "updated_date": "2026-07-08T17:19:38.044Z",
-      "weeks_on_list": 1,
+      "title": "THE HUNGER GAMES",
+      "updated_date": "2026-07-08T18:31:30.697Z",
+      "weeks_on_list": 431,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798337404356"
+          "isbn13": "9780439023528"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FT8PD5VL?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798337404356?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780439023528?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798337404356&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsix-of-crows-leigh-bardugo%2F1148424030%3Fean%3D9798337404356&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439023528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hunger-games-suzanne-collins%2F1100171585%3Fean%3D9780439023528&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSix-Crows%2FLeigh-Bardugo%2F9798337404356"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHunger-Games-Book-One%2FSuzanne-Collins%2F9780439023528"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798337404356"
+          "url": "https://bookshop.org/a/3546/9780439023528"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 903,
+      "weeks_on_list": 904,
       "isbns": [
         {
           "isbn10": "",
@@ -121,169 +121,57 @@
     },
     {
       "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Suzanne Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780439023528.jpg",
+      "author": "Megan Shepherd",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736447256.jpg",
       "book_image_height": 500,
-      "book_image_width": 327,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/074eaba5-6d04-5f14-bc2b-de8d2016c125",
-      "contributor": "by Suzanne Collins",
+      "book_uri": "nyt://book/3a1c8bac-dba4-5df1-974f-b8184513a083",
+      "contributor": "by Megan Shepherd",
       "contributor_note": "",
-      "created_date": "2026-07-08T18:31:30.697Z",
+      "created_date": "2026-07-15T16:43:31.004Z",
       "dagger": 0,
-      "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
+      "description": "The adventures of Sally, the Pumpkin Queen of Halloween Town. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780439023528",
-      "publisher": "Scholastic",
+      "primary_isbn13": "9780736447256",
+      "publisher": "Random House/Disney",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE HUNGER GAMES",
-      "updated_date": "2026-07-08T18:31:30.697Z",
-      "weeks_on_list": 430,
+      "title": "THE PUMPKIN QUEEN",
+      "updated_date": "2026-07-15T16:43:31.004Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780439023528"
+          "isbn13": "9780736447256"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780439023528?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780736447256?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439023528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hunger-games-suzanne-collins%2F1100171585%3Fean%3D9780439023528&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736447256&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshadow-over-the-pumpkin-queen-megan-shepherd%2F1148640581%3Fean%3D9780736447256&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHunger-Games-Book-One%2FSuzanne-Collins%2F9780439023528"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Over-Pumpkin-Queen%2FMegan-Shepherd%2F9780736447256"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439023528"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593651529?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Holly Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593651520.jpg",
-      "book_image_height": 500,
-      "book_image_width": 394,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b66bfd52-5267-5512-9ff6-ea7dbba61a34",
-      "contributor": "by Holly Jackson",
-      "contributor_note": "",
-      "created_date": "2026-07-08T18:31:30.878Z",
-      "dagger": 0,
-      "description": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593651520",
-      "publisher": "Delacorte",
-      "rank": 4,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "A GOOD GIRL'S GUIDE TO MURDER",
-      "updated_date": "2026-07-08T18:31:30.878Z",
-      "weeks_on_list": 226,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593651520"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593651529?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593651520?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593651520&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-good-girls-guide-to-murder-complete-series-paperback-boxed-set-holly-jackson%2F1141705435%3Fean%3D9780593651520&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGood-Girls-Guide-Murder-Complete%2FHolly-Jackson%2F9780593651520"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593651520"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tui T. Sutherland",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
-      "contributor": "by Tui T. Sutherland",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.079Z",
-      "dagger": 0,
-      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546129547",
-      "publisher": "Scholastic",
-      "rank": 5,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "WINGS OF FIRE",
-      "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 249,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781546129547"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546129547"
+          "url": "https://bookshop.org/a/3546/9780736447256"
         }
       ]
     },
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
-      "rank": 6,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 835,
+      "weeks_on_list": 836,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 902,
+      "weeks_on_list": 903,
       "isbns": [
         {
           "isbn10": "",
@@ -400,6 +288,118 @@
       ]
     },
     {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tui T. Sutherland",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
+      "contributor": "by Tui T. Sutherland",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.079Z",
+      "dagger": 0,
+      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546129547",
+      "publisher": "Scholastic",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "WINGS OF FIRE",
+      "updated_date": "2026-03-12T21:08:22.079Z",
+      "weeks_on_list": 250,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546129547"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546129547"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Holly Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217116775.jpg",
+      "book_image_height": 500,
+      "book_image_width": 362,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9cbddc9c-e57c-5e04-af89-c2c44135025c",
+      "contributor": "by Holly Jackson",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:23.465Z",
+      "dagger": 0,
+      "description": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217116775",
+      "publisher": "Delacorte",
+      "rank": 7,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "A GOOD GIRL'S GUIDE TO MURDER",
+      "updated_date": "2026-03-12T21:08:23.465Z",
+      "weeks_on_list": 227,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217116775"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217116775?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217116775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-good-girls-guide-to-murder-holly-jackson%2F1147236329%3Fean%3D9798217116775&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGood-Girls-Guide-Murder%2FHolly-Jackson%2F9798217116775"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217116775"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 7 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -421,11 +421,11 @@
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
       "rank": 8,
-      "rank_last_week": 3,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 124,
+      "weeks_on_list": 125,
       "isbns": [
         {
           "isbn10": "",
@@ -481,7 +481,7 @@
       "sunday_review_link": "",
       "title": "BOYS OF TOMMEN",
       "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 79,
+      "weeks_on_list": 80,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 17",
-      "amazon_product_url": "https://www.amazon.com/dp/0316540625?tag=thenewyorktim-20",
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "http://www.amazon.com/The-Giver-Readers-Circle-Laurel-Leaf/dp/0440237688?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jennifer Lynn Barnes",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316540629.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "book_image_height": 495,
+      "book_image_width": 294,
       "book_review_link": "",
-      "book_uri": "nyt://book/23210429-91f9-5889-9a22-987faabda5f5",
-      "contributor": "by Jennifer Lynn Barnes",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
       "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.593Z",
+      "created_date": "2026-07-15T16:43:31.15Z",
       "dagger": 0,
-      "description": "Cassie Hobbes joins the Naturals, an F.B.I. program for teens with intrinsic crime-solving abilities. (Ages 12 to 17)",
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316540629",
-      "publisher": "Little, Brown",
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
       "rank": 10,
-      "rank_last_week": 10,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE NATURALS",
-      "updated_date": "2026-05-20T18:34:32.593Z",
-      "weeks_on_list": 4,
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-07-15T16:43:31.15Z",
+      "weeks_on_list": 177,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316540629"
+          "isbn13": "9780544336261"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316540625?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/The-Giver-Readers-Circle-Laurel-Leaf/dp/0440237688?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316540629?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316540629&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-naturals-jennifer-lynn-barnes%2F1114702216%3Fean%3D9780316540629&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/?ean=9780544336261"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNaturals%2FJennifer-Lynn-Barnes%2F9780316540629"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGIVER%2BQUARTET%2FLois%2BLowry%2F9780544336261"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316540629"
+          "url": "https://bookshop.org/a/3546/9780544336261"
         }
       ]
     }

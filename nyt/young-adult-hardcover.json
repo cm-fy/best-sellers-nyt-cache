@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/0e2e9aa5-d9de-56aa-9f60-f7e83a581885",
+  "uri": "nyt://bestsellerslist/5f2db53d-6de1-5256-ba70-08cfab1b55fa",
   "books": [
     {
       "age_group": "Ages 14 and up",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE ESCAPE GAME",
       "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -120,62 +120,6 @@
       ]
     },
     {
-      "age_group": "Ages 11 to 15",
-      "amazon_product_url": "https://www.amazon.com/dp/0544824385?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "David Macaulay",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544824386.jpg",
-      "book_image_height": 500,
-      "book_image_width": 388,
-      "book_review_link": "",
-      "book_uri": "nyt://book/67bb62af-0409-5a64-8e99-a925864eef6e",
-      "contributor": "by David Macaulay",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:45:18.253Z",
-      "dagger": 0,
-      "description": "A look at how technology impacts our lives. (Ages 11 to 15)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544824386",
-      "publisher": "Clarion",
-      "rank": 3,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE WAY THINGS WORK: NEWLY REVISED EDITION",
-      "updated_date": "2026-07-01T20:45:18.253Z",
-      "weeks_on_list": 13,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544824386"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544824385?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544824386?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544824386&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-way-things-work-david-macaulay%2F1147018377%3Fean%3D9780544824386&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWay-Things-Work%2FDavid-Macaulay%2F9780544824386"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544824386"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063419056",
       "publisher": "Storytide",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "RELEASE ME",
       "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -288,62 +232,6 @@
       ]
     },
     {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250878691?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Varga",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250878694.jpg",
-      "book_image_height": 500,
-      "book_image_width": 369,
-      "book_review_link": "",
-      "book_uri": "nyt://book/df58d5bc-eda0-5129-b0ea-f690187eb847",
-      "contributor": "by Emily Varga",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:38.694Z",
-      "dagger": 0,
-      "description": "Yaseema and Kiyan fall in love while seeking an ancient relic that can save both of their worlds. (Ages 13 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250878694",
-      "publisher": "Wednesday",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE RIVER SHE BECAME",
-      "updated_date": "2026-07-08T17:19:38.694Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250878694"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250878691?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250878694?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250878694&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-river-she-became-emily-varga%2F1147243790%3Fean%3D9781250878694&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRiver-She-Became%2FEmily-Varga%2F9781250878694"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250878694"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217113026",
       "publisher": "Kokila",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE SECRET WORLD OF BRIAR ROSE",
       "updated_date": "2026-06-10T17:37:55.1Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -400,62 +288,6 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "E. Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
-      "contributor": "by E. Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:38.865Z",
-      "dagger": 0,
-      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217026500",
-      "publisher": "Delacorte",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THORNBIRD",
-      "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217026500"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217026500"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -476,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347108770",
       "publisher": "Simon & Schuster",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "CHANGE OF PLANS",
       "updated_date": "2026-05-13T17:27:20.71Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -512,6 +344,118 @@
       ]
     },
     {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katie Abdou",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665984775.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01aa7486-741a-5d89-b3c3-6a9caf4ae7d8",
+      "contributor": "by Katie Abdou",
+      "contributor_note": "",
+      "created_date": "2026-06-24T16:49:38.741Z",
+      "dagger": 0,
+      "description": "In order to avoid an arranged marriage, Kit Davenport ends up aboard the Deliverance and meets the charismatic Captain Sharpe. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665984775",
+      "publisher": "Atheneum",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A PRINCE AMONG PIRATES",
+      "updated_date": "2026-06-24T16:49:38.741Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665984775"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665984775?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665984775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-prince-among-pirates-katie-abdou%2F1148559958%3Fean%3D9781665984775&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrince-Among-Pirates%2FKatie-Abdou%2F9781665984775"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665984775"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rachel Griffin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728256184.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4474e589-c79f-5393-a34d-fd893b1aa82d",
+      "contributor": "by Rachel Griffin",
+      "contributor_note": "",
+      "created_date": "2026-02-25T23:37:57.803Z",
+      "dagger": 0,
+      "description": "The Starmaker senses a powerful magic within Aurora Finch and requests that she come study under his tutelage. (Ages 14 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728256184",
+      "publisher": "Sourcebooks Fire",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SUN AND THE STARMAKER",
+      "updated_date": "2026-02-25T23:37:57.803Z",
+      "weeks_on_list": 16,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728256184"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728256184?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728256184&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-sun-and-the-starmaker-rachel-griffin%2F1147295429%3Fean%3D9781728256184&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSun-Starmaker%2FRachel-Griffin%2F9781728256184"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728256184"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1250326990?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250326997",
       "publisher": "Feiwel & Friends",
-      "rank": 10,
-      "rank_last_week": 9,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE HEIRS",
       "updated_date": "2026-06-10T17:37:55.273Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781250326997"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rebecca Ross",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250857439.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec",
+      "contributor": "by Rebecca Ross",
+      "contributor_note": "",
+      "created_date": "2026-07-14T17:46:21.008Z",
+      "dagger": 0,
+      "description": "Two young rival journalists find love through a magical connection. (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250857439",
+      "publisher": "Wednesday",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DIVINE RIVALS",
+      "updated_date": "2026-07-14T17:46:21.008Z",
+      "weeks_on_list": 104,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250857439"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250857430?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250857439&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdivine-rivals-rebecca-ross%2F1141344106%3Fean%3D9781250857439&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250857439"
         }
       ]
     }

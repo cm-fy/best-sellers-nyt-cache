@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/8a782cb1-100b-59b8-afe1-3c14f269cd30",
+  "uri": "nyt://bestsellerslist/de8665f7-344a-54ba-96b2-46c64c6ffa7d",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kathryn Stockett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
-      "contributor": "by Kathryn Stockett",
-      "contributor_note": "",
-      "created_date": "2026-05-13T21:30:50.865Z",
-      "dagger": 0,
-      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781954118812",
-      "publisher": "Spiegel & Grau",
-      "rank": 2,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE CALAMITY CLUB",
-      "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 9,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781954118812"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781954118812"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +121,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jenny Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Kathryn Stockett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
-      "contributor": "by Jenny Jackson",
+      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
+      "contributor": "by Kathryn Stockett",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.93Z",
+      "created_date": "2026-05-13T21:30:50.865Z",
       "dagger": 0,
-      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217059959",
-      "publisher": "Pamela Dorman",
-      "rank": 4,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781954118812",
+      "publisher": "Spiegel & Grau",
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "THE SHAMPOO EFFECT",
-      "updated_date": "2026-07-08T17:19:39.93Z",
-      "weeks_on_list": 1,
+      "title": "THE CALAMITY CLUB",
+      "updated_date": "2026-05-13T21:30:50.865Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217059959"
+          "isbn13": "9781954118812"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217059959"
+          "url": "https://bookshop.org/a/3546/9781954118812"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593819489?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820247.jpg",
+      "author": "Brigitte Knightley",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593819487.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/b684926b-80a9-5829-9c38-876d4d3382b7",
-      "contributor": "by Matt Dinniman",
+      "book_uri": "nyt://book/763a9cb8-1bf2-5295-8bdb-a1635acbfaed",
+      "contributor": "by Brigitte Knightley",
       "contributor_note": "",
-      "created_date": "2026-05-20T18:34:30.288Z",
+      "created_date": "2026-07-15T16:43:32.778Z",
       "dagger": 0,
-      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
+      "description": "The second book in the Dearly Beloathed series. Boundaries weaken between an assassin and a healer.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593820247",
+      "primary_isbn13": "9780593819487",
       "publisher": "Ace",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DUNGEON CRAWLER CARL",
-      "updated_date": "2026-05-20T18:34:30.288Z",
-      "weeks_on_list": 15,
+      "title": "THE EXQUISITE TORMENT OF LOVING YOUR ENEMY",
+      "updated_date": "2026-07-15T16:43:32.778Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593820247"
+          "isbn13": "9780593819487"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593819489?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820247?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593819487?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820247&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593819487&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-exquisite-torment-of-loving-your-enemy-brigitte-knightley%2F1148477233%3Fean%3D9780593819487&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820247"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExquisite-Torment-Loving-Your-Enemy%2FBrigitte-Knightley%2F9780593819487"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820247"
+          "url": "https://bookshop.org/a/3546/9780593819487"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593600320?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily Giffin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593600320.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/04ecd139-b764-54a9-8753-b6fe7d9332bb",
+      "contributor": "by Emily Giffin",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:32.638Z",
+      "dagger": 0,
+      "description": "Shortly after becoming engaged, Billie receives a call from her first love that compels her to return to Wisconsin.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593600320",
+      "publisher": "Ballantine",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LOVE YOU MORE",
+      "updated_date": "2026-07-15T16:43:32.638Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593600320"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593600320?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593600320?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593600320&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flove-you-more-emily-giffin%2F1148477297%3Fean%3D9780593600320&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-More%2FEmily-Giffin%2F9780593600320"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593600320"
         }
       ]
     },
@@ -313,7 +313,7 @@
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 36,
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -369,7 +369,7 @@
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-07-01T15:37:32.806Z",
-      "weeks_on_list": 25,
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
@@ -401,6 +401,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jenny Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
+      "contributor": "by Jenny Jackson",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.93Z",
+      "dagger": 0,
+      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059959",
+      "publisher": "Pamela Dorman",
+      "rank": 8,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE SHAMPOO EFFECT",
+      "updated_date": "2026-07-08T17:19:39.93Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059959"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059959"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820282?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820285",
       "publisher": "Ace",
-      "rank": 8,
+      "rank": 9,
       "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
       "updated_date": "2026-07-08T17:19:36.545Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -457,169 +513,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lisa Jewell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668033906.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820247.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/4581a2c9-8d89-5bc7-842c-f18914ebedea",
-      "contributor": "by Lisa Jewell",
+      "book_uri": "nyt://book/b684926b-80a9-5829-9c38-876d4d3382b7",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:45:18.547Z",
+      "created_date": "2026-05-20T18:34:30.288Z",
       "dagger": 0,
-      "description": "When a teenager is reported missing, Jane Trevally visits a house that holds unsettling memories for her.",
+      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668033906",
-      "publisher": "Atria",
-      "rank": 9,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "IT COULD HAVE BEEN HER",
-      "updated_date": "2026-07-01T20:45:18.547Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668033906"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668033909?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668033906?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668033906&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fit-could-have-been-her-lisa-jewell%2F1148540193%3Fean%3D9781668033906&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCould-Been-Her%2FLisa-Jewell%2F9781668033906"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668033906"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Carley Fortune",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593953242.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c31d52e-f772-5ed7-967e-812a9d7f26b4",
-      "contributor": "by Carley Fortune",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:22.856Z",
-      "dagger": 0,
-      "description": "After her fiancé leaves her, Frankie goes on her planned honeymoon trip with her best friend from childhood, George.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593953242",
-      "publisher": "Berkley",
+      "primary_isbn13": "9780593820247",
+      "publisher": "Ace",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "OUR PERFECT STORM",
-      "updated_date": "2026-05-13T17:27:22.856Z",
-      "weeks_on_list": 9,
+      "title": "DUNGEON CRAWLER CARL",
+      "updated_date": "2026-05-20T18:34:30.288Z",
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593953242"
+          "isbn13": "9780593820247"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059395324X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593953242?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820247?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593953242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-perfect-storm-carley-fortune%2F1148089562%3Fean%3D9780593953242&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820247&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Perfect-Storm%2FCarley-Fortune%2F9780593953242"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820247"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593953242"
+          "url": "https://bookshop.org/a/3546/9780593820247"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593320646?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FV8DD8YS?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Maggie O'Farrell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593320648.jpg",
+      "author": "Daniel Mason",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217197453.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/06/02/books/review/land-maggie-ofarrell.html",
-      "book_uri": "nyt://book/b54720bd-793f-539a-9a80-3369f95e658b",
-      "contributor": "by Maggie O'Farrell",
+      "book_image_width": 337,
+      "book_review_link": "https://www.nytimes.com/2026/07/05/books/review/country-people-daniel-mason.html",
+      "book_uri": "nyt://book/896b1571-a31a-537e-968d-98c0144909dc",
+      "contributor": "by Daniel Mason",
       "contributor_note": "",
-      "created_date": "2026-06-10T17:37:57.053Z",
+      "created_date": "2026-07-15T16:43:29.754Z",
       "dagger": 0,
-      "description": "While assisting his father on a project to map all of Ireland in 1865, a boy must work around the ways a disturbing encounter affects his father.",
+      "description": "When his wife accepts a visiting professorship in Vermont, Miles encounters a story that may have more to it than seems at first glance.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593320648",
-      "publisher": "Knopf",
+      "primary_isbn13": "9798217197453",
+      "publisher": "Random House",
       "rank": 11,
-      "rank_last_week": 10,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LAND",
-      "updated_date": "2026-06-10T17:37:57.053Z",
-      "weeks_on_list": 5,
+      "title": "COUNTRY PEOPLE",
+      "updated_date": "2026-07-15T16:43:29.754Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593320648"
+          "isbn13": "9798217197453"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593320646?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FV8DD8YS?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593320648?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217197453?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593320648&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fland-maggie-ofarrell%2F1148177455%3Fean%3D9780593320648&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217197453&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcountry-people-daniel-mason%2F1148477334%3Fean%3D9798217197453&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand%2FMaggie-OFarrell%2F9780593320648"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCountry-People%2FDaniel-Mason%2F9798217197453"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593320648"
+          "url": "https://bookshop.org/a/3546/9798217197453"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1638493456?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Travis Deverell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638493457.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2dac0171-ee1d-535d-871f-3e4bbbc1d829",
+      "contributor": "by Travis Deverell",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:51:57.136Z",
+      "dagger": 0,
+      "description": "A middle manager at an office supplies store becomes an interdimensional adventurer.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638493457",
+      "publisher": "AETHON: Vault",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HE WHO FIGHTS WITH MONSTERS, BOOK 1: OUTWORLDER",
+      "updated_date": "2026-07-15T16:51:57.136Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638493457"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1638493456?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://books.apple.com/us/book/he-who-fights-with-monsters-1/id6759267070"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638494355&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhe-who-fights-with-monsters-book-1-travis-deverell%2F1149543389%3Fean%3D9781638494355&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHe-Who-Fights-Monsters-Book%2FTravis-Deverell%2F9781638493457"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781638493457"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955994.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ed5d8c7e-78fc-53ed-a79c-a374413b2e20",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T16:02:38.9Z",
+      "dagger": 0,
+      "description": "The fifth book in the \"Dungeon Crawler Carl\" series. The action moves to the sixth floor, which is known as the Hunting Grounds.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593955994",
+      "publisher": "Ace",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE BUTCHER'S MASQUERADE",
+      "updated_date": "2026-07-01T16:02:38.9Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593955994"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593955994?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955994&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-butchers-masquerade-matt-dinniman%2F1146460803%3Fean%3D9780593955994&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBUTCHER%2527S%2BMASQUERADE%2FMatt%2BDinniman%2F9780593955994"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593955994"
         }
       ]
     },
@@ -644,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593955970",
       "publisher": "Ace",
-      "rank": 12,
-      "rank_last_week": 13,
+      "rank": 14,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE GATE OF THE FERAL GODS",
       "updated_date": "2026-07-01T16:41:58.139Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -681,169 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668216361?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Patterson and Matt Eversmann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316600118.jpg",
-      "book_image_height": 500,
-      "book_image_width": 318,
-      "book_review_link": "",
-      "book_uri": "nyt://book/fab3b975-30c8-5442-887a-38166cd06b2b",
-      "contributor": "by James Patterson and Matt Eversmann",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:18.071Z",
-      "dagger": 0,
-      "description": "A murder interrupts a presidential campaign and Nat Phillips leads a team of special operators.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316600118",
-      "publisher": "Little, Brown",
-      "rank": 13,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "ROCKET'S RED GLARE",
-      "updated_date": "2026-06-17T17:38:18.071Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316600118"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316600113?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316600118?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316600118&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frockets-red-glare-james-patterson%2F1148562851%3Fean%3D9780316600118&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRockets-Red-Glare%2FJames-Patterson%2F9780316600118"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316600118"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Danielle Steel",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973110.jpg",
+      "author": "Ben Reeves",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668216361.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/236d8de3-dfaf-566b-9a1e-4b4e3f34814a",
-      "contributor": "by Danielle Steel",
+      "book_uri": "nyt://book/0aabb526-e40f-5bb7-b2fa-b0ed908cd12d",
+      "contributor": "by Ben Reeves",
       "contributor_note": "",
-      "created_date": "2026-07-02T17:48:04.302Z",
+      "created_date": "2026-07-15T16:53:37.508Z",
       "dagger": 0,
-      "description": "The daughter of a celebrated wedding dress designer becomes engaged and the women in the family contend with relationship complications.",
+      "description": "A man who gives comfort to those who are dying bonds with a midwife and her daughter.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593973110",
-      "publisher": "Delacorte",
-      "rank": 14,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781668216361",
+      "publisher": "Avid Reader",
+      "rank": 15,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WEDDINGS",
-      "updated_date": "2026-07-02T17:48:04.302Z",
-      "weeks_on_list": 2,
+      "title": "EVERYTHING WAS BEAUTIFUL AND NOTHING HURT",
+      "updated_date": "2026-07-15T16:53:37.508Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593973110"
+          "isbn13": "9781668216361"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593973119?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668216361?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593973110?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668216361?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593973110&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fweddings-danielle-steel%2F1148361648%3Fean%3D9780593973110&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668216361&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feverything-was-beautiful-and-nothing-hurt-ben-reeves%2F1148560163%3Fean%3D9781668216361&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWeddings%2FDanielle-Steel%2F9780593973110"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEverything-Was-Beautiful-Nothing-Hurt%2FBen-Reeves%2F9781668216361"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593973110"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217190065.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c633032-8b5d-5fbd-a14b-7e43c0e8df79",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-08T18:31:30.263Z",
-      "dagger": 0,
-      "description": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217190065",
-      "publisher": "Ace",
-      "rank": 15,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "A PARADE OF HORRIBLES",
-      "updated_date": "2026-07-08T18:31:30.263Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217190065"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217190065?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-parade-of-horribles-matt-dinniman%2F1148612407%3Fean%3D9798217190065&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FParade-Horribles%2FMatt-Dinniman%2F9798217190065"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217190065"
+          "url": "https://bookshop.org/a/3546/9781668216361"
         }
       ]
     }

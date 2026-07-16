@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/042914fa-c3b9-5008-b80b-5bfb058f1659",
+  "uri": "nyt://bestsellerslist/174a8014-589f-5ab9-8d13-1066fdfe300c",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 80,
+      "weeks_on_list": 81,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 345,
+      "weeks_on_list": 346,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781667512549",
       "publisher": "Harrison House",
       "rank": 3,
-      "rank_last_week": 10,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "18 DAYS IN HEAVEN",
       "updated_date": "2026-04-15T21:36:07.722Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
       "rank": 4,
-      "rank_last_week": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "William H. McRaven",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
-      "contributor": "by William H. McRaven",
-      "contributor_note": "",
-      "created_date": "2026-05-27T21:16:16.066Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781455570249",
-      "publisher": "Grand Central",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "MAKE YOUR BED",
-      "updated_date": "2026-05-27T21:16:16.066Z",
-      "weeks_on_list": 152,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781455570249"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781455570249"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400349678",
       "publisher": "Thomas Nelson",
-      "rank": 6,
-      "rank_last_week": 8,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE KING IS COMING",
       "updated_date": "2026-06-17T17:38:17.164Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -356,7 +300,7 @@
       "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
       "contributor": "by Joseph Nguyen",
       "contributor_note": "",
-      "created_date": "2026-07-08T18:31:31.184Z",
+      "created_date": "2026-07-15T16:43:32.048Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798893310153",
       "publisher": "Authors Equity",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
-      "updated_date": "2026-07-08T18:31:31.184Z",
-      "weeks_on_list": 61,
+      "updated_date": "2026-07-15T16:43:32.048Z",
+      "weeks_on_list": 62,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +345,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1419775685?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593545427?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Phil Szostak",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781419775680.jpg",
-      "book_image_height": 475,
-      "book_image_width": 500,
+      "author": "Arthur C. Brooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593545423.jpg",
+      "book_image_height": 500,
+      "book_image_width": 334,
       "book_review_link": "",
-      "book_uri": "nyt://book/2cbe2aad-9501-56ee-84c4-7b8b3ffc3d46",
-      "contributor": "by Phil Szostak",
+      "book_uri": "nyt://book/0b0cb4dd-f732-5ffe-9c40-fba387b82f07",
+      "contributor": "by Arthur C. Brooks",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.529Z",
+      "created_date": "2026-04-08T18:13:19.733Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781419775680",
-      "publisher": "Abrams",
-      "rank": 8,
+      "primary_isbn13": "9780593545423",
+      "publisher": "Portfolio",
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE ART OF STAR WARS: ANDOR (THE COMPLETE SERIES)",
-      "updated_date": "2026-07-08T17:19:39.529Z",
-      "weeks_on_list": 1,
+      "title": "THE MEANING OF YOUR LIFE",
+      "updated_date": "2026-04-08T18:13:19.733Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781419775680"
+          "isbn13": "9780593545423"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1419775685?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593545427?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781419775680?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593545423?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419775680&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-star-wars-phillip-szostak%2F1147799377%3Fean%3D9781419775680&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593545423&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-meaning-of-your-life-arthur-c-brooks%2F1147830111%3Fean%3D9780593545423&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Star-Wars%2FPhillip-Szostak%2F9781419775680"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMeaning-Your-Life%2FArthur-C-Brooks%2F9780593545423"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781419775680"
+          "url": "https://bookshop.org/a/3546/9780593545423"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Charlie Mackesy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994825.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
+      "author": "William H. McRaven",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/3474b3bb-37e6-5aea-8d76-12fe28e25a3f",
-      "contributor": "by Charlie Mackesy",
+      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
+      "contributor": "by William H. McRaven",
       "contributor_note": "",
-      "created_date": "2026-02-24T22:20:28.318Z",
+      "created_date": "2026-05-27T21:16:16.066Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593994825",
-      "publisher": "Penguin Life",
-      "rank": 9,
-      "rank_last_week": 4,
+      "primary_isbn13": "9781455570249",
+      "publisher": "Grand Central",
+      "rank": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "ALWAYS REMEMBER: THE BOY, THE MOLE, THE FOX, THE HORSE AND THE STORM",
-      "updated_date": "2026-02-24T22:20:28.318Z",
-      "weeks_on_list": 18,
+      "title": "MAKE YOUR BED",
+      "updated_date": "2026-05-27T21:16:16.066Z",
+      "weeks_on_list": 153,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593994825"
+          "isbn13": "9781455570249"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593994825?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593994825?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994825&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Falways-remember-charlie-mackesy%2F1147435644%3Fean%3D9780593994825&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlways-Remember%2FCharlie-Mackesy%2F9780593994825"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593994825"
+          "url": "https://bookshop.org/a/3546/9781455570249"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059323006X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1626251703?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "David Brooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593230084.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "author": "Lindsay C. Gibson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781626251700.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/e5917951-4f0d-5f13-a957-8a40f8817a24",
-      "contributor": "by David Brooks",
+      "book_uri": "nyt://book/fecfb2cc-f712-5ca5-9b49-d206f110385f",
+      "contributor": "by Lindsay C. Gibson",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.646Z",
+      "created_date": "2026-07-15T18:39:02.385Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593230084",
-      "publisher": "Random House",
+      "primary_isbn13": "9781626251700",
+      "publisher": "New Harbinger",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ADULT CHILDREN OF EMOTIONALLY IMMATURE PARENTS",
+      "updated_date": "2026-07-15T18:39:02.385Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781626251700"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1626251703?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781626251700?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781626251700&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadult-children-of-emotionally-immature-parents-lindsay-c-gibson-psyd%2F1121368782%3Fean%3D9781626251700&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/Adult-Children-Emotionally-Immature-Parents/Lindsay-C-Gibson/9781626251700"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781626251700"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668065967?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065969.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/be3adf26-c5d7-5835-95ed-df6d29501b01",
+      "contributor": "by Ichiro Kishimi and Fumitake Koga",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:32.341Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668065969",
+      "publisher": "Atria",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO KNOW A PERSON",
-      "updated_date": "2026-07-08T17:19:39.646Z",
-      "weeks_on_list": 22,
+      "title": "THE COURAGE TO BE DISLIKED",
+      "updated_date": "2026-07-15T16:43:32.341Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593230084"
+          "isbn13": "9781668065969"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059323006X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668065967?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593230084?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668065969?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593230084&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-know-a-person-david-brooks%2F1143044416%3Fean%3D9780593230084&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065969&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-courage-to-be-disliked-ichiro-kishimi%2F1127949768%3Fean%3D9781668065969&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BKNOW%2BA%2BPERSON%2FDavid%2BBrooks%2F9780593230084"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOURAGE%2BTO%2BBE%2BDISLIKED%2FIchiro%2BKishimi%2Band%2BFumitake%2BKoga%2F9781668065969"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593230084"
+          "url": "https://bookshop.org/a/3546/9781668065969"
         }
       ]
     }

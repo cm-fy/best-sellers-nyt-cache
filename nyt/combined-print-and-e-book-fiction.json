@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/e80c4237-9174-5427-8ace-b7ab14bea7ea",
+  "uri": "nyt://bestsellerslist/de30e831-a20d-56d4-8f88-695162dc9183",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -121,49 +121,49 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/B0DZJ53SVW?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Kathryn Stockett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118829.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
       "book_review_link": "",
-      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
+      "book_uri": "nyt://book/6883473d-3592-5059-9606-49882d21d79d",
       "contributor": "by Kathryn Stockett",
       "contributor_note": "",
-      "created_date": "2026-05-13T21:30:50.865Z",
+      "created_date": "2026-07-15T16:43:32.494Z",
       "dagger": 0,
       "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781954118812",
+      "primary_isbn13": "9781954118829",
       "publisher": "Spiegel & Grau",
       "rank": 3,
-      "rank_last_week": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
-      "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 9,
+      "updated_date": "2026-07-15T16:43:32.494Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781954118812"
+          "isbn13": "9781954118829"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/B0DZJ53SVW?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781954118829?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781420531428&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781420531428&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -171,7 +171,63 @@
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781954118812"
+          "url": "https://bookshop.org/a/3546/9781954118829"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
+      "contributor_note": "",
+      "created_date": "2026-05-20T22:02:25.385Z",
+      "dagger": 0,
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 4,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 57,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593135228"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593135228"
         }
       ]
     },
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 5,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -289,281 +345,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593600320?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Emily Giffin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593600320.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
+      "book_uri": "nyt://book/04ecd139-b764-54a9-8753-b6fe7d9332bb",
+      "contributor": "by Emily Giffin",
       "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
+      "created_date": "2026-07-15T16:43:32.638Z",
       "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "description": "Shortly after becoming engaged, Billie receives a call from her first love that compels her to return to Wisconsin.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
+      "primary_isbn13": "9780593600320",
       "publisher": "Ballantine",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 56,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593135228"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.241Z",
-      "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293934",
-      "publisher": "Bloom",
       "rank": 7,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293934"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293934"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rina Kent",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464245640.jpg",
-      "book_image_height": 500,
-      "book_image_width": 394,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0c4ecc3a-2fdc-5bb9-96db-9d57eb970579",
-      "contributor": "by Rina Kent",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.799Z",
-      "dagger": 0,
-      "description": "The third book in the Vipers series. The relationship between hockey rivals may change.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464245640",
-      "publisher": "Bloom",
-      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "TEMPTING VENOM",
-      "updated_date": "2026-07-08T17:19:39.799Z",
+      "title": "LOVE YOU MORE",
+      "updated_date": "2026-07-15T16:43:32.638Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464245640"
+          "isbn13": "9780593600320"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464245649?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593600320?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464245640?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593600320?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464245640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftempting-venom-rina-kent%2F1148080961%3Fean%3D9781464245640&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593600320&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flove-you-more-emily-giffin%2F1148477297%3Fean%3D9780593600320&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTempting-Venom-Deluxe%2FRina-Kent%2F9781464245640"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-More%2FEmily-Giffin%2F9780593600320"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464245640"
+          "url": "https://bookshop.org/a/3546/9780593600320"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593819489?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jenny Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "author": "Brigitte Knightley",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593819487.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
-      "contributor": "by Jenny Jackson",
+      "book_uri": "nyt://book/763a9cb8-1bf2-5295-8bdb-a1635acbfaed",
+      "contributor": "by Brigitte Knightley",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.93Z",
+      "created_date": "2026-07-15T16:43:32.778Z",
       "dagger": 0,
-      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "description": "The second book in the Dearly Beloathed series. Boundaries weaken between an assassin and a healer.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217059959",
-      "publisher": "Pamela Dorman",
-      "rank": 9,
+      "primary_isbn13": "9780593819487",
+      "publisher": "Ace",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SHAMPOO EFFECT",
-      "updated_date": "2026-07-08T17:19:39.93Z",
+      "title": "THE EXQUISITE TORMENT OF LOVING YOUR ENEMY",
+      "updated_date": "2026-07-15T16:43:32.778Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217059959"
+          "isbn13": "9780593819487"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593819489?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593819487?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593819487&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-exquisite-torment-of-loving-your-enemy-brigitte-knightley%2F1148477233%3Fean%3D9780593819487&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExquisite-Torment-Loving-Your-Enemy%2FBrigitte-Knightley%2F9780593819487"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217059959"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:55:48.983Z",
-      "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464249631",
-      "publisher": "Poisoned Pen",
-      "rank": 10,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464249631"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249631"
+          "url": "https://bookshop.org/a/3546/9780593819487"
         }
       ]
     },
@@ -588,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
-      "rank": 11,
+      "rank": 9,
       "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 34,
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
@@ -625,6 +513,230 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:35.241Z",
+      "dagger": 0,
+      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293934",
+      "publisher": "Bloom",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE DEAL",
+      "updated_date": "2026-05-20T18:34:35.241Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293934"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293934"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:55:48.983Z",
+      "dagger": 0,
+      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249631",
+      "publisher": "Poisoned Pen",
+      "rank": 11,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE DIVORCE",
+      "updated_date": "2026-06-03T18:55:48.983Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249631"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249631"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jenny Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
+      "contributor": "by Jenny Jackson",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.93Z",
+      "dagger": 0,
+      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059959",
+      "publisher": "Pamela Dorman",
+      "rank": 12,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE SHAMPOO EFFECT",
+      "updated_date": "2026-07-08T17:19:39.93Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059959"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059959"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FV636LW5?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Christine Feehan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593819708.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/83b157b6-8b97-599c-8722-11bae40b6650",
+      "contributor": "by Christine Feehan",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:32.984Z",
+      "dagger": 0,
+      "description": "The 10th book in the Torpedo Ink series.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593819708",
+      "publisher": "Berkley",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "TWISTED ROAD",
+      "updated_date": "2026-07-15T16:43:32.984Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593819708"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FV636LW5?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593819708?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593819708&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftwisted-road-christine-feehan%2F1148477227%3Fean%3D9780593819708&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTwisted-Road%2FChristine-Feehan%2F9798217189700"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593819708"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -644,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293941",
       "publisher": "Bloom",
-      "rank": 12,
+      "rank": 14,
       "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE MISTAKE",
       "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -700,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293958",
       "publisher": "Bloom",
-      "rank": 13,
+      "rank": 15,
       "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE SCORE",
       "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -732,118 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781775293958"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTF3Y45S?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jayne Castle",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217187386.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/352b0abe-1cf6-58b6-9fea-571381bedd23",
-      "contributor": "by Jayne Castle",
-      "contributor_note": "",
-      "created_date": "2026-07-08T18:31:31.344Z",
-      "dagger": 0,
-      "description": "The 19th book in the Harmony series.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217187386",
-      "publisher": "Berkley",
-      "rank": 14,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ENTER THE NIGHTMARE",
-      "updated_date": "2026-07-08T18:31:31.344Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217187386"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTF3Y45S?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217187386?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217187386&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fenter-the-nightmare-jayne-castle%2F1148429447%3Fean%3D9798217187386&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEnter-Nightmare%2FJayne-Castle%2F9798217187379"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217187386"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shelby Van Pelt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
-      "contributor": "by Shelby Van Pelt",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:38:49.21Z",
-      "dagger": 0,
-      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063204164",
-      "publisher": "Ecco",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "REMARKABLY BRIGHT CREATURES",
-      "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 27,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063204164"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063204164"
         }
       ]
     }
