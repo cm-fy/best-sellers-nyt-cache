@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/174a8014-589f-5ab9-8d13-1066fdfe300c",
+  "uri": "nyt://bestsellerslist/e8b367eb-cc2c-501d-ad4c-fbac9cc4ab79",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 81,
+      "weeks_on_list": 82,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 346,
+      "weeks_on_list": 347,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gabe Poirot",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
+      "author": "Teri Ijeoma",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781637634653.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 332,
       "book_review_link": "",
-      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
-      "contributor": "by Gabe Poirot",
+      "book_uri": "nyt://book/eddd1d33-3186-5a9e-bca5-e6f34b151fb2",
+      "contributor": "by Teri Ijeoma",
       "contributor_note": "",
-      "created_date": "2026-04-15T21:36:07.722Z",
-      "dagger": 0,
+      "created_date": "2026-07-22T17:04:41.381Z",
+      "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781667512549",
-      "publisher": "Harrison House",
+      "primary_isbn13": "9781637634653",
+      "publisher": "Frederick Douglass",
       "rank": 3,
-      "rank_last_week": 3,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "18 DAYS IN HEAVEN",
-      "updated_date": "2026-04-15T21:36:07.722Z",
-      "weeks_on_list": 9,
+      "title": "THE RISK WORTH TAKING",
+      "updated_date": "2026-07-22T17:04:41.381Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781667512549"
+          "isbn13": "9781637634653"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781637634653?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781637634653&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-risk-worth-taking-teri-ijeoma%2F1147934824%3Fean%3D9781637634653&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRisk-Worth-Taking%2FTeri-Ijeoma%2F9781637634653"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781667512549"
+          "url": "https://bookshop.org/a/3546/9781637634653"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Bevere",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
+      "author": "Gabe Poirot",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
-      "contributor": "by John Bevere",
+      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
+      "contributor": "by Gabe Poirot",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:17.164Z",
+      "created_date": "2026-04-15T21:36:07.722Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400349678",
-      "publisher": "Thomas Nelson",
+      "primary_isbn13": "9781667512549",
+      "publisher": "Harrison House",
       "rank": 5,
-      "rank_last_week": 6,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "THE KING IS COMING",
-      "updated_date": "2026-06-17T17:38:17.164Z",
-      "weeks_on_list": 7,
+      "title": "18 DAYS IN HEAVEN",
+      "updated_date": "2026-04-15T21:36:07.722Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400349678"
+          "isbn13": "9781667512549"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400349678"
+          "url": "https://bookshop.org/a/3546/9781667512549"
         }
       ]
     },
@@ -300,7 +300,7 @@
       "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
       "contributor": "by Joseph Nguyen",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:32.048Z",
+      "created_date": "2026-07-22T17:04:41.536Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
@@ -309,11 +309,11 @@
       "primary_isbn13": "9798893310153",
       "publisher": "Authors Equity",
       "rank": 6,
-      "rank_last_week": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
-      "updated_date": "2026-07-15T16:43:32.048Z",
-      "weeks_on_list": 62,
+      "updated_date": "2026-07-22T17:04:41.536Z",
+      "weeks_on_list": 63,
       "isbns": [
         {
           "isbn10": "",
@@ -345,113 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593545427?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Arthur C. Brooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593545423.jpg",
+      "author": "John Bevere",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
       "book_image_height": 500,
-      "book_image_width": 334,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/0b0cb4dd-f732-5ffe-9c40-fba387b82f07",
-      "contributor": "by Arthur C. Brooks",
+      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
+      "contributor": "by John Bevere",
       "contributor_note": "",
-      "created_date": "2026-04-08T18:13:19.733Z",
+      "created_date": "2026-06-17T17:38:17.164Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593545423",
-      "publisher": "Portfolio",
+      "primary_isbn13": "9781400349678",
+      "publisher": "Thomas Nelson",
       "rank": 7,
-      "rank_last_week": 0,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "THE MEANING OF YOUR LIFE",
-      "updated_date": "2026-04-08T18:13:19.733Z",
-      "weeks_on_list": 5,
+      "title": "THE KING IS COMING",
+      "updated_date": "2026-06-17T17:38:17.164Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593545423"
+          "isbn13": "9781400349678"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593545427?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593545423?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593545423&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-meaning-of-your-life-arthur-c-brooks%2F1147830111%3Fean%3D9780593545423&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMeaning-Your-Life%2FArthur-C-Brooks%2F9780593545423"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593545423"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "William H. McRaven",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
-      "contributor": "by William H. McRaven",
-      "contributor_note": "",
-      "created_date": "2026-05-27T21:16:16.066Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781455570249",
-      "publisher": "Grand Central",
-      "rank": 8,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "MAKE YOUR BED",
-      "updated_date": "2026-05-27T21:16:16.066Z",
-      "weeks_on_list": 153,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781455570249"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781455570249"
+          "url": "https://bookshop.org/a/3546/9781400349678"
         }
       ]
     },
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781626251700",
       "publisher": "New Harbinger",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "ADULT CHILDREN OF EMOTIONALLY IMMATURE PARENTS",
       "updated_date": "2026-07-15T18:39:02.385Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -513,6 +457,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "William H. McRaven",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
+      "contributor": "by William H. McRaven",
+      "contributor_note": "",
+      "created_date": "2026-05-27T21:16:16.066Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781455570249",
+      "publisher": "Grand Central",
+      "rank": 9,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "MAKE YOUR BED",
+      "updated_date": "2026-05-27T21:16:16.066Z",
+      "weeks_on_list": 154,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781455570249"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781455570249"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668065967?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -533,11 +533,11 @@
       "primary_isbn13": "9781668065969",
       "publisher": "Atria",
       "rank": 10,
-      "rank_last_week": 0,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE COURAGE TO BE DISLIKED",
       "updated_date": "2026-07-15T16:43:32.341Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",

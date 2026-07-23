@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/a57ad4b5-c69b-5573-91ee-f1500f035e84",
+  "uri": "nyt://bestsellerslist/3377fbe5-0730-5fa6-938e-f98835589401",
   "books": [
+    {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jennifer Lynn Barnes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316593083.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ad112b90-0f28-5533-b38d-2fbdcd20510b",
+      "contributor": "by Jennifer Lynn Barnes",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.078Z",
+      "dagger": 0,
+      "description": "A prize worth $26 million is up for grabs for seven players sequestered on a private island. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316593083",
+      "publisher": "Little, Brown",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE GRANDEST GAME",
+      "updated_date": "2026-07-22T17:04:40.078Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316593083"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316593083?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316593083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gilded-blade-jennifer-lynn-barnes%2F1147912627%3Fean%3D9780316593083&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGilded-Blade%2FJennifer-Lynn-Barnes%2F9780316593083"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316593083"
+        }
+      ]
+    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780439023528",
       "publisher": "Scholastic",
-      "rank": 1,
-      "rank_last_week": 3,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-07-08T18:31:30.697Z",
-      "weeks_on_list": 431,
+      "weeks_on_list": 432,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 904,
+      "weeks_on_list": 905,
       "isbns": [
         {
           "isbn10": "",
@@ -120,6 +176,174 @@
       ]
     },
     {
+      "age_group": "Ages 10 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.768Z",
+      "dagger": 0,
+      "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338878929",
+      "publisher": "Scholastic",
+      "rank": 4,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER",
+      "updated_date": "2026-03-12T21:08:22.768Z",
+      "weeks_on_list": 904,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338878929"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338878929"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:16.173Z",
+      "dagger": 0,
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316382007",
+      "publisher": "Little, Brown",
+      "rank": 5,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 126,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316382007"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316382007"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 340,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
+      "contributor": "by Rick Riordan",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.452Z",
+      "dagger": 0,
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368051477",
+      "publisher": "Disney-Hyperion",
+      "rank": 6,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-05-20T18:34:32.452Z",
+      "weeks_on_list": 837,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368051477"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368051477"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -140,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780736447256",
       "publisher": "Random House/Disney",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE PUMPKIN QUEEN",
       "updated_date": "2026-07-15T16:43:31.004Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -177,118 +401,6 @@
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
-      "book_image_height": 500,
-      "book_image_width": 340,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
-      "contributor": "by Rick Riordan",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.452Z",
-      "dagger": 0,
-      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368051477",
-      "publisher": "Disney-Hyperion",
-      "rank": 4,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "PERCY JACKSON & THE OLYMPIANS",
-      "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 836,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368051477"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368051477"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
-      "book_image_height": 500,
-      "book_image_width": 344,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.768Z",
-      "dagger": 0,
-      "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781338878929",
-      "publisher": "Scholastic",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER",
-      "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 903,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781338878929"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338878929"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546129547",
       "publisher": "Scholastic",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WINGS OF FIRE",
       "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 250,
+      "weeks_on_list": 251,
       "isbns": [
         {
           "isbn10": "",
@@ -344,118 +456,6 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Holly Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217116775.jpg",
-      "book_image_height": 500,
-      "book_image_width": 362,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9cbddc9c-e57c-5e04-af89-c2c44135025c",
-      "contributor": "by Holly Jackson",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:23.465Z",
-      "dagger": 0,
-      "description": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217116775",
-      "publisher": "Delacorte",
-      "rank": 7,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "A GOOD GIRL'S GUIDE TO MURDER",
-      "updated_date": "2026-03-12T21:08:23.465Z",
-      "weeks_on_list": 227,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217116775"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0DSP89XNZ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217116775?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217116775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-good-girls-guide-to-murder-holly-jackson%2F1147236329%3Fean%3D9798217116775&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGood-Girls-Guide-Murder%2FHolly-Jackson%2F9798217116775"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217116775"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
-      "contributor": "by Peter Brown",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
-      "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
-      "publisher": "Little, Brown",
-      "rank": 8,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 125,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316382007"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 16 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -481,7 +481,7 @@
       "sunday_review_link": "",
       "title": "BOYS OF TOMMEN",
       "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 80,
+      "weeks_on_list": 81,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "http://www.amazon.com/The-Giver-Readers-Circle-Laurel-Leaf/dp/0440237688?tag=thenewyorktim-20",
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/1665961147?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 495,
-      "book_image_width": 294,
+      "author": "Aaron Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665961141.jpg",
+      "book_image_height": 500,
+      "book_image_width": 361,
       "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.15Z",
+      "book_uri": "nyt://book/87513343-e7ca-52d4-9d81-df2b035fcdaf",
+      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+      "contributor_note": "Illustrated by Peter Brown",
+      "created_date": "2026-07-22T17:04:40.246Z",
       "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "description": "Jasper narrates cautionary tales of young animals who get into sticky situations. (Ages 6 to 9)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
+      "primary_isbn13": "9781665961141",
+      "publisher": "Simon & Schuster",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-07-15T16:43:31.15Z",
-      "weeks_on_list": 177,
+      "title": "JASPER RABBIT'S CREEPY TALES!",
+      "updated_date": "2026-07-22T17:04:40.246Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780544336261"
+          "isbn13": "9781665961141"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/The-Giver-Readers-Circle-Laurel-Leaf/dp/0440237688?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665961147?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665961141?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780544336261"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665961141&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyarn-is-everything-aaron-reynolds%2F1148559851%3Fean%3D9781665961141&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGIVER%2BQUARTET%2FLois%2BLowry%2F9780544336261"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYarn-Everything%2FAaron-Reynolds%2F9781665961141"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
+          "url": "https://bookshop.org/a/3546/9781665961141"
         }
       ]
     }

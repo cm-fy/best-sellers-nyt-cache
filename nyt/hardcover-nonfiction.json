@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/479773dd-8d53-5b71-9bad-bccecaa67aa8",
+  "uri": "nyt://bestsellerslist/5bb0c524-e3fc-5f66-88f7-df2d737b449e",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781668067246",
       "publisher": "Simon & Schuster",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
+      "contributor": "by Brian Tyler Cohen",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.603Z",
+      "dagger": 0,
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063495104",
+      "publisher": "Harper",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-07-22T17:04:42.603Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063495104"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063495104"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Belle Burden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
+      "contributor": "by Belle Burden",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:00.746Z",
+      "dagger": 0,
+      "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593733318",
+      "publisher": "Dial",
+      "rank": 3,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "STRANGERS",
+      "updated_date": "2026-03-04T23:40:00.746Z",
+      "weeks_on_list": 26,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593733318"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593733318&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstrangers-belle-burden%2F1147241871%3Fean%3D9780593733318&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593733318"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "JD Vance",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
+      "contributor": "by JD Vance",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.805Z",
+      "dagger": 0,
+      "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063575011",
+      "publisher": "Harper",
+      "rank": 4,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "COMMUNION",
+      "updated_date": "2026-07-22T17:04:42.805Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063575011"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063575011?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575011&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575011&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion-Finding-My-Way-Back%2FJD-Vance%2F9780063575011"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063575011"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781631440885",
       "publisher": "Odysseus",
-      "rank": 2,
-      "rank_last_week": 5,
+      "rank": 5,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "REVOLUTION",
       "updated_date": "2026-06-10T17:37:57.556Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668222027",
       "publisher": "Gallery",
-      "rank": 3,
-      "rank_last_week": 1,
+      "rank": 6,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "CANCEL ME IF YOU CAN",
       "updated_date": "2026-07-08T17:19:40.299Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -177,118 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Belle Burden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
-      "contributor": "by Belle Burden",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:00.746Z",
-      "dagger": 0,
-      "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593733318",
-      "publisher": "Dial",
-      "rank": 4,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "STRANGERS",
-      "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 25,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593733318"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593733318&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstrangers-belle-burden%2F1147241871%3Fean%3D9780593733318&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593733318"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "JD Vance",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
-      "contributor": "by JD Vance",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:33.145Z",
-      "dagger": 0,
-      "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063575011",
-      "publisher": "Harper",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "COMMUNION",
-      "updated_date": "2026-07-15T16:43:33.145Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063575011"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063575011?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575011&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575011&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion-Finding-My-Way-Back%2FJD-Vance%2F9780063575011"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063575011"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316264839",
       "publisher": "Little, Brown",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE LAND AND ITS PEOPLE",
       "updated_date": "2026-06-03T18:35:44.514Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385548533",
       "publisher": "Doubleday",
-      "rank": 7,
-      "rank_last_week": 8,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "LONDON FALLING",
       "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +457,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lena Dunham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593129326.jpg",
+      "author": "Frank Miller",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065297.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/04/14/books/review/famesick-lena-dunham.html",
-      "book_uri": "nyt://book/d44fdc5c-9178-5008-8fb8-8615fecb78db",
-      "contributor": "by Lena Dunham",
+      "book_image_width": 337,
+      "book_review_link": "",
+      "book_uri": "nyt://book/05d4ff80-782e-53ee-aabc-472ce0f7cf44",
+      "contributor": "by Frank Miller",
       "contributor_note": "",
-      "created_date": "2026-04-22T17:21:13.344Z",
+      "created_date": "2026-07-22T17:04:43.263Z",
       "dagger": 0,
-      "description": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her.",
+      "description": "The comic book writer and artist chronicles his career from his time in New York in the 1970s to projects made in Hollywood over the decades.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593129326",
-      "publisher": "Random House",
-      "rank": 8,
+      "primary_isbn13": "9781668065297",
+      "publisher": "S&S/Saga",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FAMESICK",
-      "updated_date": "2026-04-22T17:21:13.344Z",
-      "weeks_on_list": 8,
+      "title": "PUSH THE WALL",
+      "updated_date": "2026-07-22T17:04:43.263Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593129326"
+          "isbn13": "9781668065297"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593129326?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668065297?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593129326&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamesick-lena-dunham%2F1147924472%3Fean%3D9780593129326&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpush-the-wall-frank-miller%2F1148448935%3Fean%3D9781668065297&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamesick%2FLena-Dunham%2F9780593129326"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPush-Wall%2FFrank-Miller%2F9781668065297"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593129326"
+          "url": "https://bookshop.org/a/3546/9781668065297"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lauren Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984878816.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/07/15/books/review/they-stole-a-city-lauren-collins.html",
+      "book_uri": "nyt://book/fb04f74b-5a15-5b91-a530-dd373d7efc49",
+      "contributor": "by Lauren Collins",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.97Z",
+      "dagger": 0,
+      "description": "A staff writer at The New Yorker depicts the 1898 massacre and coup in Wilmington, N.C., and its impact on four families.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781984878816",
+      "publisher": "Penguin Press",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THEY STOLE A CITY",
+      "updated_date": "2026-07-22T17:04:42.97Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781984878816"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984878816?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984878816&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthey-stole-a-city-lauren-collins%2F1148569738%3Fean%3D9781984878816&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThey-Stole-City%2FLauren-Collins%2F9781984878816"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781984878816"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gad Saad",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063446533.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bf922130-f9e9-57a6-891f-decdf66f46e1",
+      "contributor": "by Gad Saad",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:35.726Z",
+      "dagger": 0,
+      "description": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063446533",
+      "publisher": "Broadside",
+      "rank": 11,
+      "rank_last_week": 15,
+      "sunday_review_link": "",
+      "title": "SUICIDAL EMPATHY",
+      "updated_date": "2026-05-20T18:34:35.726Z",
+      "weeks_on_list": 10,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063446533"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063446540?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063446533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsuicidal-empathy-gad-saad%2F1148936056%3Fean%3D9780063446533&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSuicidal-Empathy%2FGad-Saad%2F9780063446533"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063446533"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Pamela Colloff",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593230862.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "https://www.nytimes.com/2026/07/13/books/review/catch-the-devil-pamela-colloff.html",
+      "book_uri": "nyt://book/06ee80c8-054e-5e05-8f01-8aa9dfba3a6b",
+      "contributor": "by Pamela Colloff",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:43.149Z",
+      "dagger": 0,
+      "description": "A staff writer at The New York Times Magazine and reporter at ProPublica gives an account of the damage caused by a con man in Florida.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593230862",
+      "publisher": "Knopf",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CATCH THE DEVIL",
+      "updated_date": "2026-07-22T17:04:43.149Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593230862"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593230862?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593230862&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcatch-the-devil-pamela-colloff%2F1148742070%3Fean%3D9780593230862&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCatch-Devil%2FPamela-Colloff%2F9780593230862"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593230862"
         }
       ]
     },
@@ -476,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593655030",
       "publisher": "Penguin Press",
-      "rank": 9,
-      "rank_last_week": 11,
+      "rank": 13,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE ANXIOUS GENERATION",
       "updated_date": "2026-03-04T23:40:23.53Z",
-      "weeks_on_list": 114,
+      "weeks_on_list": 115,
       "isbns": [
         {
           "isbn10": "",
@@ -513,337 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525556575?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525556572.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bb5b70b2-964d-5146-8e4b-64724d34a3a9",
-      "contributor": "by John Green",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:33.48Z",
-      "dagger": 0,
-      "description": "The author of “The Anthropocene Reviewed” chronicles the fight against the deadly infectious disease tuberculosis.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780525556572",
-      "publisher": "Crash Course",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "EVERYTHING IS TUBERCULOSIS",
-      "updated_date": "2026-07-15T16:43:33.48Z",
-      "weeks_on_list": 34,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780525556572"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525556575?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525556572?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525556572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feverything-is-tuberculosis-john-green%2F1146442015%3Fean%3D9780525556572&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEverything-Tuberculosis%2FJohn-Green%2F9780525556572"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525556572"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593239806?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eddie S. Glaude Jr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593239803.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/05/25/books/review/america-usa-eddie-s-glaude-jr.html",
-      "book_uri": "nyt://book/c381d4bb-d341-5a30-af61-1bde0feeec4b",
-      "contributor": "by Eddie S. Glaude Jr",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:22:02.084Z",
-      "dagger": 0,
-      "description": "The author of “Begin Again” delves into elements of America’s difficult and complicated past, and what they portend for our future.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593239803",
-      "publisher": "Crown",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "AMERICA, U.S.A.",
-      "updated_date": "2026-06-03T18:22:02.084Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593239803"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593239806?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593239803?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593239803&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Famerica-usa-eddie-s-glaude-jr%2F1148800168%3Fean%3D9780593239803&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmerica-USA%2FEddie-S-Glaude%2F9780593239803"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593239803"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/006349194X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Julia Angwin and Ami Fields-Meyer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063491946.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ec99a3f4-e561-53e1-85b7-1a54ff179c98",
-      "contributor": "by Julia Angwin and Ami Fields-Meyer",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:37.448Z",
-      "dagger": 0,
-      "description": "The authors of the New Yorker essay “So You Want to Be a Dissident?” profile people who stood up to authoritarianism.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063491946",
-      "publisher": "Mariner",
-      "rank": 12,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "ON COURAGE",
-      "updated_date": "2026-07-08T17:19:37.448Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063491946"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/006349194X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063491946?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063491946&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fon-courage-julia-angwin%2F1148777220%3Fean%3D9780063491946&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourage%2FJulia-Angwin%2F9780063491946"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063491946"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1982181311?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Walter Isaacson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781982181314.jpg",
-      "book_image_height": 500,
-      "book_image_width": 360,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f82de770-c162-5911-a0a3-4f9650a56a00",
-      "contributor": "by Walter Isaacson",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:01.147Z",
-      "dagger": 0,
-      "description": "The historian and biographer examines the concepts of a statement found in the Declaration of Independence.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781982181314",
-      "publisher": "Simon & Schuster",
-      "rank": 13,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THE GREATEST SENTENCE EVER WRITTEN",
-      "updated_date": "2026-03-04T23:40:01.147Z",
-      "weeks_on_list": 14,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781982181314"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1982181311?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781982181314?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982181314&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-greatest-sentence-ever-written-walter-isaacson%2F1147738045%3Fean%3D9781982181314&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGreatest-Sentence-Ever-Written%2FWalter-Isaacson%2F9781982181314"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781982181314"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/081298840X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Paul Kalanithi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780812988406.jpg",
+      "author": "Sarah Wynn-Williams",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250391230.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/9944bee9-d6fa-5956-bf21-c3b11e5d28ab",
-      "contributor": "by Paul Kalanithi",
+      "book_uri": "nyt://book/7c18484b-2dcb-57fc-800a-8d457e7b848c",
+      "contributor": "by Sarah Wynn-Williams",
       "contributor_note": "",
-      "created_date": "2026-07-02T17:49:01.6Z",
+      "created_date": "2026-07-08T20:13:03.26Z",
       "dagger": 0,
-      "description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+      "description": "A former Facebook executive gives an account of policies and leadership at the social media platform.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780812988406",
-      "publisher": "Random House",
+      "primary_isbn13": "9781250391230",
+      "publisher": "Flatiron",
       "rank": 14,
-      "rank_last_week": 13,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WHEN BREATH BECOMES AIR",
-      "updated_date": "2026-07-02T17:49:01.6Z",
-      "weeks_on_list": 79,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780812988406"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/081298840X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780812988406?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780812988406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhen-breath-becomes-air-paul-kalanithi%2F1147744381%3Fean%3D9780812988406&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBreath-Becomes-Air%2FPaul-Kalanithi%2F9780812988406"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780812988406"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gad Saad",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063446533.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bf922130-f9e9-57a6-891f-decdf66f46e1",
-      "contributor": "by Gad Saad",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.726Z",
-      "dagger": 0,
-      "description": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063446533",
-      "publisher": "Broadside",
-      "rank": 15,
-      "rank_last_week": 14,
-      "sunday_review_link": "",
-      "title": "SUICIDAL EMPATHY",
-      "updated_date": "2026-05-20T18:34:35.726Z",
+      "title": "CARELESS PEOPLE",
+      "updated_date": "2026-07-08T20:13:03.26Z",
       "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063446533"
+          "isbn13": "9781250391230"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063446540?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250403155?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063446533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsuicidal-empathy-gad-saad%2F1148936056%3Fean%3D9780063446533&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250391230&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcareless-people-sarah-wynn-williams%2F1147093187%3Fean%3D9781250391230&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSuicidal-Empathy%2FGad-Saad%2F9780063446533"
+          "url": "https://www.booksamillion.com/p/Careless-People/Sarah-Wynn-Williams/9781250391278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063446533"
+          "url": "https://bookshop.org/p/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism-sarah-wynn-williams/804251bb5d4b06b3?ean=9781250391230"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668232480?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Catherine Ostler",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668232484.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ef2289d4-dfef-530b-b946-7f7df172abb8",
+      "contributor": "by Catherine Ostler",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:39.418Z",
+      "dagger": 0,
+      "description": "The lives of three sisters, who were painted as children by Pierre-Auguste Renoir, go in different directions.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668232484",
+      "publisher": "Atria",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE RENOIR GIRLS",
+      "updated_date": "2026-07-22T17:04:39.418Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668232484"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668232480?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668232484?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668232484&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-renoir-girls-catherine-ostler%2F1148639934%3Fean%3D9781668232484&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRenoir-Girls%2FCatherine-Ostler%2F9781668232484"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668232484"
         }
       ]
     }

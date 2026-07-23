@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/fe0e29b1-2202-57a0-8fc4-ad0e7d6ddc1f",
+  "uri": "nyt://bestsellerslist/17139df8-124b-5ebc-9bdb-a11644f2b89c",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 55,
+      "weeks_on_list": 56,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
       "rank": 3,
-      "rank_last_week": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 28,
+      "weeks_on_list": 29,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elin Hilderbrand",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
+      "book_image_height": 500,
+      "book_image_width": 323,
+      "book_review_link": "",
+      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
+      "contributor": "by Elin Hilderbrand",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:31.571Z",
+      "dagger": 0,
+      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316259187",
+      "publisher": "Back Bay",
+      "rank": 4,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE FIVE-STAR WEEKEND",
+      "updated_date": "2026-07-15T16:43:31.571Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316259187"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316259187"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
-      "rank": 4,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
-      "rank": 5,
+      "rank": 6,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +345,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464221731?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily McIntire",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464221736.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
+      "book_review_link": "",
+      "book_uri": "nyt://book/205ea6c6-c201-5732-9ded-b0adcac9d6e3",
+      "contributor": "by Emily McIntire",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.9Z",
+      "dagger": 0,
+      "description": "The second book in the Defying the Stars series. Genevieve becomes attracted to the man assigned to guard her.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464221736",
+      "publisher": "Bloom",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FORSAKING MIDNIGHT",
+      "updated_date": "2026-07-22T17:04:40.9Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464221736"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464221731?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464221736?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464221736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fforsaking-midnight-emily-mcintire%2F1148976729%3Fean%3D9781464221736&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FForsaking-Midnight-Deluxe%2FEmily-McIntire%2F9781464221736"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464221736"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1990101062?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781990101069.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3bfda664-ef17-58f4-99af-6a2827b25f9b",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.166Z",
+      "dagger": 0,
+      "description": "The fifth book in the Off-Campus series. Four couples experience the ups and downs of life after graduating college.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781990101069",
+      "publisher": "Bloom",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LEGACY",
+      "updated_date": "2026-07-22T17:04:42.166Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781990101069"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1990101062?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781990101069?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781990101069&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-legacy-elle-kennedy%2F1139126930%3Fean%3D9781990101069&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLegacy%2FElle-Kennedy%2F9781990101069"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781990101069"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293941",
       "publisher": "Bloom",
-      "rank": 6,
-      "rank_last_week": 7,
+      "rank": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE MISTAKE",
       "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -345,62 +513,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:49.019Z",
-      "dagger": 0,
-      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293958",
-      "publisher": "Bloom",
-      "rank": 7,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THE SCORE",
-      "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293958"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293958"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063204164",
       "publisher": "Ecco",
-      "rank": 8,
+      "rank": 10,
       "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "REMARKABLY BRIGHT CREATURES",
       "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -457,225 +569,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elin Hilderbrand",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
-      "book_image_height": 500,
-      "book_image_width": 323,
-      "book_review_link": "",
-      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
-      "contributor": "by Elin Hilderbrand",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.571Z",
-      "dagger": 0,
-      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316259187",
-      "publisher": "Back Bay",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE FIVE-STAR WEEKEND",
-      "updated_date": "2026-07-15T16:43:31.571Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316259187"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316259187"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9161755e-78bb-5e4c-8778-33086f87bd6c",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-07-02T17:49:39.19Z",
-      "dagger": 0,
-      "description": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781628860016",
-      "publisher": "Poisoned Pen",
-      "rank": 10,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE HOUSEMAID'S WEDDING",
-      "updated_date": "2026-07-02T17:49:39.19Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781628860016"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781628860016?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781628860016&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-housemaids-wedding-freida-mcfadden%2F1149365138%3Fean%3D9781628860016&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHousemaids-Wedding%2FFreida-McFadden%2F9781628860016"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781628860016"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464264600?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Catherine Cowles",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464264603.jpg",
-      "book_image_height": 500,
-      "book_image_width": 394,
-      "book_review_link": "",
-      "book_uri": "nyt://book/426a6a43-38dc-5fef-8f17-868f2e45442c",
-      "contributor": "by Catherine Cowles",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.72Z",
-      "dagger": 0,
-      "description": "The second book in the Starlight Grove series. After spending a year in captivity, Nova Monroe attracts danger.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464264603",
-      "publisher": "Bloom",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "INTO THE FADING TWILIGHT",
-      "updated_date": "2026-07-15T16:43:31.72Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464264603"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464264600?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464264603?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464264603&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finto-the-fading-twilight-catherine-cowles%2F1148976732%3Fean%3D9781464264603&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInto-Fading-Twilight-Deluxe%2FCatherine-Cowles%2F9781464264603"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464264603"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316587583?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kalie Cassidy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316587587.jpg",
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/a863ccd2-78f6-51fc-8b2c-844c023923b0",
-      "contributor": "by Kalie Cassidy",
+      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
+      "contributor": "by Elle Kennedy",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.899Z",
+      "created_date": "2026-05-27T18:33:49.019Z",
       "dagger": 0,
-      "description": "The second book in the Siren Mage series. With her abilities exposed, Imogen faces new threats.",
+      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316587587",
-      "publisher": "Little, Brown",
-      "rank": 12,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781775293958",
+      "publisher": "Bloom",
+      "rank": 11,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "IN THE WAKE OF THE RUINED",
-      "updated_date": "2026-07-15T16:43:31.899Z",
-      "weeks_on_list": 1,
+      "title": "THE SCORE",
+      "updated_date": "2026-05-27T18:33:49.019Z",
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316587587"
+          "isbn13": "9781775293958"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316587583?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316587587?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316587587&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fin-the-wake-of-the-ruined-kalie-cassidy%2F1148669234%3Fean%3D9780316587587&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWake-Ruined%2FKalie-Cassidy%2F9780316587587"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316587587"
+          "url": "https://bookshop.org/a/3546/9781775293958"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668217430?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chelsea Curto",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668217436.jpg",
+      "book_image_height": 500,
+      "book_image_width": 322,
+      "book_review_link": "",
+      "book_uri": "nyt://book/915d25c7-e9f4-5b13-91b6-df683b8e0eda",
+      "contributor": "by Chelsea Curto",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:41.247Z",
+      "dagger": 0,
+      "description": "During hurricane season in Florida, two rival meteorologists go after storms and experience unexpected feelings for each other.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668217436",
+      "publisher": "Atria",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IN STORMY WEATHER",
+      "updated_date": "2026-07-22T17:04:41.247Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668217436"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668217430?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668217436?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668217436&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fin-stormy-weather-chelsea-curto%2F1148621804%3Fean%3D9781668217436&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStormy-Weather%2FChelsea-Curto%2F9781668217436"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668217436"
         }
       ]
     },
@@ -701,11 +701,11 @@
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
       "rank": 13,
-      "rank_last_week": 14,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -757,11 +757,11 @@
       "primary_isbn13": "9780593853979",
       "publisher": "Putnam",
       "rank": 14,
-      "rank_last_week": 0,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "DOLLY ALL THE TIME",
       "updated_date": "2026-07-15T17:07:50.792Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Taylor Jenkins Reid",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
-      "book_image_height": 500,
-      "book_image_width": 368,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/3f80311f-fa4f-5eb9-892f-d7536a89a833",
-      "contributor": "by Taylor Jenkins Reid",
+      "book_uri": "nyt://book/9161755e-78bb-5e4c-8778-33086f87bd6c",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.612Z",
+      "created_date": "2026-07-02T17:49:39.19Z",
       "dagger": 0,
-      "description": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
+      "description": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593158739",
-      "publisher": "Ballantine",
+      "primary_isbn13": "9781628860016",
+      "publisher": "Poisoned Pen",
       "rank": 15,
-      "rank_last_week": 13,
+      "rank_last_week": 10,
       "sunday_review_link": "",
-      "title": "ATMOSPHERE",
-      "updated_date": "2026-06-17T17:38:16.612Z",
-      "weeks_on_list": 5,
+      "title": "THE HOUSEMAID'S WEDDING",
+      "updated_date": "2026-07-02T17:49:39.19Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593158739"
+          "isbn13": "9781628860016"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593158733?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1628860014?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217083572?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781628860016?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217083572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatmosphere-taylor-jenkins-reid%2F1146489330%3Fean%3D9798217083572&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781628860016&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-housemaids-wedding-freida-mcfadden%2F1149365138%3Fean%3D9781628860016&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAtmosphere%2FTaylor-Jenkins-Reid%2F9780593158739"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHousemaids-Wedding%2FFreida-McFadden%2F9781628860016"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593158739"
+          "url": "https://bookshop.org/a/3546/9781628860016"
         }
       ]
     }

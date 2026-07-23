@@ -5,61 +5,117 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/5f2db53d-6de1-5256-ba70-08cfab1b55fa",
+  "uri": "nyt://bestsellerslist/290f22a3-c0f4-5708-bfe6-7b4326459430",
   "books": [
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Marissa Meyer and Tamara Moss",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
+      "author": "I.V. Marie",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 317,
       "book_review_link": "",
-      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
-      "contributor": "by Marissa Meyer and Tamara Moss",
+      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
+      "contributor": "by I.V. Marie",
       "contributor_note": "",
-      "created_date": "2026-04-15T21:36:06.768Z",
+      "created_date": "2026-07-22T17:04:40.634Z",
       "dagger": 0,
-      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
+      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217006120",
-      "publisher": "Putnam",
+      "primary_isbn13": "9780593898840",
+      "publisher": "Delacorte",
       "rank": 1,
-      "rank_last_week": 1,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE ESCAPE GAME",
-      "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 14,
+      "title": "RUINOUS ENDS",
+      "updated_date": "2026-07-22T17:04:40.634Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217006120"
+          "isbn13": "9780593898840"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217006120"
+          "url": "https://bookshop.org/a/3546/9780593898840"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278129.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b7133406-623d-5dc7-b4a6-c8af9f9eb7c9",
+      "contributor": "by Alexis Patton",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.768Z",
+      "dagger": 0,
+      "description": "After breaking out of prison, Khalani, Takeshi and a band of criminals travel across a postapocalyptic desert known as the Death-Zone. (Ages 15 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464278129",
+      "publisher": "Bloom",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "US DEADLY FEW",
+      "updated_date": "2026-07-22T17:04:40.768Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464278129"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464278129?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278129&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-deadly-few-alexis-patton%2F1146630150%3Fean%3D9781464278129&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Deadly-Few%2FAlexis-Patton%2F9781464278129"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464278129"
         }
       ]
     },
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665921268",
       "publisher": "Simon & Schuster",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 36,
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +233,62 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Marissa Meyer and Tamara Moss",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
+      "contributor": "by Marissa Meyer and Tamara Moss",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:06.768Z",
+      "dagger": 0,
+      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217006120",
+      "publisher": "Putnam",
+      "rank": 5,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THE ESCAPE GAME",
+      "updated_date": "2026-04-15T21:36:06.768Z",
+      "weeks_on_list": 15,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217006120"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217006120"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063419056",
       "publisher": "Storytide",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "RELEASE ME",
       "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -232,114 +344,58 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Cindy Pham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113026.jpg",
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278112.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 398,
       "book_review_link": "",
-      "book_uri": "nyt://book/79e29cc5-c91d-5c35-b213-0475a1eb6c50",
-      "contributor": "by Cindy Pham",
+      "book_uri": "nyt://book/e7372b9f-42df-51ce-997f-3723a5d17fff",
+      "contributor": "by Alexis Patton",
       "contributor_note": "",
-      "created_date": "2026-06-10T17:37:55.1Z",
+      "created_date": "2026-05-13T17:27:21.046Z",
       "dagger": 0,
-      "description": "Two sisters discover an underground, magical dreamworld. (Ages 14 and up)",
+      "description": "Khalani Kanes struggles to survive in an underground prison for a crime she did not commit. (Ages 15 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217113026",
-      "publisher": "Kokila",
-      "rank": 5,
-      "rank_last_week": 7,
+      "primary_isbn13": "9781464278112",
+      "publisher": "Bloom",
+      "rank": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SECRET WORLD OF BRIAR ROSE",
-      "updated_date": "2026-06-10T17:37:55.1Z",
+      "title": "US DARK FEW",
+      "updated_date": "2026-05-13T17:27:21.046Z",
       "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217113026"
+          "isbn13": "9781464278112"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217113026?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464278112?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113026&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-world-of-briar-rose-cindy-pham%2F1148300226%3Fean%3D9798217113026&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278112&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-dark-few-alexis-patton%2F1143977060%3Fean%3D9781464278112&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-World-Briar-Rose%2FCindy-Pham%2F9798217113026"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Dark-Few%2FAlexis-Patton%2F9781464278112"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217113026"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sarah Dessen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798347108770.jpg",
-      "book_image_height": 500,
-      "book_image_width": 335,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9ad1fe25-b6b8-5847-b082-ff85e6a565c8",
-      "contributor": "by Sarah Dessen",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:20.71Z",
-      "dagger": 0,
-      "description": "The coming-of-age love story of a girl named Finley, who goes on a last-minute trip with her distant mother. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798347108770",
-      "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "CHANGE OF PLANS",
-      "updated_date": "2026-05-13T17:27:20.71Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798347108770"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798347108770?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347108770&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchange-of-plans-sarah-dessen%2F1147844056%3Fean%3D9798347108770&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChange-Plans%2FSarah-Dessen%2F9798347108770"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798347108770"
+          "url": "https://bookshop.org/a/3546/9781464278112"
         }
       ]
     },
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665984775",
       "publisher": "Atheneum",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "A PRINCE AMONG PIRATES",
       "updated_date": "2026-06-24T16:49:38.741Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -400,6 +456,62 @@
       ]
     },
     {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah Dessen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347108770.jpg",
+      "book_image_height": 500,
+      "book_image_width": 335,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9ad1fe25-b6b8-5847-b082-ff85e6a565c8",
+      "contributor": "by Sarah Dessen",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:20.71Z",
+      "dagger": 0,
+      "description": "The coming-of-age love story of a girl named Finley, who goes on a last-minute trip with her distant mother. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347108770",
+      "publisher": "Simon & Schuster",
+      "rank": 9,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "CHANGE OF PLANS",
+      "updated_date": "2026-05-13T17:27:20.71Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347108770"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FH5CCR7R?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798347108770?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347108770&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchange-of-plans-sarah-dessen%2F1147844056%3Fean%3D9798347108770&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChange-Plans%2FSarah-Dessen%2F9798347108770"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798347108770"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728256184",
       "publisher": "Sourcebooks Fire",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE SUN AND THE STARMAKER",
       "updated_date": "2026-02-25T23:37:57.803Z",
-      "weeks_on_list": 16,
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781728256184"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250326990?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Faridah Àbíké-Íyímídé",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250326997.jpg",
-      "book_image_height": 500,
-      "book_image_width": 350,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7275b9d7-7930-5baf-959e-453568f38b5b",
-      "contributor": "by Faridah Àbíké-Íyímídé",
-      "contributor_note": "",
-      "created_date": "2026-06-10T17:37:55.273Z",
-      "dagger": 0,
-      "description": "The five adopted children of the billionaire Leontes Button are suspects in his murder. (Ages 14 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250326997",
-      "publisher": "Feiwel & Friends",
-      "rank": 9,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE HEIRS",
-      "updated_date": "2026-06-10T17:37:55.273Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250326997"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250326990?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250326997?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250326997&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-heirs-faridah-abike-iyimide%2F1147744480%3Fean%3D9781250326997&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeirs%2FFaridah-bk-ymd%2F9781250326997"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250326997"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250857430?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rebecca Ross",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250857439.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4e2ba9dd-e1e3-510d-9830-66259b3e98ec",
-      "contributor": "by Rebecca Ross",
-      "contributor_note": "",
-      "created_date": "2026-07-14T17:46:21.008Z",
-      "dagger": 0,
-      "description": "Two young rival journalists find love through a magical connection. (Ages 13 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250857439",
-      "publisher": "Wednesday",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DIVINE RIVALS",
-      "updated_date": "2026-07-14T17:46:21.008Z",
-      "weeks_on_list": 104,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250857439"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250857430?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250857439?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250857439&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdivine-rivals-rebecca-ross%2F1141344106%3Fean%3D9781250857439&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDIVINE%2BRIVALS%2FRebecca%2BRoss%2F9781250857439"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250857439"
         }
       ]
     }

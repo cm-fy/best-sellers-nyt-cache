@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/1faadb81-eb84-5364-87f4-9a743b34cb72",
+  "uri": "nyt://bestsellerslist/f0a33a45-2f0a-5072-82b8-5c0c907eabae",
   "books": [
     {
       "age_group": "Ages 8 to 12",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.288Z",
+      "created_date": "2026-07-22T17:04:40.38Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-07-15T16:43:31.288Z",
-      "weeks_on_list": 551,
+      "updated_date": "2026-07-22T17:04:40.38Z",
+      "weeks_on_list": 552,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780545880831",
       "publisher": "Scholastic",
       "rank": 2,
-      "rank_last_week": 10,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "REFUGEE",
       "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 322,
+      "weeks_on_list": 323,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780063221178",
       "publisher": "Storytide",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -176,6 +176,62 @@
       ]
     },
     {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Beth Ferry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665942485.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5db178f6-22fe-5a9b-93c9-68b56e239f63",
+      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
+      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
+      "created_date": "2026-07-22T18:14:36.683Z",
+      "dagger": 0,
+      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665942485",
+      "publisher": "Simon & Schuster",
+      "rank": 4,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "GROWING HOME",
+      "updated_date": "2026-07-22T18:14:36.683Z",
+      "weeks_on_list": 47,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665942485"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665942485&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665942485&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/Growing-Home/Beth-Ferry/9781665942485"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665942485"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546126112?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -188,7 +244,7 @@
       "book_uri": "nyt://book/1ba1f715-1a3a-5519-a521-1486f1f45c00",
       "contributor": "by Gordon Korman",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.418Z",
+      "created_date": "2026-07-22T17:04:40.505Z",
       "dagger": 0,
       "description": "Five suburban tweens try to solve the mystery behind their insomnia. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546126119",
       "publisher": "Scholastic",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "SLEEPLESS",
-      "updated_date": "2026-07-15T16:43:31.418Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-07-22T17:04:40.505Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -219,7 +275,7 @@
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781546126119"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546126119&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsleepless-gordon-korman%2F1147905635%3Fean%3D9781546126119&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -228,118 +284,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781546126119"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/1665961112?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Aaron Reynolds",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665961110.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/52c10683-b24d-575b-b62a-0b57ea6eb640",
-      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
-      "contributor_note": "Illustrated by Peter Brown",
-      "created_date": "2026-02-24T22:20:23.151Z",
-      "dagger": 0,
-      "description": "Thadeus and Oliver take a bite out of a salad that may bite back! (Ages 6 to 9)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665961110",
-      "publisher": "Simon & Schuster",
-      "rank": 5,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "UNSETTLING SALAD!",
-      "updated_date": "2026-02-24T22:20:23.151Z",
-      "weeks_on_list": 22,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665961110"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665961112?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665961110?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665961110&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funsettling-salad-aaron-reynolds%2F1147556555%3Fean%3D9781665961110&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnsettling-Salad%2FAaron-Reynolds%2F9781665961110"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665961110"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 7 to 10",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jessica Yoon",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
-      "contributor": "by Jessica Yoon",
-      "contributor_note": "",
-      "created_date": "2026-04-08T18:13:19.077Z",
-      "dagger": 0,
-      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217234288",
-      "publisher": "Random House",
-      "rank": 6,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "KPOP DEMON HUNTERS",
-      "updated_date": "2026-04-08T18:13:19.077Z",
-      "weeks_on_list": 15,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217234288"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217234288"
         }
       ]
     },
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250904362",
       "publisher": "Feiwel & Friends",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "POCKET BEAR",
       "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -400,58 +344,58 @@
       ]
     },
     {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+      "age_group": "Ages 7 to 10",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Beth Ferry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Jessica Yoon",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
+      "book_image_height": 500,
+      "book_image_width": 337,
       "book_review_link": "",
-      "book_uri": "nyt://book/ae51c986-5b35-53b1-8565-95844c1ccea0",
-      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
-      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
-      "created_date": "2026-06-17T18:31:10.281Z",
+      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
+      "contributor": "by Jessica Yoon",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:19.077Z",
       "dagger": 0,
-      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
+      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665989817",
-      "publisher": "Simon & Schuster",
-      "rank": 8,
-      "rank_last_week": 8,
+      "primary_isbn13": "9798217234288",
+      "publisher": "Random House",
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "GROWING HOME",
-      "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 46,
+      "title": "KPOP DEMON HUNTERS",
+      "updated_date": "2026-04-08T18:13:19.077Z",
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665989817"
+          "isbn13": "9798217234288"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989817&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665989817&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrowing-Home%2FBeth-Ferry%2F9781665942485"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665942485"
+          "url": "https://bookshop.org/a/3546/9798217234288"
         }
       ]
     },
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368109116",
       "publisher": "Disney Hyperion",
-      "rank": 9,
-      "rank_last_week": 5,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE COURT OF THE DEAD",
       "updated_date": "2026-03-04T23:40:06.042Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338736106",
       "publisher": "Scholastic",
-      "rank": 10,
-      "rank_last_week": 9,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "WAR GAMES",
       "updated_date": "2026-03-11T22:40:16.123Z",
-      "weeks_on_list": 29,
+      "weeks_on_list": 30,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781338736106"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 10 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Rundell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593809907.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d087899a-eba5-5397-8876-e5bac2e2eeaa",
+      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
+      "contributor_note": "Illustrated by Ashley Mackenzie",
+      "created_date": "2026-03-04T23:40:06.576Z",
+      "dagger": 0,
+      "description": "Christopher and Anya must save the dragons of the Archipelago from a strange new threat. (Ages 10 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593809907",
+      "publisher": "Knopf",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE POISONED KING",
+      "updated_date": "2026-03-04T23:40:06.576Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593809907"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593809907?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593809907&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poisoned-king-katherine-rundell%2F1146144609%3Fean%3D9780593809907&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoisoned-King%2FKatherine-Rundell%2F9780593809907"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593809907"
         }
       ]
     }
