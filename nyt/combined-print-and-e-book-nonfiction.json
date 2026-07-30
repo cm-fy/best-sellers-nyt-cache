@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/9a03189b-4b00-5449-8811-8153246fcb5e",
+  "uri": "nyt://bestsellerslist/fc377833-4bc3-5008-b062-2686bdbe5872",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brian Tyler Cohen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
-      "contributor": "by Brian Tyler Cohen",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.603Z",
-      "dagger": 0,
-      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063495104",
-      "publisher": "Harper",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE DAY AFTER",
-      "updated_date": "2026-07-22T17:04:42.603Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063495104"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063495104"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 3,
+      "rank": 2,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 27,
+      "weeks_on_list": 28,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Patrick Radden Keefe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
+      "author": "Ben Wikler",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324131434.jpg",
       "book_image_height": 500,
       "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
-      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
-      "contributor": "by Patrick Radden Keefe",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:09.161Z",
-      "dagger": 0,
-      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385548533",
-      "publisher": "Doubleday",
-      "rank": 4,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "LONDON FALLING",
-      "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 15,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385548533"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385548533"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sophie Elmhirst",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/7674397b-a7b1-5ae0-9280-dc4e527e3ad6",
-      "contributor": "by Sophie Elmhirst",
+      "book_uri": "nyt://book/16fdcae3-c640-577c-9a3c-cb2143312e0f",
+      "contributor": "by Ben Wikler",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:40.87Z",
-      "dagger": 0,
-      "description": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
+      "created_date": "2026-07-29T17:27:32.534Z",
+      "dagger": 1,
+      "description": "The former chair of the Democratic Party of Wisconsin shares his perspectives on what it takes to win elections.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593854297",
-      "publisher": "Riverhead",
-      "rank": 5,
-      "rank_last_week": 7,
+      "primary_isbn13": "9781324131434",
+      "publisher": "Norton",
+      "rank": 3,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "A MARRIAGE AT SEA",
-      "updated_date": "2026-07-08T17:19:40.87Z",
-      "weeks_on_list": 9,
+      "title": "THIS IS THE PLAN",
+      "updated_date": "2026-07-29T17:27:32.534Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593854297"
+          "isbn13": "9781324131434"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593854297?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781324131434?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593854297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-marriage-at-sea-sophie-elmhirst%2F1146395780%3Fean%3D9780593854297&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324131434&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-the-plan-ben-wikler%2F1149256551%3Fean%3D9781324131434&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMarriage-Sea%2FSophie-Elmhirst%2F9780593854297"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Plan%2FBen-Wikler%2F9781324131434"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593854297"
+          "url": "https://bookshop.org/a/3546/9781324131434"
         }
       ]
     },
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780143127741",
       "publisher": "Penguin",
-      "rank": 6,
-      "rank_last_week": 8,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 304,
+      "weeks_on_list": 305,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +233,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sophie Elmhirst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7674397b-a7b1-5ae0-9280-dc4e527e3ad6",
+      "contributor": "by Sophie Elmhirst",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:40.87Z",
+      "dagger": 0,
+      "description": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593854297",
+      "publisher": "Riverhead",
+      "rank": 5,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "A MARRIAGE AT SEA",
+      "updated_date": "2026-07-08T17:19:40.87Z",
+      "weeks_on_list": 10,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593854297"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593854297?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593854297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-marriage-at-sea-sophie-elmhirst%2F1146395780%3Fean%3D9780593854297&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMarriage-Sea%2FSophie-Elmhirst%2F9780593854297"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593854297"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Patrick Radden Keefe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
+      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
+      "contributor": "by Patrick Radden Keefe",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:09.161Z",
+      "dagger": 0,
+      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780385548533",
+      "publisher": "Doubleday",
+      "rank": 6,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "LONDON FALLING",
+      "updated_date": "2026-04-15T21:36:09.161Z",
+      "weeks_on_list": 16,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780385548533"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385548533"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -356,7 +356,7 @@
       "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
       "contributor": "by JD Vance",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.805Z",
+      "created_date": "2026-07-29T17:27:32.729Z",
       "dagger": 0,
       "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
       "first_chapter_link": "",
@@ -365,11 +365,11 @@
       "primary_isbn13": "9780063575011",
       "publisher": "Harper",
       "rank": 7,
-      "rank_last_week": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "COMMUNION",
-      "updated_date": "2026-07-22T17:04:42.805Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-07-29T17:27:32.729Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -401,6 +401,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Isabel Klee",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
+      "contributor": "by Isabel Klee",
+      "contributor_note": "",
+      "created_date": "2026-05-06T17:37:48.924Z",
+      "dagger": 0,
+      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063451070",
+      "publisher": "Morrow",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
+      "updated_date": "2026-05-06T17:37:48.924Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063451070"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063451070"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
+      "contributor": "by Brian Tyler Cohen",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.603Z",
+      "dagger": 0,
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063495104",
+      "publisher": "Harper",
+      "rank": 9,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-07-22T17:04:42.603Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063495104"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063495104"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Sedaris",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
+      "contributor": "by David Sedaris",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:44.514Z",
+      "dagger": 0,
+      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316264839",
+      "publisher": "Little, Brown",
+      "rank": 10,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE LAND AND ITS PEOPLE",
+      "updated_date": "2026-06-03T18:35:44.514Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316264839"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316264839"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668222027",
       "publisher": "Gallery",
-      "rank": 8,
-      "rank_last_week": 4,
+      "rank": 11,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "CANCEL ME IF YOU CAN",
       "updated_date": "2026-07-08T17:19:40.299Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -476,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781631440885",
       "publisher": "Odysseus",
-      "rank": 9,
-      "rank_last_week": 2,
+      "rank": 12,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "REVOLUTION",
       "updated_date": "2026-06-10T17:37:57.556Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -513,225 +681,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "David Sedaris",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Jonathan Haidt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
-      "contributor": "by David Sedaris",
+      "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
+      "contributor": "by Jonathan Haidt",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:35:44.514Z",
+      "created_date": "2026-03-04T23:40:23.53Z",
       "dagger": 0,
-      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
+      "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316264839",
-      "publisher": "Little, Brown",
-      "rank": 10,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE LAND AND ITS PEOPLE",
-      "updated_date": "2026-06-03T18:35:44.514Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316264839"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316264839"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lauren Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984878816.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/07/15/books/review/they-stole-a-city-lauren-collins.html",
-      "book_uri": "nyt://book/fb04f74b-5a15-5b91-a530-dd373d7efc49",
-      "contributor": "by Lauren Collins",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.97Z",
-      "dagger": 0,
-      "description": "A staff writer at The New Yorker depicts the 1898 massacre and coup in Wilmington, N.C., and its impact on four families.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781984878816",
+      "primary_isbn13": "9780593655030",
       "publisher": "Penguin Press",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THEY STOLE A CITY",
-      "updated_date": "2026-07-22T17:04:42.97Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781984878816"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984878816?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984878816&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthey-stole-a-city-lauren-collins%2F1148569738%3Fean%3D9781984878816&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThey-Stole-City%2FLauren-Collins%2F9781984878816"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984878816"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Pamela Colloff",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593230862.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/07/13/books/review/catch-the-devil-pamela-colloff.html",
-      "book_uri": "nyt://book/06ee80c8-054e-5e05-8f01-8aa9dfba3a6b",
-      "contributor": "by Pamela Colloff",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:43.149Z",
-      "dagger": 0,
-      "description": "A staff writer at The New York Times Magazine and reporter at ProPublica gives an account of the damage caused by a con man in Florida.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593230862",
-      "publisher": "Knopf",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CATCH THE DEVIL",
-      "updated_date": "2026-07-22T17:04:43.149Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593230862"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593230862?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593230862&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcatch-the-devil-pamela-colloff%2F1148742070%3Fean%3D9780593230862&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCatch-Devil%2FPamela-Colloff%2F9780593230862"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593230862"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Frank Miller",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065297.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
-      "book_review_link": "",
-      "book_uri": "nyt://book/05d4ff80-782e-53ee-aabc-472ce0f7cf44",
-      "contributor": "by Frank Miller",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:43.263Z",
-      "dagger": 0,
-      "description": "The comic book writer and artist chronicles his career from his time in New York in the 1970s to projects made in Hollywood over the decades.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668065297",
-      "publisher": "S&S/Saga",
       "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "PUSH THE WALL",
-      "updated_date": "2026-07-22T17:04:43.263Z",
-      "weeks_on_list": 1,
+      "title": "THE ANXIOUS GENERATION",
+      "updated_date": "2026-03-04T23:40:23.53Z",
+      "weeks_on_list": 112,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668065297"
+          "isbn13": "9780593655030"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668065297?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpush-the-wall-frank-miller%2F1148448935%3Fean%3D9781668065297&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593655030&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anxious-generation-jonathan-haidt%2F1143532841%3Fean%3D9780593655030&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPush-Wall%2FFrank-Miller%2F9781668065297"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668065297"
+          "url": "https://bookshop.org/a/3546/9780593655030"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "bell hooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
+      "contributor": "by bell hooks",
+      "contributor_note": "",
+      "created_date": "2026-07-29T17:27:32.903Z",
+      "dagger": 0,
+      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780060959470",
+      "publisher": "Morrow",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ALL ABOUT LOVE",
+      "updated_date": "2026-07-29T17:27:32.903Z",
+      "weeks_on_list": 63,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780060959470"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780060959470"
         }
       ]
     },
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593129326",
       "publisher": "Random House",
-      "rank": 14,
-      "rank_last_week": 10,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "FAMESICK",
       "updated_date": "2026-04-22T17:21:13.344Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593129326"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "bell hooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780060938291.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e5585a92-f92a-509d-8329-f5eda5d1568a",
-      "contributor": "by bell hooks",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.556Z",
-      "dagger": 0,
-      "description": "The deceased author of “All About Love” prescribes ways for women to evolve love in intra- and interpersonal relationships.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780060938291",
-      "publisher": "Morrow",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "COMMUNION",
-      "updated_date": "2026-06-03T18:21:54.556Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780060938291"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0060938293?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780060938291?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060938291&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-bell-hooks%2F1111664714%3Fean%3D9780060938291&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion%2FBell-Hooks%2F9780060938291"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780060938291"
         }
       ]
     }

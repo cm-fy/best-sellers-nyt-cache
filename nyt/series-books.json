@@ -5,64 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/3377fbe5-0730-5fa6-938e-f98835589401",
+  "uri": "nyt://bestsellerslist/1334efe1-24f3-5ece-91cf-2efc51331410",
   "books": [
-    {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jennifer Lynn Barnes",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316593083.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ad112b90-0f28-5533-b38d-2fbdcd20510b",
-      "contributor": "by Jennifer Lynn Barnes",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.078Z",
-      "dagger": 0,
-      "description": "A prize worth $26 million is up for grabs for seven players sequestered on a private island. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316593083",
-      "publisher": "Little, Brown",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE GRANDEST GAME",
-      "updated_date": "2026-07-22T17:04:40.078Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316593083"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316593083?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316593083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gilded-blade-jennifer-lynn-barnes%2F1147912627%3Fean%3D9780316593083&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGilded-Blade%2FJennifer-Lynn-Barnes%2F9780316593083"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316593083"
-        }
-      ]
-    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780439023528",
       "publisher": "Scholastic",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-07-08T18:31:30.697Z",
-      "weeks_on_list": 432,
+      "weeks_on_list": 433,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 905,
+      "weeks_on_list": 906,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 904,
+      "weeks_on_list": 905,
       "isbns": [
         {
           "isbn10": "",
@@ -232,62 +176,6 @@
       ]
     },
     {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
-      "contributor": "by Peter Brown",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
-      "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
-      "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 126,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316382007"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
-      "rank": 6,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 837,
+      "weeks_on_list": 838,
       "isbns": [
         {
           "isbn10": "",
@@ -344,58 +232,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20",
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Megan Shepherd",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780736447256.jpg",
+      "author": "Jennifer Lynn Barnes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316593083.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3a1c8bac-dba4-5df1-974f-b8184513a083",
-      "contributor": "by Megan Shepherd",
+      "book_uri": "nyt://book/ad112b90-0f28-5533-b38d-2fbdcd20510b",
+      "contributor": "by Jennifer Lynn Barnes",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.004Z",
+      "created_date": "2026-07-22T17:04:40.078Z",
       "dagger": 0,
-      "description": "The adventures of Sally, the Pumpkin Queen of Halloween Town. (Ages 12 and up)",
+      "description": "A prize worth $26 million is up for grabs for seven players sequestered on a private island. (Ages 12 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780736447256",
-      "publisher": "Random House/Disney",
-      "rank": 7,
-      "rank_last_week": 3,
+      "primary_isbn13": "9780316593083",
+      "publisher": "Little, Brown",
+      "rank": 5,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "THE PUMPKIN QUEEN",
-      "updated_date": "2026-07-15T16:43:31.004Z",
+      "title": "THE GRANDEST GAME",
+      "updated_date": "2026-07-22T17:04:40.078Z",
       "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780736447256"
+          "isbn13": "9780316593083"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780736447256?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316593083?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736447256&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshadow-over-the-pumpkin-queen-megan-shepherd%2F1148640581%3Fean%3D9780736447256&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316593083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gilded-blade-jennifer-lynn-barnes%2F1147912627%3Fean%3D9780316593083&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Over-Pumpkin-Queen%2FMegan-Shepherd%2F9780736447256"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGilded-Blade%2FJennifer-Lynn-Barnes%2F9780316593083"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780736447256"
+          "url": "https://bookshop.org/a/3546/9780316593083"
         }
       ]
     },
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546129547",
       "publisher": "Scholastic",
-      "rank": 8,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "WINGS OF FIRE",
       "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 251,
+      "weeks_on_list": 252,
       "isbns": [
         {
           "isbn10": "",
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464277061",
       "publisher": "Bloom",
-      "rank": 9,
+      "rank": 7,
       "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "BOYS OF TOMMEN",
       "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 81,
+      "weeks_on_list": 82,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +400,170 @@
       ]
     },
     {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/1665961147?tag=thenewyorktim-20",
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Aaron Reynolds",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665961141.jpg",
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
       "book_image_height": 500,
-      "book_image_width": 361,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/87513343-e7ca-52d4-9d81-df2b035fcdaf",
-      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
-      "contributor_note": "Illustrated by Peter Brown",
-      "created_date": "2026-07-22T17:04:40.246Z",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:16.173Z",
       "dagger": 0,
-      "description": "Jasper narrates cautionary tales of young animals who get into sticky situations. (Ages 6 to 9)",
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665961141",
-      "publisher": "Simon & Schuster",
-      "rank": 10,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780316382007",
+      "publisher": "Little, Brown",
+      "rank": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "JASPER RABBIT'S CREEPY TALES!",
-      "updated_date": "2026-07-22T17:04:40.246Z",
-      "weeks_on_list": 1,
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 127,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665961141"
+          "isbn13": "9780316382007"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665961147?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665961141?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665961141&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyarn-is-everything-aaron-reynolds%2F1148559851%3Fean%3D9781665961141&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYarn-Everything%2FAaron-Reynolds%2F9781665961141"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665961141"
+          "url": "https://bookshop.org/a/3546/9780316382007"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0062085506?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tahereh Mafi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062085504.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1dfc4d18-af59-5098-9585-14b0f5e18c20",
+      "contributor": "by Tahereh Mafi",
+      "contributor_note": "",
+      "created_date": "2026-07-29T17:27:30.163Z",
+      "dagger": 0,
+      "description": "In a crumbling dystopian world, dark forces want to use Juliette’s superhuman powers. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062085504",
+      "publisher": "HarperCollins",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SHATTER ME",
+      "updated_date": "2026-07-29T17:27:30.163Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062085504"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062085506?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062085504?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062085504&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshatter-me-tahereh-mafi%2F1100394792%3Fean%3D9780062085504&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShatter%2FTahereh-Mafi%2F9780062085504"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062085504"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Megan Shepherd",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736447256.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3a1c8bac-dba4-5df1-974f-b8184513a083",
+      "contributor": "by Megan Shepherd",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:31.004Z",
+      "dagger": 0,
+      "description": "The adventures of Sally, the Pumpkin Queen of Halloween Town. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780736447256",
+      "publisher": "Random House/Disney",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE PUMPKIN QUEEN",
+      "updated_date": "2026-07-15T16:43:31.004Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780736447256"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780736447256?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736447256&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshadow-over-the-pumpkin-queen-megan-shepherd%2F1148640581%3Fean%3D9780736447256&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Over-Pumpkin-Queen%2FMegan-Shepherd%2F9780736447256"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780736447256"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/5bb0c524-e3fc-5f66-88f7-df2d737b449e",
+  "uri": "nyt://bestsellerslist/35afd587-96b6-5f71-91e3-74737bfd8ea1",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brian Tyler Cohen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
-      "contributor": "by Brian Tyler Cohen",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.603Z",
-      "dagger": 0,
-      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063495104",
-      "publisher": "Harper",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE DAY AFTER",
-      "updated_date": "2026-07-22T17:04:42.603Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063495104"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063495104"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ben Wikler",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324131434.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/16fdcae3-c640-577c-9a3c-cb2143312e0f",
+      "contributor": "by Ben Wikler",
+      "contributor_note": "",
+      "created_date": "2026-07-29T17:27:32.534Z",
+      "dagger": 1,
+      "description": "The former chair of the Democratic Party of Wisconsin shares his perspectives on what it takes to win elections.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324131434",
+      "publisher": "Norton",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THIS IS THE PLAN",
+      "updated_date": "2026-07-29T17:27:32.534Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324131434"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324131434?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324131434&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-the-plan-ben-wikler%2F1149256551%3Fean%3D9781324131434&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Plan%2FBen-Wikler%2F9781324131434"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324131434"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -188,7 +188,7 @@
       "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
       "contributor": "by JD Vance",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.805Z",
+      "created_date": "2026-07-29T17:27:32.729Z",
       "dagger": 0,
       "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
       "first_chapter_link": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9780063575011",
       "publisher": "Harper",
       "rank": 4,
-      "rank_last_week": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "COMMUNION",
-      "updated_date": "2026-07-22T17:04:42.805Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-07-29T17:27:32.729Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -233,169 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Eric Metaxas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
+      "author": "Isabel Klee",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
       "book_image_height": 500,
-      "book_image_width": 326,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/943a5b7d-5990-5c86-97a9-1e3b96d94229",
-      "contributor": "by Eric Metaxas",
+      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
+      "contributor": "by Isabel Klee",
       "contributor_note": "",
-      "created_date": "2026-06-10T17:37:57.556Z",
-      "dagger": 1,
-      "description": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
+      "created_date": "2026-05-06T17:37:48.924Z",
+      "dagger": 0,
+      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781631440885",
-      "publisher": "Odysseus",
+      "primary_isbn13": "9780063451070",
+      "publisher": "Morrow",
       "rank": 5,
-      "rank_last_week": 2,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "REVOLUTION",
-      "updated_date": "2026-06-10T17:37:57.556Z",
-      "weeks_on_list": 6,
+      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
+      "updated_date": "2026-05-06T17:37:48.924Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781631440885"
+          "isbn13": "9780063451070"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781631440885?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781631440885&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frevolution-eric-metaxas%2F1148561199%3Fean%3D9781631440885&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRevolution%2FEric-Metaxas%2F9781631440885"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781631440885"
+          "url": "https://bookshop.org/a/3546/9780063451070"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Dave Portnoy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668222027.jpg",
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/24531f20-b0b0-5138-af5f-4bfe8e210a70",
-      "contributor": "by Dave Portnoy",
+      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
+      "contributor": "by Brian Tyler Cohen",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:40.299Z",
+      "created_date": "2026-07-22T17:04:42.603Z",
       "dagger": 0,
-      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today.",
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668222027",
-      "publisher": "Gallery",
+      "primary_isbn13": "9780063495104",
+      "publisher": "Harper",
       "rank": 6,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "CANCEL ME IF YOU CAN",
-      "updated_date": "2026-07-08T17:19:40.299Z",
-      "weeks_on_list": 3,
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-07-22T17:04:42.603Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668222027"
+          "isbn13": "9780063495104"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668222027?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222027&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can-Autographed%2FDave-Portnoy%2F9781668250754"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668222027"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "David Sedaris",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
-      "contributor": "by David Sedaris",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:35:44.514Z",
-      "dagger": 0,
-      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316264839",
-      "publisher": "Little, Brown",
-      "rank": 7,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE LAND AND ITS PEOPLE",
-      "updated_date": "2026-06-03T18:35:44.514Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316264839"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316264839"
+          "url": "https://bookshop.org/a/3546/9780063495104"
         }
       ]
     },
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385548533",
       "publisher": "Doubleday",
-      "rank": 8,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "LONDON FALLING",
       "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -457,225 +401,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Frank Miller",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065297.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
-      "book_review_link": "",
-      "book_uri": "nyt://book/05d4ff80-782e-53ee-aabc-472ce0f7cf44",
-      "contributor": "by Frank Miller",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:43.263Z",
-      "dagger": 0,
-      "description": "The comic book writer and artist chronicles his career from his time in New York in the 1970s to projects made in Hollywood over the decades.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668065297",
-      "publisher": "S&S/Saga",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PUSH THE WALL",
-      "updated_date": "2026-07-22T17:04:43.263Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668065297"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668065290?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668065297?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpush-the-wall-frank-miller%2F1148448935%3Fean%3D9781668065297&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPush-Wall%2FFrank-Miller%2F9781668065297"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668065297"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lauren Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984878816.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/07/15/books/review/they-stole-a-city-lauren-collins.html",
-      "book_uri": "nyt://book/fb04f74b-5a15-5b91-a530-dd373d7efc49",
-      "contributor": "by Lauren Collins",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.97Z",
-      "dagger": 0,
-      "description": "A staff writer at The New Yorker depicts the 1898 massacre and coup in Wilmington, N.C., and its impact on four families.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781984878816",
-      "publisher": "Penguin Press",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THEY STOLE A CITY",
-      "updated_date": "2026-07-22T17:04:42.97Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781984878816"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984878816?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984878816&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthey-stole-a-city-lauren-collins%2F1148569738%3Fean%3D9781984878816&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThey-Stole-City%2FLauren-Collins%2F9781984878816"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984878816"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gad Saad",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063446533.jpg",
+      "author": "Dave Portnoy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668222027.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/bf922130-f9e9-57a6-891f-decdf66f46e1",
-      "contributor": "by Gad Saad",
+      "book_uri": "nyt://book/24531f20-b0b0-5138-af5f-4bfe8e210a70",
+      "contributor": "by Dave Portnoy",
       "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.726Z",
+      "created_date": "2026-07-08T17:19:40.299Z",
       "dagger": 0,
-      "description": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society.",
+      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063446533",
-      "publisher": "Broadside",
-      "rank": 11,
-      "rank_last_week": 15,
+      "primary_isbn13": "9781668222027",
+      "publisher": "Gallery",
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "SUICIDAL EMPATHY",
-      "updated_date": "2026-05-20T18:34:35.726Z",
-      "weeks_on_list": 10,
+      "title": "CANCEL ME IF YOU CAN",
+      "updated_date": "2026-07-08T17:19:40.299Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063446533"
+          "isbn13": "9781668222027"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063446540?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668222027?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063446533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsuicidal-empathy-gad-saad%2F1148936056%3Fean%3D9780063446533&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222027&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSuicidal-Empathy%2FGad-Saad%2F9780063446533"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can-Autographed%2FDave-Portnoy%2F9781668250754"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063446533"
+          "url": "https://bookshop.org/a/3546/9781668222027"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Pamela Colloff",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593230862.jpg",
+      "author": "Eric Metaxas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/07/13/books/review/catch-the-devil-pamela-colloff.html",
-      "book_uri": "nyt://book/06ee80c8-054e-5e05-8f01-8aa9dfba3a6b",
-      "contributor": "by Pamela Colloff",
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/943a5b7d-5990-5c86-97a9-1e3b96d94229",
+      "contributor": "by Eric Metaxas",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:43.149Z",
-      "dagger": 0,
-      "description": "A staff writer at The New York Times Magazine and reporter at ProPublica gives an account of the damage caused by a con man in Florida.",
+      "created_date": "2026-06-10T17:37:57.556Z",
+      "dagger": 1,
+      "description": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593230862",
-      "publisher": "Knopf",
-      "rank": 12,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781631440885",
+      "publisher": "Odysseus",
+      "rank": 9,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "CATCH THE DEVIL",
-      "updated_date": "2026-07-22T17:04:43.149Z",
-      "weeks_on_list": 1,
+      "title": "REVOLUTION",
+      "updated_date": "2026-06-10T17:37:57.556Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593230862"
+          "isbn13": "9781631440885"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593230868?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593230862?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781631440885?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593230862&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcatch-the-devil-pamela-colloff%2F1148742070%3Fean%3D9780593230862&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781631440885&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frevolution-eric-metaxas%2F1148561199%3Fean%3D9781631440885&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCatch-Devil%2FPamela-Colloff%2F9780593230862"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRevolution%2FEric-Metaxas%2F9781631440885"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593230862"
+          "url": "https://bookshop.org/a/3546/9781631440885"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Sedaris",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
+      "contributor": "by David Sedaris",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:44.514Z",
+      "dagger": 0,
+      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316264839",
+      "publisher": "Little, Brown",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE LAND AND ITS PEOPLE",
+      "updated_date": "2026-06-03T18:35:44.514Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316264839"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316264839"
         }
       ]
     },
@@ -700,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593655030",
       "publisher": "Penguin Press",
-      "rank": 13,
-      "rank_last_week": 9,
+      "rank": 11,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE ANXIOUS GENERATION",
       "updated_date": "2026-03-04T23:40:23.53Z",
-      "weeks_on_list": 115,
+      "weeks_on_list": 116,
       "isbns": [
         {
           "isbn10": "",
@@ -737,6 +625,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/081298840X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Paul Kalanithi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780812988406.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9944bee9-d6fa-5956-bf21-c3b11e5d28ab",
+      "contributor": "by Paul Kalanithi",
+      "contributor_note": "",
+      "created_date": "2026-07-02T17:49:01.6Z",
+      "dagger": 0,
+      "description": "A memoir by a physician who received a diagnosis of Stage IV lung cancer at the age of 36.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780812988406",
+      "publisher": "Random House",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WHEN BREATH BECOMES AIR",
+      "updated_date": "2026-07-02T17:49:01.6Z",
+      "weeks_on_list": 80,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780812988406"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/081298840X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780812988406?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780812988406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhen-breath-becomes-air-paul-kalanithi%2F1147744381%3Fean%3D9780812988406&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBreath-Becomes-Air%2FPaul-Kalanithi%2F9780812988406"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780812988406"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lauren Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984878816.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/07/15/books/review/they-stole-a-city-lauren-collins.html",
+      "book_uri": "nyt://book/fb04f74b-5a15-5b91-a530-dd373d7efc49",
+      "contributor": "by Lauren Collins",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.97Z",
+      "dagger": 0,
+      "description": "A staff writer at The New Yorker depicts the 1898 massacre and coup in Wilmington, N.C., and its impact on four families.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781984878816",
+      "publisher": "Penguin Press",
+      "rank": 13,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THEY STOLE A CITY",
+      "updated_date": "2026-07-22T17:04:42.97Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781984878816"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984878816?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984878816?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984878816&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthey-stole-a-city-lauren-collins%2F1148569738%3Fean%3D9781984878816&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThey-Stole-City%2FLauren-Collins%2F9781984878816"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781984878816"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668043351?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eva Benefield",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668043356.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e64b7c4b-53ad-52fb-b761-d098491e2955",
+      "contributor": "by Eva Benefield",
+      "contributor_note": "",
+      "created_date": "2026-07-29T17:27:29.574Z",
+      "dagger": 0,
+      "description": "The daughter of the victim of the \"Black Swan\" murder case recounts how she navigated early adulthood on her own.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668043356",
+      "publisher": "Gallery",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GHOST GIRL",
+      "updated_date": "2026-07-29T17:27:29.574Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668043356"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668043351?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668043356?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668043356&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fghost-girl-eva-benefield%2F1148582412%3Fean%3D9781668043356&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGhost-Girl%2FEva-Benefield%2F9781668043356"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668043356"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250391230",
       "publisher": "Flatiron",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "CARELESS PEOPLE",
       "updated_date": "2026-07-08T20:13:03.26Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/p/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism-sarah-wynn-williams/804251bb5d4b06b3?ean=9781250391230"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668232480?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Catherine Ostler",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668232484.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ef2289d4-dfef-530b-b946-7f7df172abb8",
-      "contributor": "by Catherine Ostler",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:39.418Z",
-      "dagger": 0,
-      "description": "The lives of three sisters, who were painted as children by Pierre-Auguste Renoir, go in different directions.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668232484",
-      "publisher": "Atria",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE RENOIR GIRLS",
-      "updated_date": "2026-07-22T17:04:39.418Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668232484"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668232480?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668232484?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668232484&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-renoir-girls-catherine-ostler%2F1148639934%3Fean%3D9781668232484&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRenoir-Girls%2FCatherine-Ostler%2F9781668232484"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668232484"
         }
       ]
     }

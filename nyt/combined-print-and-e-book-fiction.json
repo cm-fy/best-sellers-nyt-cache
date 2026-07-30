@@ -5,64 +5,8 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/26de0049-44ea-5b62-a618-93e04b908e7f",
+  "uri": "nyt://bestsellerslist/3e345186-2545-5111-a2c5-145c7cd23c09",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FW51VCS3?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Silva",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063384262.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c24faeb0-f0bf-5823-a5d5-1853e2a3d825",
-      "contributor": "by Daniel Silva",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.677Z",
-      "dagger": 0,
-      "description": "The 26th book in the Gabriel Allon series. A search for a British billionaire’s missing wife turns up secrets and an old enemy.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063384262",
-      "publisher": "Harper",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "RANSOM",
-      "updated_date": "2026-07-22T17:04:41.677Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063384262"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FW51VCS3?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063384262?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063384262&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fransom-daniel-silva%2F1149314386%3Fean%3D9780063384262&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRansom%2FDaniel-Silva%2F9780063384224"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063384262"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kathryn Stockett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
+      "contributor": "by Kathryn Stockett",
+      "contributor_note": "",
+      "created_date": "2026-05-13T21:30:50.865Z",
+      "dagger": 0,
+      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781954118812",
+      "publisher": "Spiegel & Grau",
+      "rank": 2,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE CALAMITY CLUB",
+      "updated_date": "2026-05-13T21:30:50.865Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781954118812"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781954118812"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -177,118 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0DZJ53SVW?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kathryn Stockett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118829.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6883473d-3592-5059-9606-49882d21d79d",
-      "contributor": "by Kathryn Stockett",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.831Z",
-      "dagger": 0,
-      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781954118829",
-      "publisher": "Spiegel & Grau",
-      "rank": 4,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE CALAMITY CLUB",
-      "updated_date": "2026-07-22T17:04:41.831Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781954118829"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0DZJ53SVW?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781954118829?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118829&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118829&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781954118829"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
-      "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 5,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 58,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593135228"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Patterson and Mike Lupica",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316599870.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/2cc9eb02-cbde-5c3a-92e9-ec11b061df94",
-      "contributor": "by James Patterson and Mike Lupica",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.997Z",
+      "created_date": "2026-05-20T22:02:25.385Z",
       "dagger": 0,
-      "description": "A former football player returns to the town where his father was killed.",
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316599870",
-      "publisher": "Little, Brown",
-      "rank": 7,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 5,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "THE COUNTRY ROAD MURDERS",
-      "updated_date": "2026-07-22T17:04:41.997Z",
-      "weeks_on_list": 1,
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 59,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316599870"
+          "isbn13": "9780593135228"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316599870?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316599870&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-country-road-murders-james-patterson%2F1147704643%3Fean%3D9780316599870&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCountry-Road-Murders%2FJames-Patterson%2F9780316599870"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316599870"
+          "url": "https://bookshop.org/a/3546/9780593135228"
         }
       ]
     },
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 8,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 28,
+      "weeks_on_list": 29,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +345,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1990101062?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FW51VCS3?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781990101069.jpg",
+      "author": "Daniel Silva",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063384262.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3bfda664-ef17-58f4-99af-6a2827b25f9b",
-      "contributor": "by Elle Kennedy",
+      "book_uri": "nyt://book/c24faeb0-f0bf-5823-a5d5-1853e2a3d825",
+      "contributor": "by Daniel Silva",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.166Z",
+      "created_date": "2026-07-29T17:27:31.838Z",
       "dagger": 0,
-      "description": "The fifth book in the Off-Campus series. Four couples experience the ups and downs of life after graduating college.",
+      "description": "The 26th book in the Gabriel Allon series. A search for a British billionaire’s missing wife turns up secrets and an old enemy.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781990101069",
-      "publisher": "Bloom",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780063384262",
+      "publisher": "Harper",
+      "rank": 7,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "THE LEGACY",
-      "updated_date": "2026-07-22T17:04:42.166Z",
-      "weeks_on_list": 1,
+      "title": "RANSOM",
+      "updated_date": "2026-07-29T17:27:31.838Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781990101069"
+          "isbn13": "9780063384262"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1990101062?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FW51VCS3?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781990101069?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063384262?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781990101069&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-legacy-elle-kennedy%2F1139126930%3Fean%3D9781990101069&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063384262&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fransom-daniel-silva%2F1149314386%3Fean%3D9780063384262&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLegacy%2FElle-Kennedy%2F9781990101069"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRansom%2FDaniel-Silva%2F9780063384224"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781990101069"
+          "url": "https://bookshop.org/a/3546/9780063384262"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/166801775X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0385550502?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Christina Lauren",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668017753.jpg",
+      "author": "Colson Whitehead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550505.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/231f3f0c-b484-5cc8-beb1-e3ffd59dbc86",
-      "contributor": "by Christina Lauren",
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
+      "book_uri": "nyt://book/4ff77a3a-9706-5fd3-bd15-292568dedbee",
+      "contributor": "by Colson Whitehead",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.342Z",
+      "created_date": "2026-07-29T17:27:32.001Z",
       "dagger": 0,
-      "description": "A scientist uses a classified technology to bring her landscaper husband back to life but he does not remember her.",
+      "description": "In the third book in the Harlem trilogy, 1980s crime and capitalism affect Ray Carney and the people around him.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668017753",
-      "publisher": "Gallery",
-      "rank": 10,
+      "primary_isbn13": "9780385550505",
+      "publisher": "Doubleday",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE ROMANCE REVIVAL",
-      "updated_date": "2026-07-22T17:04:42.342Z",
+      "title": "COOL MACHINE",
+      "updated_date": "2026-07-29T17:27:32.001Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668017753"
+          "isbn13": "9780385550505"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166801775X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385550502?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668017753?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780385550505?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668017753&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-romance-revival-christina-lauren%2F1148939062%3Fean%3D9781668017753&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550505&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcool-machine-colson-whitehead%2F1148573690%3Fean%3D9780385550505&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRomance-Revival%2FChristina-Lauren%2F9781668017753"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCool-Machine%2FColson-Whitehead%2F9780385550505"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668017753"
+          "url": "https://bookshop.org/a/3546/9780385550505"
         }
       ]
     },
@@ -588,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
-      "rank": 11,
-      "rank_last_week": 9,
+      "rank": 9,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 36,
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -625,113 +513,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464244812?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464244810.jpg",
+      "author": "James Patterson and Mike Lupica",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316599870.jpg",
       "book_image_height": 500,
-      "book_image_width": 398,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/6d4c29a7-7d4e-5681-a0f2-de042b094864",
-      "contributor": "by Elle Kennedy",
+      "book_uri": "nyt://book/2cc9eb02-cbde-5c3a-92e9-ec11b061df94",
+      "contributor": "by James Patterson and Mike Lupica",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.47Z",
+      "created_date": "2026-07-22T17:04:41.997Z",
       "dagger": 0,
-      "description": "Pregnancy complicates the budding relationship between a college senior and a hockey player.",
+      "description": "A former football player returns to the town where his father was killed.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464244810",
-      "publisher": "Elle Kennedy",
-      "rank": 12,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780316599870",
+      "publisher": "Little, Brown",
+      "rank": 10,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "THE GOAL",
-      "updated_date": "2026-07-22T17:04:42.47Z",
-      "weeks_on_list": 3,
+      "title": "THE COUNTRY ROAD MURDERS",
+      "updated_date": "2026-07-22T17:04:41.997Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464244810"
+          "isbn13": "9780316599870"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464244812?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464244810?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316599870?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464244810&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-goal-elle-kennedy%2F1124458795%3Fean%3D9781464244810&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316599870&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-country-road-murders-james-patterson%2F1147704643%3Fean%3D9780316599870&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoal-Collectors%2FElle-Kennedy%2F9781464244810"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCountry-Road-Murders%2FJames-Patterson%2F9780316599870"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464244810"
+          "url": "https://bookshop.org/a/3546/9780316599870"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668076276?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elin Hilderbrand",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
+      "author": "Stacey McEwan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668076279.jpg",
       "book_image_height": 500,
       "book_image_width": 323,
       "book_review_link": "",
-      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
-      "contributor": "by Elin Hilderbrand",
+      "book_uri": "nyt://book/d8e798b1-2bb5-5217-91fd-a74494c4f791",
+      "contributor": "by Stacey McEwan",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.571Z",
+      "created_date": "2026-07-29T17:27:32.171Z",
       "dagger": 0,
-      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
+      "description": "The second book in the Artisan trilogy. Nina and Patrick search for resources that may alter the course of the war.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316259187",
-      "publisher": "Back Bay",
-      "rank": 13,
+      "primary_isbn13": "9781668076279",
+      "publisher": "S&S/Saga",
+      "rank": 11,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE FIVE-STAR WEEKEND",
-      "updated_date": "2026-07-15T16:43:31.571Z",
-      "weeks_on_list": 7,
+      "title": "A FORSAKEN PROPHECY",
+      "updated_date": "2026-07-29T17:27:32.171Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316259187"
+          "isbn13": "9781668076279"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668076276?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668076279?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668076279&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-forsaken-prophecy-stacey-mcewan%2F1148560321%3Fean%3D9781668076279&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FForsaken-Prophecy%2FStacey-McEwan%2F9781668076279"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316259187"
+          "url": "https://bookshop.org/a/3546/9781668076279"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jenny Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
+      "contributor": "by Jenny Jackson",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.93Z",
+      "dagger": 0,
+      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059959",
+      "publisher": "Pamela Dorman",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SHAMPOO EFFECT",
+      "updated_date": "2026-07-08T17:19:39.93Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059959"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059959"
         }
       ]
     },
@@ -756,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
-      "rank": 14,
-      "rank_last_week": 10,
+      "rank": 13,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Sally Hepworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/736c390c-8e20-527f-a6de-fbab2b17310c",
+      "contributor": "by Sally Hepworth",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:55:48.983Z",
+      "created_date": "2026-07-29T17:27:32.347Z",
       "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
+      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464249631",
-      "publisher": "Poisoned Pen",
-      "rank": 15,
-      "rank_last_week": 11,
+      "primary_isbn13": "9781250284556",
+      "publisher": "St. Martin's",
+      "rank": 14,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 8,
+      "title": "MAD MABEL",
+      "updated_date": "2026-07-29T17:27:32.347Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464249631"
+          "isbn13": "9781250284556"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250284556?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284556&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284556&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249631"
+          "url": "https://bookshop.org/a/3546/9781250284556"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elin Hilderbrand",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
+      "book_image_height": 500,
+      "book_image_width": 323,
+      "book_review_link": "",
+      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
+      "contributor": "by Elin Hilderbrand",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:31.571Z",
+      "dagger": 0,
+      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316259187",
+      "publisher": "Back Bay",
+      "rank": 15,
+      "rank_last_week": 13,
+      "sunday_review_link": "",
+      "title": "THE FIVE-STAR WEEKEND",
+      "updated_date": "2026-07-15T16:43:31.571Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316259187"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316259187"
         }
       ]
     }
