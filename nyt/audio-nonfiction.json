@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 302,
-  "uri": "nyt://bestsellerslist/c160a4bc-4af5-57e5-b559-c25528abd14b",
+  "uri": "nyt://bestsellerslist/d79ea5bc-7f10-5b9e-8397-8c59e5988247",
   "books": [
     {
       "age_group": "",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/67bacb74-3767-5727-8a51-bfe883d7a176",
       "contributor": "by Maggie Haberman and Jonathan Swan",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:38.542Z",
+      "created_date": "2026-08-05T17:45:05.998Z",
       "dagger": 0,
       "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term. Read by Robert Petkoff. 17 hours, 7 minutes unabridged.",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
-      "updated_date": "2026-07-01T17:54:38.542Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-08-05T17:45:05.998Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -51,7 +51,7 @@
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9781668067260"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067260&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067260&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -60,6 +60,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781668067246"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dave Portnoy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668156148.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9bf8e51f-a073-5428-917c-64ebef46ef24",
+      "contributor": "by Dave Portnoy",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:06.153Z",
+      "dagger": 0,
+      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today. Read by the author. 8 hours, 4 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668156148",
+      "publisher": "Simon & Schuster Audio",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CANCEL ME IF YOU CAN",
+      "updated_date": "2026-08-05T17:45:06.153Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668156148"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668156148?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222041&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222041&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can%2FDave-Portnoy%2F9781668222027"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668222027"
         }
       ]
     },
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217073443",
       "publisher": "Random House Audio",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-05-20T17:40:51.389Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +177,230 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lena Dunham",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217176397.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/08b13a37-046b-56e8-944d-334460fee2f5",
+      "contributor": "by Lena Dunham",
+      "contributor_note": "",
+      "created_date": "2026-06-03T17:37:13.28Z",
+      "dagger": 0,
+      "description": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her. Read by the author. 11 hours, 47 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217176397",
+      "publisher": "Random House Audio",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FAMESICK",
+      "updated_date": "2026-06-03T17:37:13.28Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217176397"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217176397?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593129333&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamesick-lena-dunham%2F1147924472%3Fean%3D9780593129333&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamesick%2FLena-Dunham%2F9780593129326"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593129326"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Bessel van der Kolk",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593412701.jpg",
+      "book_image_height": 500,
+      "book_image_width": 325,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fd440b07-1767-5b93-98a2-44dc366d4505",
+      "contributor": "by Bessel van der Kolk",
+      "contributor_note": "",
+      "created_date": "2026-06-02T23:11:55.194Z",
+      "dagger": 0,
+      "description": "How trauma affects the body and mind, and innovative treatments for recovery. Read by Sean Pratt. 16 hours, 17 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593412701",
+      "publisher": "Penguin Audio",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE BODY KEEPS THE SCORE",
+      "updated_date": "2026-06-02T23:11:55.194Z",
+      "weeks_on_list": 69,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593412701"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593412701?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101608302&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9781101608302&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780670785933"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Patrick Radden Keefe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217174072.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/311ea4e6-9d0b-5c45-82e0-d67768443761",
+      "contributor": "by Patrick Radden Keefe",
+      "contributor_note": "",
+      "created_date": "2026-05-20T17:40:51.968Z",
+      "dagger": 0,
+      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life. Read by the author. 13 hours unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217174072",
+      "publisher": "Random House Audio",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LONDON FALLING",
+      "updated_date": "2026-05-20T17:40:51.968Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217174072"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217174072?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548540&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548540&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385548533"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217079940.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/12872f76-5c20-50c1-96f5-649b354a64c0",
+      "contributor": "by Annie Jacobsen",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:06.312Z",
+      "dagger": 0,
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown. Read by the author. 11 hours, 14 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217079940",
+      "publisher": "Penguin Audio",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:06.312Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217079940"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217079940?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046041&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046041&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217046034"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668648230",
       "publisher": "Hachette Audio",
-      "rank": 3,
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE LAND AND ITS PEOPLE",
       "updated_date": "2026-06-03T18:21:59.297Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -188,7 +468,7 @@
       "book_uri": "nyt://book/723f18a2-4ba3-53b3-be89-8993c5d64be6",
       "contributor": "by JD Vance",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:38.664Z",
+      "created_date": "2026-08-05T17:45:06.463Z",
       "dagger": 0,
       "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life. Read by the author. 7 hours, 50 minutes unabridged.",
       "first_chapter_link": "",
@@ -196,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063575080",
       "publisher": "Harper",
-      "rank": 4,
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "COMMUNION",
-      "updated_date": "2026-07-01T17:54:38.664Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-08-05T17:45:06.463Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -219,7 +499,7 @@
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780063575059"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575059&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575059&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -233,393 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lena Dunham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217176397.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/08b13a37-046b-56e8-944d-334460fee2f5",
-      "contributor": "by Lena Dunham",
-      "contributor_note": "",
-      "created_date": "2026-06-03T17:37:13.28Z",
-      "dagger": 0,
-      "description": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her. Read by the author. 11 hours, 47 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217176397",
-      "publisher": "Random House Audio",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "FAMESICK",
-      "updated_date": "2026-06-03T17:37:13.28Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217176397"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217176397?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593129333&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamesick-lena-dunham%2F1147924472%3Fean%3D9780593129333&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamesick%2FLena-Dunham%2F9780593129326"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593129326"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Patrick Radden Keefe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217174072.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/311ea4e6-9d0b-5c45-82e0-d67768443761",
-      "contributor": "by Patrick Radden Keefe",
-      "contributor_note": "",
-      "created_date": "2026-05-20T17:40:51.968Z",
-      "dagger": 0,
-      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life. Read by the author. 13 hours unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217174072",
-      "publisher": "Random House Audio",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "LONDON FALLING",
-      "updated_date": "2026-05-20T17:40:51.968Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217174072"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217174072?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548540&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548540&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385548533"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668222884?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jill Biden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668157350.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/63b0c46f-acc5-50ad-b112-ef729a567e27",
-      "contributor": "by Jill Biden",
-      "contributor_note": "",
-      "created_date": "2026-07-02T19:04:28.525Z",
-      "dagger": 0,
-      "description": "The former first lady recounts her time in the White House, causes she championed and her simultaneous work as a community college professor. Read by the author. 7 hours, 42 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668157350",
-      "publisher": "Simon & Schuster Audio",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "VIEW FROM THE EAST WING",
-      "updated_date": "2026-07-02T19:04:28.525Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668157350"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668222884?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668157350?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222904&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funtitled-9781668222881-to-be-confirmed-gallery%2F1149471606%3Fean%3D9781668222904&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FView-from-East-Wing%2FJill-Biden%2F9781668222881"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668222881"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Bessel van der Kolk",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593412701.jpg",
-      "book_image_height": 500,
-      "book_image_width": 325,
-      "book_review_link": "",
-      "book_uri": "nyt://book/fd440b07-1767-5b93-98a2-44dc366d4505",
-      "contributor": "by Bessel van der Kolk",
-      "contributor_note": "",
-      "created_date": "2026-06-02T23:11:55.194Z",
-      "dagger": 0,
-      "description": "How trauma affects the body and mind, and innovative treatments for recovery. Read by Sean Pratt. 16 hours, 17 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593412701",
-      "publisher": "Penguin Audio",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BODY KEEPS THE SCORE",
-      "updated_date": "2026-06-02T23:11:55.194Z",
-      "weeks_on_list": 68,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593412701"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593412701?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101608302&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9781101608302&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780670785933"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eric Metaxas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/DBKSKYH000298.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ea13d98b-dee1-5e30-bf80-a611e7e2faa8",
-      "contributor": "by Eric Metaxas",
-      "contributor_note": "",
-      "created_date": "2026-07-02T19:04:53.284Z",
-      "dagger": 0,
-      "description": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America. Read by the author. 26 hours, 47 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "DBKSKYH000298",
-      "publisher": "Skyhorse",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "REVOLUTION",
-      "updated_date": "2026-07-02T19:04:53.284Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "DBKSKYH000298"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781631440885?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781631440885&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frevolution-eric-metaxas%2F1148561199%3Fean%3D9781631440885&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRevolution%2FEric-Metaxas%2F9781631440885"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781631440885"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063445190?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Bunnie Xo",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063445222.jpg",
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495135.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/65f3089e-fc05-5dbe-ab80-5ba892ca2365",
-      "contributor": "by Bunnie Xo",
+      "book_uri": "nyt://book/0686cadc-6080-5567-a55a-7e920206daa1",
+      "contributor": "by Brian Tyler Cohen",
       "contributor_note": "",
-      "created_date": "2026-05-20T17:40:52.629Z",
+      "created_date": "2026-08-05T17:45:06.641Z",
       "dagger": 0,
-      "description": "The host of the “Dumb Blonde Podcast” shares how redemption was an important part of her journey toward reaching her goals. Read by the author. 8 hours, 25 minutes unabridged.",
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency. Read by the author. 6 hours, 22 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063445222",
-      "publisher": "Dey Street",
+      "primary_isbn13": "9780063495135",
+      "publisher": "Harper",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "STRIPPED DOWN",
-      "updated_date": "2026-05-20T17:40:52.629Z",
-      "weeks_on_list": 4,
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-08-05T17:45:06.641Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063445222"
+          "isbn13": "9780063495135"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063445190?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063445222?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063495135?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063445215&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstripped-down-bunnie-xo%2F1148285328%3Fean%3D9780063445215&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495128&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495128&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStripped-Down-Unfiltered-Unapologetic%2FBunnie-Xo%2F9780063445192"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063445192"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gad Saad",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063446557.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/da4071b5-3117-519c-84ad-371e0b40b31d",
-      "contributor": "by Gad Saad",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:59.156Z",
-      "dagger": 0,
-      "description": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society. Read by the author. 8 hours, 23 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063446557",
-      "publisher": "Broadside",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SUICIDAL EMPATHY",
-      "updated_date": "2026-06-03T18:21:59.156Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063446557"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063446537?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063446557?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063446540&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsuicidal-empathy-gad-saad%2F1148936056%3Fean%3D9780063446540&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSuicidal-Empathy%2FGad-Saad%2F9780063446533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063446533"
+          "url": "https://bookshop.org/a/3546/9780063495104"
         }
       ]
     },
@@ -644,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593294185",
       "publisher": "Random House Audio",
-      "rank": 12,
+      "rank": 11,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "GREENLIGHTS",
       "updated_date": "2026-06-02T23:11:55.409Z",
-      "weeks_on_list": 68,
+      "weeks_on_list": 69,
       "isbns": [
         {
           "isbn10": "",
@@ -681,57 +625,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/031659492X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B015TM0RM4?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Christina Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668653487.jpg",
+      "author": "Jocko Willink and Leif Babin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781427264305.jpg",
       "book_image_height": 500,
-      "book_image_width": 322,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/79991a7d-3f03-53b8-8b2e-2fe788849699",
-      "contributor": "by Christina Applegate",
+      "book_uri": "nyt://book/b096e239-67ee-54a3-8562-306ec410220f",
+      "contributor": "by Jocko Willink and Leif Babin",
       "contributor_note": "",
-      "created_date": "2026-05-20T17:40:51.811Z",
+      "created_date": "2026-06-02T23:11:56.286Z",
       "dagger": 0,
-      "description": "The Emmy Award-winning actress, who received a multiple sclerosis diagnosis in 2021, shares personal stories. Read by the author. 8 hours, 27 minutes unabridged.",
+      "description": "Applying the principles of Navy SEALs leadership training to any organization. Read by the authors. 8 hours, 15 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668653487",
-      "publisher": "Hachette Audio",
-      "rank": 13,
+      "primary_isbn13": "9781427264305",
+      "publisher": "Macmillan Audio",
+      "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "YOU WITH THE SAD EYES",
-      "updated_date": "2026-05-20T17:40:51.811Z",
-      "weeks_on_list": 4,
+      "title": "EXTREME OWNERSHIP",
+      "updated_date": "2026-06-02T23:11:56.286Z",
+      "weeks_on_list": 85,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668653487"
+          "isbn13": "9781427264305"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/031659492X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B015TM0RM4?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668653487?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781427264305?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316594943&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyou-with-the-sad-eyes-christina-applegate%2F1147835826%3Fean%3D9780316594943&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250184726&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextreme-ownership-jocko-willink%2F1121081209%3Fean%3D9781250184726&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSad-Eyes%2FChristina-Applegate%2F9780316594929"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExtreme-Ownership%2FJocko-Willink%2F9781250183866"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316594929"
+          "url": "https://bookshop.org/a/3546/9781250183866"
         }
       ]
     },
@@ -756,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593829097",
       "publisher": "Penguin Audio",
-      "rank": 14,
+      "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE ANXIOUS GENERATION",
       "updated_date": "2026-05-20T17:40:52.944Z",
-      "weeks_on_list": 28,
+      "weeks_on_list": 29,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668249979?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Neil deGrasse Tyson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668191569.jpg",
-      "book_image_height": 500,
-      "book_image_width": 354,
+      "author": "Sarah Wynn-Williams",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250403155.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/08121660-1743-5624-b3f8-8c4139666597",
-      "contributor": "by Neil deGrasse Tyson",
+      "book_uri": "nyt://book/5a549068-2e0c-5c7d-a1c7-c4ac9ca81546",
+      "contributor": "by Sarah Wynn-Williams",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:21:59.77Z",
+      "created_date": "2026-08-05T18:18:16.492Z",
       "dagger": 0,
-      "description": "The astrophysicist depicts what potential encounters with aliens from outer space might be like. Read by the author. 5 hours, 5 minutes unabridged.",
+      "description": "A former Facebook executive gives an account of policies and leadership at the social media platform. Read by the author. 13 hours, 16 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668191569",
-      "publisher": "Simon & Schuster Audio",
-      "rank": 15,
+      "primary_isbn13": "9781250403155",
+      "publisher": "Macmillan Audio",
+      "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "TAKE ME TO YOUR LEADER",
-      "updated_date": "2026-06-03T18:21:59.77Z",
-      "weeks_on_list": 2,
+      "title": "CARELESS PEOPLE",
+      "updated_date": "2026-08-05T18:18:16.492Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668191569"
+          "isbn13": "9781250403155"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668249979?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668191569?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250403155?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668249994&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftake-me-to-your-leader-neil-degrasse-tyson%2F1149238607%3Fean%3D9781668249994&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250391247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcareless-people-sarah-wynn-williams%2F1147093187%3Fean%3D9781250391247&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTake-Your-Leader%2FNeil-DeGrasse-Tyson%2F9781668249970"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCARELESS%2BPEOPLE%2FSarah%2BWynn-Williams%2F9781250403155"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668249970"
+          "url": "https://bookshop.org/a/3546/9781250391247"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/031659492X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Christina Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668653487.jpg",
+      "book_image_height": 500,
+      "book_image_width": 322,
+      "book_review_link": "",
+      "book_uri": "nyt://book/79991a7d-3f03-53b8-8b2e-2fe788849699",
+      "contributor": "by Christina Applegate",
+      "contributor_note": "",
+      "created_date": "2026-05-20T17:40:51.811Z",
+      "dagger": 0,
+      "description": "The Emmy Award-winning actress, who received a multiple sclerosis diagnosis in 2021, shares personal stories. Read by the author. 8 hours, 27 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668653487",
+      "publisher": "Hachette Audio",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "YOU WITH THE SAD EYES",
+      "updated_date": "2026-05-20T17:40:51.811Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668653487"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/031659492X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668653487?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316594943&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyou-with-the-sad-eyes-christina-applegate%2F1147835826%3Fean%3D9780316594943&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSad-Eyes%2FChristina-Applegate%2F9780316594929"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316594929"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 532,
-  "uri": "nyt://bestsellerslist/ba163c43-4306-5943-95bf-ce6c04512d97",
+  "uri": "nyt://bestsellerslist/93707d32-461e-5e4c-a409-d35008d463fa",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 19,
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dave Portnoy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668222027.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/24531f20-b0b0-5138-af5f-4bfe8e210a70",
+      "contributor": "by Dave Portnoy",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:40.299Z",
+      "dagger": 0,
+      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668222027",
+      "publisher": "Gallery",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CANCEL ME IF YOU CAN",
+      "updated_date": "2026-07-08T17:19:40.299Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668222027"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668222027?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222027&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can-Autographed%2FDave-Portnoy%2F9781668250754"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668222027"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 93,
+      "weeks_on_list": 94,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 25,
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +233,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Teri Ijeoma",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781637634653.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/eddd1d33-3186-5a9e-bca5-e6f34b151fb2",
+      "contributor": "by Teri Ijeoma",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:41.381Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781637634653",
+      "publisher": "Frederick Douglass",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE RISK WORTH TAKING",
+      "updated_date": "2026-07-22T17:04:41.381Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781637634653"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781637634653?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781637634653&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-risk-worth-taking-teri-ijeoma%2F1147934824%3Fean%3D9781637634653&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRisk-Worth-Taking%2FTeri-Ijeoma%2F9781637634653"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781637634653"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593652886",
       "publisher": "Penguin Press",
-      "rank": 4,
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE CREATIVE ACT",
       "updated_date": "2026-03-04T23:40:20.231Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "JL Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310474.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9cb07452-70f0-5f31-92a6-938e3af01632",
-      "contributor": "by JL Collins",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:22:00.748Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798893310474",
-      "publisher": "Authors Equity",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SIMPLE PATH TO WEALTH",
-      "updated_date": "2026-06-03T18:22:00.748Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798893310474"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798893310474?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310474&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-simple-path-to-wealth-j-l-collins%2F1123947856%3Fean%3D9798893310474&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSIMPLE%2BPATH%2BTO%2BWEALTH%2FJL%2BCollins%2F9798893310474"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798893310474"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -300,7 +356,7 @@
       "book_uri": "nyt://book/b0cec2f9-300f-5850-8c43-8a67152a96a5",
       "contributor": "by Jocko Willink and Leif Babin",
       "contributor_note": "",
-      "created_date": "2026-07-02T19:07:59.171Z",
+      "created_date": "2026-08-05T17:56:59.266Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250183866",
       "publisher": "St. Martin's",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "EXTREME OWNERSHIP",
-      "updated_date": "2026-07-02T19:07:59.171Z",
-      "weeks_on_list": 78,
+      "updated_date": "2026-08-05T17:56:59.266Z",
+      "weeks_on_list": 79,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062407801",
       "publisher": "Harper Business",
-      "rank": 7,
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "NEVER SPLIT THE DIFFERENCE",
       "updated_date": "2026-03-04T23:40:20.383Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +457,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1401997376?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Natalie Ellis",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781401997373.jpg",
-      "book_image_height": 500,
-      "book_image_width": 323,
+      "author": "Daniel Kahneman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374533557.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/ff41e981-e6b5-59f6-987b-3b3b50adc522",
-      "contributor": "by Natalie Ellis",
+      "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9",
+      "contributor": "by Daniel Kahneman",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.813Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781401997373",
-      "publisher": "Hay House",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE FREEDOM-BASED BUSINESS METHOD",
-      "updated_date": "2026-06-17T17:38:16.813Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781401997373"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1401997376?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781401997373?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401997373&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-freedom-based-business-method-natalie-ellis%2F1146806283%3Fean%3D9781401997373&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFreedom-Based-Business-Method%2FNatalie-Ellis%2F9781401997373"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781401997373"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Will-Teach-You-Rich-Second-ebook/dp/B07GNXPP4P?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ramit Sethi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781523505746.jpg",
-      "book_image_height": 495,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b0fe54f6-2468-55d3-bedf-0338f98478e6",
-      "contributor": "by Ramit Sethi",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:39.743Z",
+      "created_date": "2026-08-05T17:45:07.154Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781523505746",
-      "publisher": "Workman",
+      "primary_isbn13": "9780374533557",
+      "publisher": "Farrar, Straus & Giroux",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "I WILL TEACH YOU TO BE RICH, SECOND EDITION",
-      "updated_date": "2026-07-01T17:54:39.743Z",
-      "weeks_on_list": 41,
+      "title": "THINKING, FAST AND SLOW",
+      "updated_date": "2026-08-05T17:45:07.154Z",
+      "weeks_on_list": 104,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781523505746"
+          "isbn13": "9780374533557"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Will-Teach-You-Rich-Second-ebook/dp/B07GNXPP4P?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781523505746?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781523505746&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-will-teach-you-to-be-rich-second-edition-ramit-sethi%2F1129252577%3Fean%3D9781523505746&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374533557&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthinking-fast-and-slow-daniel-kahneman%2F1100169801%3Fean%3D9780374533557&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FI%2BWILL%2BTEACH%2BYOU%2BTO%2BBE%2BRICH%252C%2BSECOND%2BEDITION%2FRamit%2BSethi%2F9781523505746"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHINKING%252C%2BFAST%2BAND%2BSLOW%2FDaniel%2BKahneman%2F9780374533557"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781523505746"
+          "url": "https://bookshop.org/a/3546/9780374533557"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andrew Ross Sorkin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593296967.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Sarah Wynn-Williams",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250391230.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/90977171-d8dc-57d5-b3a0-acf8445743c7",
-      "contributor": "by Andrew Ross Sorkin",
+      "book_uri": "nyt://book/7c18484b-2dcb-57fc-800a-8d457e7b848c",
+      "contributor": "by Sarah Wynn-Williams",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:39.886Z",
+      "created_date": "2026-08-05T17:58:29.596Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593296967",
-      "publisher": "Viking",
+      "primary_isbn13": "9781250391230",
+      "publisher": "Flatiron",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "1929",
-      "updated_date": "2026-07-01T17:54:39.886Z",
-      "weeks_on_list": 7,
+      "title": "CARELESS PEOPLE",
+      "updated_date": "2026-08-05T17:58:29.596Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593296967"
+          "isbn13": "9781250391230"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593296967?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250391230?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593296967&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F1929-andrew-ross-sorkin%2F1147761884%3Fean%3D9780593296967&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250391230&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcareless-people-sarah-wynn-williams%2F1147093187%3Fean%3D9781250391230&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAndrew-Ross-Sorkin%2F9780593296967"
+          "url": "https://www.booksamillion.com/p/Careless-People/Sarah-Wynn-Williams/9781250391278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593296967"
+          "url": "https://bookshop.org/a/3546/9781250391230"
         }
       ]
     }

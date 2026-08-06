@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/b6237322-db74-5883-877f-fdba08956af8",
+  "uri": "nyt://bestsellerslist/a67608a0-459b-5f64-a0db-1ed722654845",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Margaret Owen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217445875.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3b74a29f-11dc-53f1-8dd7-c015f8756878",
+      "contributor": "by Margaret Owen",
+      "contributor_note": "",
+      "created_date": "2026-08-05T18:00:09.934Z",
+      "dagger": 0,
+      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217445875",
+      "publisher": "Random House/Disney",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ROOTBOUND",
+      "updated_date": "2026-08-05T18:00:09.934Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217445875"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217445875&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9798217445875&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368101042"
+        }
+      ]
+    },
     {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593898840",
       "publisher": "Delacorte",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665921268",
       "publisher": "Simon & Schuster",
-      "rank": 2,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -120,174 +176,6 @@
       ]
     },
     {
-      "age_group": "Ages 15 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alexis Patton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278129.jpg",
-      "book_image_height": 500,
-      "book_image_width": 398,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b7133406-623d-5dc7-b4a6-c8af9f9eb7c9",
-      "contributor": "by Alexis Patton",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.768Z",
-      "dagger": 0,
-      "description": "After breaking out of prison, Khalani, Takeshi and a band of criminals travel across a postapocalyptic desert known as the Death-Zone. (Ages 15 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464278129",
-      "publisher": "Bloom",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "US DEADLY FEW",
-      "updated_date": "2026-07-22T17:04:40.768Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464278129"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464278129?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278129&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-deadly-few-alexis-patton%2F1146630150%3Fean%3D9781464278129&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Deadly-Few%2FAlexis-Patton%2F9781464278129"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464278129"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 15 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alexis Patton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278112.jpg",
-      "book_image_height": 500,
-      "book_image_width": 398,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e7372b9f-42df-51ce-997f-3723a5d17fff",
-      "contributor": "by Alexis Patton",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:21.046Z",
-      "dagger": 0,
-      "description": "Khalani Kanes struggles to survive in an underground prison for a crime she did not commit. (Ages 15 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464278112",
-      "publisher": "Bloom",
-      "rank": 4,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "US DARK FEW",
-      "updated_date": "2026-05-13T17:27:21.046Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464278112"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464278112?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278112&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-dark-few-alexis-patton%2F1143977060%3Fean%3D9781464278112&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Dark-Few%2FAlexis-Patton%2F9781464278112"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464278112"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Marissa Meyer and Tamara Moss",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
-      "contributor": "by Marissa Meyer and Tamara Moss",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:06.768Z",
-      "dagger": 0,
-      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217006120",
-      "publisher": "Putnam",
-      "rank": 5,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE ESCAPE GAME",
-      "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 16,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217006120"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217006120"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063419056",
       "publisher": "Storytide",
-      "rank": 6,
+      "rank": 4,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "RELEASE ME",
       "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 16,
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 7,
-      "rank_last_week": 4,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 38,
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
@@ -401,6 +289,174 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Marissa Meyer and Tamara Moss",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
+      "contributor": "by Marissa Meyer and Tamara Moss",
+      "contributor_note": "",
+      "created_date": "2026-04-15T21:36:06.768Z",
+      "dagger": 0,
+      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217006120",
+      "publisher": "Putnam",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE ESCAPE GAME",
+      "updated_date": "2026-04-15T21:36:06.768Z",
+      "weeks_on_list": 17,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217006120"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217006120"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278129.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b7133406-623d-5dc7-b4a6-c8af9f9eb7c9",
+      "contributor": "by Alexis Patton",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.768Z",
+      "dagger": 0,
+      "description": "After breaking out of prison, Khalani, Takeshi and a band of criminals travel across a postapocalyptic desert known as the Death-Zone. (Ages 15 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464278129",
+      "publisher": "Bloom",
+      "rank": 7,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "US DEADLY FEW",
+      "updated_date": "2026-07-22T17:04:40.768Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464278129"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464278129?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278129&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-deadly-few-alexis-patton%2F1146630150%3Fean%3D9781464278129&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Deadly-Few%2FAlexis-Patton%2F9781464278129"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464278129"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278112.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e7372b9f-42df-51ce-997f-3723a5d17fff",
+      "contributor": "by Alexis Patton",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:21.046Z",
+      "dagger": 0,
+      "description": "Khalani Kanes struggles to survive in an underground prison for a crime she did not commit. (Ages 15 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464278112",
+      "publisher": "Bloom",
+      "rank": 8,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "US DARK FEW",
+      "updated_date": "2026-05-13T17:27:21.046Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464278112"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464278112?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278112&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-dark-few-alexis-patton%2F1143977060%3Fean%3D9781464278112&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Dark-Few%2FAlexis-Patton%2F9781464278112"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464278112"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217113026",
       "publisher": "Kokila",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE SECRET WORLD OF BRIAR ROSE",
       "updated_date": "2026-06-10T17:37:55.1Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -456,62 +512,6 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Katie Abdou",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665984775.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01aa7486-741a-5d89-b3c3-6a9caf4ae7d8",
-      "contributor": "by Katie Abdou",
-      "contributor_note": "",
-      "created_date": "2026-06-24T16:49:38.741Z",
-      "dagger": 0,
-      "description": "In order to avoid an arranged marriage, Kit Davenport ends up aboard the Deliverance and meets the charismatic Captain Sharpe. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665984775",
-      "publisher": "Atheneum",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "A PRINCE AMONG PIRATES",
-      "updated_date": "2026-06-24T16:49:38.741Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665984775"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665984775?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665984775?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665984775&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-prince-among-pirates-katie-abdou%2F1148559958%3Fean%3D9781665984775&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrince-Among-Pirates%2FKatie-Abdou%2F9781665984775"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665984775"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -537,7 +537,7 @@
       "sunday_review_link": "",
       "title": "THE SUN AND THE STARMAKER",
       "updated_date": "2026-02-25T23:37:57.803Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/4604c55c-6490-53f0-a6d3-fe1532eb8278",
+  "uri": "nyt://bestsellerslist/4a18127a-30c5-52be-9648-7b68f08b95cd",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 57,
+      "weeks_on_list": 58,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464237840?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Meghan Quinn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464237843.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5fb7d0b1-c48a-511e-ad0b-a2d39aa56b9b",
+      "contributor": "by Meghan Quinn",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:07.881Z",
+      "dagger": 0,
+      "description": "A forbidden attraction between a baseball player and his sister’s best friend may cause problems within their families.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464237843",
+      "publisher": "Bloom",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "JUST FOR THE PLOT",
+      "updated_date": "2026-08-05T17:45:07.881Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464237843"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464237840?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464237843?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464237843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjust-for-the-plot-meghan-quinn%2F1149389012%3Fean%3D9781464237843&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJust-Plot-Deluxe%2FMeghan-Quinn%2F9781464237843"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464237843"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -177,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250899559?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
+      "author": "Alison Espach",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250899552.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 326,
       "book_review_link": "",
-      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
-      "contributor": "by Elle Kennedy",
+      "book_uri": "nyt://book/d011711a-3225-5865-98e2-94cf9c3e614d",
+      "contributor": "by Alison Espach",
       "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.241Z",
+      "created_date": "2026-08-05T17:45:08.16Z",
       "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
+      "description": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781775293934",
-      "publisher": "Bloom",
-      "rank": 4,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781250899552",
+      "publisher": "Holt",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 11,
+      "title": "THE WEDDING PEOPLE",
+      "updated_date": "2026-08-05T17:45:08.16Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781775293934"
+          "isbn13": "9781250899552"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250899559?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250899552?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250899552&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wedding-people-alison-espach%2F1144054625%3Fean%3D9781250899552&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWedding-People%2FAlison-Espach%2F9781250899552"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293934"
+          "url": "https://bookshop.org/a/3546/9781250899552"
         }
       ]
     },
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
-      "rank": 5,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -289,281 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elin Hilderbrand",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
-      "book_image_height": 500,
-      "book_image_width": 323,
-      "book_review_link": "",
-      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
-      "contributor": "by Elin Hilderbrand",
-      "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.571Z",
-      "dagger": 0,
-      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316259187",
-      "publisher": "Back Bay",
-      "rank": 6,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "THE FIVE-STAR WEEKEND",
-      "updated_date": "2026-07-15T16:43:31.571Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316259187"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316259187"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293941.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/156df172-6f7d-5be8-8a1e-6641087631f9",
+      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
       "contributor": "by Elle Kennedy",
       "contributor_note": "",
-      "created_date": "2026-05-27T18:33:48.866Z",
+      "created_date": "2026-05-20T18:34:35.241Z",
       "dagger": 0,
-      "description": "The second book in the Off-Campus series. A college hockey player attempts to redeem himself to a rising sophomore.",
+      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781775293941",
+      "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
       "rank": 7,
-      "rank_last_week": 9,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "THE MISTAKE",
-      "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 10,
+      "title": "THE DEAL",
+      "updated_date": "2026-05-20T18:34:35.241Z",
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781775293941"
+          "isbn13": "9781775293934"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293941?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mistake-elle-kennedy%2F1114716266%3Fean%3D9781775293941&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMistake%2FElle-Kennedy%2F9781775293941"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293941"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shelby Van Pelt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
-      "contributor": "by Shelby Van Pelt",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:38:49.21Z",
-      "dagger": 0,
-      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063204164",
-      "publisher": "Ecco",
-      "rank": 8,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "REMARKABLY BRIGHT CREATURES",
-      "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 44,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063204164"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063204164"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1982112832?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Fredrik Backman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781982112837.jpg",
-      "book_image_height": 500,
-      "book_image_width": 322,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9df90cfe-7e55-5e50-adbb-b271d72215c4",
-      "contributor": "by Fredrik Backman",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:30.701Z",
-      "dagger": 0,
-      "description": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781982112837",
-      "publisher": "Atria",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MY FRIENDS",
-      "updated_date": "2026-07-29T17:27:30.701Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781982112837"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1982112832?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781982112837?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982112837&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-friends-fredrik-backman%2F1146129082%3Fean%3D9781982112837&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Friends%2FFredrik-Backman%2F9781982112837"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781982112837"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:49.019Z",
-      "dagger": 0,
-      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293958",
-      "publisher": "Bloom",
-      "rank": 10,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "THE SCORE",
-      "updated_date": "2026-05-27T18:33:49.019Z",
-      "weeks_on_list": 10,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293958"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293958"
+          "url": "https://bookshop.org/a/3546/9781775293934"
         }
       ]
     },
@@ -588,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316556323",
       "publisher": "Back Bay",
-      "rank": 11,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "CIRCE",
       "updated_date": "2026-07-29T17:27:30.895Z",
-      "weeks_on_list": 82,
+      "weeks_on_list": 83,
       "isbns": [
         {
           "isbn10": "",
@@ -625,113 +457,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0778306100?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sadie Kincaid",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780778306108.jpg",
+      "author": "Shelby Van Pelt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
       "book_image_height": 500,
-      "book_image_width": 321,
+      "book_image_width": 332,
       "book_review_link": "",
-      "book_uri": "nyt://book/0130d679-1433-541e-ac3f-891625827588",
-      "contributor": "by Sadie Kincaid",
+      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
+      "contributor": "by Shelby Van Pelt",
       "contributor_note": "",
-      "created_date": "2026-07-29T17:27:31.063Z",
+      "created_date": "2026-05-20T22:38:49.21Z",
       "dagger": 0,
-      "description": "The third book in the Chicago Ruthless series.",
+      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780778306108",
-      "publisher": "MIRA",
-      "rank": 12,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780063204164",
+      "publisher": "Ecco",
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "LORENZO",
-      "updated_date": "2026-07-29T17:27:31.063Z",
-      "weeks_on_list": 1,
+      "title": "REMARKABLY BRIGHT CREATURES",
+      "updated_date": "2026-05-20T22:38:49.21Z",
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780778306108"
+          "isbn13": "9780063204164"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0778306100?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780778306108?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780778306108&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Florenzo-sadie-kincaid%2F1149169904%3Fean%3D9780778306108&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLorenzo%2FSadie-Kincaid%2F9780778306108"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780778306108"
+          "url": "https://bookshop.org/a/3546/9780063204164"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1957635002?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "H.D. Carlton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638932468.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293941.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/b0095d1d-bc23-5312-9c98-2b1e592e0aab",
-      "contributor": "by H.D. Carlton",
+      "book_uri": "nyt://book/156df172-6f7d-5be8-8a1e-6641087631f9",
+      "contributor": "by Elle Kennedy",
       "contributor_note": "",
-      "created_date": "2026-07-29T17:31:38.877Z",
+      "created_date": "2026-05-27T18:33:48.866Z",
       "dagger": 0,
-      "description": "The first book in the Cat and Mouse Duet series.",
+      "description": "The second book in the Off-Campus series. A college hockey player attempts to redeem himself to a rising sophomore.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638932468",
-      "publisher": "Zando",
-      "rank": 13,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781775293941",
+      "publisher": "Bloom",
+      "rank": 10,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "HAUNTING ADELINE",
-      "updated_date": "2026-07-29T17:31:38.877Z",
-      "weeks_on_list": 26,
+      "title": "THE MISTAKE",
+      "updated_date": "2026-05-27T18:33:48.866Z",
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638932468"
+          "isbn13": "9781775293941"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1957635002?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781638932468?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781775293941?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638932468&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhaunting-adeline-h-d-carlton%2F1138639115%3Fean%3D9781638932468&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mistake-elle-kennedy%2F1114716266%3Fean%3D9781775293941&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHAUNTING%2BADELINE%2FH.D.%2BCarlton%2F9781638932468"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMistake%2FElle-Kennedy%2F9781775293941"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638932468"
+          "url": "https://bookshop.org/a/3546/9781775293941"
         }
       ]
     },
@@ -756,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 14,
-      "rank_last_week": 13,
+      "rank": 11,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +625,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Annabel Monaghan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593853979.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/a4c2a7c9-004a-5a79-b161-fba14b8ecd82",
-      "contributor": "by Annabel Monaghan",
+      "book_uri": "nyt://book/d9ac6683-0add-5f5d-996c-332121cfbbff",
+      "contributor": "by Elle Kennedy",
       "contributor_note": "",
-      "created_date": "2026-07-15T17:07:50.792Z",
+      "created_date": "2026-05-27T18:33:49.019Z",
       "dagger": 0,
-      "description": "When Dolly agrees to help Stewart after his public breakup, things might evolve into something more.",
+      "description": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593853979",
-      "publisher": "Putnam",
-      "rank": 15,
-      "rank_last_week": 14,
+      "primary_isbn13": "9781775293958",
+      "publisher": "Bloom",
+      "rank": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
-      "title": "DOLLY ALL THE TIME",
-      "updated_date": "2026-07-15T17:07:50.792Z",
-      "weeks_on_list": 8,
+      "title": "THE SCORE",
+      "updated_date": "2026-05-27T18:33:49.019Z",
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593853979"
+          "isbn13": "9781775293958"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593853970?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1775293955?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217349197?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781775293958?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593853979&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-all-the-time-annabel-monaghan%2F1148118343%3Fean%3D9780593853979&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-score-elle-kennedy%2F1122824500%3Fean%3D9781775293958&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-All-Time%2FAnnabel-Monaghan%2F9798217349197"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScore%2FElle-Kennedy%2F9781775293958"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593853979"
+          "url": "https://bookshop.org/a/3546/9781775293958"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elin Hilderbrand",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
+      "book_image_height": 500,
+      "book_image_width": 323,
+      "book_review_link": "",
+      "book_uri": "nyt://book/aaffe66e-ebe9-53e0-894e-bf76e22e9e81",
+      "contributor": "by Elin Hilderbrand",
+      "contributor_note": "",
+      "created_date": "2026-07-15T16:43:31.571Z",
+      "dagger": 0,
+      "description": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316259187",
+      "publisher": "Back Bay",
+      "rank": 13,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE FIVE-STAR WEEKEND",
+      "updated_date": "2026-07-15T16:43:31.571Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316259187"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316258776?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316259187?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316259187&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-five-star-weekend-elin-hilderbrand%2F1142422496%3Fean%3D9780316259187&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BFIVE-STAR%2BWEEKEND%2FElin%2BHilderbrand%2F9780316259187"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316259187"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
+      "book_image_height": 500,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4458a99f-200e-54cc-9fc5-d4f2ad0070b0",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:04.85Z",
+      "dagger": 0,
+      "description": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728296166",
+      "publisher": "Poisoned Pen",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NEVER LIE",
+      "updated_date": "2026-08-05T17:45:04.85Z",
+      "weeks_on_list": 30,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728296166"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728296166?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728296166&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-lie-freida-mcfadden%2F1142398233%3Fean%3D9781728296166&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BLIE%2FFreida%2BMcFadden%2F9781728296166"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728296166"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1638932239?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Navessa Allen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638932239.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/12c966bc-56fd-582c-b0cb-781e86d7079b",
+      "contributor": "by Navessa Allen",
+      "contributor_note": "",
+      "created_date": "2026-08-05T18:10:31.976Z",
+      "dagger": 0,
+      "description": "As Aly and Josh live out their dark fantasies, someone with sinister intentions impinges on them.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638932239",
+      "publisher": "Slowburn",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LIGHTS OUT",
+      "updated_date": "2026-08-05T18:10:31.976Z",
+      "weeks_on_list": 63,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638932239"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1638932239?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781638932239?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638932239&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flights-out-navessa-allen%2F1148125807%3Fean%3D9781638932239&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "www.booksamillion.com/p/Lights-Out-Books-Million-Exclusive/Navessa-Allen/9781638935940"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/p/books/lights-out-an-into-darkness-novel-navessa-allen/2dfcb157f4216a8e?ean=9781638932239&next=t"
         }
       ]
     }

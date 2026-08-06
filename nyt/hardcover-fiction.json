@@ -5,8 +5,64 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/95bf9035-f564-54fe-898b-c9e4ea0be81c",
+  "uri": "nyt://bestsellerslist/f6610c52-fc98-5c7f-8cc5-49657c9744f2",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GN38SNGB?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "H.M. Wolfe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347122363.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fe014d87-c506-5226-9944-45f1a2b4e409",
+      "contributor": "by H.M. Wolfe",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:07.46Z",
+      "dagger": 0,
+      "description": "In a city divided by privilege and poverty, a mercenary is forced to marry the president’s son, whom she attempted to kill.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347122363",
+      "publisher": "Scarlett",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DAGGERMOUTH",
+      "updated_date": "2026-08-05T17:45:07.46Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347122363"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GN38SNGB?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798347122363?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347122363&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdaggermouth-h-m-wolfe%2F1149473002%3Fean%3D9798347122363&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDaggermouth%2FH-M-Wolfe%2F9798347122363"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798347122363"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 1,
-      "rank_last_week": 4,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 16,
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385550502?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250400678?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Colson Whitehead",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550505.jpg",
+      "author": "Sarah Beth Durst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250400673.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
-      "book_uri": "nyt://book/4ff77a3a-9706-5fd3-bd15-292568dedbee",
-      "contributor": "by Colson Whitehead",
+      "book_image_width": 341,
+      "book_review_link": "",
+      "book_uri": "nyt://book/966c8620-7ee3-5aeb-b08f-387d3e00b12e",
+      "contributor": "by Sarah Beth Durst",
       "contributor_note": "",
-      "created_date": "2026-07-29T17:27:32.001Z",
+      "created_date": "2026-08-05T17:45:07.596Z",
       "dagger": 0,
-      "description": "In the third book in the Harlem trilogy, 1980s crime and capitalism affect Ray Carney and the people around him.",
+      "description": "The third book in the Spellshop series. A supply runner will allow a friend to be a member of her crew if he pretends to be her boyfriend.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780385550505",
-      "publisher": "Doubleday",
-      "rank": 4,
+      "primary_isbn13": "9781250400673",
+      "publisher": "Bramble",
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "COOL MACHINE",
-      "updated_date": "2026-07-29T17:27:32.001Z",
+      "title": "SEA OF CHARMS",
+      "updated_date": "2026-08-05T17:45:07.596Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780385550505"
+          "isbn13": "9781250400673"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385550502?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250400678?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385550505?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250400673?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550505&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcool-machine-colson-whitehead%2F1148573690%3Fean%3D9780385550505&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250400673&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsea-of-charms-sarah-beth-durst%2F1149268221%3Fean%3D9781250400673&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCool-Machine%2FColson-Whitehead%2F9780385550505"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSea-Charms%2FSarah-Beth-Durst%2F9781250400673"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385550505"
+          "url": "https://bookshop.org/a/3546/9781250400673"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668092530?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Patterson and Mike Lupica",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316599870.jpg",
+      "author": "Kristin Harmel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668092538.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/2cc9eb02-cbde-5c3a-92e9-ec11b061df94",
-      "contributor": "by James Patterson and Mike Lupica",
+      "book_uri": "nyt://book/23887d11-c549-5656-ab44-cea808c65d41",
+      "contributor": "by Kristin Harmel",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.997Z",
+      "created_date": "2026-08-05T17:45:07.758Z",
       "dagger": 0,
-      "description": "A former football player returns to the town where his father was killed.",
+      "description": "During one week in spring, interconnected love stories begin, end or potentially renew for some Americans in Paris.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316599870",
-      "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781668092538",
+      "publisher": "Gallery",
+      "rank": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE COUNTRY ROAD MURDERS",
-      "updated_date": "2026-07-22T17:04:41.997Z",
-      "weeks_on_list": 2,
+      "title": "MEET ME IN PARIS",
+      "updated_date": "2026-08-05T17:45:07.758Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316599870"
+          "isbn13": "9781668092538"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668092530?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316599870?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668092538?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316599870&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-country-road-murders-james-patterson%2F1147704643%3Fean%3D9780316599870&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668092538&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmeet-me-in-paris-kristin-harmel%2F1148559951%3Fean%3D9781668092538&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCountry-Road-Murders%2FJames-Patterson%2F9780316599870"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMeet-Paris%2FKristin-Harmel%2F9781668092538"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316599870"
+          "url": "https://bookshop.org/a/3546/9781668092538"
         }
       ]
     },
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820261",
       "publisher": "Ace",
-      "rank": 7,
-      "rank_last_week": 8,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-07-01T15:37:32.806Z",
-      "weeks_on_list": 28,
+      "weeks_on_list": 29,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +457,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668076276?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593832477?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Stacey McEwan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668076279.jpg",
+      "author": "Shari Lapena",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593832479.jpg",
       "book_image_height": 500,
-      "book_image_width": 323,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/d8e798b1-2bb5-5217-91fd-a74494c4f791",
-      "contributor": "by Stacey McEwan",
+      "book_uri": "nyt://book/825d0181-219a-52e0-af75-7530da34b241",
+      "contributor": "by Shari Lapena",
       "contributor_note": "",
-      "created_date": "2026-07-29T17:27:32.171Z",
+      "created_date": "2026-08-05T17:45:08.021Z",
       "dagger": 0,
-      "description": "The second book in the Artisan trilogy. Nina and Patrick search for resources that may alter the course of the war.",
+      "description": "A New York couple who are in love with their brownstone consider killing a wealthy family member to maintain their lifestyle.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668076279",
-      "publisher": "S&S/Saga",
-      "rank": 8,
+      "primary_isbn13": "9780593832479",
+      "publisher": "Pamela Dorman",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "A FORSAKEN PROPHECY",
-      "updated_date": "2026-07-29T17:27:32.171Z",
+      "title": "GETTING AWAY WITH MURDER",
+      "updated_date": "2026-08-05T17:45:08.021Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668076279"
+          "isbn13": "9780593832479"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668076276?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593832477?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668076279?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593832479?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668076279&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-forsaken-prophecy-stacey-mcewan%2F1148560321%3Fean%3D9781668076279&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593832479&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgetting-away-with-murder-shari-lapena%2F1148625049%3Fean%3D9780593832479&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FForsaken-Prophecy%2FStacey-McEwan%2F9781668076279"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGetting-Away-Murder%2FShari-Lapena%2F9780593832479"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668076279"
+          "url": "https://bookshop.org/a/3546/9780593832479"
         }
       ]
     },
@@ -476,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820285",
       "publisher": "Ace",
-      "rank": 9,
+      "rank": 10,
       "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
       "updated_date": "2026-07-08T17:19:36.545Z",
-      "weeks_on_list": 21,
+      "weeks_on_list": 22,
       "isbns": [
         {
           "isbn10": "",
@@ -513,62 +569,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593726375?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elise Kova",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593726372.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4a0916ce-f94c-5626-9a43-b66e4946e003",
-      "contributor": "by Elise Kova",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:28.998Z",
-      "dagger": 0,
-      "description": "The second book in the Arcana Academy series. Clara Graysword’s fate might be influenced by a secretive order known as the Worldkeepers.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593726372",
-      "publisher": "Del Rey",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PRINCE OF SWORDS",
-      "updated_date": "2026-07-29T17:27:28.998Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593726372"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593726375?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593726372?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593726372&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprince-of-swords-elise-kova%2F1148573686%3Fean%3D9780593726372&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPrince-Swords%2FElise-Kova%2F9780593726372"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593726372"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -589,11 +589,11 @@
       "primary_isbn13": "9780593820247",
       "publisher": "Ace",
       "rank": 11,
-      "rank_last_week": 14,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-05-20T18:34:30.288Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -625,113 +625,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jenny Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "author": "James Patterson and Mike Lupica",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316599870.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
-      "contributor": "by Jenny Jackson",
+      "book_uri": "nyt://book/2cc9eb02-cbde-5c3a-92e9-ec11b061df94",
+      "contributor": "by James Patterson and Mike Lupica",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.93Z",
+      "created_date": "2026-07-22T17:04:41.997Z",
       "dagger": 0,
-      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "description": "A former football player returns to the town where his father was killed.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217059959",
-      "publisher": "Pamela Dorman",
+      "primary_isbn13": "9780316599870",
+      "publisher": "Little, Brown",
       "rank": 12,
-      "rank_last_week": 12,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "THE SHAMPOO EFFECT",
-      "updated_date": "2026-07-08T17:19:39.93Z",
-      "weeks_on_list": 4,
+      "title": "THE COUNTRY ROAD MURDERS",
+      "updated_date": "2026-07-22T17:04:41.997Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217059959"
+          "isbn13": "9780316599870"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316599875?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316599870?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316599870&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-country-road-murders-james-patterson%2F1147704643%3Fean%3D9780316599870&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCountry-Road-Murders%2FJames-Patterson%2F9780316599870"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217059959"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063384221?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Silva",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063384224.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8924865a-550a-52d7-9dcd-b99f1b9eb8ad",
-      "contributor": "by Daniel Silva",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:37.771Z",
-      "dagger": 0,
-      "description": "The 26th book in the Gabriel Allon series. A search for a British billionaire’s missing wife turns up secrets and an old enemy.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063384224",
-      "publisher": "Harper",
-      "rank": 13,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "RANSOM",
-      "updated_date": "2026-07-22T17:04:37.771Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063384224"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063384221?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063384224?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063384224&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fransom-daniel-silva%2F1149314386%3Fean%3D9780063384224&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRansom%2FDaniel-Silva%2F9780063384224"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063384224"
+          "url": "https://bookshop.org/a/3546/9780316599870"
         }
       ]
     },
@@ -756,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593955970",
       "publisher": "Ace",
-      "rank": 14,
-      "rank_last_week": 15,
+      "rank": 13,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE GATE OF THE FERAL GODS",
       "updated_date": "2026-07-01T16:41:58.139Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -812,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593955994",
       "publisher": "Ace",
-      "rank": 15,
-      "rank_last_week": 0,
+      "rank": 14,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE BUTCHER'S MASQUERADE",
       "updated_date": "2026-07-01T16:02:38.9Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +788,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593955994"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jenny Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/78ffa267-8480-5b09-9199-2ca9a699a2e4",
+      "contributor": "by Jenny Jackson",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.93Z",
+      "dagger": 0,
+      "description": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059959",
+      "publisher": "Pamela Dorman",
+      "rank": 15,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "THE SHAMPOO EFFECT",
+      "updated_date": "2026-07-08T17:19:39.93Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059959"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTFLTHMF?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059959?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059959&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-shampoo-effect-jenny-jackson%2F1148139092%3Fean%3D9798217059959&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShampoo-Effect%2FJenny-Jackson%2F9798217059959"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059959"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 301,
-  "uri": "nyt://bestsellerslist/3a319b8e-78cf-5575-8544-a1b2fda222ea",
+  "uri": "nyt://bestsellerslist/e9648c40-9c2b-5b61-999a-9f1c1dfabc4d",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-06-03T18:21:58.44Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Caro Claire Burke",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217174331.jpg",
-      "book_image_height": 500,
-      "book_image_width": 338,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9ed30d24-f8c8-526d-b7fc-0eb349ca8b11",
-      "contributor": "by Caro Claire Burke",
-      "contributor_note": "",
-      "created_date": "2026-06-03T17:19:44.479Z",
-      "dagger": 0,
-      "description": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855. Read by Rebecca Lowman. 13 hours, 47 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217174331",
-      "publisher": "Random House Audio",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "YESTERYEAR",
-      "updated_date": "2026-06-03T17:19:44.479Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217174331"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217174331?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593804223&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyesteryear-caro-claire-burke%2F1147793810%3Fean%3D9780593804223&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYesteryear%2FCaro-Claire-Burke%2F9780593804216"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593804216"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9783748087328",
       "publisher": "Audible Studios",
-      "rank": 3,
+      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-05-20T16:22:13.443Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Caro Claire Burke",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217174331.jpg",
+      "book_image_height": 500,
+      "book_image_width": 338,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9ed30d24-f8c8-526d-b7fc-0eb349ca8b11",
+      "contributor": "by Caro Claire Burke",
+      "contributor_note": "",
+      "created_date": "2026-06-03T17:19:44.479Z",
+      "dagger": 0,
+      "description": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855. Read by Rebecca Lowman. 13 hours, 47 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217174331",
+      "publisher": "Random House Audio",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "YESTERYEAR",
+      "updated_date": "2026-06-03T17:19:44.479Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217174331"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217174331?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593804223&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyesteryear-caro-claire-burke%2F1147793810%3Fean%3D9780593804223&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYesteryear%2FCaro-Claire-Burke%2F9780593804216"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593804216"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0008819424?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-05-20T16:22:13.026Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -233,118 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798349169304.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4ab90c4d-a2a4-5905-8d48-1f6700112f81",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-07-02T18:58:41.302Z",
-      "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger. Read by January LaVoy, Edoardo Ballerini and Marin Ireland. 8 hours, 1 minute unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798349169304",
-      "publisher": "Dreamscape Media",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-07-02T18:58:41.302Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798349169304"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464282768&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464282768&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464282768"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ann Patchett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511668.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3afba81e-d513-50e8-b558-b98c3dc29e09",
-      "contributor": "by Ann Patchett",
-      "contributor_note": "",
-      "created_date": "2026-07-02T18:59:58.996Z",
-      "dagger": 0,
-      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken. Read by the author. 10 hours, 44 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063511668",
-      "publisher": "Harper",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WHISTLER",
-      "updated_date": "2026-07-02T18:59:58.996Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063511668"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063511668?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511651&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511651&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063511637"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820266?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9783748087335",
       "publisher": "Audible Studios",
-      "rank": 7,
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-07-01T17:54:37.65Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -401,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781603935470.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5d7f9880-27d3-536a-96ec-39e0bc5599cf",
-      "contributor": "by Andy Weir",
-      "contributor_note": "",
-      "created_date": "2026-07-14T23:53:35.073Z",
-      "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders. Read by Ray Porter. 16 hours, 10 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781603935470",
-      "publisher": "Audible Studios",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-07-14T23:53:35.073Z",
-      "weeks_on_list": 32,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781603935470"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135211&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135211&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProject-Hail-Mary%2FAndy-Weir%2F9780593135204"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135204"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B094X214V9?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -468,20 +300,20 @@
       "book_uri": "nyt://book/b88e4106-56f5-5b57-8a3c-02a1afc2d346",
       "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:37.813Z",
+      "created_date": "2026-08-05T17:45:05.445Z",
       "dagger": 0,
-      "description": "The third book in the \"Dungeon Crawler Carl\" series. Carl and Donut are up against a subway system filled with monsters. 16 hours, 54 minutes unabridged.",
+      "description": "The third book in the \"Dungeon Crawler Carl\" series. Carl and Donut are up against a subway system filled with monsters. Read by Jeff Hays and the Critical Drinker. 16 hours, 54 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9783748087342",
       "publisher": "Audible Studios",
-      "rank": 9,
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
-      "updated_date": "2026-07-01T17:54:37.813Z",
-      "weeks_on_list": 9,
+      "updated_date": "2026-08-05T17:45:05.445Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -513,62 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798350448757.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4f77a5bf-e90f-5112-bd3e-b792cf177dcb",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-02T19:03:03.188Z",
-      "dagger": 0,
-      "description": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut. Read by Jeff Hays. 20 hours, 27 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798350448757",
-      "publisher": "Audible Studios",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "A PARADE OF HORRIBLES",
-      "updated_date": "2026-07-02T19:03:03.188Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798350448757"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://books.apple.com/us/author/matt-dinniman/id713342715"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-parade-of-horribles-matt-dinniman%2F1148612407%3Fean%3D9798217190065&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FParade-Horribles%2FMatt-Dinniman%2F9798217190065"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217190065"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -588,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9783748087359",
       "publisher": "Audible Studios",
-      "rank": 11,
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE GATE OF THE FERAL GODS",
       "updated_date": "2026-07-01T15:54:44.313Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -625,6 +401,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sally Hepworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250433824.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/64f037fa-6851-51d8-ac83-7d68e1588d0d",
+      "contributor": "by Sally Hepworth",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:05.572Z",
+      "dagger": 0,
+      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden. Read by Hannah Fredericksen and Jenny Seedsman. 9 hours, 20 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250433824",
+      "publisher": "Macmillan Audio",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAD MABEL",
+      "updated_date": "2026-08-05T17:45:05.572Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250433824"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250433824?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284556&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284556&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250284549"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -644,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9783748087366",
       "publisher": "Audible Studios",
-      "rank": 12,
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE BUTCHER'S MASQUERADE",
       "updated_date": "2026-07-01T17:54:38.093Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -681,6 +513,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781603935470.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5d7f9880-27d3-536a-96ec-39e0bc5599cf",
+      "contributor": "by Andy Weir",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:05.706Z",
+      "dagger": 0,
+      "description": "The fate of humanity rests on Ryland Grace's shoulders; the basis of the movie. Read by Ray Porter. 16 hours, 10 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781603935470",
+      "publisher": "Audible Studios",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-08-05T17:45:05.706Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781603935470"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135211&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135211&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProject-Hail-Mary%2FAndy-Weir%2F9780593135204"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593135204"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ann Patchett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511668.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3afba81e-d513-50e8-b558-b98c3dc29e09",
+      "contributor": "by Ann Patchett",
+      "contributor_note": "",
+      "created_date": "2026-07-02T18:59:58.996Z",
+      "dagger": 0,
+      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken. Read by the author. 10 hours, 44 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063511668",
+      "publisher": "Harper",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WHISTLER",
+      "updated_date": "2026-07-02T18:59:58.996Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063511668"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063511668?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511651&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511651&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063511637"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059395601X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -700,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9783748087373",
       "publisher": "Audible Studios",
-      "rank": 13,
+      "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE EYE OF THE BEDLAM BRIDE",
       "updated_date": "2026-07-01T15:54:05.791Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -737,57 +681,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/DBKADBL025354.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798350448757.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3e410fdf-80bb-579f-bbeb-ba58d6a5a47f",
-      "contributor": "by Elle Kennedy",
+      "book_uri": "nyt://book/4f77a5bf-e90f-5112-bd3e-b792cf177dcb",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-07-01T17:54:38.249Z",
+      "created_date": "2026-08-05T17:45:05.825Z",
       "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship. Read by Christian Fox and Lorelei Avalon. 12 hours, 25 minutes unabridged.",
+      "description": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut. Read by Jeff Hays. 20 hours, 27 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "DBKADBL025354",
+      "primary_isbn13": "9798350448757",
       "publisher": "Audible Studios",
-      "rank": 14,
+      "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-07-01T17:54:38.249Z",
-      "weeks_on_list": 2,
+      "title": "A PARADE OF HORRIBLES",
+      "updated_date": "2026-08-05T17:45:05.825Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "DBKADBL025354"
+          "isbn13": "9798350448757"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FY26HLTD?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217190065?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780994054401"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-parade-of-horribles-matt-dinniman%2F1148612407%3Fean%3D9798217190065&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520DEAL%2520by%2520Elle%2520Kennedy"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FParade-Horribles%2FMatt-Dinniman%2F9798217190065"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464241765"
+          "url": "https://bookshop.org/a/3546/9798217190065"
         }
       ]
     },
@@ -812,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798350430479",
       "publisher": "Audible Studios",
-      "rank": 15,
+      "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THIS INEVITABLE RUIN",
       "updated_date": "2026-07-01T17:54:38.391Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +788,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9798217190041"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798349169304.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4ab90c4d-a2a4-5905-8d48-1f6700112f81",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-07-02T18:58:41.302Z",
+      "dagger": 0,
+      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger. Read by January LaVoy, Edoardo Ballerini and Marin Ireland. 8 hours, 1 minute unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798349169304",
+      "publisher": "Dreamscape Media",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE DIVORCE",
+      "updated_date": "2026-07-02T18:58:41.302Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798349169304"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464282768&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464282768&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464282768"
         }
       ]
     }

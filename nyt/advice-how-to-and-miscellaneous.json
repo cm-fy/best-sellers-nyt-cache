@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/e9ed8a51-99e3-54b6-a34c-412ba6e02188",
+  "uri": "nyt://bestsellerslist/cb9a321c-8058-5fa1-a586-70eeb7e6342e",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G33RZ2H2?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Christian Watson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217036370.jpg",
+      "book_image_height": 500,
+      "book_image_width": 389,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c25b0e4e-fc34-594a-87fe-5a8bc72b8cc0",
+      "contributor": "by Christian Watson",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:05.054Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217036370",
+      "publisher": "Clarkson Potter",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW LUCKY AM I",
+      "updated_date": "2026-08-05T17:45:05.054Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217036370"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G33RZ2H2?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217036370?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217036370&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-lucky-am-i-christian-watson%2F1148839091%3Fean%3D9798217036370&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Lucky-Am%2FChristian-Watson%2F9798217036370"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217036370"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 83,
+      "weeks_on_list": 84,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 348,
+      "weeks_on_list": 349,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Charlie Mackesy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062976581.jpg",
-      "book_image_height": 445,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/858fb0b9-07d7-5b8a-b3de-cdcf6ea6fe7a",
-      "contributor": "by Charlie Mackesy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:48.436Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062976581",
-      "publisher": "HarperOne",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BOY, THE MOLE, THE FOX AND THE HORSE",
-      "updated_date": "2026-05-27T18:33:48.436Z",
-      "weeks_on_list": 248,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062976581"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062976581?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062976581&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-boy-the-mole-the-fox-and-the-horse-charlie-mackesy%2F1132291821%3Fean%3D9780062976581&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOY%252C%2BTHE%2BMOLE%252C%2BTHE%2BFOX%2BAND%2BTHE%2BHORSE%2FCharlie%2BMackesy%2F9780062976581"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062976581"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-03-04T23:40:19.771Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -233,118 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G527GPDW?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ben Azadi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798318602528.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9e84d624-533d-5103-a5e0-333a8be6cec5",
-      "contributor": "by Ben Azadi",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:31.453Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798318602528",
-      "publisher": "Hay House",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "KETO FLEX REVISED",
-      "updated_date": "2026-07-29T17:27:31.453Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798318602528"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G527GPDW?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798318602528?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798318602528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fketo-flex-revised-ben-azadi%2F1148979706%3Fean%3D9798318602528&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKeto-Flex-Revised%2FBen-Azadi%2F9798318602528"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798318602528"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gabe Poirot",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
-      "contributor": "by Gabe Poirot",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:07.722Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781667512549",
-      "publisher": "Harrison House",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "18 DAYS IN HEAVEN",
-      "updated_date": "2026-04-15T21:36:07.722Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781667512549"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781667512549"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0D47VYQMY?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -356,7 +244,7 @@
       "book_uri": "nyt://book/a1d80bc4-fa6e-5a17-958a-cc1e236ff4e5",
       "contributor": "by Joseph Nguyen",
       "contributor_note": "",
-      "created_date": "2026-07-29T17:27:31.662Z",
+      "created_date": "2026-08-05T17:45:05.183Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798893310153",
       "publisher": "Authors Equity",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "DON'T BELIEVE EVERYTHING YOU THINK, EXPANDED EDITION",
-      "updated_date": "2026-07-29T17:27:31.662Z",
-      "weeks_on_list": 64,
+      "updated_date": "2026-08-05T17:45:05.183Z",
+      "weeks_on_list": 65,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +289,281 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Teri Ijeoma",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781637634653.jpg",
+      "author": "Gabe Poirot",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781667512549.jpg",
       "book_image_height": 500,
-      "book_image_width": 332,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/eddd1d33-3186-5a9e-bca5-e6f34b151fb2",
-      "contributor": "by Teri Ijeoma",
+      "book_uri": "nyt://book/519b0373-be46-5feb-b7e3-ee9dc45559d9",
+      "contributor": "by Gabe Poirot",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.381Z",
+      "created_date": "2026-04-15T21:36:07.722Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781667512549",
+      "publisher": "Harrison House",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "18 DAYS IN HEAVEN",
+      "updated_date": "2026-04-15T21:36:07.722Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781667512549"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1667512544?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781667512549?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781667512549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F18-days-in-heaven-gabe-poirot%2F1148640917%3Fean%3D9781667512549&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Heaven%2FGabe-Poirot%2F9781667512549"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781667512549"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "William H. McRaven",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781455570249.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a316a023-62bc-5ef0-8ad4-8dea0bb49a40",
+      "contributor": "by William H. McRaven",
+      "contributor_note": "",
+      "created_date": "2026-05-27T21:16:16.066Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781455570249",
+      "publisher": "Grand Central",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAKE YOUR BED",
+      "updated_date": "2026-05-27T21:16:16.066Z",
+      "weeks_on_list": 155,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781455570249"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781455570232?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781455570249&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmake-your-bed-william-h-mcraven%2F1124481737%3Fean%3D9781455570249&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMAKE%2BYOUR%2BBED%2FWilliam%2BH.%2BMcRaven%2F9781455570249"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781455570249"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jen Hamilton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538771471.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3ac41b1d-ffb0-5db3-91fc-a8c2949db9b8",
+      "contributor": "by Jen Hamilton",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:21.928Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538771471",
+      "publisher": "Grand Central",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIRTH VIBES",
+      "updated_date": "2026-05-13T17:27:21.928Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538771471"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538771470?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538771471?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538771471&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbirth-vibes-jen-hamilton%2F1148495495%3Fean%3D9781538771471&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBirth-Vibes%2FJen-Hamilton%2F9781538771471"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538771471"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1628606517?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Philip Ovadia and Joshua Lisec",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781628606515.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6add1a23-d451-5c3f-b8c0-a74af8d03845",
+      "contributor": "by Philip Ovadia and Joshua Lisec",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:05.308Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781637634653",
-      "publisher": "Frederick Douglass",
-      "rank": 8,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE RISK WORTH TAKING",
-      "updated_date": "2026-07-22T17:04:41.381Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781637634653"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781637634653?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781637634653&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-risk-worth-taking-teri-ijeoma%2F1147934824%3Fean%3D9781637634653&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRisk-Worth-Taking%2FTeri-Ijeoma%2F9781637634653"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781637634653"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593736613?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mary Claire Haver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593736616.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/40c2a8d7-1d73-58da-bbe7-b50d8d7b9050",
-      "contributor": "by Mary Claire Haver",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:44:42.398Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593736616",
-      "publisher": "Rodale",
+      "primary_isbn13": "9781628606515",
+      "publisher": "Victory Belt",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE NEW PERIMENOPAUSE",
-      "updated_date": "2026-07-29T17:44:42.398Z",
-      "weeks_on_list": 2,
+      "title": "STAY OFF MY KITCHEN TABLE",
+      "updated_date": "2026-08-05T17:45:05.308Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593736616"
+          "isbn13": "9781628606515"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593736613?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1628606517?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593736623?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781628606515?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593736616&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-new-perimenopause-mary-claire-haver-md%2F1147793826%3Fean%3D9780593736616&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781628606515&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstay-off-my-kitchen-table-philip-ovadia%2F1147882985%3Fean%3D9781628606515&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNew-Perimenopause%2FMary-Claire-Haver-MD%2F9780593736616"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStay-Off-My-Kitchen-Table%2FPhilip-Ovadia%2F9781628606515"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593736616"
+          "url": "https://bookshop.org/a/3546/9781628606515"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668065967?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Bevere",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400349678.jpg",
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668065969.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 327,
       "book_review_link": "",
-      "book_uri": "nyt://book/85659a7f-5de3-58cf-8298-93a18e97df21",
-      "contributor": "by John Bevere",
+      "book_uri": "nyt://book/be3adf26-c5d7-5835-95ed-df6d29501b01",
+      "contributor": "by Ichiro Kishimi and Fumitake Koga",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:17.164Z",
+      "created_date": "2026-07-15T16:43:32.341Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400349678",
-      "publisher": "Thomas Nelson",
+      "primary_isbn13": "9781668065969",
+      "publisher": "Atria",
       "rank": 10,
-      "rank_last_week": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE KING IS COMING",
-      "updated_date": "2026-06-17T17:38:17.164Z",
-      "weeks_on_list": 9,
+      "title": "THE COURAGE TO BE DISLIKED",
+      "updated_date": "2026-07-15T16:43:32.341Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400349678"
+          "isbn13": "9781668065969"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400349672?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668065967?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400349678?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668065969?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400349678&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-king-is-coming-john-bevere%2F1147732358%3Fean%3D9781400349678&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668065969&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-courage-to-be-disliked-ichiro-kishimi%2F1127949768%3Fean%3D9781668065969&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKing-Coming%2FJohn-Bevere%2F9781400349678"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOURAGE%2BTO%2BBE%2BDISLIKED%2FIchiro%2BKishimi%2Band%2BFumitake%2BKoga%2F9781668065969"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400349678"
+          "url": "https://bookshop.org/a/3546/9781668065969"
         }
       ]
     }

@@ -5,64 +5,8 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 303,
-  "uri": "nyt://bestsellerslist/aa35be13-1276-50da-bdab-4330c46c3fb2",
+  "uri": "nyt://bestsellerslist/d88208bb-3447-561d-8bd7-37cd30db1085",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F14VX598?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392920.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1fe60129-23cd-51c7-842c-1bfacd08b445",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-07-01T23:38:52.775Z",
-      "dagger": 0,
-      "description": "The seventh book in the Harry Potter series. Read by Hugh Laurie et al. 20 hours, 30 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781789392920",
-      "publisher": "Pottermore and Audible Studios",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE DEATHLY HALLOWS (FULL-CAST EDITION)",
-      "updated_date": "2026-07-01T23:38:52.775Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781789392920"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F14VX598?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://books.apple.com/us/book/harry-potter-and-the-deathly-hallows-enhanced-edition/id1037196603"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-deathly-hallows-j-k-rowling/1100178133?ean=9781546171454"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9781338878981"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/p/books/harry-potter-and-the-deathly-hallows-j-k-rowling/c4373a70d6b26144?ean=9780786296651&next=t"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0F14PDX2Z?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392869",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 2,
+      "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE SORCERER’S STONE (FULL-CAST EDITION)",
       "updated_date": "2026-07-02T18:48:55.591Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +65,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F14VX598?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392920.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/6352261c-424a-5047-b0b0-433b01577e72",
+      "book_uri": "nyt://book/1fe60129-23cd-51c7-842c-1bfacd08b445",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:30:56.7Z",
+      "created_date": "2026-07-01T23:38:52.775Z",
       "dagger": 0,
-      "description": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
+      "description": "The seventh book in the Harry Potter series. Read by Hugh Laurie et al. 20 hours, 30 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781789392913",
+      "primary_isbn13": "9781789392920",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 3,
+      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE (FULL-CAST EDITION)",
-      "updated_date": "2026-07-01T20:30:56.7Z",
+      "title": "HARRY POTTER AND THE DEATHLY HALLOWS (FULL-CAST EDITION)",
+      "updated_date": "2026-07-01T23:38:52.775Z",
       "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781789392913"
+          "isbn13": "9781789392920"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0F14VX598?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781789392388?at=10lIEQ"
+          "url": "https://books.apple.com/us/book/harry-potter-and-the-deathly-hallows-enhanced-edition/id1037196603"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546171447&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-half-blood-prince-j-k-rowling%2F1100079342%3Fean%3D9781546171447&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-deathly-hallows-j-k-rowling/1100178133?ean=9781546171454"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520HALF-BLOOD%2520PRINCE%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+          "url": "https://www.booksamillion.com/p/9781338878981"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546171447"
+          "url": "https://bookshop.org/p/books/harry-potter-and-the-deathly-hallows-j-k-rowling/c4373a70d6b26144?ean=9780786296651&next=t"
         }
       ]
     },
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392876",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 4,
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE CHAMBER OF SECRETS (FULL-CAST EDITION)",
       "updated_date": "2026-07-01T20:32:07.195Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +177,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F155MX8X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392883.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/904e7d64-9141-5495-b94c-60de07477d2a",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-08-05T18:20:15.602Z",
+      "dagger": 0,
+      "description": "The third book in the Harry Potter series. Read by Hugh Laurie et al. 11 hours, 32 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781789392883",
+      "publisher": "Pottermore and Audible Studios",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER AND THE PRISONER OF AZKABAN (FULL-CAST EDITION)",
+      "updated_date": "2026-08-05T18:20:15.602Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781789392883"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F155MX8X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781789392357?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439136358&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-prisoner-of-azkaban-j-k-rowling%2F1100178339%3Fean%3D9780439136358&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520PRISONER%2520OF%2520AZKABAN%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780439136358"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6352261c-424a-5047-b0b0-433b01577e72",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:30:56.7Z",
+      "dagger": 0,
+      "description": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781789392913",
+      "publisher": "Pottermore and Audible Studios",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE (FULL-CAST EDITION)",
+      "updated_date": "2026-07-01T20:30:56.7Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781789392913"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781789392388?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546171447&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-half-blood-prince-j-k-rowling%2F1100079342%3Fean%3D9781546171447&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520HALF-BLOOD%2520PRINCE%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546171447"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0F14R9M8Y?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392890",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 5,
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE GOBLET OF FIRE (FULL-CAST EDITION)",
       "updated_date": "2026-07-02T18:51:05.316Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -289,62 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F155MX8X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392883.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/904e7d64-9141-5495-b94c-60de07477d2a",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:36:01.914Z",
-      "dagger": 0,
-      "description": "The third book in the Harry Potter series. Read by Hugh Laurie et al. 11 hours, 32 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781789392883",
-      "publisher": "Pottermore and Audible Studios",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE PRISONER OF AZKABAN (FULL-CAST EDITION)",
-      "updated_date": "2026-07-01T20:36:01.914Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781789392883"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F155MX8X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781789392357?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/s/HARRY%20POTTER%20AND%20THE%20PRISONER%20OF%20AZKABAN%20(FULL-CAST%20EDITION)%20by%20J.K.%20Rowling"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520PRISONER%2520OF%2520AZKABAN%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439136358"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0F154RT46?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -369,7 +369,7 @@
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE ORDER OF THE PHOENIX (FULL-CAST EDITION)",
       "updated_date": "2026-07-01T20:37:30.705Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -425,7 +425,7 @@
       "sunday_review_link": "",
       "title": "SUNRISE ON THE REAPING",
       "updated_date": "2026-07-01T20:38:07.371Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -457,62 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781781102633.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/93daa2f7-8eac-5720-a6c1-e21fcc712633",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-07-02T18:54:24.905Z",
-      "dagger": 0,
-      "description": "A young wizard discovers his magical heritage. Read by Jim Dale. 8 hours, 18 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781781102633",
-      "publisher": "Pottermore",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE SORCERER'S STONE",
-      "updated_date": "2026-07-02T18:54:24.905Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781781102633"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781781102633?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-sorcerers-stone-j-k-rowling/1100036321?ean=9781546148500"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520SORCERER'S%2520STONE%2520by%2520J.K.%2520Rowling"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781781102633"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338334906",
       "publisher": "Scholastic Audio",
-      "rank": 10,
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-05-29T15:53:20.306Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -569,57 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250294622?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rick Riordan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780307245328.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Tomi Adeyemi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781427295507.jpg",
+      "book_image_height": 500,
+      "book_image_width": 350,
       "book_review_link": "",
-      "book_uri": "nyt://book/b90c3b19-74db-5e78-b9b4-c25dca02a7de",
-      "contributor": "by Rick Riordan",
+      "book_uri": "nyt://book/f3291307-513e-5382-9599-3a64265a70e5",
+      "contributor": "by Tomi Adeyemi",
       "contributor_note": "",
-      "created_date": "2026-07-02T18:54:48.943Z",
+      "created_date": "2026-08-05T17:45:06.912Z",
       "dagger": 0,
-      "description": "To prevent a war, Percy Jackson must find Zeus' stolen master lightning bolt. Read by Jesse Bernstein. 10 hours, 2 minutes unabridged.",
+      "description": "Zélie fights to restore magic to the land of Orïsha. Read by Bahni Turpin. 17 hours, 56 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780307245328",
-      "publisher": "Listening Library",
-      "rank": 11,
+      "primary_isbn13": "9781427295507",
+      "publisher": "Macmillan Young Listeners",
+      "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE LIGHTNING THIEF",
-      "updated_date": "2026-07-02T18:54:48.943Z",
+      "title": "CHILDREN OF BLOOD AND BONE",
+      "updated_date": "2026-08-05T17:45:06.912Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780307245328"
+          "isbn13": "9781427295507"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250294622?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780307245328?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781427295507?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368025935&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1127173622%3Fean%3D9781368025935&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250170989&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchildren-of-blood-and-bone-tomi-adeyemi%2F1126559534%3Fean%3D9781250170989&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520LIGHTNING%2520THIEF%2520by%2520Rick%2520Riordan"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChildren-Blood-Bone%2FTomi-Adeyemi%2F9781250294623"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780786856299"
+          "url": "https://bookshop.org/a/3546/9781250170972"
         }
       ]
     },
@@ -644,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338589016",
       "publisher": "Scholastic Audio",
-      "rank": 12,
+      "rank": 11,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "CATCHING FIRE",
       "updated_date": "2026-07-01T20:45:34.554Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -681,6 +625,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781781102633.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/93daa2f7-8eac-5720-a6c1-e21fcc712633",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:53:09.296Z",
+      "dagger": 0,
+      "description": "A young wizard discovers his magical heritage. Read by Jim Dale. 8 hours, 18 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781781102633",
+      "publisher": "Pottermore",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER AND THE SORCERER'S STONE",
+      "updated_date": "2026-08-05T17:53:09.296Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781781102633"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781781102633?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-sorcerers-stone-j-k-rowling/1100036321?ean=9781546148500"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520SORCERER'S%2520STONE%2520by%2520J.K.%2520Rowling"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338878929"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0545663261?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -705,7 +705,7 @@
       "sunday_review_link": "",
       "title": "MOCKINGJAY",
       "updated_date": "2026-07-01T20:47:52.07Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -761,7 +761,7 @@
       "sunday_review_link": "",
       "title": "THE BALLAD OF SONGBIRDS AND SNAKES",
       "updated_date": "2026-07-02T18:55:44.331Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0439136350?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781781102657.jpg",
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780307245328.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/508744ce-fa9e-5c3a-9b01-3dc4eb4074fb",
-      "contributor": "by J.K. Rowling",
+      "book_uri": "nyt://book/b90c3b19-74db-5e78-b9b4-c25dca02a7de",
+      "contributor": "by Rick Riordan",
       "contributor_note": "",
-      "created_date": "2026-07-02T18:57:00.375Z",
+      "created_date": "2026-07-02T18:54:48.943Z",
       "dagger": 0,
-      "description": "The third book in the Harry Potter series. Read by Jim Dale. 11 hours, 49 minutes unabridged.",
+      "description": "To prevent a war, Percy Jackson must find Zeus' stolen master lightning bolt. Read by Jesse Bernstein. 10 hours, 2 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781781102657",
-      "publisher": "Pottermore",
+      "primary_isbn13": "9780307245328",
+      "publisher": "Listening Library",
       "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE PRISONER OF AZKABAN",
-      "updated_date": "2026-07-02T18:57:00.375Z",
-      "weeks_on_list": 3,
+      "title": "THE LIGHTNING THIEF",
+      "updated_date": "2026-07-02T18:54:48.943Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781781102657"
+          "isbn13": "9780307245328"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0439136350?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781781102657?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780307245328?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-prisoner-of-azkaban-j-k-rowling/1100178339?ean=9780439136358"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368025935&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1127173622%3Fean%3D9781368025935&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520PRISONER%2520OF%2520AZKABAN%2520by%2520J.K.%2520Rowling"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520LIGHTNING%2520THIEF%2520by%2520Rick%2520Riordan"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/p/books/harry-potter-and-the-prisoner-of-azkaban-harry-potter-book-3-j-k-rowling/5a3efea0c4fb60b2?ean=9780439136358"
+          "url": "https://bookshop.org/a/3546/9780786856299"
         }
       ]
     }

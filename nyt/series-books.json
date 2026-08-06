@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/1334efe1-24f3-5ece-91cf-2efc51331410",
+  "uri": "nyt://bestsellerslist/d5cc6921-eaaa-5611-ba38-92eb4d122156",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9780439023528",
       "publisher": "Scholastic",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-07-08T18:31:30.697Z",
-      "weeks_on_list": 433,
+      "weeks_on_list": 434,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 906,
+      "weeks_on_list": 907,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
       "rank": 3,
-      "rank_last_week": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 905,
+      "weeks_on_list": 906,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
       "rank": 4,
-      "rank_last_week": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 838,
+      "weeks_on_list": 839,
       "isbns": [
         {
           "isbn10": "",
@@ -232,174 +232,6 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jennifer Lynn Barnes",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316593083.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ad112b90-0f28-5533-b38d-2fbdcd20510b",
-      "contributor": "by Jennifer Lynn Barnes",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.078Z",
-      "dagger": 0,
-      "description": "A prize worth $26 million is up for grabs for seven players sequestered on a private island. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316593083",
-      "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "THE GRANDEST GAME",
-      "updated_date": "2026-07-22T17:04:40.078Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316593083"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316593087?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316593083?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316593083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gilded-blade-jennifer-lynn-barnes%2F1147912627%3Fean%3D9780316593083&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGilded-Blade%2FJennifer-Lynn-Barnes%2F9780316593083"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316593083"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tui T. Sutherland",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
-      "contributor": "by Tui T. Sutherland",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.079Z",
-      "dagger": 0,
-      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546129547",
-      "publisher": "Scholastic",
-      "rank": 6,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "WINGS OF FIRE",
-      "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 252,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781546129547"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546129547"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 16 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Chloe Walsh",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
-      "contributor": "by Chloe Walsh",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:04.785Z",
-      "dagger": 0,
-      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464277061",
-      "publisher": "Bloom",
-      "rank": 7,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "BOYS OF TOMMEN",
-      "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 82,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464277061"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464277061"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 7 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 8,
-      "rank_last_week": 5,
+      "rank": 5,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 127,
+      "weeks_on_list": 128,
       "isbns": [
         {
           "isbn10": "",
@@ -456,6 +288,62 @@
       ]
     },
     {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tui T. Sutherland",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
+      "contributor": "by Tui T. Sutherland",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.079Z",
+      "dagger": 0,
+      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546129547",
+      "publisher": "Scholastic",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "WINGS OF FIRE",
+      "updated_date": "2026-03-12T21:08:22.079Z",
+      "weeks_on_list": 253,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546129547"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546129547"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0062085506?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062085504",
       "publisher": "HarperCollins",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "SHATTER ME",
       "updated_date": "2026-07-29T17:27:30.163Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +400,170 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20",
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Megan Shepherd",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780736447256.jpg",
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3a1c8bac-dba4-5df1-974f-b8184513a083",
-      "contributor": "by Megan Shepherd",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
       "contributor_note": "",
-      "created_date": "2026-07-15T16:43:31.004Z",
+      "created_date": "2026-08-05T17:45:02.899Z",
       "dagger": 0,
-      "description": "The adventures of Sally, the Pumpkin Queen of Halloween Town. (Ages 12 and up)",
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780736447256",
-      "publisher": "Random House/Disney",
-      "rank": 10,
-      "rank_last_week": 7,
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
+      "rank": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE PUMPKIN QUEEN",
-      "updated_date": "2026-07-15T16:43:31.004Z",
-      "weeks_on_list": 3,
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-08-05T17:45:02.899Z",
+      "weeks_on_list": 178,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780736447256"
+          "isbn13": "9780544336261"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0736447253?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780736447256?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736447256&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshadow-over-the-pumpkin-queen-megan-shepherd%2F1148640581%3Fean%3D9780736447256&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Over-Pumpkin-Queen%2FMegan-Shepherd%2F9780736447256"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780736447256"
+          "url": "https://bookshop.org/a/3546/9780544336261"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chloe Walsh",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
+      "contributor": "by Chloe Walsh",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:04.785Z",
+      "dagger": 0,
+      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464277061",
+      "publisher": "Bloom",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "BOYS OF TOMMEN",
+      "updated_date": "2026-03-04T23:40:04.785Z",
+      "weeks_on_list": 83,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464277061"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464277061"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mary Pope Osborne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
+      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
+      "contributor_note": "Illustrated by Sal Murdocca",
+      "created_date": "2026-05-20T18:34:32.732Z",
+      "dagger": 0,
+      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375813658",
+      "publisher": "Stepping Stone/Random House",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAGIC TREE HOUSE",
+      "updated_date": "2026-05-20T18:34:32.732Z",
+      "weeks_on_list": 336,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375813658"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375813658"
         }
       ]
     }
