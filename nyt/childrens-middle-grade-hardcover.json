@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/396024e4-597b-5595-87b2-9a0b1250b977",
+  "uri": "nyt://bestsellerslist/efa41e12-ead1-55d1-b3ff-8a4c0dcd0679",
   "books": [
     {
       "age_group": "Ages 8 to 12",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:03.1Z",
+      "created_date": "2026-08-12T18:23:43.265Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-08-05T17:45:03.1Z",
-      "weeks_on_list": 554,
+      "updated_date": "2026-08-12T18:23:43.265Z",
+      "weeks_on_list": 555,
       "isbns": [
         {
           "isbn10": "",
@@ -64,6 +64,62 @@
       ]
     },
     {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alan Gratz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
+      "book_image_height": 495,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
+      "contributor": "by Alan Gratz",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:05.762Z",
+      "dagger": 0,
+      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780545880831",
+      "publisher": "Scholastic",
+      "rank": 2,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "REFUGEE",
+      "updated_date": "2026-03-04T23:40:05.762Z",
+      "weeks_on_list": 326,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780545880831"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780545880831"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063221178",
       "publisher": "Storytide",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +177,57 @@
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
-      "book_image_height": 495,
-      "book_image_width": 327,
+      "author": "Tiffany D. Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225017477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 351,
       "book_review_link": "",
-      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
-      "contributor": "by Alan Gratz",
+      "book_uri": "nyt://book/936acc1f-75f8-5c2e-b592-195b843c7759",
+      "contributor": "by Tiffany D. Jackson",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:40:05.762Z",
+      "created_date": "2026-08-12T18:23:43.478Z",
       "dagger": 0,
-      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
+      "description": "Harmony Roundtree stumbles upon a murder mystery in Savannah, Ga. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780545880831",
+      "primary_isbn13": "9798225017477",
       "publisher": "Scholastic",
-      "rank": 3,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "REFUGEE",
-      "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 325,
+      "title": "GHOST IN THE NIGHT",
+      "updated_date": "2026-08-12T18:23:43.478Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780545880831"
+          "isbn13": "9798225017477"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798225017477?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225017477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fghost-in-the-night-tiffany-d-jackson%2F1148276505%3Fean%3D9798225017477&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGhost-Night%2FTiffany-D-Jackson%2F9798225017477"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780545880831"
+          "url": "https://bookshop.org/a/3546/9798225017477"
         }
       ]
     },
@@ -181,31 +237,31 @@
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Beth Ferry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665942485.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/ae51c986-5b35-53b1-8565-95844c1ccea0",
+      "book_uri": "nyt://book/5db178f6-22fe-5a9b-93c9-68b56e239f63",
       "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
       "contributor_note": "Illustrated by Terry Fan and Eric Fan",
-      "created_date": "2026-06-17T18:31:10.281Z",
+      "created_date": "2026-07-29T17:27:30.514Z",
       "dagger": 0,
       "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665989817",
+      "primary_isbn13": "9781665942485",
       "publisher": "Simon & Schuster",
-      "rank": 4,
-      "rank_last_week": 8,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "GROWING HOME",
-      "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 49,
+      "updated_date": "2026-07-29T17:27:30.514Z",
+      "weeks_on_list": 50,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665989817"
+          "isbn13": "9781665942485"
         }
       ],
       "buy_links": [
@@ -219,71 +275,15 @@
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989817&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665989817&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665942485&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665942485&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrowing-Home%2FBeth-Ferry%2F9781665942485"
+          "url": "https://www.booksamillion.com/p/Growing-Home/Beth-Ferry/9781665942485"
         },
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781665942485"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 10 to 14",
-      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan and Mark Oshiro",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
-      "contributor": "by Rick Riordan and Mark Oshiro",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:06.042Z",
-      "dagger": 0,
-      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368109116",
-      "publisher": "Disney Hyperion",
-      "rank": 5,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE COURT OF THE DEAD",
-      "updated_date": "2026-03-04T23:40:06.042Z",
-      "weeks_on_list": 45,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368109116"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368109116"
         }
       ]
     },
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781250904362",
       "publisher": "Feiwel & Friends",
       "rank": 6,
-      "rank_last_week": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "POCKET BEAR",
       "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 46,
+      "weeks_on_list": 47,
       "isbns": [
         {
           "isbn10": "",
@@ -344,62 +344,6 @@
       ]
     },
     {
-      "age_group": "Ages 7 to 10",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jessica Yoon",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
-      "contributor": "by Jessica Yoon",
-      "contributor_note": "",
-      "created_date": "2026-04-08T18:13:19.077Z",
-      "dagger": 0,
-      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217234288",
-      "publisher": "Random House",
-      "rank": 7,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "KPOP DEMON HUNTERS",
-      "updated_date": "2026-04-08T18:13:19.077Z",
-      "weeks_on_list": 18,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217234288"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217234288"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546126112?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546126119",
       "publisher": "Scholastic",
-      "rank": 8,
-      "rank_last_week": 9,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "SLEEPLESS",
       "updated_date": "2026-07-22T17:04:40.505Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -456,58 +400,114 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20",
+      "age_group": "Ages 10 to 14",
+      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Rick Riordan and Mark Oshiro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/93e9d008-544b-581f-9681-75c147c79a93",
-      "contributor": "by Alan Gratz",
+      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
+      "contributor": "by Rick Riordan and Mark Oshiro",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:03.282Z",
+      "created_date": "2026-03-04T23:40:06.042Z",
       "dagger": 0,
-      "description": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
+      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781338245752",
-      "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781368109116",
+      "publisher": "Disney Hyperion",
+      "rank": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "GROUND ZERO",
-      "updated_date": "2026-08-05T17:45:03.282Z",
-      "weeks_on_list": 66,
+      "title": "THE COURT OF THE DEAD",
+      "updated_date": "2026-03-04T23:40:06.042Z",
+      "weeks_on_list": 46,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781338245752"
+          "isbn13": "9781368109116"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338245752?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338245752&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fground-zero-alan-gratz%2F1136672425%3Fean%3D9781338245752&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGROUND%2BZERO%2FAlan%2BGratz%2F9781338245752"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338245752"
+          "url": "https://bookshop.org/a/3546/9781368109116"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 7 to 10",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jessica Yoon",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
+      "book_image_height": 500,
+      "book_image_width": 337,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
+      "contributor": "by Jessica Yoon",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:19.077Z",
+      "dagger": 0,
+      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217234288",
+      "publisher": "Random House",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "KPOP DEMON HUNTERS",
+      "updated_date": "2026-04-08T18:13:19.077Z",
+      "weeks_on_list": 19,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217234288"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217234288"
         }
       ]
     },
@@ -533,11 +533,11 @@
       "primary_isbn13": "9781338736106",
       "publisher": "Scholastic",
       "rank": 10,
-      "rank_last_week": 3,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "WAR GAMES",
       "updated_date": "2026-03-11T22:40:16.123Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",

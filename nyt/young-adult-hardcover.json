@@ -5,10 +5,66 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/a67608a0-459b-5f64-a0db-1ed722654845",
+  "uri": "nyt://bestsellerslist/db16de51-3e28-5c43-a503-f1e0c7c5f713",
   "books": [
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Anna Bright",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217236237.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2c9598dd-3677-5f57-b42a-dce061ddcea8",
+      "contributor": "by Anna Bright",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:52:55.4Z",
+      "dagger": 0,
+      "description": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217236237",
+      "publisher": "Random House/Disney",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WINGS OF REVERIE",
+      "updated_date": "2026-08-12T18:52:55.4Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217236237"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780736447362?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217236237&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwings-of-reverie-anna-bright%2F1149150097%3Fean%3D9798217236237&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWings-Reverie%2FAnna-Bright%2F9780736447362"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780736447362"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -20,20 +76,20 @@
       "book_uri": "nyt://book/3b74a29f-11dc-53f1-8dd7-c015f8756878",
       "contributor": "by Margaret Owen",
       "contributor_note": "",
-      "created_date": "2026-08-05T18:00:09.934Z",
+      "created_date": "2026-08-06T17:16:28.565Z",
       "dagger": 0,
-      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony.",
+      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9798217445875",
       "publisher": "Random House/Disney",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "ROOTBOUND",
-      "updated_date": "2026-08-05T18:00:09.934Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-08-06T17:16:28.565Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +121,6 @@
     },
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "I.V. Marie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
-      "book_image_height": 500,
-      "book_image_width": 317,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
-      "contributor": "by I.V. Marie",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.634Z",
-      "dagger": 0,
-      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593898840",
-      "publisher": "Delacorte",
-      "rank": 2,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "RUINOUS ENDS",
-      "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593898840"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593898840"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781665921268",
       "publisher": "Simon & Schuster",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +177,118 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "I.V. Marie",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
+      "contributor": "by I.V. Marie",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.634Z",
+      "dagger": 0,
+      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593898840",
+      "publisher": "Delacorte",
+      "rank": 4,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "RUINOUS ENDS",
+      "updated_date": "2026-07-22T17:04:40.634Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593898840"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593898840"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250404762?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Allison Saft",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250404763.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4b5b4a50-d6fd-5f79-84f6-fd04860b5f28",
+      "contributor": "by Allison Saft",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:43.742Z",
+      "dagger": 0,
+      "description": "Shea Fury teams up with her rival in a chess tournament to save her sister. (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250404763",
+      "publisher": "Wednesday",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IMMORTAL GAME",
+      "updated_date": "2026-08-12T18:23:43.742Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250404763"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250404762?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250404763?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250404763&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fimmortal-game-allison-saft%2F1148026434%3Fean%3D9781250404763&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FImmortal-Game%2FAllison-Saft%2F9781250404763"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250404763"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063419056",
       "publisher": "Storytide",
-      "rank": 4,
-      "rank_last_week": 6,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "RELEASE ME",
       "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 17,
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 5,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +401,62 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "E. Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
+      "contributor": "by E. Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:38.865Z",
+      "dagger": 0,
+      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217026500",
+      "publisher": "Delacorte",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THORNBIRD",
+      "updated_date": "2026-07-08T17:19:38.865Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217026500"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217026500"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217006120",
       "publisher": "Putnam",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE ESCAPE GAME",
       "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 17,
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
@@ -344,226 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 15 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alexis Patton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278129.jpg",
-      "book_image_height": 500,
-      "book_image_width": 398,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b7133406-623d-5dc7-b4a6-c8af9f9eb7c9",
-      "contributor": "by Alexis Patton",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.768Z",
-      "dagger": 0,
-      "description": "After breaking out of prison, Khalani, Takeshi and a band of criminals travel across a postapocalyptic desert known as the Death-Zone. (Ages 15 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464278129",
-      "publisher": "Bloom",
-      "rank": 7,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "US DEADLY FEW",
-      "updated_date": "2026-07-22T17:04:40.768Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464278129"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464278121?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464278129?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278129&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-deadly-few-alexis-patton%2F1146630150%3Fean%3D9781464278129&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Deadly-Few%2FAlexis-Patton%2F9781464278129"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464278129"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 15 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alexis Patton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278112.jpg",
-      "book_image_height": 500,
-      "book_image_width": 398,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e7372b9f-42df-51ce-997f-3723a5d17fff",
-      "contributor": "by Alexis Patton",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:21.046Z",
-      "dagger": 0,
-      "description": "Khalani Kanes struggles to survive in an underground prison for a crime she did not commit. (Ages 15 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464278112",
-      "publisher": "Bloom",
-      "rank": 8,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "US DARK FEW",
-      "updated_date": "2026-05-13T17:27:21.046Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464278112"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464278113?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464278112?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278112&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-dark-few-alexis-patton%2F1143977060%3Fean%3D9781464278112&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Dark-Few%2FAlexis-Patton%2F9781464278112"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464278112"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Cindy Pham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113026.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/79e29cc5-c91d-5c35-b213-0475a1eb6c50",
-      "contributor": "by Cindy Pham",
-      "contributor_note": "",
-      "created_date": "2026-06-10T17:37:55.1Z",
-      "dagger": 0,
-      "description": "Two sisters discover an underground, magical dreamworld. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217113026",
-      "publisher": "Kokila",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE SECRET WORLD OF BRIAR ROSE",
-      "updated_date": "2026-06-10T17:37:55.1Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217113026"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FR7BDZ8M?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217113026?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113026&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-world-of-briar-rose-cindy-pham%2F1148300226%3Fean%3D9798217113026&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-World-Briar-Rose%2FCindy-Pham%2F9798217113026"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217113026"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/031658777X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rachel Griffin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728256184.jpg",
+      "author": "Logan Karlie",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316587778.jpg",
       "book_image_height": 500,
-      "book_image_width": 398,
+      "book_image_width": 342,
       "book_review_link": "",
-      "book_uri": "nyt://book/4474e589-c79f-5393-a34d-fd893b1aa82d",
-      "contributor": "by Rachel Griffin",
+      "book_uri": "nyt://book/a8d688a5-8627-5dd6-abbc-eeed305ef2dc",
+      "contributor": "by Logan Karlie",
       "contributor_note": "",
-      "created_date": "2026-02-25T23:37:57.803Z",
+      "created_date": "2026-08-12T18:23:43.875Z",
       "dagger": 0,
-      "description": "The Starmaker senses a powerful magic within Aurora Finch and requests that she come study under his tutelage. (Ages 14 to 18)",
+      "description": "Esmer and Erebus fight the demon king to save the Kingdom of Noctis. (Ages 14 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781728256184",
-      "publisher": "Sourcebooks Fire",
+      "primary_isbn13": "9780316587778",
+      "publisher": "Christy Ottaviano",
       "rank": 10,
-      "rank_last_week": 10,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SUN AND THE STARMAKER",
-      "updated_date": "2026-02-25T23:37:57.803Z",
-      "weeks_on_list": 19,
+      "title": "CURSED BY THE DAWN",
+      "updated_date": "2026-08-12T18:23:43.875Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781728256184"
+          "isbn13": "9780316587778"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/031658777X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728256184?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316587778?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728256184&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-sun-and-the-starmaker-rachel-griffin%2F1147295429%3Fean%3D9781728256184&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316587778&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcursed-by-the-dawn-logan-karlie%2F1148857355%3Fean%3D9780316587778&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSun-Starmaker%2FRachel-Griffin%2F9781728256184"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCursed-Dawn-Deluxe-Limited%2FLogan-Karlie%2F9780316587778"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728256184"
+          "url": "https://bookshop.org/a/3546/9780316587778"
         }
       ]
     }

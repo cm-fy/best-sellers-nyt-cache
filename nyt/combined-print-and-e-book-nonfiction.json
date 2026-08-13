@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/2568af72-18d7-5495-b942-f1b44b8fcc2e",
+  "uri": "nyt://bestsellerslist/78c71118-9c7b-5513-ab66-37d9aaecbfd7",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annie Jacobsen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
-      "contributor": "by Annie Jacobsen",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.295Z",
-      "dagger": 0,
-      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217046034",
-      "publisher": "Dutton",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BIOLOGICAL WAR",
-      "updated_date": "2026-08-05T17:45:08.295Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217046034"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046034"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 29,
+      "weeks_on_list": 30,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +121,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Isabel Klee",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
-      "contributor": "by Isabel Klee",
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
+      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
+      "contributor": "by Annie Jacobsen",
       "contributor_note": "",
-      "created_date": "2026-05-06T17:37:48.924Z",
+      "created_date": "2026-08-05T17:45:08.295Z",
       "dagger": 0,
-      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063451070",
-      "publisher": "Morrow",
-      "rank": 4,
-      "rank_last_week": 8,
+      "primary_isbn13": "9798217046034",
+      "publisher": "Dutton",
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
-      "updated_date": "2026-05-06T17:37:48.924Z",
-      "weeks_on_list": 6,
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:08.295Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063451070"
+          "isbn13": "9798217046034"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063451070"
+          "url": "https://bookshop.org/a/3546/9798217046034"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Bessel van der Kolk",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
+      "author": "Peter Santenello",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668214343.jpg",
       "book_image_height": 500,
-      "book_image_width": 325,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
-      "contributor": "by Bessel van der Kolk",
+      "book_uri": "nyt://book/461be43c-a912-5869-932f-e6fc5a560931",
+      "contributor": "by Peter Santenello",
       "contributor_note": "",
-      "created_date": "2026-07-08T18:31:31.813Z",
+      "created_date": "2026-08-12T18:23:46.438Z",
       "dagger": 0,
-      "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+      "description": "An independent journalist and filmmaker profiles an array of Americans to demonstrate our complexities.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780143127741",
-      "publisher": "Penguin",
-      "rank": 5,
-      "rank_last_week": 4,
+      "primary_isbn13": "9781668214343",
+      "publisher": "Simon & Schuster",
+      "rank": 4,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE BODY KEEPS THE SCORE",
-      "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 306,
+      "title": "YOUR FELLOW AMERICANS",
+      "updated_date": "2026-08-12T18:23:46.438Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780143127741"
+          "isbn13": "9781668214343"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668214343?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780143127741&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9780143127741&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668214343&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyour-fellow-americans-peter-santenello%2F1148560507%3Fean%3D9781668214343&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYour-Fellow-Americans%2FPeter-Santenello%2F9781668214343"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780143127741"
+          "url": "https://bookshop.org/a/3546/9781668214343"
         }
       ]
     },
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385548533",
       "publisher": "Doubleday",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "LONDON FALLING",
       "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 17,
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
@@ -345,169 +289,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Trevor Noah",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
+      "author": "Roland Orzabal",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063455191.jpg",
       "book_image_height": 500,
-      "book_image_width": 328,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc",
-      "contributor": "by Trevor Noah",
+      "book_uri": "nyt://book/494c420f-2cc8-5120-83f9-cd134cc36cb8",
+      "contributor": "by Roland Orzabal",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.871Z",
+      "created_date": "2026-08-12T18:23:46.564Z",
       "dagger": 0,
-      "description": "A memoir about growing up biracial in apartheid South Africa by the former host of “The Daily Show.”",
+      "description": "A founding member of the English band Tears for Fears shares some of his experiences and his fascination with astrology.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780399588198",
-      "publisher": "One World",
-      "rank": 7,
+      "primary_isbn13": "9780063455191",
+      "publisher": "Dey Street",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BORN A CRIME",
-      "updated_date": "2026-06-03T18:21:54.871Z",
-      "weeks_on_list": 100,
+      "title": "WELCOME TO YOUR LIFE",
+      "updated_date": "2026-08-12T18:23:46.564Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780399588198"
+          "isbn13": "9780063455191"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063455191?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399588198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fborn-a-crime-trevor-noah%2F1123595364%3Fean%3D9780399588198&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063455191&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwelcome-to-your-life-roland-orzabal%2F1148115644%3Fean%3D9780063455191&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBorn-Crime%2FTrevor-Noah%2F9780399588198"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWelcome-Your-Life%2FRoland-Orzabal%2F9780063455191"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399588198"
+          "url": "https://bookshop.org/a/3546/9780063455191"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sophie Elmhirst",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
+      "author": "Bessel van der Kolk",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 325,
       "book_review_link": "",
-      "book_uri": "nyt://book/7674397b-a7b1-5ae0-9280-dc4e527e3ad6",
-      "contributor": "by Sophie Elmhirst",
+      "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+      "contributor": "by Bessel van der Kolk",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:40.87Z",
+      "created_date": "2026-07-08T18:31:31.813Z",
       "dagger": 0,
-      "description": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
+      "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593854297",
-      "publisher": "Riverhead",
-      "rank": 8,
+      "primary_isbn13": "9780143127741",
+      "publisher": "Penguin",
+      "rank": 7,
       "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "A MARRIAGE AT SEA",
-      "updated_date": "2026-07-08T17:19:40.87Z",
-      "weeks_on_list": 11,
+      "title": "THE BODY KEEPS THE SCORE",
+      "updated_date": "2026-07-08T18:31:31.813Z",
+      "weeks_on_list": 307,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593854297"
+          "isbn13": "9780143127741"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593854297?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593854297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-marriage-at-sea-sophie-elmhirst%2F1146395780%3Fean%3D9780593854297&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780143127741&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9780143127741&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMarriage-Sea%2FSophie-Elmhirst%2F9780593854297"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593854297"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ben Wikler",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324131434.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/16fdcae3-c640-577c-9a3c-cb2143312e0f",
-      "contributor": "by Ben Wikler",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:32.534Z",
-      "dagger": 1,
-      "description": "The former chair of the Democratic Party of Wisconsin shares his perspectives on what it takes to win elections.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781324131434",
-      "publisher": "Norton",
-      "rank": 9,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THIS IS THE PLAN",
-      "updated_date": "2026-07-29T17:27:32.534Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781324131434"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1324131438?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324131434?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324131434&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-the-plan-ben-wikler%2F1149256551%3Fean%3D9781324131434&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Plan%2FBen-Wikler%2F9781324131434"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324131434"
+          "url": "https://bookshop.org/a/3546/9780143127741"
         }
       ]
     },
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780142001615",
       "publisher": "Penguin",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "SALT",
       "updated_date": "2026-08-05T17:45:08.438Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -569,6 +457,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY4VYSRC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emilee Hackney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593831410.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d6f123e1-db06-53da-bf6a-1e02ea041f0f",
+      "contributor": "by Emilee Hackney",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:46.743Z",
+      "dagger": 0,
+      "description": "Hackney recounts moving away from her Pentecostal upbringing in the Appalachian Mountains to attend Harvard.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593831410",
+      "publisher": "Penguin Press",
+      "rank": 9,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "ALL THAT'S UNSEEN",
+      "updated_date": "2026-08-12T18:23:46.743Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593831410"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FY4VYSRC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593831410?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593831410&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-thats-unseen-emilee-hackney%2F1148625052%3Fean%3D9780593831410&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DALL%2520THAT'S%2520UNSEEN%2520by%2520Emilee%2520Hackney"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593831410"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -580,7 +524,7 @@
       "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
       "contributor": "by JD Vance",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.583Z",
+      "created_date": "2026-08-12T18:23:46.877Z",
       "dagger": 0,
       "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
       "first_chapter_link": "",
@@ -588,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063575011",
       "publisher": "Harper",
-      "rank": 11,
-      "rank_last_week": 7,
+      "rank": 10,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "COMMUNION",
-      "updated_date": "2026-08-05T17:45:08.583Z",
-      "weeks_on_list": 7,
+      "updated_date": "2026-08-12T18:23:46.877Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -625,57 +569,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593831403?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Emilee Hackney",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593831403.jpg",
+      "author": "bell hooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/07/28/books/review/all-thats-unseen-emilee-hackney.html",
-      "book_uri": "nyt://book/3765fdc2-2b6e-5384-bd6c-0e1266c467b3",
-      "contributor": "by Emilee Hackney",
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
+      "contributor": "by bell hooks",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.702Z",
+      "created_date": "2026-08-12T18:23:47.055Z",
       "dagger": 0,
-      "description": "Hackney recounts moving away from her Pentecostal upbringing in the Appalachian Mountains to attend Harvard.",
+      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593831403",
-      "publisher": "Penguin Press",
-      "rank": 12,
+      "primary_isbn13": "9780060959470",
+      "publisher": "Morrow",
+      "rank": 11,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ALL THAT'S UNSEEN",
-      "updated_date": "2026-08-05T17:45:08.702Z",
-      "weeks_on_list": 1,
+      "title": "ALL ABOUT LOVE",
+      "updated_date": "2026-08-12T18:23:47.055Z",
+      "weeks_on_list": 64,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593831403"
+          "isbn13": "9780060959470"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593831403?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593831403?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780593831403"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-Thats-Unseen%2FEmilee-Hackney%2F9780593831403"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593831403"
+          "url": "https://bookshop.org/a/3546/9780060959470"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Trevor Noah",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc",
+      "contributor": "by Trevor Noah",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:54.871Z",
+      "dagger": 0,
+      "description": "A memoir about growing up biracial in apartheid South Africa by the former host of “The Daily Show.”",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780399588198",
+      "publisher": "One World",
+      "rank": 12,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "BORN A CRIME",
+      "updated_date": "2026-06-03T18:21:54.871Z",
+      "weeks_on_list": 101,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780399588198"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399588198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fborn-a-crime-trevor-noah%2F1123595364%3Fean%3D9780399588198&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBorn-Crime%2FTrevor-Noah%2F9780399588198"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780399588198"
         }
       ]
     },
@@ -701,11 +701,11 @@
       "primary_isbn13": "9780399590528",
       "publisher": "Random House",
       "rank": 13,
-      "rank_last_week": 0,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "EDUCATED",
       "updated_date": "2026-07-01T17:54:34.347Z",
-      "weeks_on_list": 154,
+      "weeks_on_list": 155,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250394864?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "D.W. Pasulka",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250394866.jpg",
+      "author": "Isabel Klee",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/6f5f5977-8331-5bff-b830-33e27912d9fa",
-      "contributor": "by D.W. Pasulka",
+      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
+      "contributor": "by Isabel Klee",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.836Z",
+      "created_date": "2026-05-06T17:37:48.924Z",
       "dagger": 0,
-      "description": "A professor of religious studies at the University of North Carolina, Wilmington, describes alleged contact with nonhuman intelligences.",
+      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250394866",
-      "publisher": "St. Martin’s Essentials",
+      "primary_isbn13": "9780063451070",
+      "publisher": "Morrow",
       "rank": 14,
-      "rank_last_week": 0,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "THE OTHERS",
-      "updated_date": "2026-08-05T17:45:08.836Z",
-      "weeks_on_list": 1,
+      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
+      "updated_date": "2026-05-06T17:37:48.924Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250394866"
+          "isbn13": "9780063451070"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250394864?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250394866?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250394866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-others-d-w-pasulka%2F1148324214%3Fean%3D9781250394866&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOthers%2FD-W-Pasulka%2F9781250394866"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250394866"
+          "url": "https://bookshop.org/a/3546/9780063451070"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FKGJ26MK?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/037462156X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lena Dunham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593129333.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Cory Doctorow",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621568.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/1f209c50-0959-5e02-953a-f85b43734177",
-      "contributor": "by Lena Dunham",
+      "book_uri": "nyt://book/5a40688f-3259-58a6-98a6-b4ec954323b5",
+      "contributor": "by Cory Doctorow",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.995Z",
+      "created_date": "2026-07-02T17:46:58.608Z",
       "dagger": 0,
-      "description": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her.",
+      "description": "The journalist and science fiction writer envisions the future of work and artificial intelligence.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593129333",
-      "publisher": "Random House",
+      "primary_isbn13": "9780374621568",
+      "publisher": "MCD",
       "rank": 15,
-      "rank_last_week": 15,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FAMESICK",
-      "updated_date": "2026-08-05T17:45:08.995Z",
-      "weeks_on_list": 14,
+      "title": "THE REVERSE CENTAUR'S GUIDE TO LIFE AFTER AI",
+      "updated_date": "2026-07-02T17:46:58.608Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593129333"
+          "isbn13": "9780374621568"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FKGJ26MK?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/037462156X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593129333?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780374621568?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593129333&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamesick-lena-dunham%2F1147924472%3Fean%3D9780593129333&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621568&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-reverse-centaurs-guide-to-life-after-ai-cory-doctorow%2F1149013058%3Fean%3D9780374621568&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DFAMESICK%2520by%2520Lena%2520Dunham"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReverse-Centaurs-Guide-Life-After%2FCory-Doctorow%2F9780374621568"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593129333"
+          "url": "https://bookshop.org/a/3546/9780374621568"
         }
       ]
     }

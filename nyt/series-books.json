@@ -5,61 +5,57 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/d5cc6921-eaaa-5611-ba38-92eb4d122156",
+  "uri": "nyt://bestsellerslist/e4e92fdb-6a78-5c37-abd4-94e55263cbf1",
   "books": [
     {
       "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1546171606?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Suzanne Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780439023528.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546171607.jpg",
       "book_image_height": 500,
-      "book_image_width": 327,
+      "book_image_width": 328,
       "book_review_link": "",
-      "book_uri": "nyt://book/074eaba5-6d04-5f14-bc2b-de8d2016c125",
+      "book_uri": "nyt://book/f0ef2e96-ecd9-5a7e-ad92-17cc65fa25b5",
       "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-07-08T18:31:30.697Z",
+      "created_date": "2026-08-12T18:23:42.96Z",
       "dagger": 0,
       "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780439023528",
+      "primary_isbn13": "9781546171607",
       "publisher": "Scholastic",
       "rank": 1,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
-      "updated_date": "2026-07-08T18:31:30.697Z",
-      "weeks_on_list": 434,
+      "updated_date": "2026-08-12T18:23:42.96Z",
+      "weeks_on_list": 435,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780439023528"
+          "isbn13": "9781546171607"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0439023521?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780439023528?at=10lIEQ"
+          "url": "https://www.amazon.com/dp/1546171606?tag=thenewyorktim-20"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439023528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hunger-games-suzanne-collins%2F1100171585%3Fean%3D9780439023528&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546171607&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsunrise-on-the-reaping-suzanne-collins%2F1145703863%3Fean%3D9781546171607&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHunger-Games-Book-One%2FSuzanne-Collins%2F9780439023528"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSunrise-Reaping-Hunger-Games-Novel%2FSuzanne-Collins%2F9781546171607"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439023528"
+          "url": "https://bookshop.org/a/3546/9781546171607"
         }
       ]
     },
@@ -89,7 +85,7 @@
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 907,
+      "weeks_on_list": 908,
       "isbns": [
         {
           "isbn10": "",
@@ -120,6 +116,62 @@
       ]
     },
     {
+      "age_group": "Ages 6 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTKJ679L?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tracey West",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225003326.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/54fe617a-3921-50c9-bece-ee87e6e3fcd1",
+      "contributor": "by Tracey West",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:43.095Z",
+      "dagger": 0,
+      "description": "Drake, once skeptical of the existence of dragons, now trains his very own. (Ages 6 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798225003326",
+      "publisher": "Scholastic",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DRAGON MASTERS",
+      "updated_date": "2026-08-12T18:23:43.095Z",
+      "weeks_on_list": 17,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798225003326"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FTKJ679L?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798225003326?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225003326&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheart-of-the-ruby-dragon-tracey-west%2F1148442226%3Fean%3D9798225003326&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeart-Ruby-Dragon%2FTracey-West%2F9798225003326"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798225003326"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 10 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -140,12 +192,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 906,
+      "weeks_on_list": 907,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +248,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
-      "rank": 4,
+      "rank": 5,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 839,
+      "weeks_on_list": 840,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +304,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 8,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 128,
+      "weeks_on_list": 129,
       "isbns": [
         {
           "isbn10": "",
@@ -288,6 +340,62 @@
       ]
     },
     {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:02.899Z",
+      "dagger": 0,
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
+      "rank": 7,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-08-05T17:45:02.899Z",
+      "weeks_on_list": 179,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780544336261"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780544336261"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +416,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546129547",
       "publisher": "Scholastic",
-      "rank": 6,
+      "rank": 8,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WINGS OF FIRE",
       "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 253,
+      "weeks_on_list": 254,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +472,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062085504",
       "publisher": "HarperCollins",
-      "rank": 7,
-      "rank_last_week": 9,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "SHATTER ME",
       "updated_date": "2026-07-29T17:27:30.163Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -400,62 +508,6 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.899Z",
-      "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 178,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544336261"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 16 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -476,12 +528,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464277061",
       "publisher": "Bloom",
-      "rank": 9,
-      "rank_last_week": 7,
+      "rank": 10,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "BOYS OF TOMMEN",
       "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 83,
+      "weeks_on_list": 84,
       "isbns": [
         {
           "isbn10": "",
@@ -508,62 +560,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781464277061"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mary Pope Osborne",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
-      "book_image_height": 500,
-      "book_image_width": 317,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
-      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
-      "contributor_note": "Illustrated by Sal Murdocca",
-      "created_date": "2026-05-20T18:34:32.732Z",
-      "dagger": 0,
-      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375813658",
-      "publisher": "Stepping Stone/Random House",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MAGIC TREE HOUSE",
-      "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 336,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375813658"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375813658"
         }
       ]
     }
