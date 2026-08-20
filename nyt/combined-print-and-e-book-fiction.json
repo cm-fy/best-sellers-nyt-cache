@@ -5,64 +5,8 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/ed5b852b-d003-5a82-aaf4-374cc22cee8a",
+  "uri": "nyt://bestsellerslist/0b23b0f3-9ea6-5c9b-bb92-b8c9f00f1ecf",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Hannah Nicole Maehrer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
-      "contributor": "by Hannah Nicole Maehrer",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.376Z",
-      "dagger": 0,
-      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682816721",
-      "publisher": "Red Tower",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ADVERSARY TO THE VILLAIN",
-      "updated_date": "2026-08-12T18:23:45.376Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781682816721"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816721"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 36,
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -233,118 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Riley Sager",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
-      "book_uri": "nyt://book/8a8a2ced-eec1-5a23-94a0-677ca0634301",
-      "contributor": "by Riley Sager",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.51Z",
-      "dagger": 0,
-      "description": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217044092",
-      "publisher": "Dutton",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE UNKNOWN",
-      "updated_date": "2026-08-12T18:23:45.51Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217044092"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217044092?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217044092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unknown-riley-sager%2F1148682858%3Fean%3D9798217044092&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnknown%2FRiley-Sager%2F9798217044092"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217044092"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ann Patchett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511637.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6480f0ac-57e1-5272-9566-118c913fe058",
-      "contributor": "by Ann Patchett",
-      "contributor_note": "",
-      "created_date": "2026-06-10T21:51:30.058Z",
-      "dagger": 0,
-      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063511637",
-      "publisher": "Harper",
-      "rank": 6,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "WHISTLER",
-      "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 10,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063511637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063511637?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063511637"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FH2VL7LR?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
+      "author": "Karin Slaughter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063458819.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
-      "contributor": "by Matt Dinniman",
+      "book_uri": "nyt://book/16f7cbfc-e0bc-50ce-804a-caa30503fb70",
+      "contributor": "by Karin Slaughter",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.637Z",
+      "created_date": "2026-08-19T17:19:39.404Z",
       "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "description": "The second book in the North Falls thriller series. Sheriff Emmy Clifton investigates a crime in which a mother was murdered and her daughter left for dead.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593820278",
-      "publisher": "Ace",
-      "rank": 8,
-      "rank_last_week": 13,
+      "primary_isbn13": "9780063458819",
+      "publisher": "Morrow",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 2,
+      "title": "THE SECRETS WE HIDE",
+      "updated_date": "2026-08-19T17:19:39.404Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593820278"
+          "isbn13": "9780063458819"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FH2VL7LR?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063458819?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063458819&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secrets-we-hide-karin-slaughter%2F1150048333%3Fean%3D9780063458819&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecrets-We-Hide%2FKarin-Slaughter%2F9780063458789"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820278"
+          "url": "https://bookshop.org/a/3546/9780063458819"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ann Patchett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063511637.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6480f0ac-57e1-5272-9566-118c913fe058",
+      "contributor": "by Ann Patchett",
+      "contributor_note": "",
+      "created_date": "2026-06-10T21:51:30.058Z",
+      "dagger": 0,
+      "description": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063511637",
+      "publisher": "Harper",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "WHISTLER",
+      "updated_date": "2026-06-10T21:51:30.058Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063511637"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063511637?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063511637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhistler-ann-patchett%2F1148504538%3Fean%3D9780063511637&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhistler%2FAnn-Patchett%2F9780063511637"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063511637"
         }
       ]
     },
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 9,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 61,
+      "weeks_on_list": 62,
       "isbns": [
         {
           "isbn10": "",
@@ -513,113 +401,281 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FK9DM2MP?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593973143?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robert Jackson Bennett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593723869.jpg",
+      "author": "Danielle Steel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973141.jpg",
       "book_image_height": 500,
-      "book_image_width": 326,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/0783b5b5-e3b8-5f26-84b8-6dc6d1c52a01",
-      "contributor": "by Robert Jackson Bennett",
+      "book_uri": "nyt://book/118b97d3-c8de-5f24-aa65-669b670980f5",
+      "contributor": "by Danielle Steel",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.811Z",
+      "created_date": "2026-08-19T17:19:39.553Z",
       "dagger": 0,
-      "description": "The third book in the Shadow of the Leviathan series. Detective Ana Dolabra must prove the innocence of a powerful family’s heir.",
+      "description": "When Russia attacks their country, Ukrainian citizens find ways to fight while others must flee.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593723869",
-      "publisher": "Del Rey",
-      "rank": 10,
+      "primary_isbn13": "9780593973141",
+      "publisher": "Delacorte",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "A TRADE OF BLOOD",
-      "updated_date": "2026-08-12T18:23:45.811Z",
+      "title": "THE TRUE MEANING OF LOVE",
+      "updated_date": "2026-08-19T17:19:39.553Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593723869"
+          "isbn13": "9780593973141"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FK9DM2MP?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593973143?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593723869?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593973141?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593723869&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-trade-of-blood-robert-jackson-bennett%2F1150200760%3Fean%3D9780593723869&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593973141&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-true-meaning-of-love-danielle-steel%2F1148726222%3Fean%3D9780593973141&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTrade-Blood%2FRobert-Jackson-Bennett%2F9780593723852"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTrue-Meaning-Love%2FDanielle-Steel%2F9780593973141"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593723869"
+          "url": "https://bookshop.org/a/3546/9780593973141"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250367840?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Carissa Broadbent",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250367846.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/720217d0-72ec-567a-aa2c-1bd0778b9f30",
-      "contributor": "by Carissa Broadbent",
+      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:44:36.097Z",
+      "created_date": "2026-08-12T18:23:45.637Z",
       "dagger": 0,
-      "description": "The fifth book in the Crowns of Nyaxia series. After committing a crime, a bounty hunter makes a deal with a vampire.",
+      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250367846",
-      "publisher": "Bramble",
-      "rank": 11,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593820278",
+      "publisher": "Ace",
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "THE LION & THE DEATHLESS DARK",
-      "updated_date": "2026-08-12T18:44:36.097Z",
-      "weeks_on_list": 1,
+      "title": "CARL'S DOOMSDAY SCENARIO",
+      "updated_date": "2026-08-12T18:23:45.637Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250367846"
+          "isbn13": "9780593820278"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250367840?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250367860?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250367846&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lion-the-deathless-dark-carissa-broadbent%2F1149856353%3Fean%3D9781250367846&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLion-Deathless-Dark%2FCarissa-Broadbent%2F9781250367846"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250367846"
+          "url": "https://bookshop.org/a/3546/9780593820278"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1638933405?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alaina Urquhart",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638933403.jpg",
+      "book_image_height": 500,
+      "book_image_width": 334,
+      "book_review_link": "",
+      "book_uri": "nyt://book/13a929d9-9db2-5301-96d0-14b15f0645ff",
+      "contributor": "by Alaina Urquhart",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:39.711Z",
+      "dagger": 0,
+      "description": "The third book in the Dr. Wren Muller series. Wren and Leroux get back to work as young girls vanish in two cities.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638933403",
+      "publisher": "Zando",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE BUTCHER LEGACY",
+      "updated_date": "2026-08-19T17:19:39.711Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638933403"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1638933405?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781638933403?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638933403&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-butcher-legacy-alaina-urquhart%2F1149125131%3Fean%3D9781638933403&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FButcher-Legacy%2FAlaina-Urquhart%2F9781638933403"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781638933403"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Colleen Hoover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
+      "contributor": "by Colleen Hoover",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:39.845Z",
+      "dagger": 0,
+      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538784051",
+      "publisher": "Grand Central",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "VERITY",
+      "updated_date": "2026-08-19T17:19:39.845Z",
+      "weeks_on_list": 97,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784051"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538784051?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784051&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-colleen-hoover%2F1130171830%3Fean%3D9781538784051&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity%2FColleen-Hoover%2F9781538784051"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538784051"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Riley Sager",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
+      "book_uri": "nyt://book/8a8a2ced-eec1-5a23-94a0-677ca0634301",
+      "contributor": "by Riley Sager",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:45.51Z",
+      "dagger": 0,
+      "description": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217044092",
+      "publisher": "Dutton",
+      "rank": 12,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE UNKNOWN",
+      "updated_date": "2026-08-12T18:23:45.51Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217044092"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217044092?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217044092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unknown-riley-sager%2F1148682858%3Fean%3D9798217044092&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnknown%2FRiley-Sager%2F9798217044092"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217044092"
         }
       ]
     },
@@ -644,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250899552",
       "publisher": "Holt",
-      "rank": 12,
-      "rank_last_week": 14,
+      "rank": 13,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE WEDDING PEOPLE",
       "updated_date": "2026-08-05T17:45:08.16Z",
-      "weeks_on_list": 24,
+      "weeks_on_list": 25,
       "isbns": [
         {
           "isbn10": "",
@@ -681,62 +737,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538765144?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lisa Gardner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538765142.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/086fbd1d-d038-5395-a9d8-61bbddc28d74",
-      "contributor": "by Lisa Gardner",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.165Z",
-      "dagger": 0,
-      "description": "After a tragedy, a couple moves into a lodge in New Hampshire that bears the weight of a difficult and mysterious past.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781538765142",
-      "publisher": "Grand Central",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "YOU'LL BE SORRY",
-      "updated_date": "2026-08-12T18:23:46.165Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781538765142"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538765144?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538765142?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538765142&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyoull-be-sorry-lisa-gardner%2F1148742375%3Fean%3D9781538765142&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYoull-Be-Sorry%2FLisa-Gardner%2F9781538765142"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538765142"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -757,11 +757,11 @@
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
       "rank": 14,
-      "rank_last_week": 12,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sally Hepworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
+      "author": "Hannah Nicole Maehrer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/736c390c-8e20-527f-a6de-fbab2b17310c",
-      "contributor": "by Sally Hepworth",
+      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
+      "contributor": "by Hannah Nicole Maehrer",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.302Z",
+      "created_date": "2026-08-12T18:23:45.376Z",
       "dagger": 0,
-      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250284556",
-      "publisher": "St. Martin's",
+      "primary_isbn13": "9781682816721",
+      "publisher": "Red Tower",
       "rank": 15,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "MAD MABEL",
-      "updated_date": "2026-08-12T18:23:46.302Z",
-      "weeks_on_list": 3,
+      "title": "ADVERSARY TO THE VILLAIN",
+      "updated_date": "2026-08-12T18:23:45.376Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250284556"
+          "isbn13": "9781682816721"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250284556?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284556&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284556&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250284556"
+          "url": "https://bookshop.org/a/3546/9781682816721"
         }
       ]
     }

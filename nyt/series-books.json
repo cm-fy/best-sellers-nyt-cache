@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/e4e92fdb-6a78-5c37-abd4-94e55263cbf1",
+  "uri": "nyt://bestsellerslist/ad9f8245-b0bb-50e4-970b-25d8efa62d5a",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -14,13 +14,13 @@
       "asterisk": 0,
       "author": "Suzanne Collins",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781546171607.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/f0ef2e96-ecd9-5a7e-ad92-17cc65fa25b5",
       "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:42.96Z",
+      "created_date": "2026-08-19T17:21:43.094Z",
       "dagger": 0,
       "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
-      "updated_date": "2026-08-12T18:23:42.96Z",
-      "weeks_on_list": 435,
+      "updated_date": "2026-08-19T17:21:43.094Z",
+      "weeks_on_list": 436,
       "isbns": [
         {
           "isbn10": "",
@@ -46,7 +46,11 @@
           "url": "https://www.amazon.com/dp/1546171606?tag=thenewyorktim-20"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546178774?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546171607&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsunrise-on-the-reaping-suzanne-collins%2F1145703863%3Fean%3D9781546171607&intsrc=APIG_15890"
         },
         {
@@ -56,6 +60,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781546171607"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeff Kinney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419788109.jpg",
+      "book_image_height": 500,
+      "book_image_width": 341,
+      "book_review_link": "",
+      "book_uri": "nyt://book/015c80ec-dd62-5fb9-9996-077d851834cf",
+      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
+      "contributor_note": "Illustrated by Jeff Kinney",
+      "created_date": "2026-08-19T17:19:37.169Z",
+      "dagger": 0,
+      "description": "Rowley Jefferson chronicles his life story and adventures. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781419788109",
+      "publisher": "Amulet",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "AWESOME FRIENDLY KID",
+      "updated_date": "2026-08-19T17:19:37.169Z",
+      "weeks_on_list": 49,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781419788109"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781419788109?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419788109&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frowley-jeffersons-awesome-friendly-spooky-stories-2-jeff-kinney%2F1148725786%3Fean%3D9781419788109&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRowley-Jeffersons-Awesome-Friendly-Spooky%2FJeff-Kinney%2F9781419788109"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781419788109"
         }
       ]
     },
@@ -80,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 908,
+      "weeks_on_list": 909,
       "isbns": [
         {
           "isbn10": "",
@@ -116,58 +176,170 @@
       ]
     },
     {
-      "age_group": "Ages 6 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTKJ679L?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Tracey West",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225003326.jpg",
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
       "book_image_height": 500,
-      "book_image_width": 344,
+      "book_image_width": 340,
       "book_review_link": "",
-      "book_uri": "nyt://book/54fe617a-3921-50c9-bece-ee87e6e3fcd1",
-      "contributor": "by Tracey West",
+      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
+      "contributor": "by Rick Riordan",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:43.095Z",
+      "created_date": "2026-05-20T18:34:32.452Z",
       "dagger": 0,
-      "description": "Drake, once skeptical of the existence of dragons, now trains his very own. (Ages 6 to 8)",
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798225003326",
-      "publisher": "Scholastic",
-      "rank": 3,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781368051477",
+      "publisher": "Disney-Hyperion",
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "DRAGON MASTERS",
-      "updated_date": "2026-08-12T18:23:43.095Z",
-      "weeks_on_list": 17,
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-05-20T18:34:32.452Z",
+      "weeks_on_list": 841,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798225003326"
+          "isbn13": "9781368051477"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTKJ679L?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798225003326?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225003326&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheart-of-the-ruby-dragon-tracey-west%2F1148442226%3Fean%3D9798225003326&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeart-Ruby-Dragon%2FTracey-West%2F9798225003326"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798225003326"
+          "url": "https://bookshop.org/a/3546/9781368051477"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:02.899Z",
+      "dagger": 0,
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
+      "rank": 5,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-08-05T17:45:02.899Z",
+      "weeks_on_list": 180,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780544336261"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780544336261"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
+      "contributor_note": "",
+      "created_date": "2026-06-17T17:38:16.173Z",
+      "dagger": 0,
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316382007",
+      "publisher": "Little, Brown",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 130,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316382007"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316382007"
         }
       ]
     },
@@ -192,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 7,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 907,
+      "weeks_on_list": 908,
       "isbns": [
         {
           "isbn10": "",
@@ -229,174 +401,6 @@
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
-      "book_image_height": 500,
-      "book_image_width": 340,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
-      "contributor": "by Rick Riordan",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.452Z",
-      "dagger": 0,
-      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368051477",
-      "publisher": "Disney-Hyperion",
-      "rank": 5,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "PERCY JACKSON & THE OLYMPIANS",
-      "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 840,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368051477"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368051477"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
-      "contributor": "by Peter Brown",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
-      "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
-      "publisher": "Little, Brown",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 129,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316382007"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.899Z",
-      "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
-      "rank": 7,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 179,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544336261"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -417,11 +421,11 @@
       "primary_isbn13": "9781546129547",
       "publisher": "Scholastic",
       "rank": 8,
-      "rank_last_week": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "WINGS OF FIRE",
       "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 254,
+      "weeks_on_list": 255,
       "isbns": [
         {
           "isbn10": "",
@@ -452,62 +456,6 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0062085506?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tahereh Mafi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062085504.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1dfc4d18-af59-5098-9585-14b0f5e18c20",
-      "contributor": "by Tahereh Mafi",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:30.163Z",
-      "dagger": 0,
-      "description": "In a crumbling dystopian world, dark forces want to use Juliette’s superhuman powers. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062085504",
-      "publisher": "HarperCollins",
-      "rank": 9,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "SHATTER ME",
-      "updated_date": "2026-07-29T17:27:30.163Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062085504"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062085506?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062085504?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062085504&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshatter-me-tahereh-mafi%2F1100394792%3Fean%3D9780062085504&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShatter%2FTahereh-Mafi%2F9780062085504"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062085504"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 16 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -528,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464277061",
       "publisher": "Bloom",
-      "rank": 10,
-      "rank_last_week": 9,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "BOYS OF TOMMEN",
       "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 84,
+      "weeks_on_list": 85,
       "isbns": [
         {
           "isbn10": "",
@@ -560,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781464277061"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mary Pope Osborne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
+      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
+      "contributor_note": "Illustrated by Sal Murdocca",
+      "created_date": "2026-05-20T18:34:32.732Z",
+      "dagger": 0,
+      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375813658",
+      "publisher": "Stepping Stone/Random House",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAGIC TREE HOUSE",
+      "updated_date": "2026-05-20T18:34:32.732Z",
+      "weeks_on_list": 337,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375813658"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375813658"
         }
       ]
     }

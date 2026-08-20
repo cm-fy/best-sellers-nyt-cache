@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/4cf80275-fefd-54ef-a847-dcb86eb59666",
+  "uri": "nyt://bestsellerslist/1a9f65e9-caca-5d21-a47a-3068d5407559",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -65,113 +65,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Peter Santenello",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668214343.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/461be43c-a912-5869-932f-e6fc5a560931",
-      "contributor": "by Peter Santenello",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.438Z",
-      "dagger": 0,
-      "description": "An independent journalist and filmmaker profiles an array of Americans to demonstrate our complexities.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668214343",
-      "publisher": "Simon & Schuster",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "YOUR FELLOW AMERICANS",
-      "updated_date": "2026-08-12T18:23:46.438Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668214343"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668214343?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668214343&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyour-fellow-americans-peter-santenello%2F1148560507%3Fean%3D9781668214343&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYour-Fellow-Americans%2FPeter-Santenello%2F9781668214343"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668214343"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Roland Orzabal",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063455191.jpg",
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/494c420f-2cc8-5120-83f9-cd134cc36cb8",
-      "contributor": "by Roland Orzabal",
+      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
+      "contributor": "by Brian Tyler Cohen",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.564Z",
+      "created_date": "2026-07-22T17:04:42.603Z",
       "dagger": 0,
-      "description": "A founding member of the English band Tears for Fears shares some of his experiences and his fascination with astrology.",
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063455191",
-      "publisher": "Dey Street",
-      "rank": 3,
+      "primary_isbn13": "9780063495104",
+      "publisher": "Harper",
+      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WELCOME TO YOUR LIFE",
-      "updated_date": "2026-08-12T18:23:46.564Z",
-      "weeks_on_list": 1,
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-07-22T17:04:42.603Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063455191"
+          "isbn13": "9780063495104"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063455191?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063455191&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwelcome-to-your-life-roland-orzabal%2F1148115644%3Fean%3D9780063455191&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWelcome-Your-Life%2FRoland-Orzabal%2F9780063455191"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063455191"
+          "url": "https://bookshop.org/a/3546/9780063495104"
         }
       ]
     },
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 29,
+      "weeks_on_list": 30,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +177,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Annie Jacobsen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
+      "author": "Isabel Klee",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
-      "contributor": "by Annie Jacobsen",
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
+      "contributor": "by Isabel Klee",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.295Z",
+      "created_date": "2026-05-06T17:37:48.924Z",
       "dagger": 0,
-      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
+      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217046034",
-      "publisher": "Dutton",
-      "rank": 5,
-      "rank_last_week": 2,
+      "primary_isbn13": "9780063451070",
+      "publisher": "Morrow",
+      "rank": 4,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "BIOLOGICAL WAR",
-      "updated_date": "2026-08-05T17:45:08.295Z",
-      "weeks_on_list": 2,
+      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
+      "updated_date": "2026-05-06T17:37:48.924Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217046034"
+          "isbn13": "9780063451070"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046034"
+          "url": "https://bookshop.org/a/3546/9780063451070"
         }
       ]
     },
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385548533",
       "publisher": "Doubleday",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "LONDON FALLING",
       "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -356,7 +300,7 @@
       "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
       "contributor": "by JD Vance",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.877Z",
+      "created_date": "2026-08-19T17:19:40.18Z",
       "dagger": 0,
       "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
       "first_chapter_link": "",
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063575011",
       "publisher": "Harper",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "COMMUNION",
-      "updated_date": "2026-08-12T18:23:46.877Z",
-      "weeks_on_list": 8,
+      "updated_date": "2026-08-19T17:19:40.18Z",
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Isabel Klee",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
-      "contributor": "by Isabel Klee",
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
+      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
+      "contributor": "by Annie Jacobsen",
       "contributor_note": "",
-      "created_date": "2026-05-06T17:37:48.924Z",
+      "created_date": "2026-08-05T17:45:08.295Z",
       "dagger": 0,
-      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063451070",
-      "publisher": "Morrow",
-      "rank": 8,
-      "rank_last_week": 4,
+      "primary_isbn13": "9798217046034",
+      "publisher": "Dutton",
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
-      "updated_date": "2026-05-06T17:37:48.924Z",
-      "weeks_on_list": 9,
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:08.295Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063451070"
+          "isbn13": "9798217046034"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063451070"
+          "url": "https://bookshop.org/a/3546/9798217046034"
         }
       ]
     },
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593655030",
       "publisher": "Penguin Press",
-      "rank": 9,
-      "rank_last_week": 11,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE ANXIOUS GENERATION",
       "updated_date": "2026-03-04T23:40:23.53Z",
-      "weeks_on_list": 118,
+      "weeks_on_list": 119,
       "isbns": [
         {
           "isbn10": "",
@@ -513,62 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "David Sedaris",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
-      "contributor": "by David Sedaris",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:35:44.514Z",
-      "dagger": 0,
-      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316264839",
-      "publisher": "Little, Brown",
-      "rank": 10,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THE LAND AND ITS PEOPLE",
-      "updated_date": "2026-06-03T18:35:44.514Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316264839"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316264839"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -588,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781631440885",
       "publisher": "Odysseus",
-      "rank": 11,
-      "rank_last_week": 8,
+      "rank": 9,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "REVOLUTION",
       "updated_date": "2026-06-10T17:37:57.556Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -625,6 +513,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Sedaris",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
+      "contributor": "by David Sedaris",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:35:44.514Z",
+      "dagger": 0,
+      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316264839",
+      "publisher": "Little, Brown",
+      "rank": 10,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE LAND AND ITS PEOPLE",
+      "updated_date": "2026-06-03T18:35:44.514Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316264839"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316264839"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593831403?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -644,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593831403",
       "publisher": "Penguin Press",
-      "rank": 12,
-      "rank_last_week": 13,
+      "rank": 11,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "ALL THAT'S UNSEEN",
       "updated_date": "2026-08-12T18:23:42.437Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -700,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780812988406",
       "publisher": "Random House",
-      "rank": 13,
-      "rank_last_week": 0,
+      "rank": 12,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "WHEN BREATH BECOMES AIR",
       "updated_date": "2026-07-02T17:49:01.6Z",
-      "weeks_on_list": 81,
+      "weeks_on_list": 82,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593832833?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0525556575?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Theo Baker",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593832837.jpg",
+      "author": "John Green",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525556572.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/9659ab0b-21cf-563d-842e-5e7db892860a",
-      "contributor": "by Theo Baker",
+      "book_uri": "nyt://book/bb5b70b2-964d-5146-8e4b-64724d34a3a9",
+      "contributor": "by John Green",
       "contributor_note": "",
-      "created_date": "2026-05-27T22:36:38.115Z",
+      "created_date": "2026-07-15T16:43:33.48Z",
       "dagger": 0,
-      "description": "The Stanford University student chronicles his investigation that helped end the tenure of Marc Tessier-Lavigne as the school’s president.",
+      "description": "The author of “The Anthropocene Reviewed” chronicles the fight against the deadly infectious disease tuberculosis.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593832837",
-      "publisher": "Penguin Press",
-      "rank": 14,
+      "primary_isbn13": "9780525556572",
+      "publisher": "Crash Course",
+      "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO RULE THE WORLD",
-      "updated_date": "2026-05-27T22:36:38.115Z",
-      "weeks_on_list": 2,
+      "title": "EVERYTHING IS TUBERCULOSIS",
+      "updated_date": "2026-07-15T16:43:33.48Z",
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593832837"
+          "isbn13": "9780525556572"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593832833?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0525556575?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593832844?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780525556572?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593832837&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-rule-the-world-theo-baker%2F1148911913%3Fean%3D9780593832837&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525556572&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feverything-is-tuberculosis-john-green%2F1146442015%3Fean%3D9780525556572&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Rule-World%2FTheo-Baker%2F9780593832837"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEverything-Tuberculosis%2FJohn-Green%2F9780525556572"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593832837"
+          "url": "https://bookshop.org/a/3546/9780525556572"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1510766804?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robert F. Kennedy Jr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781510766808.jpg",
+      "author": "Lena Dunham",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593129326.jpg",
       "book_image_height": 500,
-      "book_image_width": 334,
-      "book_review_link": "",
-      "book_uri": "nyt://book/550f8b62-0468-502b-a386-32509856b072",
-      "contributor": "by Robert F. Kennedy Jr",
+      "book_image_width": 333,
+      "book_review_link": "https://www.nytimes.com/2026/04/14/books/review/famesick-lena-dunham.html",
+      "book_uri": "nyt://book/d44fdc5c-9178-5008-8fb8-8615fecb78db",
+      "contributor": "by Lena Dunham",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:42.631Z",
-      "dagger": 1,
-      "description": "The anti-vaccine advocate gives his take on the former chief medical advisor to the president.",
+      "created_date": "2026-04-22T17:21:13.344Z",
+      "dagger": 0,
+      "description": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781510766808",
-      "publisher": "Skyhorse",
-      "rank": 15,
+      "primary_isbn13": "9780593129326",
+      "publisher": "Random House",
+      "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE REAL ANTHONY FAUCI",
-      "updated_date": "2026-08-12T18:23:42.631Z",
-      "weeks_on_list": 20,
+      "title": "FAMESICK",
+      "updated_date": "2026-04-22T17:21:13.344Z",
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781510766808"
+          "isbn13": "9780593129326"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1510766804?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593129326?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781510766808?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593129326?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781510766808&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-real-anthony-fauci-robert-f-kennedy-jr%2F1142798123%3Fean%3D9781510766808&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593129326&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamesick-lena-dunham%2F1147924472%3Fean%3D9780593129326&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BREAL%2BANTHONY%2BFAUCI%2FRobert%2BF.%2BKennedy%2BJr%2F9781510766808"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamesick%2FLena-Dunham%2F9780593129326"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781510766808"
+          "url": "https://bookshop.org/a/3546/9780593129326"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dave Portnoy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668222027.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/24531f20-b0b0-5138-af5f-4bfe8e210a70",
+      "contributor": "by Dave Portnoy",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:40.299Z",
+      "dagger": 0,
+      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668222027",
+      "publisher": "Gallery",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CANCEL ME IF YOU CAN",
+      "updated_date": "2026-07-08T17:19:40.299Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668222027"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668222027?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222027&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can-Autographed%2FDave-Portnoy%2F9781668250754"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668222027"
         }
       ]
     }

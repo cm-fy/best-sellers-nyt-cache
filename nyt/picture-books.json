@@ -5,176 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/b5e373dc-800e-5811-abea-ebdaf2560c30",
+  "uri": "nyt://bestsellerslist/59d79f2d-112f-5c69-8741-3b30652fd444",
   "books": [
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0062348345?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tish Rabe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062348340.jpg",
-      "book_image_height": 500,
-      "book_image_width": 499,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9102f7fe-c3cc-5d93-bb05-7f10bda5c7c3",
-      "contributor": "by Tish Rabe. Illustrated by Laura Hughes",
-      "contributor_note": "Illustrated by Laura Hughes",
-      "created_date": "2026-07-15T16:43:30.829Z",
-      "dagger": 0,
-      "description": "A little girl's first 12 days of kindergarten. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062348340",
-      "publisher": "HarperCollins",
-      "rank": 1,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "ON THE FIRST DAY OF KINDERGARTEN",
-      "updated_date": "2026-07-15T16:43:30.829Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062348340"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062348345?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062348340?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062348340&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fon-the-first-day-of-kindergarten-tish-rabe%2F1143459233%3Fean%3D9780062348340&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFirst-Day-Kindergarten%2FTish-Rabe%2F9780062348340"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062348340"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/154614076X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Michael L. Benner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225096687.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d2024cc9-d381-55d8-b624-999d68ba8034",
-      "contributor": "by Michael L. Benner. Illustrated by Alison Hawkins",
-      "contributor_note": "Illustrated by Alison Hawkins",
-      "created_date": "2026-07-29T17:27:29.769Z",
-      "dagger": 0,
-      "description": "Mac & Cheese search for true friendship. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798225096687",
-      "publisher": "Orchard",
-      "rank": 2,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "MAC & CHEESE",
-      "updated_date": "2026-07-29T17:27:29.769Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798225096687"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/154614076X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546140764?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225096687&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmac-cheese-michael-l-benner%2F1147905670%3Fean%3D9798225096687&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMac-Cheese%2FMichael-L-Benner%2F9781546140764"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546140764"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217228560.jpg",
-      "book_image_height": 500,
-      "book_image_width": 366,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8fc085f9-ae0e-5284-ab77-eb0adad3aaca",
-      "contributor": "by Dr. Seuss",
-      "contributor_note": "Seuss",
-      "created_date": "2026-06-10T17:37:53.983Z",
-      "dagger": 0,
-      "description": "A song that helps children remember the names of the 50 states of America. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217228560",
-      "publisher": "Random House",
-      "rank": 3,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "SING THE 50 UNITED STATES!",
-      "updated_date": "2026-06-10T17:37:53.983Z",
-      "weeks_on_list": 10,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217228560"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217228560?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217228560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsing-the-50-united-states-dr-seuss%2F1148595673%3Fean%3D9798217228560&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSing-United-States%2FDr-Seuss%2F9798217228560"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217228560"
-        }
-      ]
-    },
     {
       "age_group": "Ages 3 to 6",
       "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
@@ -196,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 1,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368046459",
       "publisher": "Hyperion",
-      "rank": 5,
-      "rank_last_week": 7,
+      "rank": 2,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE PIGEON HAS TO GO TO SCHOOL!",
       "updated_date": "2026-08-05T17:45:02.689Z",
-      "weeks_on_list": 70,
+      "weeks_on_list": 71,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +121,174 @@
     },
     {
       "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dr",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217228560.jpg",
+      "book_image_height": 500,
+      "book_image_width": 366,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8fc085f9-ae0e-5284-ab77-eb0adad3aaca",
+      "contributor": "by Dr. Seuss",
+      "contributor_note": "Seuss",
+      "created_date": "2026-06-10T17:37:53.983Z",
+      "dagger": 0,
+      "description": "A song that helps children remember the names of the 50 states of America. (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217228560",
+      "publisher": "Random House",
+      "rank": 3,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "SING THE 50 UNITED STATES!",
+      "updated_date": "2026-06-10T17:37:53.983Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217228560"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FWQW981L?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217228560?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217228560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsing-the-50-united-states-dr-seuss%2F1148595673%3Fean%3D9798217228560&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSing-United-States%2FDr-Seuss%2F9798217228560"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217228560"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/154614076X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Michael L. Benner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225096687.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d2024cc9-d381-55d8-b624-999d68ba8034",
+      "contributor": "by Michael L. Benner. Illustrated by Alison Hawkins",
+      "contributor_note": "Illustrated by Alison Hawkins",
+      "created_date": "2026-07-29T17:27:29.769Z",
+      "dagger": 0,
+      "description": "Mac & Cheese search for true friendship. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798225096687",
+      "publisher": "Orchard",
+      "rank": 4,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "MAC & CHEESE",
+      "updated_date": "2026-07-29T17:27:29.769Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798225096687"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/154614076X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546140764?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225096687&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmac-cheese-michael-l-benner%2F1147905670%3Fean%3D9798225096687&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMac-Cheese%2FMichael-L-Benner%2F9781546140764"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546140764"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0062348345?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tish Rabe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062348340.jpg",
+      "book_image_height": 500,
+      "book_image_width": 499,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9102f7fe-c3cc-5d93-bb05-7f10bda5c7c3",
+      "contributor": "by Tish Rabe. Illustrated by Laura Hughes",
+      "contributor_note": "Illustrated by Laura Hughes",
+      "created_date": "2026-07-15T16:43:30.829Z",
+      "dagger": 0,
+      "description": "A little girl's first 12 days of kindergarten. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062348340",
+      "publisher": "HarperCollins",
+      "rank": 5,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "ON THE FIRST DAY OF KINDERGARTEN",
+      "updated_date": "2026-07-15T16:43:30.829Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062348340"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062348345?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062348340?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062348340&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fon-the-first-day-of-kindergarten-tish-rabe%2F1143459233%3Fean%3D9780062348340&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFirst-Day-Kindergarten%2FTish-Rabe%2F9780062348340"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062348340"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -313,7 +313,7 @@
       "sunday_review_link": "",
       "title": "THE WONDERFUL THINGS YOU WILL BE",
       "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 472,
+      "weeks_on_list": 473,
       "isbns": [
         {
           "isbn10": "",
@@ -365,11 +365,11 @@
       "primary_isbn13": "9780593621110",
       "publisher": "Philomel",
       "rank": 7,
-      "rank_last_week": 0,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE CRAYONS GO BACK TO SCHOOL",
       "updated_date": "2026-08-12T18:23:42.803Z",
-      "weeks_on_list": 24,
+      "weeks_on_list": 25,
       "isbns": [
         {
           "isbn10": "",
@@ -400,6 +400,62 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1728271177?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kari Lavelle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728271170.jpg",
+      "book_image_height": 500,
+      "book_image_width": 446,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b7e73751-f1c3-5efc-ae9d-7cd9d4ae6926",
+      "contributor": "by Kari Lavelle",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:39.917Z",
+      "dagger": 0,
+      "description": "Can you identify which end of the creature you are looking at? (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728271170",
+      "publisher": "Sourcebooks Explore",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BUTT OR FACE?",
+      "updated_date": "2026-07-22T17:04:39.917Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728271170"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728271177?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728271170?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728271170&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbutt-or-face-kari-lavelle%2F1142384898%3Fean%3D9781728271170&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBUTT%2520OR%2520FACE%253F%2520by%2520Kari%2520Lavelle"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728271170"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/0358412242?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780358412243",
       "publisher": "Clarion",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "TIME FOR SCHOOL, LITTLE BLUE TRUCK",
       "updated_date": "2026-07-14T17:46:18.38Z",
-      "weeks_on_list": 47,
+      "weeks_on_list": 48,
       "isbns": [
         {
           "isbn10": "",
@@ -456,114 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 5",
-      "amazon_product_url": "https://www.amazon.com/dp/1454999624?tag=thenewyorktim-20",
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Mo Willems",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781454999621.jpg",
+      "author": "Alice Hemming",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
       "book_image_height": 500,
-      "book_image_width": 493,
+      "book_image_width": 458,
       "book_review_link": "",
-      "book_uri": "nyt://book/c761ddd0-84eb-5822-a20d-5f723a6ae973",
-      "contributor": "by Mo Willems",
-      "contributor_note": "",
-      "created_date": "2026-04-08T18:13:18.578Z",
+      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
+      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
+      "contributor_note": "Illustrated by Nicola Slater",
+      "created_date": "2026-08-05T17:45:02.569Z",
       "dagger": 0,
-      "description": "The pigeon celebrates his birthday, but he’s not the only one. (Ages 3 to 5)",
+      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781454999621",
-      "publisher": "Union Square Kids",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "IT'S MY BIRD-DAY!",
-      "updated_date": "2026-04-08T18:13:18.578Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781454999621"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1454999624?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781454999621?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454999621&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fits-my-bird-day-mo-willems%2F1148180769%3Fean%3D9781454999621&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIts-My-Bird-Day%2FMo-Willems%2F9781454999621"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781454999621"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0593616677?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Neil Sharpson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593616673.jpg",
-      "book_image_height": 500,
-      "book_image_width": 389,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e18f9892-9982-59c1-8d6b-22526dce20d4",
-      "contributor": "by Neil Sharpson. Illustrated by Dan Santat",
-      "contributor_note": "Illustrated by Dan Santat",
-      "created_date": "2026-07-22T17:04:39.717Z",
-      "dagger": 0,
-      "description": "A hilarious and educational manifesto about the treachery of fish. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593616673",
-      "publisher": "Dial",
+      "primary_isbn13": "9781464268076",
+      "publisher": "Sourcebooks Jabberwocky",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DON'T TRUST FISH",
-      "updated_date": "2026-07-22T17:04:39.717Z",
-      "weeks_on_list": 4,
+      "title": "THE PUMPKIN THIEF",
+      "updated_date": "2026-08-05T17:45:02.569Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593616673"
+          "isbn13": "9781464268076"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593616677?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593616673?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593616673&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-trust-fish-neil-sharpson%2F1145976210%3Fean%3D9780593616673&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Trust-Fish%2FNeil-Sharpson%2F9780593616673"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593616673"
+          "url": "https://bookshop.org/a/3546/9781464268076"
         }
       ]
     }

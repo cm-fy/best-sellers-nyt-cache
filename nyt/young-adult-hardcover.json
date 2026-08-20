@@ -5,10 +5,10 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/db16de51-3e28-5c43-a503-f1e0c7c5f713",
+  "uri": "nyt://bestsellerslist/57029340-abd0-5e52-a5fc-3507fcd56546",
   "books": [
     {
-      "age_group": "",
+      "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -20,20 +20,20 @@
       "book_uri": "nyt://book/2c9598dd-3677-5f57-b42a-dce061ddcea8",
       "contributor": "by Anna Bright",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:52:55.4Z",
+      "created_date": "2026-08-13T14:35:04.184Z",
       "dagger": 0,
-      "description": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree.",
+      "description": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9798217236237",
       "publisher": "Random House/Disney",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
-      "updated_date": "2026-08-12T18:52:55.4Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-08-13T14:35:04.184Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9798217445875",
       "publisher": "Random House/Disney",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ROOTBOUND",
       "updated_date": "2026-08-06T17:16:28.565Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -145,7 +145,7 @@
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 45,
+      "weeks_on_list": 46,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9780593898840",
       "publisher": "Delacorte",
       "rank": 4,
-      "rank_last_week": 2,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -232,58 +232,170 @@
       ]
     },
     {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250404762?tag=thenewyorktim-20",
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Allison Saft",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250404763.jpg",
+      "author": "E. Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/4b5b4a50-d6fd-5f79-84f6-fd04860b5f28",
-      "contributor": "by Allison Saft",
+      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
+      "contributor": "by E. Kennedy",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:43.742Z",
+      "created_date": "2026-07-08T17:19:38.865Z",
       "dagger": 0,
-      "description": "Shea Fury teams up with her rival in a chess tournament to save her sister. (Ages 13 to 18)",
+      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250404763",
-      "publisher": "Wednesday",
+      "primary_isbn13": "9798217026500",
+      "publisher": "Delacorte",
       "rank": 5,
-      "rank_last_week": 0,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "IMMORTAL GAME",
-      "updated_date": "2026-08-12T18:23:43.742Z",
-      "weeks_on_list": 1,
+      "title": "THORNBIRD",
+      "updated_date": "2026-07-08T17:19:38.865Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250404763"
+          "isbn13": "9798217026500"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250404762?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250404763?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250404763&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fimmortal-game-allison-saft%2F1148026434%3Fean%3D9781250404763&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FImmortal-Game%2FAllison-Saft%2F9781250404763"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250404763"
+          "url": "https://bookshop.org/a/3546/9798217026500"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shannon J. Spann",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
+      "contributor": "by Shannon J. Spann",
+      "contributor_note": "",
+      "created_date": "2026-02-24T22:20:24.062Z",
+      "dagger": 0,
+      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781649379511",
+      "publisher": "Mayhem",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A STAGE SET FOR VILLAINS",
+      "updated_date": "2026-02-24T22:20:24.062Z",
+      "weeks_on_list": 14,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781649379511"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781649379511"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250404797?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lex Croucher",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250404794.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae1474df-8b6c-57cc-93bc-71de7c8b03cd",
+      "contributor": "by Lex Croucher",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:37.735Z",
+      "dagger": 0,
+      "description": "In this sequel to \"Gwen & Art Are Not in Love,\" Gabriel's round table sets out on a royal tour to find “Arthurian miracles.” (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250404794",
+      "publisher": "Wednesday",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BRIDGET & GABE ARE NOT OKAY",
+      "updated_date": "2026-08-19T17:19:37.735Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250404794"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250404797?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250404794?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250404794&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbridget-gabe-are-not-okay-lex-croucher%2F1149922731%3Fean%3D9781250404794&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBridget-Gabe-Not-Okay%2FLex-Croucher%2F9781250404794"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250404794"
         }
       ]
     },
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063419056",
       "publisher": "Storytide",
-      "rank": 6,
-      "rank_last_week": 4,
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "RELEASE ME",
       "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -400,170 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
+      "age_group": "Ages 16 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1682816680?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "E. Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Nisha J. Tuli",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816684.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
-      "contributor": "by E. Kennedy",
+      "book_uri": "nyt://book/840b8677-dfd5-5224-9550-73738b888f26",
+      "contributor": "by Nisha J. Tuli",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:38.865Z",
+      "created_date": "2026-05-20T22:38:48.637Z",
       "dagger": 0,
-      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
+      "description": "In a dystopia, Poet Graves enters Amery Academy and is drawn to an outsider who may threaten her life as she knows it. (Ages 16 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217026500",
-      "publisher": "Delacorte",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THORNBIRD",
-      "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217026500"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217026500"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Marissa Meyer and Tamara Moss",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0d5c3c7c-bc84-5334-b287-27e72c6a65a7",
-      "contributor": "by Marissa Meyer and Tamara Moss",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:06.768Z",
-      "dagger": 0,
-      "description": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217006120",
-      "publisher": "Putnam",
-      "rank": 9,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE ESCAPE GAME",
-      "updated_date": "2026-04-15T21:36:06.768Z",
-      "weeks_on_list": 18,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217006120"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FCXKKXRR?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217006120?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217006120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-escape-game-marissa-meyer%2F1147592498%3Fean%3D9798217006120&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEscape-Game%2FMarissa-Meyer%2F9798217006120"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217006120"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/031658777X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Logan Karlie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316587778.jpg",
-      "book_image_height": 500,
-      "book_image_width": 342,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a8d688a5-8627-5dd6-abbc-eeed305ef2dc",
-      "contributor": "by Logan Karlie",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:43.875Z",
-      "dagger": 0,
-      "description": "Esmer and Erebus fight the demon king to save the Kingdom of Noctis. (Ages 14 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316587778",
-      "publisher": "Christy Ottaviano",
+      "primary_isbn13": "9781682816684",
+      "publisher": "Mayhem",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CURSED BY THE DAWN",
-      "updated_date": "2026-08-12T18:23:43.875Z",
-      "weeks_on_list": 1,
+      "title": "STORM BREAKER",
+      "updated_date": "2026-05-20T22:38:48.637Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316587778"
+          "isbn13": "9781682816684"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/031658777X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1682816680?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316587778?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781649379931?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316587778&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcursed-by-the-dawn-logan-karlie%2F1148857355%3Fean%3D9780316587778&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816684&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstorm-breaker-nisha-j-tuli%2F1148028392%3Fean%3D9781682816684&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCursed-Dawn-Deluxe-Limited%2FLogan-Karlie%2F9780316587778"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStorm-Breaker%2FNisha-J-Tuli%2F9781682816684"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316587778"
+          "url": "https://bookshop.org/a/3546/9781682816684"
         }
       ]
     }

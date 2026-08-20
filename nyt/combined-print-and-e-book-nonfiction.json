@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/78c71118-9c7b-5513-ab66-37d9aaecbfd7",
+  "uri": "nyt://bestsellerslist/878903fd-abbf-5466-b10d-6147266ffb92",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brian Tyler Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
+      "contributor": "by Brian Tyler Cohen",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:42.603Z",
+      "dagger": 0,
+      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063495104",
+      "publisher": "Harper",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE DAY AFTER",
+      "updated_date": "2026-07-22T17:04:42.603Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063495104"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063495104"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 2,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -121,230 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annie Jacobsen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
-      "contributor": "by Annie Jacobsen",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.295Z",
-      "dagger": 0,
-      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217046034",
-      "publisher": "Dutton",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "BIOLOGICAL WAR",
-      "updated_date": "2026-08-05T17:45:08.295Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217046034"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046034"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Santenello",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668214343.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/461be43c-a912-5869-932f-e6fc5a560931",
-      "contributor": "by Peter Santenello",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.438Z",
-      "dagger": 0,
-      "description": "An independent journalist and filmmaker profiles an array of Americans to demonstrate our complexities.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668214343",
-      "publisher": "Simon & Schuster",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "YOUR FELLOW AMERICANS",
-      "updated_date": "2026-08-12T18:23:46.438Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668214343"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668214342?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668214343?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668214343&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyour-fellow-americans-peter-santenello%2F1148560507%3Fean%3D9781668214343&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYour-Fellow-Americans%2FPeter-Santenello%2F9781668214343"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668214343"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Patrick Radden Keefe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
-      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
-      "contributor": "by Patrick Radden Keefe",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:09.161Z",
-      "dagger": 0,
-      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385548533",
-      "publisher": "Doubleday",
-      "rank": 5,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "LONDON FALLING",
-      "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 18,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385548533"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385548533"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Roland Orzabal",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063455191.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/494c420f-2cc8-5120-83f9-cd134cc36cb8",
-      "contributor": "by Roland Orzabal",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.564Z",
-      "dagger": 0,
-      "description": "A founding member of the English band Tears for Fears shares some of his experiences and his fascination with astrology.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063455191",
-      "publisher": "Dey Street",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WELCOME TO YOUR LIFE",
-      "updated_date": "2026-08-12T18:23:46.564Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063455191"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063455196?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063455191?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063455191&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwelcome-to-your-life-roland-orzabal%2F1148115644%3Fean%3D9780063455191&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWelcome-Your-Life%2FRoland-Orzabal%2F9780063455191"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063455191"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780143127741",
       "publisher": "Penguin",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 307,
+      "weeks_on_list": 308,
       "isbns": [
         {
           "isbn10": "",
@@ -401,337 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Mark Kurlansky",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780142001615.jpg",
+      "author": "Patrick Radden Keefe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
       "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4e243384-211c-5c3e-8874-b9d3ac78db3a",
-      "contributor": "by Mark Kurlansky",
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
+      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
+      "contributor": "by Patrick Radden Keefe",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.438Z",
+      "created_date": "2026-04-15T21:36:09.161Z",
       "dagger": 0,
-      "description": "The author of “The Food of a Younger Land” describes several ways in which a valuable substance has impacted civilization.",
+      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780142001615",
-      "publisher": "Penguin",
-      "rank": 8,
-      "rank_last_week": 10,
+      "primary_isbn13": "9780385548533",
+      "publisher": "Doubleday",
+      "rank": 5,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "SALT",
-      "updated_date": "2026-08-05T17:45:08.438Z",
-      "weeks_on_list": 2,
+      "title": "LONDON FALLING",
+      "updated_date": "2026-04-15T21:36:09.161Z",
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780142001615"
+          "isbn13": "9780385548533"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780142001615?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142001615&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsalt-mark-kurlansky%2F1102487050%3Fean%3D9780142001615&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSalt%2FMark-Kurlansky%2F9780142001615"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780142001615"
+          "url": "https://bookshop.org/a/3546/9780385548533"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY4VYSRC?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Emilee Hackney",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593831410.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d6f123e1-db06-53da-bf6a-1e02ea041f0f",
-      "contributor": "by Emilee Hackney",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.743Z",
-      "dagger": 0,
-      "description": "Hackney recounts moving away from her Pentecostal upbringing in the Appalachian Mountains to attend Harvard.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593831410",
-      "publisher": "Penguin Press",
-      "rank": 9,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "ALL THAT'S UNSEEN",
-      "updated_date": "2026-08-12T18:23:46.743Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593831410"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY4VYSRC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593831410?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593831410&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-thats-unseen-emilee-hackney%2F1148625052%3Fean%3D9780593831410&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DALL%2520THAT'S%2520UNSEEN%2520by%2520Emilee%2520Hackney"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593831410"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "JD Vance",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
-      "contributor": "by JD Vance",
+      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
+      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
+      "contributor": "by Annie Jacobsen",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:46.877Z",
+      "created_date": "2026-08-05T17:45:08.295Z",
       "dagger": 0,
-      "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063575011",
-      "publisher": "Harper",
-      "rank": 10,
-      "rank_last_week": 11,
+      "primary_isbn13": "9798217046034",
+      "publisher": "Dutton",
+      "rank": 6,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "COMMUNION",
-      "updated_date": "2026-08-12T18:23:46.877Z",
-      "weeks_on_list": 8,
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:08.295Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063575011"
+          "isbn13": "9798217046034"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063575011?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575011&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575011&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion-Finding-My-Way-Back%2FJD-Vance%2F9780063575011"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063575011"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "bell hooks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
-      "contributor": "by bell hooks",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:47.055Z",
-      "dagger": 0,
-      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780060959470",
-      "publisher": "Morrow",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ALL ABOUT LOVE",
-      "updated_date": "2026-08-12T18:23:47.055Z",
-      "weeks_on_list": 64,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780060959470"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780060959470"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Trevor Noah",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc",
-      "contributor": "by Trevor Noah",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.871Z",
-      "dagger": 0,
-      "description": "A memoir about growing up biracial in apartheid South Africa by the former host of “The Daily Show.”",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399588198",
-      "publisher": "One World",
-      "rank": 12,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "BORN A CRIME",
-      "updated_date": "2026-06-03T18:21:54.871Z",
-      "weeks_on_list": 101,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399588198"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399588198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fborn-a-crime-trevor-noah%2F1123595364%3Fean%3D9780399588198&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBorn-Crime%2FTrevor-Noah%2F9780399588198"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399588198"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tara Westover",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399590528.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
-      "book_review_link": "https://www.nytimes.com/2018/03/01/books/review/tara-westover-educated.html",
-      "book_uri": "nyt://book/1ee7a801-b1ae-56e0-90ad-6b443e2881fd",
-      "contributor": "by Tara Westover",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:34.347Z",
-      "dagger": 0,
-      "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399590528",
-      "publisher": "Random House",
-      "rank": 13,
-      "rank_last_week": 13,
-      "sunday_review_link": "",
-      "title": "EDUCATED",
-      "updated_date": "2026-07-01T17:54:34.347Z",
-      "weeks_on_list": 155,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399590528"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399590528?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399590528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feducated-tara-westover%2F1126358348%3Fean%3D9780399590528&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590528"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399590528"
+          "url": "https://bookshop.org/a/3546/9798217046034"
         }
       ]
     },
@@ -756,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063451070",
       "publisher": "Morrow",
-      "rank": 14,
-      "rank_last_week": 4,
+      "rank": 7,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
       "updated_date": "2026-05-06T17:37:48.924Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +401,449 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/037462156X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Cory Doctorow",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621568.jpg",
+      "author": "Trevor Noah",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5a40688f-3259-58a6-98a6-b4ec954323b5",
-      "contributor": "by Cory Doctorow",
+      "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc",
+      "contributor": "by Trevor Noah",
       "contributor_note": "",
-      "created_date": "2026-07-02T17:46:58.608Z",
+      "created_date": "2026-08-19T23:59:11.311Z",
       "dagger": 0,
-      "description": "The journalist and science fiction writer envisions the future of work and artificial intelligence.",
+      "description": "The comedian recounts growing up biracial in apartheid South Africa.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780374621568",
-      "publisher": "MCD",
-      "rank": 15,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780399588198",
+      "publisher": "One World",
+      "rank": 8,
+      "rank_last_week": 12,
       "sunday_review_link": "",
-      "title": "THE REVERSE CENTAUR'S GUIDE TO LIFE AFTER AI",
-      "updated_date": "2026-07-02T17:46:58.608Z",
-      "weeks_on_list": 2,
+      "title": "BORN A CRIME",
+      "updated_date": "2026-08-19T23:59:11.311Z",
+      "weeks_on_list": 102,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780374621568"
+          "isbn13": "9780399588198"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/037462156X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374621568?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621568&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-reverse-centaurs-guide-to-life-after-ai-cory-doctorow%2F1149013058%3Fean%3D9780374621568&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399588198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fborn-a-crime-trevor-noah%2F1123595364%3Fean%3D9780399588198&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReverse-Centaurs-Guide-Life-After%2FCory-Doctorow%2F9780374621568"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBorn-Crime%2FTrevor-Noah%2F9780399588198"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374621568"
+          "url": "https://bookshop.org/a/3546/9780399588198"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593831403?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emilee Hackney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593831403.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3765fdc2-2b6e-5384-bd6c-0e1266c467b3",
+      "contributor": "by Emilee Hackney",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:42.437Z",
+      "dagger": 0,
+      "description": "Hackney recounts moving away from her Pentecostal upbringing in the Appalachian Mountains to attend Harvard.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593831403",
+      "publisher": "Penguin Press",
+      "rank": 9,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "ALL THAT'S UNSEEN",
+      "updated_date": "2026-08-12T18:23:42.437Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593831403"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593831403?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593831403?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593831403&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-thats-unseen-emilee-hackney%2F1148625052%3Fean%3D9780593831403&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-Thats-Unseen%2FEmilee-Hackney%2F9780593831403"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593831403"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "JD Vance",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
+      "contributor": "by JD Vance",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:40.18Z",
+      "dagger": 0,
+      "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063575011",
+      "publisher": "Harper",
+      "rank": 10,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "COMMUNION",
+      "updated_date": "2026-08-19T17:19:40.18Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063575011"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063575011?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575011&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575011&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion-Finding-My-Way-Back%2FJD-Vance%2F9780063575011"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063575011"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mark Kurlansky",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780142001615.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4e243384-211c-5c3e-8874-b9d3ac78db3a",
+      "contributor": "by Mark Kurlansky",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:08.438Z",
+      "dagger": 0,
+      "description": "The author of “The Food of a Younger Land” describes several ways in which a valuable substance has impacted civilization.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780142001615",
+      "publisher": "Penguin",
+      "rank": 11,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "SALT",
+      "updated_date": "2026-08-05T17:45:08.438Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780142001615"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780142001615?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142001615&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsalt-mark-kurlansky%2F1102487050%3Fean%3D9780142001615&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSalt%2FMark-Kurlansky%2F9780142001615"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780142001615"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "bell hooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c",
+      "contributor": "by bell hooks",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:47.055Z",
+      "dagger": 0,
+      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780060959470",
+      "publisher": "Morrow",
+      "rank": 12,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "ALL ABOUT LOVE",
+      "updated_date": "2026-08-12T18:23:47.055Z",
+      "weeks_on_list": 65,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780060959470"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780060959470&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fall-about-love-bell-hooks%2F1111738180%3Fean%3D9780060959470&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-about-Love%2FBell-Hooks%2F9780060959470"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780060959470"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeannette Walls",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780743247542.jpg",
+      "book_image_height": 495,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6525f71e-9487-5a7e-9534-f26d1a493c5f",
+      "contributor": "by Jeannette Walls",
+      "contributor_note": "",
+      "created_date": "2026-07-14T17:46:17.019Z",
+      "dagger": 1,
+      "description": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780743247542",
+      "publisher": "Scribner",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE GLASS CASTLE",
+      "updated_date": "2026-07-14T17:46:17.019Z",
+      "weeks_on_list": 66,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780743247542"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780743247542?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780743247542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-glass-castle-jeannette-walls%2F1100321217%3Fean%3D9780743247542&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGLASS%2BCASTLE%2FJeannette%2BWalls%2F9780743247542"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780743247542"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jonathan Haidt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
+      "contributor": "by Jonathan Haidt",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:23.53Z",
+      "dagger": 0,
+      "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593655030",
+      "publisher": "Penguin Press",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ANXIOUS GENERATION",
+      "updated_date": "2026-03-04T23:40:23.53Z",
+      "weeks_on_list": 113,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593655030"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593655030&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anxious-generation-jonathan-haidt%2F1143532841%3Fean%3D9780593655030&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593655030"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eric Metaxas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
+      "book_image_height": 500,
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/943a5b7d-5990-5c86-97a9-1e3b96d94229",
+      "contributor": "by Eric Metaxas",
+      "contributor_note": "",
+      "created_date": "2026-06-10T17:37:57.556Z",
+      "dagger": 1,
+      "description": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781631440885",
+      "publisher": "Odysseus",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "REVOLUTION",
+      "updated_date": "2026-06-10T17:37:57.556Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781631440885"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781631440885?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781631440885&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frevolution-eric-metaxas%2F1148561199%3Fean%3D9781631440885&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRevolution%2FEric-Metaxas%2F9781631440885"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781631440885"
         }
       ]
     }

@@ -5,64 +5,8 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/2ea38b5a-4678-5fa9-a271-0e4999b9bbea",
+  "uri": "nyt://bestsellerslist/300d3d5b-c419-5abb-998a-9cf5a23c5130",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Hannah Nicole Maehrer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
-      "contributor": "by Hannah Nicole Maehrer",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.376Z",
-      "dagger": 0,
-      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682816721",
-      "publisher": "Red Tower",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ADVERSARY TO THE VILLAIN",
-      "updated_date": "2026-08-12T18:23:45.376Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781682816721"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816721"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
-      "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 59,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593135228"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 4,
+      "rank": 2,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
-      "contributor": "by Matt Dinniman",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.637Z",
+      "created_date": "2026-05-20T22:02:25.385Z",
       "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593820278",
-      "publisher": "Ace",
-      "rank": 5,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 3,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 1,
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 60,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593820278"
+          "isbn13": "9780593135228"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820278"
+          "url": "https://bookshop.org/a/3546/9780593135228"
         }
       ]
     },
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250899552",
       "publisher": "Holt",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE WEDDING PEOPLE",
       "updated_date": "2026-08-05T17:45:08.16Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -345,113 +233,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464246955?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Meghan Quinn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246951.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/7a09fc35-3887-53b1-b6dd-af543e489ea4",
-      "contributor": "by Meghan Quinn",
+      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:44.371Z",
+      "created_date": "2026-08-12T18:23:45.637Z",
       "dagger": 0,
-      "description": "A forbidden attraction between a baseball player and his sister’s best friend may cause problems within their families.",
+      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464246951",
-      "publisher": "Bloom",
-      "rank": 7,
-      "rank_last_week": 3,
+      "primary_isbn13": "9780593820278",
+      "publisher": "Ace",
+      "rank": 5,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "JUST FOR THE PLOT",
-      "updated_date": "2026-08-12T18:23:44.371Z",
+      "title": "CARL'S DOOMSDAY SCENARIO",
+      "updated_date": "2026-08-12T18:23:45.637Z",
       "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464246951"
+          "isbn13": "9780593820278"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464246955?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464246951?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246951&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjust-for-the-plot-meghan-quinn%2F1149389012%3Fean%3D9781464246951&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJust-Plot-Deluxe%2FMeghan-Quinn%2F9781464237843"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464246951"
+          "url": "https://bookshop.org/a/3546/9780593820278"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
+      "author": "Hannah Nicole Maehrer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
       "book_image_height": 500,
-      "book_image_width": 313,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/e5e95429-6a83-5d7f-8138-1f5064986f40",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
+      "contributor": "by Hannah Nicole Maehrer",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:44.516Z",
+      "created_date": "2026-08-12T18:23:45.376Z",
       "dagger": 0,
-      "description": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
+      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798256510381",
-      "publisher": "Poisoned Pen",
-      "rank": 8,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781682816721",
+      "publisher": "Red Tower",
+      "rank": 6,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "DEATH ROW",
-      "updated_date": "2026-08-12T18:23:44.516Z",
-      "weeks_on_list": 1,
+      "title": "ADVERSARY TO THE VILLAIN",
+      "updated_date": "2026-08-12T18:23:45.376Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798256510381"
+          "isbn13": "9781682816721"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798256510381?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510381&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdeath-row-freida-mcfadden%2F1150419560%3Fean%3D9798256510381&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeath-Row%2FFreida-McFadden%2F9798256510381"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798256510381"
+          "url": "https://bookshop.org/a/3546/9781682816721"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Colleen Hoover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
+      "contributor": "by Colleen Hoover",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:39.845Z",
+      "dagger": 0,
+      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538784051",
+      "publisher": "Grand Central",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "VERITY",
+      "updated_date": "2026-08-19T17:19:39.845Z",
+      "weeks_on_list": 157,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784051"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538784051?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784051&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-colleen-hoover%2F1130171830%3Fean%3D9781538784051&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity%2FColleen-Hoover%2F9781538784051"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538784051"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1638935467?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Leigh Rivers",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638935469.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e9fc4b28-0a83-5083-81b8-a62185376678",
+      "contributor": "by Leigh Rivers",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:38.005Z",
+      "dagger": 0,
+      "description": "Kade Mitchell returns home and confronts his obsession with Stacey Rhodes, who broke his heart years ago.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638935469",
+      "publisher": "ZPN",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "INSATIABLE",
+      "updated_date": "2026-08-19T17:19:38.005Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638935469"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1638935467?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781638935469?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638935469&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finsatiable-leigh-rivers%2F1150460510%3Fean%3D9781638935469&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInsatiable%2FLeigh-Rivers%2F9781638935469"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781638935469"
         }
       ]
     },
@@ -477,11 +477,11 @@
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
       "rank": 9,
-      "rank_last_week": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -513,118 +513,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.241Z",
-      "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293934",
-      "publisher": "Bloom",
-      "rank": 10,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 13,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293934"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293934"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Madeline Miller",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316556323.jpg",
-      "book_image_height": 495,
-      "book_image_width": 319,
-      "book_review_link": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
-      "book_uri": "nyt://book/f6004c05-57af-5704-8d02-8d646c4fa020",
-      "contributor": "by Madeline Miller",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:30.895Z",
-      "dagger": 0,
-      "description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316556323",
-      "publisher": "Back Bay",
-      "rank": 11,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "CIRCE",
-      "updated_date": "2026-07-29T17:27:30.895Z",
-      "weeks_on_list": 84,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316556323"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316556323?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316556323&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcirce-madeline-miller%2F1028697822%3Fean%3D9780316556323&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCIRCE%2FMadeline%2BMiller%2F9780316556323"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316556323"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -644,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 12,
-      "rank_last_week": 11,
+      "rank": 10,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -681,57 +569,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Shelby Van Pelt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
       "book_image_height": 500,
-      "book_image_width": 332,
+      "book_image_width": 313,
       "book_review_link": "",
-      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
-      "contributor": "by Shelby Van Pelt",
+      "book_uri": "nyt://book/e5e95429-6a83-5d7f-8138-1f5064986f40",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-05-20T22:38:49.21Z",
+      "created_date": "2026-08-19T17:19:38.138Z",
       "dagger": 0,
-      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
+      "description": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063204164",
-      "publisher": "Ecco",
-      "rank": 13,
-      "rank_last_week": 9,
+      "primary_isbn13": "9798256510381",
+      "publisher": "Poisoned Pen",
+      "rank": 11,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "REMARKABLY BRIGHT CREATURES",
-      "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 46,
+      "title": "DEATH ROW",
+      "updated_date": "2026-08-19T17:19:38.138Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063204164"
+          "isbn13": "9798256510381"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798256510381?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510381&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdeath-row-freida-mcfadden%2F1150419560%3Fean%3D9798256510381&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeath-Row%2FFreida-McFadden%2F9798256510381"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063204164"
+          "url": "https://bookshop.org/a/3546/9798256510381"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Madeline Miller",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316556323.jpg",
+      "book_image_height": 495,
+      "book_image_width": 319,
+      "book_review_link": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
+      "book_uri": "nyt://book/f6004c05-57af-5704-8d02-8d646c4fa020",
+      "contributor": "by Madeline Miller",
+      "contributor_note": "",
+      "created_date": "2026-07-29T17:27:30.895Z",
+      "dagger": 0,
+      "description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316556323",
+      "publisher": "Back Bay",
+      "rank": 12,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "CIRCE",
+      "updated_date": "2026-07-29T17:27:30.895Z",
+      "weeks_on_list": 85,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316556323"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316556323?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316556323&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcirce-madeline-miller%2F1028697822%3Fean%3D9780316556323&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCIRCE%2FMadeline%2BMiller%2F9780316556323"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316556323"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G42X9F2K?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brittanée Nicole",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217180219.jpg",
+      "book_image_height": 500,
+      "book_image_width": 356,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d4d58380-6007-5cc8-9cf3-ef28dd97b6e0",
+      "contributor": "by Brittanée Nicole",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:38.279Z",
+      "dagger": 0,
+      "description": "The second book in the Hope Harbor series. Penny Darling makes a deal with an old friend that may change their relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217180219",
+      "publisher": "Putnam",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BONFIRE & BLISS BOOKSTORE",
+      "updated_date": "2026-08-19T17:19:38.279Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217180219"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G42X9F2K?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217180219?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217180219&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbonfire-and-bliss-bookstore-brittanee-nicole%2F1150220219%3Fean%3D9798217180219&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBonfire-Bliss-Bookstore-Hope-Harbor%2FBrittane-Nicole%2F9798217180219"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217180219"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elle Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
+      "contributor": "by Elle Kennedy",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:35.241Z",
+      "dagger": 0,
+      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781775293934",
+      "publisher": "Bloom",
+      "rank": 14,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "THE DEAL",
+      "updated_date": "2026-05-20T18:34:35.241Z",
+      "weeks_on_list": 14,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781775293934"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781775293934"
         }
       ]
     },
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593685297",
       "publisher": "Vintage",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE WIDOW",
       "updated_date": "2026-08-12T18:23:44.675Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593685297"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293941.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/156df172-6f7d-5be8-8a1e-6641087631f9",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-27T18:33:48.866Z",
-      "dagger": 0,
-      "description": "The second book in the Off-Campus series. A college hockey player attempts to redeem himself to a rising sophomore.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293941",
-      "publisher": "Bloom",
-      "rank": 15,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE MISTAKE",
-      "updated_date": "2026-05-27T18:33:48.866Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293941"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293947?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293941?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mistake-elle-kennedy%2F1114716266%3Fean%3D9781775293941&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMistake%2FElle-Kennedy%2F9781775293941"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293941"
         }
       ]
     }
