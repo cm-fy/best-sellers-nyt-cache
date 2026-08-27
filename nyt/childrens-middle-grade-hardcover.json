@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/f6c767b1-f555-5e80-9c62-d67c9c013e1f",
+  "uri": "nyt://bestsellerslist/5de55ee5-a13f-51e9-8f7e-4a4b78570c15",
   "books": [
     {
       "age_group": "Ages 8 to 12",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:37.389Z",
+      "created_date": "2026-08-26T17:40:57.11Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -32,8 +32,8 @@
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-08-19T17:19:37.389Z",
-      "weeks_on_list": 556,
+      "updated_date": "2026-08-26T17:40:57.11Z",
+      "weeks_on_list": 557,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "REFUGEE",
       "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 327,
+      "weeks_on_list": 328,
       "isbns": [
         {
           "isbn10": "",
@@ -145,7 +145,7 @@
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781665989817",
       "publisher": "Simon & Schuster",
       "rank": 4,
-      "rank_last_week": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "GROWING HOME",
       "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 51,
+      "weeks_on_list": 52,
       "isbns": [
         {
           "isbn10": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781250904362",
       "publisher": "Feiwel & Friends",
       "rank": 5,
-      "rank_last_week": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "POCKET BEAR",
       "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 48,
+      "weeks_on_list": 49,
       "isbns": [
         {
           "isbn10": "",
@@ -288,62 +288,6 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1665985461?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tracy Wolff",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665985468.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d07dcd4c-0ac0-5d16-bdbf-268a7207df60",
-      "contributor": "by Tracy Wolff",
-      "contributor_note": "",
-      "created_date": "2026-02-24T22:20:23.555Z",
-      "dagger": 0,
-      "description": "When Penelope Weaver attends the prestigious Anaximander’s Academy, things don’t quite go her way. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665985468",
-      "publisher": "Aladdin",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE AFTERMYTH",
-      "updated_date": "2026-02-24T22:20:23.555Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665985468"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665985461?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665985468?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665985468&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-aftermyth-tracy-wolff%2F1147556426%3Fean%3D9781665985468&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAftermyth%2FTracy-Wolff%2F9781665985468"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665985468"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 10 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217032822",
       "publisher": "Knopf",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE POISONED KING",
       "updated_date": "2026-08-19T17:19:37.531Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",
@@ -401,62 +345,6 @@
     },
     {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1546126112?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gordon Korman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546126119.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1ba1f715-1a3a-5519-a521-1486f1f45c00",
-      "contributor": "by Gordon Korman",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.505Z",
-      "dagger": 0,
-      "description": "Five suburban tweens try to solve the mystery behind their insomnia. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546126119",
-      "publisher": "Scholastic",
-      "rank": 8,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "SLEEPLESS",
-      "updated_date": "2026-07-22T17:04:40.505Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781546126119"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546126112?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546126119?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546126119&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsleepless-gordon-korman%2F1147905635%3Fean%3D9781546126119&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSleepless%2FGordon-Korman%2F9781546126119"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546126119"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1250392810?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250392817",
       "publisher": "Balzer + Bray",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE LIONS' RUN",
       "updated_date": "2026-02-24T22:20:23.681Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +400,170 @@
       ]
     },
     {
-      "age_group": "Ages 7 to 10",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20",
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1665985461?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jessica Yoon",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
+      "author": "Tracy Wolff",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665985468.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/f247e27f-5624-5042-a340-8f06ffacaddc",
-      "contributor": "by Jessica Yoon",
+      "book_uri": "nyt://book/d07dcd4c-0ac0-5d16-bdbf-268a7207df60",
+      "contributor": "by Tracy Wolff",
       "contributor_note": "",
-      "created_date": "2026-04-08T18:13:19.077Z",
+      "created_date": "2026-02-24T22:20:23.555Z",
       "dagger": 0,
-      "description": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
+      "description": "When Penelope Weaver attends the prestigious Anaximander’s Academy, things don’t quite go her way. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217234288",
-      "publisher": "Random House",
-      "rank": 10,
-      "rank_last_week": 9,
+      "primary_isbn13": "9781665985468",
+      "publisher": "Aladdin",
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "KPOP DEMON HUNTERS",
-      "updated_date": "2026-04-08T18:13:19.077Z",
-      "weeks_on_list": 20,
+      "title": "THE AFTERMYTH",
+      "updated_date": "2026-02-24T22:20:23.555Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217234288"
+          "isbn13": "9781665985468"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G48MXNZV?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665985461?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217234288?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665985468?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217234288&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkpop-demon-hunters-jessica-yoon%2F1148987220%3Fean%3D9798217234288&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665985468&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-aftermyth-tracy-wolff%2F1147556426%3Fean%3D9781665985468&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKpop-Demon-Hunters%2FJessica-Yoon%2F9798217234288"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAftermyth%2FTracy-Wolff%2F9781665985468"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217234288"
+          "url": "https://bookshop.org/a/3546/9781665985468"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F7DTXLY7?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Struan Murray",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113217.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cbed6cd9-c659-5db4-9fc6-a6de44465bb9",
+      "contributor": "by Struan Murray",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:40:57.231Z",
+      "dagger": 0,
+      "description": "Alex Evans, once thought to be only human, has the dragon within her awakened. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217113217",
+      "publisher": "Dutton",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DRAGONBORN",
+      "updated_date": "2026-08-26T17:40:57.231Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217113217"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F7DTXLY7?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217113217?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113217&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragonborn-struan-murray%2F1145711348%3Fean%3D9798217113217&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragonborn%2FStruan-Murray%2F9798217113217"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217113217"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 10 to 14",
+      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan and Mark Oshiro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
+      "contributor": "by Rick Riordan and Mark Oshiro",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:06.042Z",
+      "dagger": 0,
+      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368109116",
+      "publisher": "Disney Hyperion",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE COURT OF THE DEAD",
+      "updated_date": "2026-03-04T23:40:06.042Z",
+      "weeks_on_list": 47,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368109116"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368109116"
         }
       ]
     }

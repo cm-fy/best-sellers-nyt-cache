@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/ad9f8245-b0bb-50e4-970b-25d8efa62d5a",
+  "uri": "nyt://bestsellerslist/6257e98c-6c25-59c7-9fcf-591ec548f648",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 436,
+      "weeks_on_list": 437,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeff Kinney",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781419788109.jpg",
-      "book_image_height": 500,
-      "book_image_width": 341,
-      "book_review_link": "",
-      "book_uri": "nyt://book/015c80ec-dd62-5fb9-9996-077d851834cf",
-      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
-      "contributor_note": "Illustrated by Jeff Kinney",
-      "created_date": "2026-08-19T17:19:37.169Z",
-      "dagger": 0,
-      "description": "Rowley Jefferson chronicles his life story and adventures. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781419788109",
-      "publisher": "Amulet",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "AWESOME FRIENDLY KID",
-      "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 49,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781419788109"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781419788109?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419788109&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frowley-jeffersons-awesome-friendly-spooky-stories-2-jeff-kinney%2F1148725786%3Fean%3D9781419788109&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRowley-Jeffersons-Awesome-Friendly-Spooky%2FJeff-Kinney%2F9781419788109"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781419788109"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 909,
+      "weeks_on_list": 910,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +121,62 @@
     },
     {
       "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeff Kinney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419788109.jpg",
+      "book_image_height": 500,
+      "book_image_width": 341,
+      "book_review_link": "",
+      "book_uri": "nyt://book/015c80ec-dd62-5fb9-9996-077d851834cf",
+      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
+      "contributor_note": "Illustrated by Jeff Kinney",
+      "created_date": "2026-08-19T17:19:37.169Z",
+      "dagger": 0,
+      "description": "Rowley Jefferson chronicles his life story and adventures. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781419788109",
+      "publisher": "Amulet",
+      "rank": 3,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "AWESOME FRIENDLY KID",
+      "updated_date": "2026-08-19T17:19:37.169Z",
+      "weeks_on_list": 50,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781419788109"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781419788109?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419788109&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frowley-jeffersons-awesome-friendly-spooky-stories-2-jeff-kinney%2F1148725786%3Fean%3D9781419788109&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRowley-Jeffersons-Awesome-Friendly-Spooky%2FJeff-Kinney%2F9781419788109"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781419788109"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
       "rank": 4,
-      "rank_last_week": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 841,
+      "weeks_on_list": 842,
       "isbns": [
         {
           "isbn10": "",
@@ -232,62 +232,6 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.899Z",
-      "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 180,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544336261"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 7 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 130,
+      "weeks_on_list": 131,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +289,113 @@
     },
     {
       "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546148500.jpg",
       "book_image_height": 500,
-      "book_image_width": 344,
+      "book_image_width": 469,
       "book_review_link": "",
-      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+      "book_uri": "nyt://book/321fd90b-aad6-5385-a0af-5a2c1a33ccf5",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.768Z",
+      "created_date": "2026-05-27T22:36:37.318Z",
       "dagger": 0,
       "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781338878929",
+      "primary_isbn13": "9781546148500",
       "publisher": "Scholastic",
-      "rank": 7,
-      "rank_last_week": 4,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
-      "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 908,
+      "updated_date": "2026-05-27T22:36:37.318Z",
+      "weeks_on_list": 909,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781338878929"
+          "isbn13": "9781546148500"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781546148500?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546148500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1100036321%3Fean%3D9781546148500&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Stenciled%2FJ-K-Rowling%2F9781546148500"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338878929"
+          "url": "https://bookshop.org/a/3546/9781546148500"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:02.899Z",
+      "dagger": 0,
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
+      "rank": 7,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-08-05T17:45:02.899Z",
+      "weeks_on_list": 181,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780544336261"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780544336261"
         }
       ]
     },
@@ -425,7 +425,7 @@
       "sunday_review_link": "",
       "title": "WINGS OF FIRE",
       "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 255,
+      "weeks_on_list": 256,
       "isbns": [
         {
           "isbn10": "",
@@ -456,62 +456,6 @@
       ]
     },
     {
-      "age_group": "Ages 16 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Chloe Walsh",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
-      "contributor": "by Chloe Walsh",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:04.785Z",
-      "dagger": 0,
-      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464277061",
-      "publisher": "Bloom",
-      "rank": 9,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "BOYS OF TOMMEN",
-      "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 85,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464277061"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464277061"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 6 to 9",
       "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375813658",
       "publisher": "Stepping Stone/Random House",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "MAGIC TREE HOUSE",
       "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 337,
+      "weeks_on_list": 338,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780375813658"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chloe Walsh",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
+      "contributor": "by Chloe Walsh",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:04.785Z",
+      "dagger": 0,
+      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464277061",
+      "publisher": "Bloom",
+      "rank": 10,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "BOYS OF TOMMEN",
+      "updated_date": "2026-03-04T23:40:04.785Z",
+      "weeks_on_list": 86,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464277061"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464277061"
         }
       ]
     }

@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/57029340-abd0-5e52-a5fc-3507fcd56546",
+  "uri": "nyt://bestsellerslist/31234964-9d1a-5735-8cf6-0d21e28cef31",
   "books": [
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1640366008?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alex Aster",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781640366008.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/22ec3872-8135-5cd8-8b68-3579c2d126f2",
+      "contributor": "by Alex Aster",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:40:57.362Z",
+      "dagger": 0,
+      "description": "When Barbie graduates from Swancrest Academy without a “fate,” she sets out on a quest to find her own. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781640366008",
+      "publisher": "Mattel",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BARBIE: DREAMSCAPE",
+      "updated_date": "2026-08-26T17:40:57.362Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781640366008"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1640366008?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781640366008?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781640366008&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbarbie-alex-aster%2F1149212617%3Fean%3D9781640366008&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBarbie%2FAlex-Aster%2F9781640366008"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781640366008"
+        }
+      ]
+    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236237",
       "publisher": "Random House/Disney",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-08-13T14:35:04.184Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217445875",
       "publisher": "Random House/Disney",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ROOTBOUND",
       "updated_date": "2026-08-06T17:16:28.565Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +177,6 @@
     },
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921268.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/067f4986-d5a2-585d-be92-dfeedfa0482f",
-      "contributor": "by Lynn Painter",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:06.707Z",
-      "dagger": 0,
-      "description": "After years of separation, the childhood friends Alec and Dani reunite and face their true feelings toward each other. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665921268",
-      "publisher": "Simon & Schuster",
-      "rank": 3,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "FAKE SKATING",
-      "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 46,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665921268"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665921268?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921268&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffake-skating-lynn-painter%2F1146890400%3Fean%3D9781665921268&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFake-Skating%2FLynn-Painter%2F9781665921268"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665921268"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9798217026500",
       "publisher": "Delacorte",
       "rank": 5,
-      "rank_last_week": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THORNBIRD",
       "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -288,170 +288,58 @@
       ]
     },
     {
-      "age_group": "Ages 16 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Shannon J. Spann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921268.jpg",
       "book_image_height": 0,
       "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
-      "contributor": "by Shannon J. Spann",
+      "book_uri": "nyt://book/067f4986-d5a2-585d-be92-dfeedfa0482f",
+      "contributor": "by Lynn Painter",
       "contributor_note": "",
-      "created_date": "2026-02-24T22:20:24.062Z",
+      "created_date": "2026-03-04T23:40:06.707Z",
       "dagger": 0,
-      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
+      "description": "After years of separation, the childhood friends Alec and Dani reunite and face their true feelings toward each other. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781649379511",
-      "publisher": "Mayhem",
+      "primary_isbn13": "9781665921268",
+      "publisher": "Simon & Schuster",
       "rank": 6,
-      "rank_last_week": 0,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "A STAGE SET FOR VILLAINS",
-      "updated_date": "2026-02-24T22:20:24.062Z",
-      "weeks_on_list": 14,
+      "title": "FAKE SKATING",
+      "updated_date": "2026-03-04T23:40:06.707Z",
+      "weeks_on_list": 47,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781649379511"
+          "isbn13": "9781665921268"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665921268?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921268&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffake-skating-lynn-painter%2F1146890400%3Fean%3D9781665921268&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFake-Skating%2FLynn-Painter%2F9781665921268"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649379511"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250404797?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lex Croucher",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250404794.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae1474df-8b6c-57cc-93bc-71de7c8b03cd",
-      "contributor": "by Lex Croucher",
-      "contributor_note": "",
-      "created_date": "2026-08-19T17:19:37.735Z",
-      "dagger": 0,
-      "description": "In this sequel to \"Gwen & Art Are Not in Love,\" Gabriel's round table sets out on a royal tour to find “Arthurian miracles.” (Ages 13 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250404794",
-      "publisher": "Wednesday",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BRIDGET & GABE ARE NOT OKAY",
-      "updated_date": "2026-08-19T17:19:37.735Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250404794"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250404797?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250404794?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250404794&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbridget-gabe-are-not-okay-lex-croucher%2F1149922731%3Fean%3D9781250404794&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBridget-Gabe-Not-Okay%2FLex-Croucher%2F9781250404794"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250404794"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tahereh Mafi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
-      "contributor": "by Tahereh Mafi",
-      "contributor_note": "",
-      "created_date": "2026-04-22T17:21:11.073Z",
-      "dagger": 0,
-      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063419056",
-      "publisher": "Storytide",
-      "rank": 8,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "RELEASE ME",
-      "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 19,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063419056"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063419056"
+          "url": "https://bookshop.org/a/3546/9781665921268"
         }
       ]
     },
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 9,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781682816684",
       "publisher": "Mayhem",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "STORM BREAKER",
       "updated_date": "2026-05-20T22:38:48.637Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +452,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781682816684"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0063481154?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sasha Peyton Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063481152.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bddfafbd-d26a-59a1-8aa2-8bf3a5368111",
+      "contributor": "by Sasha Peyton Smith",
+      "contributor_note": "",
+      "created_date": "2026-04-29T16:56:31.514Z",
+      "dagger": 0,
+      "description": "Ivy Benton, now the queen of England, schemes to dethrone her husband, save her sister and reunite with her true love, Emmett. (Ages 13 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063481152",
+      "publisher": "HarperCollins",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE THORN QUEEN",
+      "updated_date": "2026-04-29T16:56:31.514Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063481152"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063481154?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063481152?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063481152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-thorn-queen-deluxe-limited-edition-sasha-peyton-smith%2F1148115845%3Fean%3D9780063481152&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThorn-Queen-Deluxe-Limited%2FSasha-Peyton-Smith%2F9780063481152"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063481152"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shannon J. Spann",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
+      "contributor": "by Shannon J. Spann",
+      "contributor_note": "",
+      "created_date": "2026-02-24T22:20:24.062Z",
+      "dagger": 0,
+      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781649379511",
+      "publisher": "Mayhem",
+      "rank": 10,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "A STAGE SET FOR VILLAINS",
+      "updated_date": "2026-02-24T22:20:24.062Z",
+      "weeks_on_list": 15,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781649379511"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781649379511"
         }
       ]
     }

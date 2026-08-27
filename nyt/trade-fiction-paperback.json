@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/300d3d5b-c419-5abb-998a-9cf5a23c5130",
+  "uri": "nyt://bestsellerslist/be14fce4-b654-5283-918a-d7e03e348cdf",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 38,
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/145be7c2-d6e3-54f3-8cb3-a5fd82a4af37",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:57:32.649Z",
+      "dagger": 0,
+      "description": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249617",
+      "publisher": "Poisoned Pen",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BRAIN DAMAGE",
+      "updated_date": "2026-08-26T17:57:32.649Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249617"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781039416956?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbrain-damage-freida-mcfadden%2F1149563990%3Fean%3D9781464249617&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrain-Damage%2FFreida-McFadden%2F9781464249617"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249617"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 2,
-      "rank_last_week": 4,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 60,
+      "weeks_on_list": 61,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250899552",
       "publisher": "Holt",
-      "rank": 4,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE WEDDING PEOPLE",
       "updated_date": "2026-08-05T17:45:08.16Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 5,
+      "rank": 6,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -289,62 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Hannah Nicole Maehrer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
-      "contributor": "by Hannah Nicole Maehrer",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.376Z",
-      "dagger": 0,
-      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682816721",
-      "publisher": "Red Tower",
-      "rank": 6,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "ADVERSARY TO THE VILLAIN",
-      "updated_date": "2026-08-12T18:23:45.376Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781682816721"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816721"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -365,11 +365,11 @@
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
       "rank": 7,
-      "rank_last_week": 0,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-08-19T17:19:39.845Z",
-      "weeks_on_list": 157,
+      "weeks_on_list": 158,
       "isbns": [
         {
           "isbn10": "",
@@ -401,113 +401,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1638935467?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Leigh Rivers",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638935469.jpg",
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/e9fc4b28-0a83-5083-81b8-a62185376678",
-      "contributor": "by Leigh Rivers",
+      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
+      "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:38.005Z",
+      "created_date": "2026-07-14T17:46:25.966Z",
       "dagger": 0,
-      "description": "Kade Mitchell returns home and confronts his obsession with Stacey Rhodes, who broke his heart years ago.",
+      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638935469",
-      "publisher": "ZPN",
+      "primary_isbn13": "9781635575569",
+      "publisher": "Bloomsbury",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "INSATIABLE",
-      "updated_date": "2026-08-19T17:19:38.005Z",
-      "weeks_on_list": 1,
+      "title": "A COURT OF THORNS AND ROSES",
+      "updated_date": "2026-07-14T17:46:25.966Z",
+      "weeks_on_list": 84,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638935469"
+          "isbn13": "9781635575569"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1638935467?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781638935469?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638935469&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finsatiable-leigh-rivers%2F1150460510%3Fean%3D9781638935469&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInsatiable%2FLeigh-Rivers%2F9781638935469"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638935469"
+          "url": "https://bookshop.org/a/3546/9781635575569"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Hannah Nicole Maehrer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
+      "contributor": "by Hannah Nicole Maehrer",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:55:48.983Z",
+      "created_date": "2026-08-12T18:23:45.376Z",
       "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
+      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464249631",
-      "publisher": "Poisoned Pen",
+      "primary_isbn13": "9781682816721",
+      "publisher": "Red Tower",
       "rank": 9,
-      "rank_last_week": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 12,
+      "title": "ADVERSARY TO THE VILLAIN",
+      "updated_date": "2026-08-12T18:23:45.376Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464249631"
+          "isbn13": "9781682816721"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249631"
+          "url": "https://bookshop.org/a/3546/9781682816721"
         }
       ]
     },
@@ -533,11 +533,11 @@
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
       "rank": 10,
-      "rank_last_week": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -569,169 +569,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
-      "book_image_height": 500,
-      "book_image_width": 313,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/e5e95429-6a83-5d7f-8138-1f5064986f40",
+      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
       "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:38.138Z",
+      "created_date": "2026-06-03T18:55:48.983Z",
       "dagger": 0,
-      "description": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
+      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798256510381",
+      "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
       "rank": 11,
-      "rank_last_week": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "DEATH ROW",
-      "updated_date": "2026-08-19T17:19:38.138Z",
-      "weeks_on_list": 2,
+      "title": "THE DIVORCE",
+      "updated_date": "2026-06-03T18:55:48.983Z",
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798256510381"
+          "isbn13": "9781464249631"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798256510381?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510381&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdeath-row-freida-mcfadden%2F1150419560%3Fean%3D9798256510381&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeath-Row%2FFreida-McFadden%2F9798256510381"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798256510381"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Madeline Miller",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316556323.jpg",
-      "book_image_height": 495,
-      "book_image_width": 319,
-      "book_review_link": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
-      "book_uri": "nyt://book/f6004c05-57af-5704-8d02-8d646c4fa020",
-      "contributor": "by Madeline Miller",
-      "contributor_note": "",
-      "created_date": "2026-07-29T17:27:30.895Z",
-      "dagger": 0,
-      "description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316556323",
-      "publisher": "Back Bay",
-      "rank": 12,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "CIRCE",
-      "updated_date": "2026-07-29T17:27:30.895Z",
-      "weeks_on_list": 85,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316556323"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316556323?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316556323&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcirce-madeline-miller%2F1028697822%3Fean%3D9780316556323&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCIRCE%2FMadeline%2BMiller%2F9780316556323"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316556323"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G42X9F2K?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brittanée Nicole",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217180219.jpg",
-      "book_image_height": 500,
-      "book_image_width": 356,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d4d58380-6007-5cc8-9cf3-ef28dd97b6e0",
-      "contributor": "by Brittanée Nicole",
-      "contributor_note": "",
-      "created_date": "2026-08-19T17:19:38.279Z",
-      "dagger": 0,
-      "description": "The second book in the Hope Harbor series. Penny Darling makes a deal with an old friend that may change their relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217180219",
-      "publisher": "Putnam",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BONFIRE & BLISS BOOKSTORE",
-      "updated_date": "2026-08-19T17:19:38.279Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217180219"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G42X9F2K?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217180219?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217180219&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbonfire-and-bliss-bookstore-brittanee-nicole%2F1150220219%3Fean%3D9798217180219&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBonfire-Bliss-Bookstore-Hope-Harbor%2FBrittane-Nicole%2F9798217180219"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217180219"
+          "url": "https://bookshop.org/a/3546/9781464249631"
         }
       ]
     },
@@ -756,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
-      "rank": 14,
-      "rank_last_week": 10,
+      "rank": 12,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -812,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593685297",
       "publisher": "Vintage",
-      "rank": 15,
-      "rank_last_week": 14,
+      "rank": 13,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE WIDOW",
       "updated_date": "2026-08-12T18:23:44.675Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +732,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593685297"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1638932239?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Navessa Allen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638932239.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/12c966bc-56fd-582c-b0cb-781e86d7079b",
+      "contributor": "by Navessa Allen",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:53:21.212Z",
+      "dagger": 0,
+      "description": "As Aly and Josh live out their dark fantasies, someone with sinister intentions impinges on them.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638932239",
+      "publisher": "Slowburn",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LIGHTS OUT",
+      "updated_date": "2026-08-26T17:53:21.212Z",
+      "weeks_on_list": 64,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638932239"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1638932239?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781638932239?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638932239&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flights-out-navessa-allen%2F1148125807%3Fean%3D9781638932239&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/9781638932239"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/p/books/lights-out-an-into-darkness-novel-navessa-allen/2dfcb157f4216a8e?ean=9781638932239&next=t"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shelby Van Pelt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
+      "contributor": "by Shelby Van Pelt",
+      "contributor_note": "",
+      "created_date": "2026-05-20T22:38:49.21Z",
+      "dagger": 0,
+      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063204164",
+      "publisher": "Ecco",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "REMARKABLY BRIGHT CREATURES",
+      "updated_date": "2026-05-20T22:38:49.21Z",
+      "weeks_on_list": 47,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063204164"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063204164"
         }
       ]
     }

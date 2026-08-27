@@ -518,25 +518,25 @@
       "asterisk": 0,
       "author": "Kit Brooks",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780316601856.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/692ce976-9fd3-55d6-ae3d-b67e0d40ef39",
       "contributor": "by Kit Brooks. Illustrated by Brandon Dorman",
       "contributor_note": "Illustrated by Brandon Dorman",
-      "created_date": "2026-08-05T17:45:04.114Z",
+      "created_date": "2026-08-24T19:15:11.871Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9780316601856",
-      "publisher": "Christy Ottaviano",
+      "publisher": "Little, Brown/Christy Ottaviano",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE LAST IMMORTALS: DAWN OF THE AXOLOTL",
-      "updated_date": "2026-08-05T17:45:04.114Z",
+      "updated_date": "2026-08-24T19:15:11.871Z",
       "weeks_on_list": 2,
       "isbns": [
         {
@@ -554,7 +554,7 @@
           "url": "https://goto.applebooks.apple/9780316601856?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316601856&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-last-immortals-kit-brooks%2F1148171329%3Fean%3D9780316601856&intsrc=APIG_15890"
         },
         {

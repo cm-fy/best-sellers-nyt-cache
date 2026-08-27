@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/0b23b0f3-9ea6-5c9b-bb92-b8c9f00f1ecf",
+  "uri": "nyt://bestsellerslist/8df84ada-dbaa-546f-85f7-ffd270b8adb5",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FBLWTVT3?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Patterson and James O. Born",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316569842.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/df16abe3-9b3a-547c-8972-713dd9d634f6",
+      "contributor": "by James Patterson and James O. Born",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:40:58.294Z",
+      "dagger": 0,
+      "description": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316569842",
+      "publisher": "Little, Brown",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DELUSIONAL",
+      "updated_date": "2026-08-26T17:40:58.294Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316569842"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FBLWTVT3?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316569842?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316569842&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdelusional-james-patterson%2F1147516419%3Fean%3D9780316569842&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDelusional%2FJames-Patterson%2F9780316569835"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316569842"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 19,
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 4,
-      "rank_last_week": 7,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +289,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FH2VL7LR?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Karin Slaughter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063458819.jpg",
+      "author": "Sheila Masterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638935971.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/16f7cbfc-e0bc-50ce-804a-caa30503fb70",
-      "contributor": "by Karin Slaughter",
+      "book_uri": "nyt://book/deecd46f-5c3d-56a4-9cee-9254c33ccc2f",
+      "contributor": "by Sheila Masterson",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:39.404Z",
+      "created_date": "2026-08-26T17:40:58.393Z",
       "dagger": 0,
-      "description": "The second book in the North Falls thriller series. Sheriff Emmy Clifton investigates a crime in which a mother was murdered and her daughter left for dead.",
+      "description": "A woman with a deadly kiss who moonlights as a vigilante going after abusive men comes under threat by her betrothed.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063458819",
-      "publisher": "Morrow",
-      "rank": 5,
+      "primary_isbn13": "9781638935971",
+      "publisher": "Slowburn",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SECRETS WE HIDE",
-      "updated_date": "2026-08-19T17:19:39.404Z",
+      "title": "THE POISON DAUGHTER",
+      "updated_date": "2026-08-26T17:40:58.393Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063458819"
+          "isbn13": "9781638935971"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FH2VL7LR?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063458819?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781638935971?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063458819&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secrets-we-hide-karin-slaughter%2F1150048333%3Fean%3D9780063458819&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638935971&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poison-daughter-sheila-masterson%2F1148368495%3Fean%3D9781638935971&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecrets-We-Hide%2FKarin-Slaughter%2F9780063458789"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoison-Daughter%2FSheila-Masterson%2F9781638935971"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063458819"
+          "url": "https://bookshop.org/a/3546/9781638935971"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/145be7c2-d6e3-54f3-8cb3-a5fd82a4af37",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:57:32.649Z",
+      "dagger": 0,
+      "description": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249617",
+      "publisher": "Poisoned Pen",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BRAIN DAMAGE",
+      "updated_date": "2026-08-26T17:57:32.649Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249617"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781039416956?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbrain-damage-freida-mcfadden%2F1149563990%3Fean%3D9781464249617&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrain-Damage%2FFreida-McFadden%2F9781464249617"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249617"
         }
       ]
     },
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 6,
+      "rank": 8,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +457,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FX5P7P29?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "William Kent Krueger",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668231883.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7418abd4-36da-55e2-9342-3c495fffc34b",
+      "contributor": "by William Kent Krueger",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:40:58.686Z",
+      "dagger": 0,
+      "description": "The 22nd book in the Cork O'Connor mystery series. Cork prepares for a family trip but encounters violence and danger instead.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668231883",
+      "publisher": "Atria",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GOD'S COUNTRY",
+      "updated_date": "2026-08-26T17:40:58.686Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668231883"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FX5P7P29?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668231883?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668231883&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgods-country-william-kent-krueger%2F1148560296%3Fean%3D9781668231883&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGods-Country%2FWilliam-Kent-Krueger%2F9781668231869"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668231883"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 7,
-      "rank_last_week": 9,
+      "rank": 10,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 62,
+      "weeks_on_list": 63,
       "isbns": [
         {
           "isbn10": "",
@@ -401,62 +569,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593973143?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Danielle Steel",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973141.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/118b97d3-c8de-5f24-aa65-669b670980f5",
-      "contributor": "by Danielle Steel",
-      "contributor_note": "",
-      "created_date": "2026-08-19T17:19:39.553Z",
-      "dagger": 0,
-      "description": "When Russia attacks their country, Ukrainian citizens find ways to fight while others must flee.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593973141",
-      "publisher": "Delacorte",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE TRUE MEANING OF LOVE",
-      "updated_date": "2026-08-19T17:19:39.553Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593973141"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593973143?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593973141?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593973141&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-true-meaning-of-love-danielle-steel%2F1148726222%3Fean%3D9780593973141&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTrue-Meaning-Love%2FDanielle-Steel%2F9780593973141"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593973141"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 9,
-      "rank_last_week": 8,
+      "rank": 11,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -513,62 +625,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1638933405?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alaina Urquhart",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638933403.jpg",
-      "book_image_height": 500,
-      "book_image_width": 334,
-      "book_review_link": "",
-      "book_uri": "nyt://book/13a929d9-9db2-5301-96d0-14b15f0645ff",
-      "contributor": "by Alaina Urquhart",
-      "contributor_note": "",
-      "created_date": "2026-08-19T17:19:39.711Z",
-      "dagger": 0,
-      "description": "The third book in the Dr. Wren Muller series. Wren and Leroux get back to work as young girls vanish in two cities.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781638933403",
-      "publisher": "Zando",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BUTCHER LEGACY",
-      "updated_date": "2026-08-19T17:19:39.711Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781638933403"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1638933405?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781638933403?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638933403&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-butcher-legacy-alaina-urquhart%2F1149125131%3Fean%3D9781638933403&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FButcher-Legacy%2FAlaina-Urquhart%2F9781638933403"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638933403"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -588,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 11,
-      "rank_last_week": 0,
+      "rank": 12,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-08-19T17:19:39.845Z",
-      "weeks_on_list": 97,
+      "weeks_on_list": 98,
       "isbns": [
         {
           "isbn10": "",
@@ -625,113 +681,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Riley Sager",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
+      "author": "Sally Hepworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284549.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
-      "book_uri": "nyt://book/8a8a2ced-eec1-5a23-94a0-677ca0634301",
-      "contributor": "by Riley Sager",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.51Z",
-      "dagger": 0,
-      "description": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217044092",
-      "publisher": "Dutton",
-      "rank": 12,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE UNKNOWN",
-      "updated_date": "2026-08-12T18:23:45.51Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217044092"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217044092?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217044092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unknown-riley-sager%2F1148682858%3Fean%3D9798217044092&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnknown%2FRiley-Sager%2F9798217044092"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217044092"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250899559?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alison Espach",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250899552.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/d011711a-3225-5865-98e2-94cf9c3e614d",
-      "contributor": "by Alison Espach",
+      "book_uri": "nyt://book/5f243b1b-9205-5936-bccb-e00e106cc594",
+      "contributor": "by Sally Hepworth",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.16Z",
+      "created_date": "2026-04-29T16:56:33.551Z",
       "dagger": 0,
-      "description": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
+      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250899552",
-      "publisher": "Holt",
+      "primary_isbn13": "9781250284549",
+      "publisher": "St. Martin's",
       "rank": 13,
-      "rank_last_week": 12,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE WEDDING PEOPLE",
-      "updated_date": "2026-08-05T17:45:08.16Z",
-      "weeks_on_list": 25,
+      "title": "MAD MABEL",
+      "updated_date": "2026-04-29T16:56:33.551Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250899552"
+          "isbn13": "9781250284549"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250899559?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250899552?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250284549?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250899552&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wedding-people-alison-espach%2F1144054625%3Fean%3D9781250899552&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284549&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWedding-People%2FAlison-Espach%2F9781250899552"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250899552"
+          "url": "https://bookshop.org/a/3546/9781250284549"
         }
       ]
     },
@@ -761,7 +761,7 @@
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Hannah Nicole Maehrer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
-      "contributor": "by Hannah Nicole Maehrer",
+      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
+      "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.376Z",
+      "created_date": "2026-07-14T17:46:25.966Z",
       "dagger": 0,
-      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
+      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781682816721",
-      "publisher": "Red Tower",
+      "primary_isbn13": "9781635575569",
+      "publisher": "Bloomsbury",
       "rank": 15,
-      "rank_last_week": 1,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ADVERSARY TO THE VILLAIN",
-      "updated_date": "2026-08-12T18:23:45.376Z",
-      "weeks_on_list": 2,
+      "title": "A COURT OF THORNS AND ROSES",
+      "updated_date": "2026-07-14T17:46:25.966Z",
+      "weeks_on_list": 53,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781682816721"
+          "isbn13": "9781635575569"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816721"
+          "url": "https://bookshop.org/a/3546/9781635575569"
         }
       ]
     }
