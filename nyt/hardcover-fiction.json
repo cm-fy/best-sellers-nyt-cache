@@ -5,61 +5,61 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/769683bb-9b81-5934-b8d6-52b30b2c26d6",
+  "uri": "nyt://bestsellerslist/8d9f117f-05c1-5d59-a3c4-3b1bbf1a4f8c",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593798635?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sheila Masterson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638935971.jpg",
+      "author": "Liane Moriarty",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593798638.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/deecd46f-5c3d-56a4-9cee-9254c33ccc2f",
-      "contributor": "by Sheila Masterson",
+      "book_uri": "nyt://book/fe50449b-305c-5537-a418-fddedb3f35c7",
+      "contributor": "by Liane Moriarty",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:58.393Z",
+      "created_date": "2026-09-02T18:40:08.865Z",
       "dagger": 0,
-      "description": "A woman with a deadly kiss who moonlights as a vigilante going after abusive men comes under threat by her betrothed.",
+      "description": "In a sequel to “Big Little Lies,” a stranger’s presence at a school may force things to the fore that had not been shared.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638935971",
-      "publisher": "Slowburn",
+      "primary_isbn13": "9780593798638",
+      "publisher": "Crown",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE POISON DAUGHTER",
-      "updated_date": "2026-08-26T17:40:58.393Z",
+      "title": "BIG LITTLE TRUTHS",
+      "updated_date": "2026-09-02T18:40:08.865Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638935971"
+          "isbn13": "9780593798638"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593798635?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781638935971?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593798638?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638935971&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poison-daughter-sheila-masterson%2F1148368495%3Fean%3D9781638935971&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593798638&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbig-little-truths-liane-moriarty%2F1149667336%3Fean%3D9780593798638&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoison-Daughter%2FSheila-Masterson%2F9781638935971"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBig-Little-Truths%2FLiane-Moriarty%2F9780593798638"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638935971"
+          "url": "https://bookshop.org/a/3546/9780593798638"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 16,
+      "weeks_on_list": 17,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 20,
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
@@ -177,62 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316569836?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "James Patterson and James O. Born",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316569835.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d157b140-d344-5c62-be5f-a6922de006d0",
-      "contributor": "by James Patterson and James O. Born",
-      "contributor_note": "",
-      "created_date": "2026-08-26T17:40:55.612Z",
-      "dagger": 0,
-      "description": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316569835",
-      "publisher": "Little, Brown",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DELUSIONAL",
-      "updated_date": "2026-08-26T17:40:55.612Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316569835"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316569836?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316569835?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316569835&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdelusional-james-patterson%2F1147516419%3Fean%3D9780316569835&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDelusional%2FJames-Patterson%2F9780316569835"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316569835"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063511630?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +233,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250763185?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jennifer Hillier",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250763181.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/08/24/books/review/heart-of-glass-jennifer-hillier.html",
+      "book_uri": "nyt://book/04a4a019-c5ca-53d0-8228-cbd0a96fdb86",
+      "contributor": "by Jennifer Hillier",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:17.377Z",
+      "dagger": 0,
+      "description": "When a man known as the Carnival Killer takes back his confession, two women who lost their friend 25 years ago must confront their past.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250763181",
+      "publisher": "Minotaur",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HEART OF GLASS",
+      "updated_date": "2026-09-02T18:40:17.377Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250763181"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250763185?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250763181?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250763181&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheart-of-glass-jennifer-hillier%2F1148044534%3Fean%3D9781250763181&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeart-Glass%2FJennifer-Hillier%2F9781250763181"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250763181"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316569836?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Patterson and James O. Born",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316569835.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d157b140-d344-5c62-be5f-a6922de006d0",
+      "contributor": "by James Patterson and James O. Born",
+      "contributor_note": "",
+      "created_date": "2026-08-26T17:40:55.612Z",
+      "dagger": 0,
+      "description": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316569835",
+      "publisher": "Little, Brown",
+      "rank": 6,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "DELUSIONAL",
+      "updated_date": "2026-08-26T17:40:55.612Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316569835"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316569836?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316569835?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316569835&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdelusional-james-patterson%2F1147516419%3Fean%3D9780316569835&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDelusional%2FJames-Patterson%2F9780316569835"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316569835"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820282?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820285",
       "publisher": "Ace",
-      "rank": 6,
-      "rank_last_week": 9,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
       "updated_date": "2026-07-08T17:19:36.545Z",
-      "weeks_on_list": 25,
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +401,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668231867?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "William Kent Krueger",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668231869.jpg",
+      "author": "Sheila Masterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638935971.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/8c407e63-2456-54c3-a791-916aa4ee8b6f",
-      "contributor": "by William Kent Krueger",
+      "book_uri": "nyt://book/deecd46f-5c3d-56a4-9cee-9254c33ccc2f",
+      "contributor": "by Sheila Masterson",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:55.75Z",
+      "created_date": "2026-08-26T17:40:58.393Z",
       "dagger": 0,
-      "description": "The 22nd book in the Cork O'Connor mystery series. Cork prepares for a family trip but encounters violence and danger instead.",
+      "description": "A woman with a deadly kiss who moonlights as a vigilante going after abusive men comes under threat by her betrothed.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668231869",
-      "publisher": "Atria",
-      "rank": 7,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781638935971",
+      "publisher": "Slowburn",
+      "rank": 8,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "GOD'S COUNTRY",
-      "updated_date": "2026-08-26T17:40:55.75Z",
-      "weeks_on_list": 1,
+      "title": "THE POISON DAUGHTER",
+      "updated_date": "2026-08-26T17:40:58.393Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668231869"
+          "isbn13": "9781638935971"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668231867?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1638935971?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668231869?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781638935971?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668231869&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgods-country-william-kent-krueger%2F1148560296%3Fean%3D9781668231869&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638935971&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poison-daughter-sheila-masterson%2F1148368495%3Fean%3D9781638935971&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGods-Country%2FWilliam-Kent-Krueger%2F9781668231869"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoison-Daughter%2FSheila-Masterson%2F9781638935971"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668231869"
+          "url": "https://bookshop.org/a/3546/9781638935971"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250400082?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "T. Kingfisher",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250400086.jpg",
+      "book_image_height": 500,
+      "book_image_width": 335,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c3cf5d45-a9ea-54c7-b7d5-c94a06491d4d",
+      "contributor": "by T. Kingfisher",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:17.511Z",
+      "dagger": 0,
+      "description": "The second book in the Swordheart series. A complicated relationship develops between a disillusioned scholar and an immortal warrior.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250400086",
+      "publisher": "Bramble",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DAGGERBOUND",
+      "updated_date": "2026-09-02T18:40:17.511Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250400086"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250400082?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250400086?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250400086&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdaggerbound-t-kingfisher%2F1148028690%3Fean%3D9781250400086&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDaggerbound%2FT-Kingfisher%2F9781250400086"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250400086"
         }
       ]
     },
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798430",
       "publisher": "Crown",
-      "rank": 8,
+      "rank": 10,
       "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE CORRESPONDENT",
       "updated_date": "2026-04-29T21:22:33.974Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -457,286 +569,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/253e5724-9547-5551-b50d-97d71cbcfa45",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T16:41:58.139Z",
-      "dagger": 0,
-      "description": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593955970",
-      "publisher": "Ace",
-      "rank": 9,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "THE GATE OF THE FERAL GODS",
-      "updated_date": "2026-07-01T16:41:58.139Z",
-      "weeks_on_list": 16,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593955970"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593955970?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gate-of-the-feral-gods-matt-dinniman%2F1146460801%3Fean%3D9780593955970&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGATE%2BOF%2BTHE%2BFERAL%2BGODS%2FMatt%2BDinniman%2F9780593955970"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593955970"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820247.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b684926b-80a9-5829-9c38-876d4d3382b7",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:30.288Z",
-      "dagger": 0,
-      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593820247",
-      "publisher": "Ace",
-      "rank": 10,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "DUNGEON CRAWLER CARL",
-      "updated_date": "2026-05-20T18:34:30.288Z",
-      "weeks_on_list": 22,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593820247"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820247?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820247&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820247"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820247"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Riley Sager",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
-      "book_uri": "nyt://book/8a8a2ced-eec1-5a23-94a0-677ca0634301",
-      "contributor": "by Riley Sager",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.51Z",
-      "dagger": 0,
-      "description": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217044092",
-      "publisher": "Dutton",
-      "rank": 11,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE UNKNOWN",
-      "updated_date": "2026-08-12T18:23:45.51Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217044092"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217044092?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217044092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unknown-riley-sager%2F1148682858%3Fean%3D9798217044092&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnknown%2FRiley-Sager%2F9798217044092"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217044092"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sally Hepworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284549.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5f243b1b-9205-5936-bccb-e00e106cc594",
-      "contributor": "by Sally Hepworth",
-      "contributor_note": "",
-      "created_date": "2026-04-29T16:56:33.551Z",
-      "dagger": 0,
-      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250284549",
-      "publisher": "St. Martin's",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MAD MABEL",
-      "updated_date": "2026-04-29T16:56:33.551Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250284549"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250284549?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284549&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250284549"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955994.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ed5d8c7e-78fc-53ed-a79c-a374413b2e20",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T16:02:38.9Z",
-      "dagger": 0,
-      "description": "The fifth book in the \"Dungeon Crawler Carl\" series. The action moves to the sixth floor, which is known as the Hunting Grounds.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593955994",
-      "publisher": "Ace",
-      "rank": 13,
-      "rank_last_week": 13,
-      "sunday_review_link": "",
-      "title": "THE BUTCHER'S MASQUERADE",
-      "updated_date": "2026-07-01T16:02:38.9Z",
-      "weeks_on_list": 9,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593955994"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593955994?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593955994?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955994&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-butchers-masquerade-matt-dinniman%2F1146460803%3Fean%3D9780593955994&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBUTCHER%2527S%2BMASQUERADE%2FMatt%2BDinniman%2F9780593955994"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593955994"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668236567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -756,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668236567",
       "publisher": "Atria",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 11,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-08-26T17:40:55.901Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +625,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820266?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820261.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820247.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/e84133b7-b087-54fe-aa42-0605dff68e6f",
+      "book_uri": "nyt://book/b684926b-80a9-5829-9c38-876d4d3382b7",
       "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-07-01T15:37:32.806Z",
+      "created_date": "2026-05-20T18:34:30.288Z",
       "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593820261",
+      "primary_isbn13": "9780593820247",
       "publisher": "Ace",
-      "rank": 15,
-      "rank_last_week": 14,
+      "rank": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-07-01T15:37:32.806Z",
-      "weeks_on_list": 32,
+      "title": "DUNGEON CRAWLER CARL",
+      "updated_date": "2026-05-20T18:34:30.288Z",
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593820261"
+          "isbn13": "9780593820247"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820266?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/059382024X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820261?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820247?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820261&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820247&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820261"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820247"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820261"
+          "url": "https://bookshop.org/a/3546/9780593820247"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/253e5724-9547-5551-b50d-97d71cbcfa45",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T16:41:58.139Z",
+      "dagger": 0,
+      "description": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593955970",
+      "publisher": "Ace",
+      "rank": 13,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE GATE OF THE FERAL GODS",
+      "updated_date": "2026-07-01T16:41:58.139Z",
+      "weeks_on_list": 17,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593955970"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593955970?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gate-of-the-feral-gods-matt-dinniman%2F1146460801%3Fean%3D9780593955970&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGATE%2BOF%2BTHE%2BFERAL%2BGODS%2FMatt%2BDinniman%2F9780593955970"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593955970"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sally Hepworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284549.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5f243b1b-9205-5936-bccb-e00e106cc594",
+      "contributor": "by Sally Hepworth",
+      "contributor_note": "",
+      "created_date": "2026-04-29T16:56:33.551Z",
+      "dagger": 0,
+      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250284549",
+      "publisher": "St. Martin's",
+      "rank": 14,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "MAD MABEL",
+      "updated_date": "2026-04-29T16:56:33.551Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250284549"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250284549?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284549&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250284549"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Riley Sager",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
+      "book_uri": "nyt://book/8a8a2ced-eec1-5a23-94a0-677ca0634301",
+      "contributor": "by Riley Sager",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:45.51Z",
+      "dagger": 0,
+      "description": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217044092",
+      "publisher": "Dutton",
+      "rank": 15,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "THE UNKNOWN",
+      "updated_date": "2026-08-12T18:23:45.51Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217044092"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FZSB66TM?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217044092?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217044092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unknown-riley-sager%2F1148682858%3Fean%3D9798217044092&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnknown%2FRiley-Sager%2F9798217044092"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217044092"
         }
       ]
     }

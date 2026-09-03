@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/31234964-9d1a-5735-8cf6-0d21e28cef31",
+  "uri": "nyt://bestsellerslist/8f91c1aa-64d7-5adc-adfb-fe7b46197357",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781640366008",
       "publisher": "Mattel",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "BARBIE: DREAMSCAPE",
       "updated_date": "2026-08-26T17:40:57.362Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9798217236237",
       "publisher": "Random House/Disney",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-08-13T14:35:04.184Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -120,114 +120,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
+      "age_group": "Ages 14 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FSJZ6PBV?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Margaret Owen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217445875.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3b74a29f-11dc-53f1-8dd7-c015f8756878",
-      "contributor": "by Margaret Owen",
-      "contributor_note": "",
-      "created_date": "2026-08-06T17:16:28.565Z",
-      "dagger": 0,
-      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217445875",
-      "publisher": "Random House/Disney",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "ROOTBOUND",
-      "updated_date": "2026-08-06T17:16:28.565Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217445875"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217445875&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9798217445875&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368101042"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "I.V. Marie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
+      "author": "Page Powars",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250347831.jpg",
       "book_image_height": 500,
-      "book_image_width": 317,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
-      "contributor": "by I.V. Marie",
+      "book_uri": "nyt://book/429d7985-1ff9-5971-98eb-cb2bcdbd1110",
+      "contributor": "by Page Powars",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.634Z",
+      "created_date": "2026-09-02T18:40:12.695Z",
       "dagger": 0,
-      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
+      "description": "Two academic rivals go head to head at BRAIN, one of the most cutthroat academic camps in the country. (Ages 14 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593898840",
-      "publisher": "Delacorte",
-      "rank": 4,
-      "rank_last_week": 4,
+      "primary_isbn13": "9781250347831",
+      "publisher": "Roaring Brook",
+      "rank": 3,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "RUINOUS ENDS",
-      "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 6,
+      "title": "BUT I HATE HIM",
+      "updated_date": "2026-09-02T18:40:12.695Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593898840"
+          "isbn13": "9781250347831"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FSJZ6PBV?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250347831?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250347831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbut-i-hate-him-page-powars%2F1148609076%3Fean%3D9781250347831&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBut-Hate-Him%2FPage-Powars%2F9781250347831"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593898840"
+          "url": "https://bookshop.org/a/3546/9781250347831"
         }
       ]
     },
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217026500",
       "publisher": "Delacorte",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THORNBIRD",
       "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +233,118 @@
     },
     {
       "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "I.V. Marie",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
+      "contributor": "by I.V. Marie",
+      "contributor_note": "",
+      "created_date": "2026-07-22T17:04:40.634Z",
+      "dagger": 0,
+      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593898840",
+      "publisher": "Delacorte",
+      "rank": 5,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "RUINOUS ENDS",
+      "updated_date": "2026-07-22T17:04:40.634Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593898840"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593898840"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Margaret Owen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368101042.jpg",
+      "book_image_height": 500,
+      "book_image_width": 343,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c13ab041-341c-5b33-b5e6-e3820b9ff2d6",
+      "contributor": "by Margaret Owen",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:12.825Z",
+      "dagger": 0,
+      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368101042",
+      "publisher": "Random House/Disney",
+      "rank": 6,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "ROOTBOUND",
+      "updated_date": "2026-09-02T18:40:12.825Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368101042"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368101042&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9781368101042&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368101042"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665921268",
       "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 3,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 47,
+      "weeks_on_list": 48,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464254529",
       "publisher": "Sourcebooks Fire",
-      "rank": 7,
-      "rank_last_week": 9,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -400,170 +456,114 @@
       ]
     },
     {
-      "age_group": "Ages 16 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816680?tag=thenewyorktim-20",
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Nisha J. Tuli",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816684.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/840b8677-dfd5-5224-9550-73738b888f26",
-      "contributor": "by Nisha J. Tuli",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:38:48.637Z",
-      "dagger": 0,
-      "description": "In a dystopia, Poet Graves enters Amery Academy and is drawn to an outsider who may threaten her life as she knows it. (Ages 16 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682816684",
-      "publisher": "Mayhem",
-      "rank": 8,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "STORM BREAKER",
-      "updated_date": "2026-05-20T22:38:48.637Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781682816684"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816680?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649379931?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816684&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstorm-breaker-nisha-j-tuli%2F1148028392%3Fean%3D9781682816684&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStorm-Breaker%2FNisha-J-Tuli%2F9781682816684"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816684"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 13 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0063481154?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sasha Peyton Smith",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063481152.jpg",
+      "author": "Tahereh Mafi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/bddfafbd-d26a-59a1-8aa2-8bf3a5368111",
-      "contributor": "by Sasha Peyton Smith",
+      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
+      "contributor": "by Tahereh Mafi",
       "contributor_note": "",
-      "created_date": "2026-04-29T16:56:31.514Z",
+      "created_date": "2026-04-22T17:21:11.073Z",
       "dagger": 0,
-      "description": "Ivy Benton, now the queen of England, schemes to dethrone her husband, save her sister and reunite with her true love, Emmett. (Ages 13 and up)",
+      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063481152",
-      "publisher": "HarperCollins",
+      "primary_isbn13": "9780063419056",
+      "publisher": "Storytide",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE THORN QUEEN",
-      "updated_date": "2026-04-29T16:56:31.514Z",
-      "weeks_on_list": 8,
+      "title": "RELEASE ME",
+      "updated_date": "2026-04-22T17:21:11.073Z",
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063481152"
+          "isbn13": "9780063419056"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063481154?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063481152?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063481152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-thorn-queen-deluxe-limited-edition-sasha-peyton-smith%2F1148115845%3Fean%3D9780063481152&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThorn-Queen-Deluxe-Limited%2FSasha-Peyton-Smith%2F9780063481152"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063481152"
+          "url": "https://bookshop.org/a/3546/9780063419056"
         }
       ]
     },
     {
-      "age_group": "Ages 16 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20",
+      "age_group": "Ages 14 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Shannon J. Spann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379511.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
+      "author": "Rachel Griffin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728256184.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
       "book_review_link": "",
-      "book_uri": "nyt://book/7e59dacc-d24e-5f4f-90bd-8a193ae3c1ea",
-      "contributor": "by Shannon J. Spann",
+      "book_uri": "nyt://book/4474e589-c79f-5393-a34d-fd893b1aa82d",
+      "contributor": "by Rachel Griffin",
       "contributor_note": "",
-      "created_date": "2026-02-24T22:20:24.062Z",
+      "created_date": "2026-02-25T23:37:57.803Z",
       "dagger": 0,
-      "description": "Riven Hesper makes a deal with a “Player,” an immortal being, to save her own life. (Ages 16 and up)",
+      "description": "The Starmaker senses a powerful magic within Aurora Finch and requests that she come study under his tutelage. (Ages 14 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781649379511",
-      "publisher": "Mayhem",
+      "primary_isbn13": "9781728256184",
+      "publisher": "Sourcebooks Fire",
       "rank": 10,
-      "rank_last_week": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "A STAGE SET FOR VILLAINS",
-      "updated_date": "2026-02-24T22:20:24.062Z",
-      "weeks_on_list": 15,
+      "title": "THE SUN AND THE STARMAKER",
+      "updated_date": "2026-02-25T23:37:57.803Z",
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781649379511"
+          "isbn13": "9781728256184"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/164937951X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649379511?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781728256184?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379511&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-stage-set-for-villains-shannon-j-spann%2F1146913344%3Fean%3D9781649379511&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728256184&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-sun-and-the-starmaker-rachel-griffin%2F1147295429%3Fean%3D9781728256184&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStage-Set-Villains%2FShannon-J-Spann%2F9781649379511"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSun-Starmaker%2FRachel-Griffin%2F9781728256184"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649379511"
+          "url": "https://bookshop.org/a/3546/9781728256184"
         }
       ]
     }

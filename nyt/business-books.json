@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 532,
-  "uri": "nyt://bestsellerslist/93707d32-461e-5e4c-a409-d35008d463fa",
+  "uri": "nyt://bestsellerslist/d2680dab-fbd9-589b-b7f2-2f3b11b337da",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 20,
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dave Portnoy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668222027.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/24531f20-b0b0-5138-af5f-4bfe8e210a70",
-      "contributor": "by Dave Portnoy",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:40.299Z",
-      "dagger": 0,
-      "description": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668222027",
-      "publisher": "Gallery",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CANCEL ME IF YOU CAN",
-      "updated_date": "2026-07-08T17:19:40.299Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668222027"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668222027?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668222027?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668222027&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcancel-me-if-you-can-dave-portnoy%2F1148560265%3Fean%3D9781668222027&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCancel-If-Can-Autographed%2FDave-Portnoy%2F9781668250754"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668222027"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 94,
+      "weeks_on_list": 95,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-08-12T19:01:59.045Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -233,113 +177,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Teri Ijeoma",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781637634653.jpg",
+      "author": "Gil Durán",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668221402.jpg",
       "book_image_height": 500,
-      "book_image_width": 332,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/eddd1d33-3186-5a9e-bca5-e6f34b151fb2",
-      "contributor": "by Teri Ijeoma",
+      "book_uri": "nyt://book/ee761f8e-7548-5534-a13f-a9f7c8fe325c",
+      "contributor": "by Gil Durán",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:41.381Z",
-      "dagger": 1,
-      "description": "",
+      "created_date": "2026-08-26T17:40:58.952Z",
+      "dagger": 0,
+      "description": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781637634653",
-      "publisher": "Frederick Douglass",
-      "rank": 5,
+      "primary_isbn13": "9781668221402",
+      "publisher": "Avid Reader",
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE RISK WORTH TAKING",
-      "updated_date": "2026-07-22T17:04:41.381Z",
+      "title": "THE NERD REICH",
+      "updated_date": "2026-08-26T17:40:58.952Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781637634653"
+          "isbn13": "9781668221402"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/163763465X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781637634653?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668221402?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781637634653&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-risk-worth-taking-teri-ijeoma%2F1147934824%3Fean%3D9781637634653&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668221402&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-nerd-reich-gil-duran%2F1148803930%3Fean%3D9781668221402&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRisk-Worth-Taking%2FTeri-Ijeoma%2F9781637634653"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNerd-Reich%2FGil-Durn%2F9781668221402"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781637634653"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Rubin with Neil Strauss",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593652886.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/da28ca16-1ebd-55aa-aba3-fde278604a82",
-      "contributor": "by Rick Rubin with Neil Strauss",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:20.231Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593652886",
-      "publisher": "Penguin Press",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE CREATIVE ACT",
-      "updated_date": "2026-03-04T23:40:20.231Z",
-      "weeks_on_list": 38,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593652886"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593652886?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593652886&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-creative-act-rick-rubin%2F1141404747%3Fean%3D9780593652886&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCREATIVE%2BACT%2FRick%2BRubin%2Bwith%2BNeil%2BStrauss%2F9780593652886"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593652886"
+          "url": "https://bookshop.org/a/3546/9781668221402"
         }
       ]
     },
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250183866",
       "publisher": "St. Martin's",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "EXTREME OWNERSHIP",
       "updated_date": "2026-08-05T17:56:59.266Z",
-      "weeks_on_list": 79,
+      "weeks_on_list": 80,
       "isbns": [
         {
           "isbn10": "",
@@ -401,6 +289,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Rubin with Neil Strauss",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593652886.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/da28ca16-1ebd-55aa-aba3-fde278604a82",
+      "contributor": "by Rick Rubin with Neil Strauss",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:20.231Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593652886",
+      "publisher": "Penguin Press",
+      "rank": 6,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE CREATIVE ACT",
+      "updated_date": "2026-03-04T23:40:20.231Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593652886"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593652886?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593652886?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593652886&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-creative-act-rick-rubin%2F1141404747%3Fean%3D9780593652886&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCREATIVE%2BACT%2FRick%2BRubin%2Bwith%2BNeil%2BStrauss%2F9780593652886"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593652886"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0358567092?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Bill Perkins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780358567097.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/67515a63-29b7-5bb8-8476-c86cd25b48ae",
+      "contributor": "by Bill Perkins",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:16.985Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780358567097",
+      "publisher": "Mariner",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DIE WITH ZERO",
+      "updated_date": "2026-09-02T18:40:16.985Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780358567097"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0358567092?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780358567097?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780358567097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdie-with-zero-bill-perkins%2F1132050958%3Fean%3D9780358567097&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDie-Zero%2FBill-Perkins%2F9780358567097"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780358567097"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -421,11 +421,11 @@
       "primary_isbn13": "9780062407801",
       "publisher": "Harper Business",
       "rank": 8,
-      "rank_last_week": 0,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "NEVER SPLIT THE DIFFERENCE",
       "updated_date": "2026-03-04T23:40:20.383Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -457,6 +457,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "JL Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310474.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9cb07452-70f0-5f31-92a6-938e3af01632",
+      "contributor": "by JL Collins",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:22:00.748Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798893310474",
+      "publisher": "Authors Equity",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SIMPLE PATH TO WEALTH",
+      "updated_date": "2026-06-03T18:22:00.748Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798893310474"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798893310474?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310474&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-simple-path-to-wealth-j-l-collins%2F1123947856%3Fean%3D9798893310474&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSIMPLE%2BPATH%2BTO%2BWEALTH%2FJL%2BCollins%2F9798893310474"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798893310474"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -468,20 +524,20 @@
       "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9",
       "contributor": "by Daniel Kahneman",
       "contributor_note": "",
-      "created_date": "2026-08-19T23:57:42.299Z",
+      "created_date": "2026-09-02T18:40:17.118Z",
       "dagger": 0,
-      "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
+      "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9780374533557",
       "publisher": "Farrar, Straus & Giroux",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THINKING, FAST AND SLOW",
-      "updated_date": "2026-08-19T23:57:42.299Z",
-      "weeks_on_list": 104,
+      "updated_date": "2026-09-02T18:40:17.118Z",
+      "weeks_on_list": 105,
       "isbns": [
         {
           "isbn10": "",
@@ -508,62 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780374533557"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sarah Wynn-Williams",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250391230.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c18484b-2dcb-57fc-800a-8d457e7b848c",
-      "contributor": "by Sarah Wynn-Williams",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:58:29.596Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250391230",
-      "publisher": "Flatiron",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CARELESS PEOPLE",
-      "updated_date": "2026-08-05T17:58:29.596Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250391230"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250391237?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250391230?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250391230&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcareless-people-sarah-wynn-williams%2F1147093187%3Fean%3D9781250391230&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/Careless-People/Sarah-Wynn-Williams/9781250391278"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250391230"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 719,
-  "uri": "nyt://bestsellerslist/416cf015-f7e7-5c75-bebc-ddbe71befafd",
+  "uri": "nyt://bestsellerslist/d4c44a9b-9c64-5d18-8473-0184cbc62166",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9780063450882",
       "publisher": "HarperAlley",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WARRIORS: THE NEW PROPHECY",
       "updated_date": "2026-08-05T17:45:09.124Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1546102442?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Oseman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546102441.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/31a390b9-eac0-58b9-a969-252131a5151c",
-      "contributor": "by Alice Oseman",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:09.29Z",
-      "dagger": 0,
-      "description": "Nick and Charlie’s relationship might encounter difficulties as they focus on things outside of it.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546102441",
-      "publisher": "Scholastic",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HEARTSTOPPER, VOL. 6",
-      "updated_date": "2026-08-05T17:45:09.29Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781546102441"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546102442?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546102441?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546102441&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheartstopper-volume-6-alice-oseman%2F1148360297%3Fean%3D9781546102441&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeartstopper%2FAlice-Oseman%2F9781546102441"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546102441"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1638493650?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781638493655",
       "publisher": "Vault Comics",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL, VOL. 1",
       "updated_date": "2026-06-03T19:58:25.757Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1546102442?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Oseman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546102441.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/31a390b9-eac0-58b9-a969-252131a5151c",
+      "contributor": "by Alice Oseman",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:09.29Z",
+      "dagger": 0,
+      "description": "Nick and Charlie’s relationship might encounter difficulties as they focus on things outside of it.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546102441",
+      "publisher": "Scholastic",
+      "rank": 3,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "HEARTSTOPPER, VOL. 6",
+      "updated_date": "2026-08-05T17:45:09.29Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546102441"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546102442?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546102441?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546102441&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheartstopper-volume-6-alice-oseman%2F1148360297%3Fean%3D9781546102441&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeartstopper%2FAlice-Oseman%2F9781546102441"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546102441"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1546135545?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781546135548",
       "publisher": "Scholastic",
       "rank": 4,
-      "rank_last_week": 0,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "DAWN ON THE COAST",
       "updated_date": "2026-05-06T17:49:23.635Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Cassandra Calin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b63cdd60-0b27-58bf-a48e-ee3f8c891f17",
-      "contributor": "by Cassandra Calin",
-      "contributor_note": "",
-      "created_date": "2026-07-01T23:35:55.134Z",
-      "dagger": 0,
-      "description": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781338762488",
-      "publisher": "Scholastic",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "FIRST CRUSH",
-      "updated_date": "2026-07-01T23:35:55.134Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781338762488"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338762488?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338762488&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-new-girl-cassandra-calin%2F1147905631%3Fean%3D9781338762488&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9781338762488"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338762488"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063203871?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063203877",
       "publisher": "HarperAlley",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WARRIORS: THE PROPHECIES BEGIN",
       "updated_date": "2026-04-01T21:00:21.161Z",
-      "weeks_on_list": 23,
+      "weeks_on_list": 24,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cassandra Calin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b63cdd60-0b27-58bf-a48e-ee3f8c891f17",
+      "contributor": "by Cassandra Calin",
+      "contributor_note": "",
+      "created_date": "2026-07-01T23:35:55.134Z",
+      "dagger": 0,
+      "description": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338762488",
+      "publisher": "Scholastic",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "FIRST CRUSH",
+      "updated_date": "2026-07-01T23:35:55.134Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338762488"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338762486?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338762488?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338762488&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-new-girl-cassandra-calin%2F1147905631%3Fean%3D9781338762488&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/9781338762488"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338762488"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1974710025?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -365,11 +365,11 @@
       "primary_isbn13": "9781974710027",
       "publisher": "VIZ Media",
       "rank": 7,
-      "rank_last_week": 0,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "JUJUTSU KAISEN, VOL. 1",
       "updated_date": "2026-04-01T20:59:28.957Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -401,118 +401,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250861748?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Clint McElroy et al",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250861740.jpg",
-      "book_image_height": 500,
-      "book_image_width": 341,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bf93e42e-7d44-53ef-b74d-8fd9ecb55cdd",
-      "contributor": "by Clint McElroy et al. Illustrated by Carey Pietsch",
-      "contributor_note": "Illustrated by Carey Pietsch",
-      "created_date": "2026-08-05T17:45:09.43Z",
-      "dagger": 0,
-      "description": "The seventh installment of the series that is based on the podcast from the McElroy family. Just as Taako, Magnus and Merle find out lost truths about themselves, fearsome forces may cause serious trouble.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250861740",
-      "publisher": "23rd St.",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE ADVENTURE ZONE: STORY AND SONG",
-      "updated_date": "2026-08-05T17:45:09.43Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250861740"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250861748?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250861740?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250861740&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstory-and-song-griffin-mcelroy%2F1148554858%3Fean%3D9781250861740&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdventure-Zone-Story-Song%2FClint-McElroy%2F9781250861740"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250861740"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gege Akutami",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781974763405.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/225ea04f-daa3-50c3-9d7f-83066415c69d",
-      "contributor": "by Gege Akutami",
-      "contributor_note": "",
-      "created_date": "2026-06-03T20:00:35.622Z",
-      "dagger": 0,
-      "description": "In the final volume of this series, will Itadori end the battle with Sukuna once and for all?",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781974763405",
-      "publisher": "VIZ Media",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "JUJUTSU KAISEN, VOL. 30",
-      "updated_date": "2026-06-03T20:00:35.622Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781974763405"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1974763404?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781974763405?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974763405&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjujutsu-kaisen-vol-30-gege-akutami%2F1148560990%3Fean%3D9781974763405&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9781974763405"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781974763405"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1546176187?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546176183",
       "publisher": "Scholastic",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "BIG JIM BELIEVES",
       "updated_date": "2026-04-01T20:42:55.302Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -569,169 +457,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1974716503?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Patrick Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250357915.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a2a94ae6-d17c-5ac8-a706-2a5ff946d74a",
-      "contributor": "by John Patrick Green",
-      "contributor_note": "",
-      "created_date": "2026-07-02T19:09:04.888Z",
-      "dagger": 0,
-      "description": "Mango and Brash, along with some feline agents, look into what is causing the rain to turn green and the city’s water supply to become milk.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250357915",
-      "publisher": "First Second",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "INVESTIGATORS: WEATHER OR NOT",
-      "updated_date": "2026-07-02T19:09:04.888Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250357915"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250357915?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250357915&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finvestigators-john-patrick-green%2F1147747503%3Fean%3D9781250357915&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInvestigators%2FJohn-Patrick-Green%2F9781250357915"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250357915"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1546137750?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lauren Tarshis",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546137757.jpg",
+      "author": "Takeru Hokazono",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781974716500.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/996b1237-5bf5-5283-9f96-a53a5565cffe",
-      "contributor": "by Lauren Tarshis. Illustrated by Peter Wartman",
-      "contributor_note": "Illustrated by Peter Wartman",
-      "created_date": "2026-08-05T17:45:09.532Z",
+      "book_uri": "nyt://book/cfce5f68-fa33-5368-924d-cc52d9aaf0ef",
+      "contributor": "by Takeru Hokazono",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:18.611Z",
       "dagger": 0,
-      "description": "A couple of months after moving to Hawaii from New York City, Danny Crane attempts to stow away on a ship, only to be interrupted by bullets and bombs coming from the sky; adapted into a graphic novel by Georgia Ball.",
+      "description": "When the Kyoto Bloodshed Hotel turns into a ghastly scene, Iori’s decision to recapture difficult memories or live in bliss is no longer in her hands.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781546137757",
-      "publisher": "Scholastic",
-      "rank": 12,
+      "primary_isbn13": "9781974716500",
+      "publisher": "VIZ Media",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "I SURVIVED THE BOMBING OF PEARL HARBOR, 1941",
-      "updated_date": "2026-08-05T17:45:09.532Z",
+      "title": "KAGURABACHI, VOL. 8",
+      "updated_date": "2026-09-02T18:40:18.611Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781546137757"
+          "isbn13": "9781974716500"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546137750?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1974716503?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546137757?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781974716500?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546137757&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-survived-the-bombing-of-pearl-harbor-1941-lauren-tarshis%2F1100751828%3Fean%3D9781546137757&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781974716500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkagurabachi-vol-8-takeru-hokazono%2F1148560873%3Fean%3D9781974716500&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSurvived-Bombing-Pearl-Harbor-Graphic%2FLauren-Tarshis%2F9781546137757"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKagurabachi%2FTakeru-Hokazono%2F9781974716500"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546137757"
+          "url": "https://bookshop.org/a/3546/9781974716500"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/Persepolis-Childhood-Pantheon-Graphic-Novels/dp/037571457X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Mokumokuren",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781975360542.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Marjane Satrapi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375714573.jpg",
+      "book_image_height": 475,
+      "book_image_width": 321,
       "book_review_link": "",
-      "book_uri": "nyt://book/6590733a-915c-5423-ab71-d6ee00c6bd25",
-      "contributor": "by Mokumokuren",
+      "book_uri": "nyt://book/044e0eec-801d-53c4-a027-fa98946920e4",
+      "contributor": "by Marjane Satrapi",
       "contributor_note": "",
-      "created_date": "2026-07-02T19:22:51.56Z",
+      "created_date": "2026-09-02T18:40:18.748Z",
       "dagger": 0,
-      "description": "Yoshiki suspects that the person that came down from the mountains is not really his friend, Hikaru; translated by Ajani Oloye.",
+      "description": "A memoir of the late author’s life from ages 6 to 14 in Iran, during and after its 1979 revolution, depicted through black-and-white comic strip images.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781975360542",
-      "publisher": "Yen Press",
-      "rank": 13,
+      "primary_isbn13": "9780375714573",
+      "publisher": "Pantheon",
+      "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SUMMER HIKARU DIED, VOL. 1",
-      "updated_date": "2026-07-02T19:22:51.56Z",
-      "weeks_on_list": 3,
+      "title": "PERSEPOLIS",
+      "updated_date": "2026-09-02T18:40:18.748Z",
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781975360542"
+          "isbn13": "9780375714573"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/Persepolis-Childhood-Pantheon-Graphic-Novels/dp/037571457X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781975360542?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780375714573?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781975360542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-summer-hikaru-died-vol-1-mokumokuren%2F1142973723%3Fean%3D9781975360542&intsrc=APIG_15890"
+          "url": "https://www.barnesandnoble.com/w/?ean=9780375714573"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSummer-Hikaru-Died%2FMokumokuren%2F9781975360542"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPERSEPOLIS%2FMarjane%2BSatrapi%2F9780375714573"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781975360542"
+          "url": "https://bookshop.org/a/3546/9780375714573"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1338687867?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dav Pilkey",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338687866.jpg",
+      "book_image_height": 500,
+      "book_image_width": 338,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1f0da5b6-5ed7-5bab-8dd3-9d7bf17f001e",
+      "contributor": "by Dav Pilkey",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:18.882Z",
+      "dagger": 0,
+      "description": "The second book in the Super Diaper Baby series. After having a mishap with his evil technology, Dr. Dinkle sets his sights on destroying every toilet in town.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338687866",
+      "publisher": "Scholastic",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE INVASION OF THE POTTY SNATCHERS",
+      "updated_date": "2026-09-02T18:40:18.882Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338687866"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338687867?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338687866?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338687866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsuper-diaper-baby-dav-pilkey%2F1149462703%3Fean%3D9781338687866&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSuper-Diaper-Baby%2FDav-Pilkey%2F9781338687866"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338687866"
         }
       ]
     },
@@ -756,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063203907",
       "publisher": "HarperAlley",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 12,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "WARRIORS: THE PROPHECIES BEGIN #2",
       "updated_date": "2026-08-05T17:45:09.671Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063288095?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Aphmau",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063288096.jpg",
-      "book_image_height": 500,
-      "book_image_width": 389,
+      "author": "John Patrick Green",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250357915.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/55056aae-dd3d-5be4-9a87-740404a7ecd2",
-      "contributor": "by Aphmau. Illustrated by Michela Cacciatore",
-      "contributor_note": "Illustrated by Michela Cacciatore",
-      "created_date": "2026-08-05T17:45:09.844Z",
+      "book_uri": "nyt://book/a2a94ae6-d17c-5ac8-a706-2a5ff946d74a",
+      "contributor": "by John Patrick Green",
+      "contributor_note": "",
+      "created_date": "2026-07-02T19:09:04.888Z",
       "dagger": 0,
-      "description": "When her birthday cake is sprinkled with magic, a girl who is new in town finds her wishes come to life.",
+      "description": "Mango and Brash, along with some feline agents, look into what is causing the rain to turn green and the city’s water supply to become milk.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063288096",
-      "publisher": "HarperPop",
-      "rank": 15,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781250357915",
+      "publisher": "First Second",
+      "rank": 13,
+      "rank_last_week": 11,
       "sunday_review_link": "",
-      "title": "APHMAU: SEARCHING FOR HOME",
-      "updated_date": "2026-08-05T17:45:09.844Z",
-      "weeks_on_list": 1,
+      "title": "INVESTIGATORS: WEATHER OR NOT",
+      "updated_date": "2026-07-02T19:09:04.888Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063288096"
+          "isbn13": "9781250357915"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063288095?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250357918?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063288096?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250357915?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063288096&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Faphmau-aphmau%2F1147262498%3Fean%3D9780063288096&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250357915&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finvestigators-john-patrick-green%2F1147747503%3Fean%3D9781250357915&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAphmau%2FAphmau%2F9780063288096"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInvestigators%2FJohn-Patrick-Green%2F9781250357915"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063288096"
+          "url": "https://bookshop.org/a/3546/9781250357915"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063203936?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erin Hunter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063203938.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c1774d6f-6de1-55ce-a978-5c50ca706efb",
+      "contributor": "by Erin Hunter. Illustrated by Natalie Riess and Sara Goetter",
+      "contributor_note": "Illustrated by Natalie Riess and Sara Goetter",
+      "created_date": "2026-04-01T21:05:44.938Z",
+      "dagger": 0,
+      "description": "A graphic novel adaptation of “A Dangerous Path” and “The Darkest Hour.”",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063203938",
+      "publisher": "HarperAlley",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WARRIORS: THE PROPHECIES BEGIN #3",
+      "updated_date": "2026-04-01T21:05:44.938Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063203938"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063203936?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063203938?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063203938&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwarriors-graphic-novel-erin-hunter%2F1148634199%3Fean%3D9780063203938&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWarriors-Graphic-Novel%2FErin-Hunter%2F9780063203938"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063203938"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mokumokuren",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781975360542.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6590733a-915c-5423-ab71-d6ee00c6bd25",
+      "contributor": "by Mokumokuren",
+      "contributor_note": "",
+      "created_date": "2026-07-02T19:22:51.56Z",
+      "dagger": 0,
+      "description": "Yoshiki suspects that the person that came down from the mountains is not really his friend, Hikaru; translated by Ajani Oloye.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781975360542",
+      "publisher": "Yen Press",
+      "rank": 15,
+      "rank_last_week": 13,
+      "sunday_review_link": "",
+      "title": "THE SUMMER HIKARU DIED, VOL. 1",
+      "updated_date": "2026-07-02T19:22:51.56Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781975360542"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1975360540?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781975360542?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781975360542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-summer-hikaru-died-vol-1-mokumokuren%2F1142973723%3Fean%3D9781975360542&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSummer-Hikaru-Died%2FMokumokuren%2F9781975360542"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781975360542"
         }
       ]
     }

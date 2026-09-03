@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/be14fce4-b654-5283-918a-d7e03e348cdf",
+  "uri": "nyt://bestsellerslist/6308fe7b-d248-5e27-a7c4-81f6639f83ca",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781464249617",
       "publisher": "Poisoned Pen",
       "rank": 2,
-      "rank_last_week": 0,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "BRAIN DAMAGE",
       "updated_date": "2026-08-26T17:57:32.649Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 34,
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
       "rank": 4,
-      "rank_last_week": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 61,
+      "weeks_on_list": 62,
       "isbns": [
         {
           "isbn10": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781250899552",
       "publisher": "Holt",
       "rank": 5,
-      "rank_last_week": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE WEDDING PEOPLE",
       "updated_date": "2026-08-05T17:45:08.16Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -289,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.637Z",
-      "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593820278",
-      "publisher": "Ace",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593820278"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820278"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 7,
+      "rank": 6,
       "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-08-19T17:19:39.845Z",
-      "weeks_on_list": 158,
+      "weeks_on_list": 159,
       "isbns": [
         {
           "isbn10": "",
@@ -401,113 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sarah J. Maas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
-      "contributor": "by Sarah J. Maas",
+      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-07-14T17:46:25.966Z",
+      "created_date": "2026-08-12T18:23:45.637Z",
       "dagger": 0,
-      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781635575569",
-      "publisher": "Bloomsbury",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "A COURT OF THORNS AND ROSES",
-      "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 84,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781635575569"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781635575569"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Hannah Nicole Maehrer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ea6f34ea-c4e2-5fb7-9653-1cdc1e63239f",
-      "contributor": "by Hannah Nicole Maehrer",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.376Z",
-      "dagger": 0,
-      "description": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682816721",
-      "publisher": "Red Tower",
-      "rank": 9,
+      "primary_isbn13": "9780593820278",
+      "publisher": "Ace",
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "ADVERSARY TO THE VILLAIN",
-      "updated_date": "2026-08-12T18:23:45.376Z",
-      "weeks_on_list": 3,
+      "title": "CARL'S DOOMSDAY SCENARIO",
+      "updated_date": "2026-08-12T18:23:45.637Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781682816721"
+          "isbn13": "9780593820278"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682816729?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682816721?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682816721&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fadversary-to-the-villain-hannah-nicole-maehrer%2F1148285004%3Fean%3D9781682816721&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAdversary-Villain%2FHannah-Nicole-Maehrer%2F9781682816721"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682816721"
+          "url": "https://bookshop.org/a/3546/9780593820278"
         }
       ]
     },
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 10,
+      "rank": 8,
       "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -569,6 +457,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
+      "contributor": "by Sarah J. Maas",
+      "contributor_note": "",
+      "created_date": "2026-07-14T17:46:25.966Z",
+      "dagger": 0,
+      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781635575569",
+      "publisher": "Bloomsbury",
+      "rank": 9,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "A COURT OF THORNS AND ROSES",
+      "updated_date": "2026-07-14T17:46:25.966Z",
+      "weeks_on_list": 85,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781635575569"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781635575569"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ali Hazelwood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
+      "contributor": "by Ali Hazelwood",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:14.157Z",
+      "dagger": 0,
+      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593336823",
+      "publisher": "Berkley",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LOVE HYPOTHESIS",
+      "updated_date": "2026-09-02T18:40:14.157Z",
+      "weeks_on_list": 42,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593336823"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593336823"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -589,11 +589,11 @@
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
       "rank": 11,
-      "rank_last_week": 9,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -645,11 +645,11 @@
       "primary_isbn13": "9781775293934",
       "publisher": "Bloom",
       "rank": 12,
-      "rank_last_week": 14,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE DEAL",
       "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -681,57 +681,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593685296?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Grisham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593685297.jpg",
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
       "book_image_height": 500,
-      "book_image_width": 325,
+      "book_image_width": 313,
       "book_review_link": "",
-      "book_uri": "nyt://book/88b688d3-a8d5-5af1-be56-c4cbd66ed2b9",
-      "contributor": "by John Grisham",
+      "book_uri": "nyt://book/e5e95429-6a83-5d7f-8138-1f5064986f40",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:44.675Z",
+      "created_date": "2026-09-02T18:40:14.3Z",
       "dagger": 0,
-      "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+      "description": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593685297",
-      "publisher": "Vintage",
+      "primary_isbn13": "9798256510381",
+      "publisher": "Poisoned Pen",
       "rank": 13,
-      "rank_last_week": 15,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE WIDOW",
-      "updated_date": "2026-08-12T18:23:44.675Z",
+      "title": "DEATH ROW",
+      "updated_date": "2026-09-02T18:40:14.3Z",
       "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593685297"
+          "isbn13": "9798256510381"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593685296?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593685297?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798256510381?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593685297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-widow-john-grisham%2F1147191431%3Fean%3D9780593685297&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510381&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdeath-row-freida-mcfadden%2F1150419560%3Fean%3D9798256510381&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWidow%2FJohn-Grisham%2F9780593685297"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeath-Row%2FFreida-McFadden%2F9798256510381"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593685297"
+          "url": "https://bookshop.org/a/3546/9798256510381"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alex Michaelides",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250301703.jpg",
+      "book_image_height": 495,
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b29e079d-2ac4-54bf-b6da-ca9daa59f616",
+      "contributor": "by Alex Michaelides",
+      "contributor_note": "",
+      "created_date": "2026-04-29T16:56:32.216Z",
+      "dagger": 0,
+      "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250301703",
+      "publisher": "Celadon",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SILENT PATIENT",
+      "updated_date": "2026-04-29T16:56:32.216Z",
+      "weeks_on_list": 155,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250301703"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250301703?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250301703&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-silent-patient-alex-michaelides%2F1128638857%3Fean%3D9781250301703&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSILENT%2BPATIENT%2FAlex%2BMichaelides%2F9781250301703"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250301703"
         }
       ]
     },
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781638932239",
       "publisher": "Slowburn",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "LIGHTS OUT",
       "updated_date": "2026-08-26T17:53:21.212Z",
-      "weeks_on_list": 64,
+      "weeks_on_list": 65,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/p/books/lights-out-an-into-darkness-novel-navessa-allen/2dfcb157f4216a8e?ean=9781638932239&next=t"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shelby Van Pelt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ce4e806c-f51e-588d-886f-95a3b2678e7c",
-      "contributor": "by Shelby Van Pelt",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:38:49.21Z",
-      "dagger": 0,
-      "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063204164",
-      "publisher": "Ecco",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "REMARKABLY BRIGHT CREATURES",
-      "updated_date": "2026-05-20T22:38:49.21Z",
-      "weeks_on_list": 47,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063204164"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063204169?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063204164?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063204164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fremarkably-bright-creatures-shelby-van-pelt%2F1139955287%3Fean%3D9780063204164&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRemarkably-Bright-Creatures%2FShelby-Van-Pelt%2F9780063204164"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063204164"
         }
       ]
     }

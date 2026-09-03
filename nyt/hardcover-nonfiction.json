@@ -5,8 +5,64 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/63ee7c64-3bb4-5de6-824d-41bfc77b77a9",
+  "uri": "nyt://bestsellerslist/234956cb-b746-5673-8522-ec9652ab4308",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ted Cruz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181193.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/40d3d16a-d4d4-585e-a2a6-5515666885c8",
+      "contributor": "by Ted Cruz",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:17.65Z",
+      "dagger": 0,
+      "description": "The Republican senator from Texas profiles the Supreme Court justice Clarence Thomas.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217181193",
+      "publisher": "Sentinel",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GOING FURTHER",
+      "updated_date": "2026-09-02T18:40:17.65Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217181193"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217181193?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181193&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgoing-further-ted-cruz%2F1149929705%3Fean%3D9798217181193&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoing-Further%2FTed-Cruz%2F9798217181193"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217181193"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668067246",
       "publisher": "Simon & Schuster",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +121,286 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1984863134?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dolly Parton with Tom Roland",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863133.jpg",
+      "book_image_height": 500,
+      "book_image_width": 374,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f643f24d-a97b-5516-9dcf-9c4c5ffe89d1",
+      "contributor": "by Dolly Parton with Tom Roland",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:18.057Z",
+      "dagger": 0,
+      "description": "Stories and photographs documenting the late country music icon’s career onstage.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781984863133",
+      "publisher": "Ten Speed",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "STAR OF THE SHOW",
+      "updated_date": "2026-09-02T18:40:18.057Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781984863133"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984863134?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984863133?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863133&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstar-of-the-show-dolly-parton%2F1147206404%3Fean%3D9781984863133&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStar-Show%2FDolly-Parton%2F9781984863133"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781984863133"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324098422?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jill Lepore",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324098423.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/08/19/books/review/the-rise-and-fall-of-the-artificial-state-jill-lepore.html",
+      "book_uri": "nyt://book/89aa59ef-f782-521e-a320-082dcdcb398a",
+      "contributor": "by Jill Lepore",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:17.792Z",
+      "dagger": 0,
+      "description": "The author of “These Truths” examines how technology and artificial intelligence have impacted global democracy and human community.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324098423",
+      "publisher": "Liveright",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE RISE AND FALL OF THE ARTIFICIAL STATE",
+      "updated_date": "2026-09-02T18:40:17.792Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324098423"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324098422?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324098423?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324098423&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-rise-and-fall-of-the-artificial-state-jill-lepore%2F1149247234%3Fean%3D9781324098423&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRise-Fall-Artificial-State%2FJill-Lepore%2F9781324098423"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324098423"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668072246?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Robin Wall Kimmerer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668072240.jpg",
+      "book_image_height": 500,
+      "book_image_width": 356,
+      "book_review_link": "",
+      "book_uri": "nyt://book/546eae3e-3927-5811-8afb-976b6a5478d0",
+      "contributor": "by Robin Wall Kimmerer",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:18.192Z",
+      "dagger": 0,
+      "description": "The author of “Braiding Sweetgrass” illuminates how the gift economy in the natural world works and draws lessons for our economy; with illustrations by John Burgoyne.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668072240",
+      "publisher": "Scribner",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SERVICEBERRY",
+      "updated_date": "2026-09-02T18:40:18.192Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668072240"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668072246?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668072240?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668072240&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-serviceberry-robin-wall-kimmerer%2F1145185135%3Fean%3D9781668072240&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSERVICEBERRY%2FRobin%2BWall%2BKimmerer%2F9781668072240"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668072240"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/198486212X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dolly Parton with Holly George-Warren",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984862129.jpg",
+      "book_image_height": 500,
+      "book_image_width": 362,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a91c5e3d-391b-5f70-ab72-a1229a8cfe05",
+      "contributor": "by Dolly Parton with Holly George-Warren",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:18.32Z",
+      "dagger": 0,
+      "description": "The late country music legend shares stories about her favorite outfits on and off the stage.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781984862129",
+      "publisher": "Ten Speed",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BEHIND THE SEAMS",
+      "updated_date": "2026-09-02T18:40:18.32Z",
+      "weeks_on_list": 12,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781984862129"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/198486212X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984862129?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984862129&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbehind-the-seams-dolly-parton%2F1143243775%3Fean%3D9781984862129&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBEHIND%2BTHE%2BSEAMS%2FDolly%2BParton%2Bwith%2BHolly%2BGeorge-Warren%2F9781984862129"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781984862129"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Belle Burden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
+      "contributor": "by Belle Burden",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:00.746Z",
+      "dagger": 0,
+      "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593733318",
+      "publisher": "Dial",
+      "rank": 7,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "STRANGERS",
+      "updated_date": "2026-03-04T23:40:00.746Z",
+      "weeks_on_list": 32,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593733318"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593733318&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstrangers-belle-burden%2F1147241871%3Fean%3D9780593733318&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593733318"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -76,20 +412,20 @@
       "book_uri": "nyt://book/beb1c79b-8322-5d38-8af3-1e36b2bc5f33",
       "contributor": "by Hayden Panettiere",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:56.037Z",
+      "created_date": "2026-09-02T18:40:17.923Z",
       "dagger": 0,
-      "description": "The late Golden Globe-nominated actress describes how she contended with fame and handled difficulties in her life.",
+      "description": "The late actress describes how she contended with fame and handled difficulties in her life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9781538773420",
       "publisher": "Grand Central",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THIS IS ME",
-      "updated_date": "2026-08-26T17:40:56.037Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-09-02T18:40:17.923Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668221402",
       "publisher": "Avid Reader",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE NERD REICH",
       "updated_date": "2026-08-26T17:40:58.952Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -177,230 +513,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brian Tyler Cohen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063495104.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/355cb742-4a35-5717-94c7-4f5268536f86",
-      "contributor": "by Brian Tyler Cohen",
-      "contributor_note": "",
-      "created_date": "2026-07-22T17:04:42.603Z",
-      "dagger": 0,
-      "description": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063495104",
-      "publisher": "Harper",
-      "rank": 4,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "THE DAY AFTER",
-      "updated_date": "2026-07-22T17:04:42.603Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063495104"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063495104?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063495104?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063495104&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-after-brian-tyler-cohen%2F1149277478%3Fean%3D9780063495104&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-After%2FBrian-Tyler-Cohen%2F9780063495104"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063495104"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Belle Burden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
-      "contributor": "by Belle Burden",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:00.746Z",
-      "dagger": 0,
-      "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593733318",
-      "publisher": "Dial",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "STRANGERS",
-      "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 31,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593733318"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593733318&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstrangers-belle-burden%2F1147241871%3Fean%3D9780593733318&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593733318"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1324130482?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jared Huffman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324130482.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/cb1e630f-7cba-59f0-b5b6-805807a6c739",
-      "contributor": "by Jared Huffman",
-      "contributor_note": "",
-      "created_date": "2026-08-26T17:40:59.085Z",
-      "dagger": 0,
-      "description": "The California congressman describes Christian nationalism’s work inside government to end the separation of church and state.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781324130482",
-      "publisher": "Norton",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "NO PROPHETS",
-      "updated_date": "2026-08-26T17:40:59.085Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781324130482"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1324130482?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324130482?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324130482&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fno-prophets-jared-huffman%2F1149229765%3Fean%3D9781324130482&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNo-Prophets%2FJared-Huffman%2F9781324130482"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324130482"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annie Jacobsen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
-      "contributor": "by Annie Jacobsen",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.295Z",
-      "dagger": 0,
-      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217046034",
-      "publisher": "Dutton",
-      "rank": 7,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "BIOLOGICAL WAR",
-      "updated_date": "2026-08-05T17:45:08.295Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217046034"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046034"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385548533",
       "publisher": "Doubleday",
-      "rank": 8,
-      "rank_last_week": 5,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "LONDON FALLING",
       "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 20,
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
@@ -457,57 +569,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Isabel Klee",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d39e40aa-5c66-5ef5-b79d-309932e72afc",
-      "contributor": "by Isabel Klee",
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
+      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
+      "contributor": "by Annie Jacobsen",
       "contributor_note": "",
-      "created_date": "2026-05-06T17:37:48.924Z",
+      "created_date": "2026-08-05T17:45:08.295Z",
       "dagger": 0,
-      "description": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063451070",
-      "publisher": "Morrow",
-      "rank": 9,
-      "rank_last_week": 4,
+      "primary_isbn13": "9798217046034",
+      "publisher": "Dutton",
+      "rank": 11,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "DOGS, BOYS, AND OTHER THINGS I'VE CRIED ABOUT",
-      "updated_date": "2026-05-06T17:37:48.924Z",
-      "weeks_on_list": 11,
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:08.295Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063451070"
+          "isbn13": "9798217046034"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063451077?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063451070?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451070&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdogs-boys-and-other-things-ive-cried-about-isabel-klee%2F1147998690%3Fean%3D9780063451070&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDogs-Boys-Other-Things-Ive%2FIsabel-Klee%2F9780063451070"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063451070"
+          "url": "https://bookshop.org/a/3546/9798217046034"
         }
       ]
     },
@@ -532,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593655030",
       "publisher": "Penguin Press",
-      "rank": 10,
-      "rank_last_week": 8,
+      "rank": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE ANXIOUS GENERATION",
       "updated_date": "2026-03-04T23:40:23.53Z",
-      "weeks_on_list": 120,
+      "weeks_on_list": 121,
       "isbns": [
         {
           "isbn10": "",
@@ -569,118 +681,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eric Metaxas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "",
-      "book_uri": "nyt://book/943a5b7d-5990-5c86-97a9-1e3b96d94229",
-      "contributor": "by Eric Metaxas",
-      "contributor_note": "",
-      "created_date": "2026-06-10T17:37:57.556Z",
-      "dagger": 1,
-      "description": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781631440885",
-      "publisher": "Odysseus",
-      "rank": 11,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "REVOLUTION",
-      "updated_date": "2026-06-10T17:37:57.556Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781631440885"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1631440888?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781631440885?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781631440885&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frevolution-eric-metaxas%2F1148561199%3Fean%3D9781631440885&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRevolution%2FEric-Metaxas%2F9781631440885"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781631440885"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "David Sedaris",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316264839.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3739e9a8-84a6-5337-86d6-c53d627d79d4",
-      "contributor": "by David Sedaris",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:35:44.514Z",
-      "dagger": 0,
-      "description": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316264839",
-      "publisher": "Little, Brown",
-      "rank": 12,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE LAND AND ITS PEOPLE",
-      "updated_date": "2026-06-03T18:35:44.514Z",
-      "weeks_on_list": 13,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316264839"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316264830?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668648230?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316264839&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-land-and-its-people-david-sedaris%2F1148902635%3Fean%3D9780316264839&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLand-Its-People%2FDavid-Sedaris%2F9780316264839"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316264839"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/081298840X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -701,11 +701,11 @@
       "primary_isbn13": "9780812988406",
       "publisher": "Random House",
       "rank": 13,
-      "rank_last_week": 12,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "WHEN BREATH BECOMES AIR",
       "updated_date": "2026-07-02T17:49:01.6Z",
-      "weeks_on_list": 83,
+      "weeks_on_list": 84,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1324130482?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "JD Vance",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
+      "author": "Jared Huffman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324130482.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/58b8156d-9c6a-57f9-b832-83a8340aca89",
-      "contributor": "by JD Vance",
+      "book_uri": "nyt://book/cb1e630f-7cba-59f0-b5b6-805807a6c739",
+      "contributor": "by Jared Huffman",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:56.48Z",
+      "created_date": "2026-08-26T17:40:59.085Z",
       "dagger": 0,
-      "description": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
+      "description": "The California congressman describes Christian nationalism’s work inside government to end the separation of church and state.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063575011",
-      "publisher": "Harper",
+      "primary_isbn13": "9781324130482",
+      "publisher": "Norton",
       "rank": 14,
       "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "COMMUNION",
-      "updated_date": "2026-08-26T17:40:56.48Z",
-      "weeks_on_list": 10,
+      "title": "NO PROPHETS",
+      "updated_date": "2026-08-26T17:40:59.085Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063575011"
+          "isbn13": "9781324130482"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GTQMJ53N?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1324130482?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063575011?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781324130482?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063575011&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcommunion-j-d-vance%2F1149805998%3Fean%3D9780063575011&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324130482&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fno-prophets-jared-huffman%2F1149229765%3Fean%3D9781324130482&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCommunion-Finding-My-Way-Back%2FJD-Vance%2F9780063575011"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNo-Prophets%2FJared-Huffman%2F9781324130482"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063575011"
+          "url": "https://bookshop.org/a/3546/9781324130482"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1637749368?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Bruce H. Lipton with Patricia King",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781637749364.jpg",
+      "author": "Andrew Ross Sorkin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593296967.jpg",
       "book_image_height": 500,
-      "book_image_width": 335,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/2932a85e-3810-55cf-9fe0-9be217cfd81e",
-      "contributor": "by Bruce H. Lipton with Patricia King",
+      "book_uri": "nyt://book/90977171-d8dc-57d5-b3a0-acf8445743c7",
+      "contributor": "by Andrew Ross Sorkin",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:56.632Z",
-      "dagger": 1,
-      "description": "Lipton argues that cooperation rather than competition drives human evolution.",
+      "created_date": "2026-09-02T18:40:10.317Z",
+      "dagger": 0,
+      "description": "The New York Times journalist and CNBC host looks at the fight between Washington and Wall Street that fueled a historic crash of the stock market.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781637749364",
-      "publisher": "BenBella",
+      "primary_isbn13": "9780593296967",
+      "publisher": "Viking",
       "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BEYOND DARWIN",
-      "updated_date": "2026-08-26T17:40:56.632Z",
-      "weeks_on_list": 1,
+      "title": "1929",
+      "updated_date": "2026-09-02T18:40:10.317Z",
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781637749364"
+          "isbn13": "9780593296967"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1637749368?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781637749364?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593296967?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781637749364&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbeyond-darwin-bruce-h-lipton-phd%2F1149403225%3Fean%3D9781637749364&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593296967&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F1929-andrew-ross-sorkin%2F1147761884%3Fean%3D9780593296967&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBeyond-Darwin%2FBruce-H-Lipton%2F9781637749364"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAndrew-Ross-Sorkin%2F9780593296967"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781637749364"
+          "url": "https://bookshop.org/a/3546/9780593296967"
         }
       ]
     }

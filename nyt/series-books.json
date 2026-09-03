@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/6257e98c-6c25-59c7-9fcf-591ec548f648",
+  "uri": "nyt://bestsellerslist/594dc428-b1e6-5c29-8318-96f9f00e119c",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 437,
+      "weeks_on_list": 438,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 910,
+      "weeks_on_list": 911,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 50,
+      "weeks_on_list": 51,
       "isbns": [
         {
           "isbn10": "",
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 842,
+      "weeks_on_list": 843,
       "isbns": [
         {
           "isbn10": "",
@@ -232,114 +232,58 @@
       ]
     },
     {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
-      "contributor": "by Peter Brown",
-      "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
-      "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
-      "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 131,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316382007"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546148500.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
       "book_image_height": 500,
-      "book_image_width": 469,
+      "book_image_width": 344,
       "book_review_link": "",
-      "book_uri": "nyt://book/321fd90b-aad6-5385-a0af-5a2c1a33ccf5",
+      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-05-27T22:36:37.318Z",
+      "created_date": "2026-03-12T21:08:22.768Z",
       "dagger": 0,
       "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781546148500",
+      "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
-      "rank": 6,
-      "rank_last_week": 7,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
-      "updated_date": "2026-05-27T22:36:37.318Z",
-      "weeks_on_list": 909,
+      "updated_date": "2026-03-12T21:08:22.768Z",
+      "weeks_on_list": 910,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781546148500"
+          "isbn13": "9781338878929"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546148500?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546148500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1100036321%3Fean%3D9781546148500&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Stenciled%2FJ-K-Rowling%2F9781546148500"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546148500"
+          "url": "https://bookshop.org/a/3546/9781338878929"
         }
       ]
     },
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780544336261",
       "publisher": "Clarion",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "GIVER QUARTET",
       "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 181,
+      "weeks_on_list": 182,
       "isbns": [
         {
           "isbn10": "",
@@ -400,58 +344,58 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Tui T. Sutherland",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
-      "contributor": "by Tui T. Sutherland",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
       "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.079Z",
+      "created_date": "2026-06-17T17:38:16.173Z",
       "dagger": 0,
-      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781546129547",
-      "publisher": "Scholastic",
-      "rank": 8,
-      "rank_last_week": 8,
+      "primary_isbn13": "9780316382007",
+      "publisher": "Little, Brown",
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "WINGS OF FIRE",
-      "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 256,
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 132,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781546129547"
+          "isbn13": "9780316382007"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546129547"
+          "url": "https://bookshop.org/a/3546/9780316382007"
         }
       ]
     },
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375813658",
       "publisher": "Stepping Stone/Random House",
-      "rank": 9,
-      "rank_last_week": 10,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "MAGIC TREE HOUSE",
       "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 338,
+      "weeks_on_list": 339,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +456,114 @@
       ]
     },
     {
-      "age_group": "Ages 16 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Chloe Walsh",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "author": "Tui T. Sutherland",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
-      "contributor": "by Chloe Walsh",
+      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
+      "contributor": "by Tui T. Sutherland",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:40:04.785Z",
+      "created_date": "2026-03-12T21:08:22.079Z",
       "dagger": 0,
-      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464277061",
-      "publisher": "Bloom",
-      "rank": 10,
-      "rank_last_week": 9,
+      "primary_isbn13": "9781546129547",
+      "publisher": "Scholastic",
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "BOYS OF TOMMEN",
-      "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 86,
+      "title": "WINGS OF FIRE",
+      "updated_date": "2026-03-12T21:08:22.079Z",
+      "weeks_on_list": 257,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464277061"
+          "isbn13": "9781546129547"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464277061"
+          "url": "https://bookshop.org/a/3546/9781546129547"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "http://www.amazon.com/The-Only-Ivan-Katherine-Applegate/dp/0061992275?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780061992278.jpg",
+      "book_image_height": 466,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f6738b4d-ccb6-5abe-9fa1-1db4ff0313c0",
+      "contributor": "by Katherine Applegate",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:11.779Z",
+      "dagger": 0,
+      "description": "The stories of Ivan, Bob and Ruby. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780061992278",
+      "publisher": "HarperCollins",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ONE AND ONLY",
+      "updated_date": "2026-09-02T18:40:11.779Z",
+      "weeks_on_list": 36,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780061992278"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/The-Only-Ivan-Katherine-Applegate/dp/0061992275?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780061992278?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780061992278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-one-and-only-ivan-katherine-applegate%2F1102905158%3Fean%3D9780061992278&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BONE%2BAND%2BONLY%2BIVAN%2FKatherine%2BApplegate.%2F9780061992278"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780061992278"
         }
       ]
     }

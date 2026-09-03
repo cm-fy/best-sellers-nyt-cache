@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 10016,
-  "uri": "nyt://bestsellerslist/5ab3dc8c-996f-5883-b936-0a516098ca79",
+  "uri": "nyt://bestsellerslist/6e7a5086-67e8-5612-bb34-f145e2b32283",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781534467637",
       "publisher": "Simon & Schuster",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "BETTER THAN THE MOVIES",
       "updated_date": "2026-03-04T23:40:09.053Z",
-      "weeks_on_list": 45,
+      "weeks_on_list": 46,
       "isbns": [
         {
           "isbn10": "",
@@ -65,57 +65,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593898834?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G5ZDLMRN?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "I.V. Marie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898833.jpg",
+      "author": "Hervé Commère",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347119615.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 360,
       "book_review_link": "",
-      "book_uri": "nyt://book/478743c4-9cff-51a1-a618-50e7310e619d",
-      "contributor": "by I.V. Marie",
+      "book_uri": "nyt://book/8672d3aa-333f-58ab-b13d-2aa6c9b55ba2",
+      "contributor": "by Hervé Commère",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:04.276Z",
+      "created_date": "2026-09-02T18:40:13.419Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593898833",
-      "publisher": "Delacorte",
+      "primary_isbn13": "9798347119615",
+      "publisher": "Simon & Schuster",
       "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "IMMORTAL CONSEQUENCES",
-      "updated_date": "2026-08-05T17:45:04.276Z",
+      "title": "21 DAYS OF FEAR",
+      "updated_date": "2026-09-02T18:40:13.419Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593898833"
+          "isbn13": "9798347119615"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593898834?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G5ZDLMRN?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593898833?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798347119615?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898833&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fimmortal-consequences-i-v-marie%2F1147919965%3Fean%3D9780593898833&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347119615&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F21-days-of-fear-herve-commere%2F1149160617%3Fean%3D9798347119615&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FImmortal-Consequences%2FI-V-Marie%2F9780593898833"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDays-Fear%2FHerv-Commre%2F9798347119615"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593898833"
+          "url": "https://bookshop.org/a/3546/9798347119615"
         }
       ]
     },
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781728205489",
       "publisher": "Sourcebooks Fire",
       "rank": 3,
-      "rank_last_week": 0,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "IF HE HAD BEEN WITH ME",
       "updated_date": "2026-07-01T17:54:36.2Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/031658455X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jordan Stephanie Gray",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316584555.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3d6ff0a5-94ca-5a50-a103-bbcafcc27d6c",
+      "contributor": "by Jordan Stephanie Gray",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:13.563Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316584555",
+      "publisher": "Little, Brown",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BITTEN",
+      "updated_date": "2026-09-02T18:40:13.563Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316584555"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/031658455X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316584555?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316584555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbitten-jordan-stephanie-gray%2F1146511118%3Fean%3D9780316584555&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBitten%2FJordan-Stephanie-Gray%2F9780316584555"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316584555"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -188,7 +244,7 @@
       "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
       "contributor": "by Markus Zusak",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:45:04.419Z",
+      "created_date": "2026-09-02T18:40:13.713Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375842207",
       "publisher": "Knopf",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
       "title": "THE BOOK THIEF",
-      "updated_date": "2026-08-05T17:45:04.419Z",
-      "weeks_on_list": 63,
+      "updated_date": "2026-09-02T18:40:13.713Z",
+      "weeks_on_list": 64,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jason Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781481438261.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/434525fe-4696-5f1c-a6d3-de2fbd14c542",
+      "contributor": "by Jason Reynolds",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:13.871Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781481438261",
+      "publisher": "Atheneum/Caitlyn Dlouhy",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LONG WAY DOWN",
+      "updated_date": "2026-09-02T18:40:13.871Z",
+      "weeks_on_list": 32,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781481438261"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781481438261?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781481438261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flong-way-down-jason-reynolds%2F1125685904%3Fean%3D9781481438261&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLONG%2BWAY%2BDOWN%2FJason%2BReynolds%2F9781481438261"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781481438261"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "http://www.amazon.com/Girl-Pieces-Kathleen-Glasgow/dp/1101934719?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781101934746",
       "publisher": "Ember",
-      "rank": 5,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "GIRL IN PIECES",
       "updated_date": "2026-03-04T23:40:09.335Z",
-      "weeks_on_list": 56,
+      "weeks_on_list": 57,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665947145",
       "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "NOTHING LIKE THE MOVIES",
       "updated_date": "2026-04-01T17:34:15.277Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728276229",
       "publisher": "Sourcebooks Fire",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-03-04T23:40:09.204Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464289468?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "K.L. Walther",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464289460.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bd13a85f-e874-5176-b90e-a53d3b87e4c2",
-      "contributor": "by K.L. Walther",
-      "contributor_note": "",
-      "created_date": "2026-07-02T19:25:26.739Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464289460",
-      "publisher": "Sourcebooks Fire",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SUMMER OF SECOND CHANCES",
-      "updated_date": "2026-07-02T19:25:26.739Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464289460"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464289468?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464289460?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464289460&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-summer-of-second-chances-k-l-walther%2F1148080951%3Fean%3D9781464289460&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSummer-Second-Chances-Standard%2FK-L-Walther%2F9781464289460"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464289460"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FH168T37?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sarah Beth Durst",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217024308.jpg",
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921244.jpg",
       "book_image_height": 500,
-      "book_image_width": 330,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/30ce1b63-fd95-5292-9eb9-21850716f19f",
-      "contributor": "by Sarah Beth Durst",
+      "book_uri": "nyt://book/43dae99a-6314-5578-85e4-92067d1a605d",
+      "contributor": "by Lynn Painter",
       "contributor_note": "",
-      "created_date": "2026-05-06T17:41:30.045Z",
+      "created_date": "2026-09-02T18:40:14.014Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217024308",
-      "publisher": "Delacorte",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE FARAWAY INN",
-      "updated_date": "2026-05-06T17:41:30.045Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217024308"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FH168T37?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217024308?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217024308&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-faraway-inn-sarah-beth-durst%2F1147793835%3Fean%3D9798217024308&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFaraway-Inn%2FSarah-Beth-Durst%2F9798217024308"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217024308"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1728270111?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Megan Lally",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728270111.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/aba65996-f1b8-58d4-9f4d-d4e705129a38",
-      "contributor": "by Megan Lally",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:09.9Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728270111",
-      "publisher": "Sourcebooks Fire",
+      "primary_isbn13": "9781665921244",
+      "publisher": "Simon & Schuster",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THAT'S NOT MY NAME",
-      "updated_date": "2026-03-04T23:40:09.9Z",
-      "weeks_on_list": 8,
+      "title": "BETTING ON YOU",
+      "updated_date": "2026-09-02T18:40:14.014Z",
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781728270111"
+          "isbn13": "9781665921244"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728270111?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665921234?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728270111?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665921244?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728270111&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthats-not-my-name-megan-lally%2F1143215709%3Fean%3D9781728270111&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921244&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetting-on-you-lynn-painter%2F1143029869%3Fean%3D9781665921244&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHAT%2527S%2BNOT%2BMY%2BNAME%2FMegan%2BLally%2F9781728270111"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921244"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728270111"
+          "url": "https://bookshop.org/a/3546/9781665921244"
         }
       ]
     }

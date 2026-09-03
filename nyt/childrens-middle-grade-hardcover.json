@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/5de55ee5-a13f-51e9-8f7e-4a4b78570c15",
+  "uri": "nyt://bestsellerslist/b703f55c-9656-5860-8b4a-fa875b8000c9",
   "books": [
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eiko Kadono",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217227105.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2e1f6e1d-9064-5023-bcaa-7629c284d57a",
+      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
+      "contributor_note": "Illustrated by Yuta Onoda",
+      "created_date": "2026-09-02T18:40:11.944Z",
+      "dagger": 0,
+      "description": "Kiki faces the challenges of growing up as an honest-to-goodness witch; translated by Emily Balistrieri. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217227105",
+      "publisher": "Delacorte",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "KIKI AND THE NEW MAGIC",
+      "updated_date": "2026-09-02T18:40:11.944Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217227105"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217227105?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217227105&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkiki-and-the-new-magic-eiko-kadono%2F1149711982%3Fean%3D9798217227105&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKiki-New-Magic%2FEiko-Kadono%2F9798217227105"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217227105"
+        }
+      ]
+    },
     {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
@@ -20,7 +76,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:57.11Z",
+      "created_date": "2026-09-02T18:40:12.141Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375869020",
       "publisher": "Knopf",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-08-26T17:40:57.11Z",
-      "weeks_on_list": 557,
+      "updated_date": "2026-09-02T18:40:12.141Z",
+      "weeks_on_list": 558,
       "isbns": [
         {
           "isbn10": "",
@@ -64,114 +120,58 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
-      "book_image_height": 495,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
-      "contributor": "by Alan Gratz",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:05.762Z",
-      "dagger": 0,
-      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780545880831",
-      "publisher": "Scholastic",
-      "rank": 2,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "REFUGEE",
-      "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 328,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780545880831"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780545880831"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "author": "Eiko Kadono",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217236558.jpg",
       "book_image_height": 500,
-      "book_image_width": 352,
+      "book_image_width": 317,
       "book_review_link": "",
-      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
-      "contributor": "by Katherine Applegate",
-      "contributor_note": "",
-      "created_date": "2026-05-13T17:27:20.403Z",
+      "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
+      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
+      "contributor_note": "Illustrated by Yuta Onoda",
+      "created_date": "2026-09-02T18:40:12.357Z",
       "dagger": 0,
-      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063221178",
-      "publisher": "Storytide",
+      "primary_isbn13": "9798217236558",
+      "publisher": "Delacorte",
       "rank": 3,
-      "rank_last_week": 3,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WOMBAT WAITING",
-      "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 16,
+      "title": "KIKI'S DELIVERY SERVICE",
+      "updated_date": "2026-09-02T18:40:12.357Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063221178"
+          "isbn13": "9798217236558"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217236558?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217236558&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkikis-delivery-service-eiko-kadono%2F1102380864%3Fean%3D9798217236558&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKikis-Delivery-Service-Deluxe%2FEiko-Kadono%2F9798217236558"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063221178"
+          "url": "https://bookshop.org/a/3546/9798217236558"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "sunday_review_link": "",
       "title": "GROWING HOME",
       "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 52,
+      "weeks_on_list": 53,
       "isbns": [
         {
           "isbn10": "",
@@ -232,6 +232,118 @@
       ]
     },
     {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "book_image_height": 500,
+      "book_image_width": 352,
+      "book_review_link": "",
+      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
+      "contributor": "by Katherine Applegate",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:20.403Z",
+      "dagger": 0,
+      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063221178",
+      "publisher": "Storytide",
+      "rank": 5,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "WOMBAT WAITING",
+      "updated_date": "2026-05-13T17:27:20.403Z",
+      "weeks_on_list": 17,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063221178"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063221178"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 11",
+      "amazon_product_url": "https://www.amazon.com/dp/1547618299?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Julie Abe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781547618293.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/068b4e50-0371-5502-a12e-3926a1ef8b4f",
+      "contributor": "by Julie Abe",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:12.557Z",
+      "dagger": 0,
+      "description": "Lyra Hunt searches for a guild to call home. (Ages 8 to 11)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781547618293",
+      "publisher": "Bloomsbury",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE MAGIC LIBRARY OF WATERFALL WAY",
+      "updated_date": "2026-09-02T18:40:12.557Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781547618293"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1547618299?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781547618293?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781547618293&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-magic-library-of-waterfall-way-julie-abe%2F1148794719%3Fean%3D9781547618293&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Library-Waterfall-Way%2FJulie-Abe%2F9781547618293"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781547618293"
+        }
+      ]
+    },
+    {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250904362",
       "publisher": "Feiwel & Friends",
-      "rank": 5,
+      "rank": 7,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "POCKET BEAR",
       "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 49,
+      "weeks_on_list": 50,
       "isbns": [
         {
           "isbn10": "",
@@ -288,62 +400,6 @@
       ]
     },
     {
-      "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Katherine Rundell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217032822.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/215e123a-d4ff-5b8e-8242-aa025e48b2eb",
-      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
-      "contributor_note": "Illustrated by Ashley Mackenzie",
-      "created_date": "2026-08-19T17:19:37.531Z",
-      "dagger": 0,
-      "description": "Christopher and Anya must save the dragons of the Archipelago from a strange new threat. (Ages 10 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217032822",
-      "publisher": "Knopf",
-      "rank": 6,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE POISONED KING",
-      "updated_date": "2026-08-19T17:19:37.531Z",
-      "weeks_on_list": 42,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217032822"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593809904?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593809907?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217032822&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-poisoned-king-katherine-rundell%2F1146144609%3Fean%3D9798217032822&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPoisoned-King%2FKatherine-Rundell%2F9780593809907"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217032822"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1250392810?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250392817",
       "publisher": "Balzer + Bray",
-      "rank": 7,
-      "rank_last_week": 9,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE LIONS' RUN",
       "updated_date": "2026-02-24T22:20:23.681Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -400,6 +456,62 @@
       ]
     },
     {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alan Gratz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/93e9d008-544b-581f-9681-75c147c79a93",
+      "contributor": "by Alan Gratz",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:03.282Z",
+      "dagger": 0,
+      "description": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781338245752",
+      "publisher": "Scholastic",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GROUND ZERO",
+      "updated_date": "2026-08-05T17:45:03.282Z",
+      "weeks_on_list": 67,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781338245752"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338245752?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338245752&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fground-zero-alan-gratz%2F1136672425%3Fean%3D9781338245752&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGROUND%2BZERO%2FAlan%2BGratz%2F9781338245752"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338245752"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1665985461?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665985468",
       "publisher": "Aladdin",
-      "rank": 8,
-      "rank_last_week": 6,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE AFTERMYTH",
       "updated_date": "2026-02-24T22:20:23.555Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781665985468"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F7DTXLY7?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Struan Murray",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113217.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/cbed6cd9-c659-5db4-9fc6-a6de44465bb9",
-      "contributor": "by Struan Murray",
-      "contributor_note": "",
-      "created_date": "2026-08-26T17:40:57.231Z",
-      "dagger": 0,
-      "description": "Alex Evans, once thought to be only human, has the dragon within her awakened. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217113217",
-      "publisher": "Dutton",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DRAGONBORN",
-      "updated_date": "2026-08-26T17:40:57.231Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217113217"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F7DTXLY7?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217113217?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113217&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragonborn-struan-murray%2F1145711348%3Fean%3D9798217113217&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragonborn%2FStruan-Murray%2F9798217113217"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217113217"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 10 to 14",
-      "amazon_product_url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan and Mark Oshiro",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e1541e3c-6c1c-5583-9a79-6d374350678c",
-      "contributor": "by Rick Riordan and Mark Oshiro",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:06.042Z",
-      "dagger": 0,
-      "description": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368109116",
-      "publisher": "Disney Hyperion",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE COURT OF THE DEAD",
-      "updated_date": "2026-03-04T23:40:06.042Z",
-      "weeks_on_list": 47,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368109116"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/136810911X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368109116?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368109116&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-court-of-the-dead-rick-riordan%2F1147065251%3Fean%3D9781368109116&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson%2FRick-Riordan%2F9781368109116"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368109116"
         }
       ]
     }
