@@ -5,8 +5,176 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/8f91c1aa-64d7-5adc-adfb-fe7b46197357",
+  "uri": "nyt://bestsellerslist/bc3c5abd-0503-53ff-8a32-dbf5b564b12d",
   "books": [
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erin A. Craig",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
+      "book_image_height": 500,
+      "book_image_width": 309,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4ccb17b0-6cc0-55d6-9ada-83aec0579311",
+      "contributor": "by Erin A. Craig",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.228Z",
+      "dagger": 0,
+      "description": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217124183",
+      "publisher": "Delacorte",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "OUR STRANGE DUET",
+      "updated_date": "2026-09-09T18:10:32.228Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217124183"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217124183?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217124183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-strange-duet-erin-a-craig%2F1149680621%3Fean%3D9798217124183&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Strange-Duet%2FErin-A-Craig%2F9798217124183"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217124183"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brandon Sanderson and Janci Patterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593707050.jpg",
+      "book_image_height": 500,
+      "book_image_width": 311,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7cf6878e-177c-5a88-b706-4d58fda88588",
+      "contributor": "by Brandon Sanderson and Janci Patterson",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.378Z",
+      "dagger": 0,
+      "description": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593707050",
+      "publisher": "Delacorte",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BLIGHTFALL",
+      "updated_date": "2026-09-09T18:10:32.378Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593707050"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593707050?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593707050&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblightfall-brandon-sanderson%2F1149611648%3Fean%3D9780593707050&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlightfall%2FBrandon-Sanderson%2F9780593707050"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593707050"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJ4BBFM7?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Autumn Krause",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217027668.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/829ac9da-73ff-5114-b202-f6ee0d28e6a6",
+      "contributor": "by Autumn Krause",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.537Z",
+      "dagger": 0,
+      "description": "Love blooms in a Japanese internment camp in California. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217027668",
+      "publisher": "Delacorte",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE GODS WILL SING OUR SONG",
+      "updated_date": "2026-09-09T18:10:32.537Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217027668"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GJ4BBFM7?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217027668?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217027668&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gods-will-sing-our-song-autumn-krause%2F1149267617%3Fean%3D9798217027668&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGods-Will-Sing-Our-Song%2FAutumn-Krause%2F9798217027668"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217027668"
+        }
+      ]
+    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1640366008?tag=thenewyorktim-20",
@@ -28,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781640366008",
       "publisher": "Mattel",
-      "rank": 1,
+      "rank": 4,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "BARBIE: DREAMSCAPE",
       "updated_date": "2026-08-26T17:40:57.362Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236237",
       "publisher": "Random House/Disney",
-      "rank": 2,
+      "rank": 5,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-08-13T14:35:04.184Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +289,169 @@
     },
     {
       "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FSJZ6PBV?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250411238?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Page Powars",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250347831.jpg",
+      "author": "Ayana Gray",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250411235.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 350,
       "book_review_link": "",
-      "book_uri": "nyt://book/429d7985-1ff9-5971-98eb-cb2bcdbd1110",
-      "contributor": "by Page Powars",
+      "book_uri": "nyt://book/2c0b5ede-5703-5e2b-aa9d-cff386f700d4",
+      "contributor": "by Ayana Gray",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:12.695Z",
+      "created_date": "2026-09-09T18:10:32.695Z",
       "dagger": 0,
-      "description": "Two academic rivals go head to head at BRAIN, one of the most cutthroat academic camps in the country. (Ages 14 to 18)",
+      "description": "Vesper Evans is hired to prove the innocence of Maximilian Kite, a prime suspect in a murder case. (Ages 14 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250347831",
-      "publisher": "Roaring Brook",
-      "rank": 3,
+      "primary_isbn13": "9781250411235",
+      "publisher": "Balzer + Bray",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BUT I HATE HIM",
-      "updated_date": "2026-09-02T18:40:12.695Z",
+      "title": "HAWK & SPARROW",
+      "updated_date": "2026-09-09T18:10:32.695Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250347831"
+          "isbn13": "9781250411235"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FSJZ6PBV?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250411238?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250347831?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250411235?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250347831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbut-i-hate-him-page-powars%2F1148609076%3Fean%3D9781250347831&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250411235&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhawk-sparrow-ayana-gray%2F1149446343%3Fean%3D9781250411235&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBut-Hate-Him%2FPage-Powars%2F9781250347831"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHawk-Sparrow%2FAyana-Gray%2F9781250411235"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250347831"
+          "url": "https://bookshop.org/a/3546/9781250411235"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Misty Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347116430.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0919a11a-0b5e-5ba7-a763-ea9e56f13405",
+      "contributor": "by Misty Wilson",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.824Z",
+      "dagger": 0,
+      "description": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347116430",
+      "publisher": "Margaret K. McElderry",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FALLING LIKE LEAVES",
+      "updated_date": "2026-09-09T18:10:32.824Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347116430"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798347116430?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347116430&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffalling-like-leaves-misty-wilson%2F1146889511%3Fean%3D9798347116430&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalling-Like-Leaves-Collectors%2FMisty-Wilson%2F9798347116430"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798347116430"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1682817512?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Nisha J. Tuli",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682817513.jpg",
+      "book_image_height": 500,
+      "book_image_width": 309,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9b6288d6-9705-5228-8e06-58e4573f9ccb",
+      "contributor": "by Nisha J. Tuli",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.965Z",
+      "dagger": 0,
+      "description": "In the sequel to “Storm Breaker,” Poet finds it harder to trust anyone, including Rook. (Ages 16 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781682817513",
+      "publisher": "Mayhem",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "STORM CALLER",
+      "updated_date": "2026-09-09T18:10:32.965Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781682817513"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1682817512?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781682817513?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682817513&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstorm-caller-nisha-j-tuli%2F1150313214%3Fean%3D9781682817513&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStorm-Caller%2FNisha-J-Tuli%2F9781682817513"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781682817513"
         }
       ]
     },
@@ -196,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217026500",
       "publisher": "Delacorte",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 9,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THORNBIRD",
       "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593898840",
       "publisher": "Delacorte",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 10,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -284,286 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593898840"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Margaret Owen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368101042.jpg",
-      "book_image_height": 500,
-      "book_image_width": 343,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c13ab041-341c-5b33-b5e6-e3820b9ff2d6",
-      "contributor": "by Margaret Owen",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:12.825Z",
-      "dagger": 0,
-      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368101042",
-      "publisher": "Random House/Disney",
-      "rank": 6,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "ROOTBOUND",
-      "updated_date": "2026-09-02T18:40:12.825Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368101042"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368101042&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9781368101042&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368101042"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921268.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/067f4986-d5a2-585d-be92-dfeedfa0482f",
-      "contributor": "by Lynn Painter",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:06.707Z",
-      "dagger": 0,
-      "description": "After years of separation, the childhood friends Alec and Dani reunite and face their true feelings toward each other. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665921268",
-      "publisher": "Simon & Schuster",
-      "rank": 7,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "FAKE SKATING",
-      "updated_date": "2026-03-04T23:40:06.707Z",
-      "weeks_on_list": 48,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665921268"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665921269?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665921268?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921268&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffake-skating-lynn-painter%2F1146890400%3Fean%3D9781665921268&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFake-Skating%2FLynn-Painter%2F9781665921268"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665921268"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Laura Nowlin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464254529.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/685048d8-8ed7-546b-9bcd-5e7153a3f30b",
-      "contributor": "by Laura Nowlin",
-      "contributor_note": "",
-      "created_date": "2026-06-17T18:31:10.447Z",
-      "dagger": 0,
-      "description": "In this companion to “If He Had Been With Me,” the story of Finn and Autumn is told through three different perspectives. (Ages 14 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464254529",
-      "publisher": "Sourcebooks Fire",
-      "rank": 8,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "IF ONLY I HAD TOLD HER",
-      "updated_date": "2026-06-17T18:31:10.447Z",
-      "weeks_on_list": 43,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464254529"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728276229?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464254529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-only-i-had-told-her-laura-nowlin%2F1142811940%3Fean%3D9781464254529&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Only-Had-Told-Her%2FLaura-Nowlin%2F9781464254529"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464254529"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tahereh Mafi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3c1cd6bf-13da-58ba-8d57-738b090a88c7",
-      "contributor": "by Tahereh Mafi",
-      "contributor_note": "",
-      "created_date": "2026-04-22T17:21:11.073Z",
-      "dagger": 0,
-      "description": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063419056",
-      "publisher": "Storytide",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "RELEASE ME",
-      "updated_date": "2026-04-22T17:21:11.073Z",
-      "weeks_on_list": 20,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063419056"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/006341905X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063419056?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063419056&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frelease-me-tahereh-mafi%2F1148080225%3Fean%3D9780063419056&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRelease%2FTahereh-Mafi%2F9780063419056"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063419056"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rachel Griffin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728256184.jpg",
-      "book_image_height": 500,
-      "book_image_width": 398,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4474e589-c79f-5393-a34d-fd893b1aa82d",
-      "contributor": "by Rachel Griffin",
-      "contributor_note": "",
-      "created_date": "2026-02-25T23:37:57.803Z",
-      "dagger": 0,
-      "description": "The Starmaker senses a powerful magic within Aurora Finch and requests that she come study under his tutelage. (Ages 14 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728256184",
-      "publisher": "Sourcebooks Fire",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SUN AND THE STARMAKER",
-      "updated_date": "2026-02-25T23:37:57.803Z",
-      "weeks_on_list": 20,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728256184"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728256186?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728256184?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728256184&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-sun-and-the-starmaker-rachel-griffin%2F1147295429%3Fean%3D9781728256184&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSun-Starmaker%2FRachel-Griffin%2F9781728256184"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728256184"
         }
       ]
     }

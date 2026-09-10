@@ -5,117 +5,117 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/b6b0d5c2-ed13-5264-b95c-c22b68b12866",
+  "uri": "nyt://bestsellerslist/806ba956-84d1-5d73-a22c-6146fb9d0307",
   "books": [
     {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Deborah Hopkinson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593306857.jpg",
-      "book_image_height": 500,
-      "book_image_width": 420,
+      "author": "Maudie Powell-Tuck",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/4f84c13d-039a-52f8-b9c5-818dfa8cc573",
-      "contributor": "by Deborah Hopkinson. Illustrated by Monique Dong",
-      "contributor_note": "Illustrated by Monique Dong",
-      "created_date": "2026-09-02T18:40:11.491Z",
+      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
+      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
+      "contributor_note": "Illustrated by Mini Grey",
+      "created_date": "2026-09-09T18:15:26.434Z",
       "dagger": 0,
-      "description": "A biography of the late singer, songwriter and actress. (Ages 4 to 8)",
+      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593306857",
-      "publisher": "Golden",
+      "primary_isbn13": "9781680108354",
+      "publisher": "Tiger Tales",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DOLLY PARTON",
-      "updated_date": "2026-09-02T18:40:11.491Z",
+      "title": "FRANKENKITTY",
+      "updated_date": "2026-09-09T18:15:26.434Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593306857"
+          "isbn13": "9781680108354"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593306857?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593306857&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-parton-deborah-hopkinson%2F1150213128%3Fean%3D9780593306857&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-Parton%2FDeborah-Hopkinson%2F9780593306857"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593306857"
+          "url": "https://bookshop.org/a/3546/9781664391000"
         }
       ]
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alice Schertle",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063436121.jpg",
-      "book_image_height": 403,
-      "book_image_width": 500,
+      "author": "Alice Hemming",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
+      "book_image_height": 500,
+      "book_image_width": 458,
       "book_review_link": "",
-      "book_uri": "nyt://book/02797bc5-ccac-5943-a99a-42c0c9e894d8",
-      "contributor": "by Alice Schertle. Illustrated by Jill McElmurry",
-      "contributor_note": "Illustrated by Jill McElmurry",
-      "created_date": "2026-08-26T17:40:56.806Z",
+      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
+      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
+      "contributor_note": "Illustrated by Nicola Slater",
+      "created_date": "2026-08-05T17:45:02.569Z",
       "dagger": 0,
-      "description": "Blue and friends search for Toad before the hayride. (Ages 4 to 8)",
+      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063436121",
-      "publisher": "Clarion",
+      "primary_isbn13": "9781464268076",
+      "publisher": "Sourcebooks Jabberwocky",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "LITTLE BLUE TRUCK LOST AND FOUND",
-      "updated_date": "2026-08-26T17:40:56.806Z",
-      "weeks_on_list": 2,
+      "title": "THE PUMPKIN THIEF",
+      "updated_date": "2026-08-05T17:45:02.569Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063436121"
+          "isbn13": "9781464268076"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063436121?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063436121&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flittle-blue-truck-lost-and-found-alice-schertle%2F1148767207%3Fean%3D9780063436121&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLittle-Blue-Truck-Lost-Found%2FAlice-Schertle%2F9780063436121"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063436121"
+          "url": "https://bookshop.org/a/3546/9781464268076"
         }
       ]
     },
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -177,225 +177,57 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alice Hemming",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
-      "book_image_height": 500,
-      "book_image_width": 458,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
-      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
-      "contributor_note": "Illustrated by Nicola Slater",
-      "created_date": "2026-08-05T17:45:02.569Z",
-      "dagger": 0,
-      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464268076",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 4,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE PUMPKIN THIEF",
-      "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464268076"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464268076"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0451532376?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dolly Parton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780451532374.jpg",
-      "book_image_height": 500,
-      "book_image_width": 489,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8d1b2855-22dd-58ec-a3f0-b80a7ec5e7de",
-      "contributor": "by Dolly Parton. Illustrated by Brooke Boynton-Hughes",
-      "contributor_note": "Illustrated by Brooke Boynton-Hughes",
-      "created_date": "2026-09-02T18:40:11.629Z",
-      "dagger": 0,
-      "description": "The story of a young girl in need of a winter coat. Based on the lyrics of the late singer’s song of the same name. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780451532374",
-      "publisher": "Grosset & Dunlap",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "COAT OF MANY COLORS",
-      "updated_date": "2026-09-02T18:40:11.629Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780451532374"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0451532376?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780451532374?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780451532374&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcoat-of-many-colors-dolly-parton%2F1001819445%3Fean%3D9780451532374&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCoat-Many-Colors%2FDolly-Parton%2F9780451532374"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780451532374"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Winfield Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "book_image_height": 500,
-      "book_image_width": 475,
-      "book_review_link": "",
-      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
-      "contributor": "by Emily Winfield Martin",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:37.607Z",
-      "dagger": 0,
-      "description": "A celebration of future possibilities. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385376716",
-      "publisher": "Random House",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE WONDERFUL THINGS YOU WILL BE",
-      "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 475,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385376716"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385376716"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 5",
-      "amazon_product_url": "https://www.amazon.com/dp/1368046452?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mo Willems",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368046459.jpg",
-      "book_image_height": 500,
+      "author": "Alice Schertle",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063436121.jpg",
+      "book_image_height": 403,
       "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/9c5942b0-2cdd-5be0-81ac-a2c78db6c95a",
-      "contributor": "by Mo Willems",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.689Z",
+      "book_uri": "nyt://book/02797bc5-ccac-5943-a99a-42c0c9e894d8",
+      "contributor": "by Alice Schertle. Illustrated by Jill McElmurry",
+      "contributor_note": "Illustrated by Jill McElmurry",
+      "created_date": "2026-08-26T17:40:56.806Z",
       "dagger": 0,
-      "description": "Pigeon deals with the anxieties of going to school for the first time. (Ages 3 to 5)",
+      "description": "Blue and friends search for Toad before the hayride. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781368046459",
-      "publisher": "Hyperion",
-      "rank": 7,
-      "rank_last_week": 4,
+      "primary_isbn13": "9780063436121",
+      "publisher": "Clarion",
+      "rank": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "THE PIGEON HAS TO GO TO SCHOOL!",
-      "updated_date": "2026-08-05T17:45:02.689Z",
-      "weeks_on_list": 73,
+      "title": "LITTLE BLUE TRUCK LOST AND FOUND",
+      "updated_date": "2026-08-26T17:40:56.806Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781368046459"
+          "isbn13": "9780063436121"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368046452?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368046459?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063436121?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368046459&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pigeon-has-to-go-to-school-mo-willems%2F1129487589%3Fean%3D9781368046459&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063436121&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flittle-blue-truck-lost-and-found-alice-schertle%2F1148767207%3Fean%3D9780063436121&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPigeon-has-Go-School%2FMo-Willems%2F9781368046459"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLittle-Blue-Truck-Lost-Found%2FAlice-Schertle%2F9780063436121"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368046459"
+          "url": "https://bookshop.org/a/3546/9780063436121"
         }
       ]
     },
@@ -420,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728235202",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE LEAF THIEF",
       "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -456,58 +288,226 @@
       ]
     },
     {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492669739.jpg",
-      "book_image_height": 330,
-      "book_image_width": 330,
+      "author": "Emily Winfield Martin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
+      "book_image_height": 500,
+      "book_image_width": 475,
       "book_review_link": "",
-      "book_uri": "nyt://book/c45cf6ec-9c12-534e-99a7-c443a0d375ff",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-07-01T17:54:34.675Z",
+      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
+      "contributor": "by Emily Winfield Martin",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:37.607Z",
       "dagger": 0,
-      "description": "Children attempt to capture the mythical creature. (Ages 4 to 8)",
+      "description": "A celebration of future possibilities. (Ages 3 to 7)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781492669739",
-      "publisher": "Sourcebooks Wonderland",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780385376716",
+      "publisher": "Random House",
+      "rank": 6,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "HOW TO CATCH A UNICORN",
-      "updated_date": "2026-07-01T17:54:34.675Z",
-      "weeks_on_list": 64,
+      "title": "THE WONDERFUL THINGS YOU WILL BE",
+      "updated_date": "2026-07-08T17:19:37.607Z",
+      "weeks_on_list": 476,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781492669739"
+          "isbn13": "9780385376716"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492669739?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492669739&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-unicorn-adam-wallace%2F1128943354%3Fean%3D9781492669739&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BUNICORN%2FAdam%2BWallace.%2F9781492669739"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492669739"
+          "url": "https://bookshop.org/a/3546/9780385376716"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GK14KTFB?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Pete Holmes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217119035.jpg",
+      "book_image_height": 500,
+      "book_image_width": 411,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e46d6a99-2404-535f-96ad-fa9fc2b19727",
+      "contributor": "by Pete Holmes",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:31.057Z",
+      "dagger": 0,
+      "description": "You must convince Jesse the dragon that you are a wizard or else! (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217119035",
+      "publisher": "Doubleday",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SPELLS TO CAST ON YOUR PARENTS",
+      "updated_date": "2026-09-09T18:10:31.057Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217119035"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GK14KTFB?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217119035?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217119035&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fspells-to-cast-on-your-parents-pete-holmes%2F1149579840%3Fean%3D9798217119035&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSpells-Cast-Your-Parents%2FPete-Holmes%2F9798217119035"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217119035"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 5 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FZSFTC64?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jessica Magro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217244867.jpg",
+      "book_image_height": 500,
+      "book_image_width": 411,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0ff288fd-0211-58f5-bb21-75a97f8fa7cc",
+      "contributor": "by Jessica Magro",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:31.196Z",
+      "dagger": 0,
+      "description": "Bluey and family play scary games on Halloween night. (Ages 5 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217244867",
+      "publisher": "Penguin",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BLUEY'S HEELERWEEN",
+      "updated_date": "2026-09-09T18:10:31.196Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217244867"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FZSFTC64?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217244867?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217244867&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblueys-heelerween-jessica-magro%2F1149909549%3Fean%3D9798217244867&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlueys-Heelerween%2FJessica-Magro%2F9798217244867"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217244867"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/0593616677?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Neil Sharpson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593616673.jpg",
+      "book_image_height": 500,
+      "book_image_width": 389,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e18f9892-9982-59c1-8d6b-22526dce20d4",
+      "contributor": "by Neil Sharpson. Illustrated by Dan Santat",
+      "contributor_note": "Illustrated by Dan Santat",
+      "created_date": "2026-07-22T17:04:39.717Z",
+      "dagger": 0,
+      "description": "A hilarious and educational manifesto about the treachery of fish. (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593616673",
+      "publisher": "Dial",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DON'T TRUST FISH",
+      "updated_date": "2026-07-22T17:04:39.717Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593616673"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593616677?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593616673?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593616673&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-trust-fish-neil-sharpson%2F1145976210%3Fean%3D9780593616673&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Trust-Fish%2FNeil-Sharpson%2F9780593616673"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593616673"
         }
       ]
     },
@@ -533,11 +533,11 @@
       "primary_isbn13": "9780803736801",
       "publisher": "Dial",
       "rank": 10,
-      "rank_last_week": 7,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "DRAGONS LOVE TACOS",
       "updated_date": "2026-07-08T17:19:37.749Z",
-      "weeks_on_list": 501,
+      "weeks_on_list": 502,
       "isbns": [
         {
           "isbn10": "",

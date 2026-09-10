@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/594dc428-b1e6-5c29-8318-96f9f00e119c",
+  "uri": "nyt://bestsellerslist/4ed24999-61ea-514b-a4a3-21b4fde43f4c",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 438,
+      "weeks_on_list": 439,
       "isbns": [
         {
           "isbn10": "",
@@ -64,6 +64,62 @@
       ]
     },
     {
+      "age_group": "Ages 10 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593809947?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Rundell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593809945.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1bc766da-328e-5be9-b45e-722b1db4757d",
+      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
+      "contributor_note": "Illustrated by Ashley Mackenzie",
+      "created_date": "2026-09-09T18:10:31.392Z",
+      "dagger": 0,
+      "description": "Christopher and his friends race to save the magic and the creatures of the Archipelago. (Ages 10 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593809945",
+      "publisher": "Knopf",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IMPOSSIBLE CREATURES",
+      "updated_date": "2026-09-09T18:10:31.392Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593809945"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593809947?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593809945?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593809945&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-neverfear-katherine-rundell%2F1148854132%3Fean%3D9780593809945&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNeverfear%2FKatherine-Rundell%2F9780593809945"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593809945"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 911,
+      "weeks_on_list": 912,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 51,
+      "weeks_on_list": 52,
       "isbns": [
         {
           "isbn10": "",
@@ -176,62 +232,6 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
-      "book_image_height": 500,
-      "book_image_width": 340,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
-      "contributor": "by Rick Riordan",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.452Z",
-      "dagger": 0,
-      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368051477",
-      "publisher": "Disney-Hyperion",
-      "rank": 4,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "PERCY JACKSON & THE OLYMPIANS",
-      "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 843,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368051477"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368051477"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 10 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781338878929",
       "publisher": "Scholastic",
       "rank": 5,
-      "rank_last_week": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 910,
+      "weeks_on_list": 911,
       "isbns": [
         {
           "isbn10": "",
@@ -288,6 +288,118 @@
       ]
     },
     {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 340,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
+      "contributor": "by Rick Riordan",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.452Z",
+      "dagger": 0,
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368051477",
+      "publisher": "Disney-Hyperion",
+      "rank": 6,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-05-20T18:34:32.452Z",
+      "weeks_on_list": 844,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368051477"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368051477"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 15 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/146427813X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Patton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464278136.jpg",
+      "book_image_height": 500,
+      "book_image_width": 398,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d044775e-d2e8-570b-b26c-79d3267a4318",
+      "contributor": "by Alexis Patton",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:31.515Z",
+      "dagger": 0,
+      "description": "The adventures of Khalani Kanes, an escapee from an underground prison. (Ages 15 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464278136",
+      "publisher": "Bloom",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "US DARK FEW",
+      "updated_date": "2026-09-09T18:10:31.515Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464278136"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/146427813X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464278136?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464278136&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fus-defiant-few-alexis-patton%2F1148195061%3Fean%3D9781464278136&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUs-Defiant-Few%2FAlexis-Patton%2F9781464278136"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464278136"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 12 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780544336261",
       "publisher": "Clarion",
-      "rank": 6,
-      "rank_last_week": 7,
+      "rank": 8,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "GIVER QUARTET",
       "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 182,
+      "weeks_on_list": 183,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 132,
+      "weeks_on_list": 133,
       "isbns": [
         {
           "isbn10": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375813658",
       "publisher": "Stepping Stone/Random House",
-      "rank": 8,
-      "rank_last_week": 9,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "MAGIC TREE HOUSE",
       "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 339,
+      "weeks_on_list": 340,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780375813658"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tui T. Sutherland",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f3b84b9c-1b3b-5d49-920f-e78617e7bc75",
-      "contributor": "by Tui T. Sutherland",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.079Z",
-      "dagger": 0,
-      "description": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546129547",
-      "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "WINGS OF FIRE",
-      "updated_date": "2026-03-12T21:08:22.079Z",
-      "weeks_on_list": 257,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781546129547"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546129545?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546129547?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546129547&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hybrid-prince-tui-t-sutherland%2F1147377007%3Fean%3D9781546129547&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHybrid-Prince-Wings-Fire-Book%2FTui-T-Sutherland%2F9781546129547"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546129547"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "http://www.amazon.com/The-Only-Ivan-Katherine-Applegate/dp/0061992275?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780061992278.jpg",
-      "book_image_height": 466,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f6738b4d-ccb6-5abe-9fa1-1db4ff0313c0",
-      "contributor": "by Katherine Applegate",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:11.779Z",
-      "dagger": 0,
-      "description": "The stories of Ivan, Bob and Ruby. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780061992278",
-      "publisher": "HarperCollins",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE ONE AND ONLY",
-      "updated_date": "2026-09-02T18:40:11.779Z",
-      "weeks_on_list": 36,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780061992278"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/The-Only-Ivan-Katherine-Applegate/dp/0061992275?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780061992278?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780061992278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-one-and-only-ivan-katherine-applegate%2F1102905158%3Fean%3D9780061992278&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BONE%2BAND%2BONLY%2BIVAN%2FKatherine%2BApplegate.%2F9780061992278"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780061992278"
         }
       ]
     }

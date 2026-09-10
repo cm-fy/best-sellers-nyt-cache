@@ -5,61 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/a375eafa-8b2b-524b-a1cd-d43bcc8f9358",
+  "uri": "nyt://bestsellerslist/2eea1403-0047-5bd9-8dbb-5bbc436b4339",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593797922?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alex Snodgrass",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063425736.jpg",
+      "author": "Barbara Costello",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593797921.jpg",
       "book_image_height": 500,
-      "book_image_width": 402,
+      "book_image_width": 409,
       "book_review_link": "",
-      "book_uri": "nyt://book/784bf714-d3b3-5f56-9d0d-2972289afe42",
-      "contributor": "by Alex Snodgrass",
+      "book_uri": "nyt://book/f9c4b3b1-a208-5f8b-92ec-0e8888f4d82d",
+      "contributor": "by Barbara Costello",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.435Z",
+      "created_date": "2026-09-09T18:10:33.676Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063425736",
-      "publisher": "Morrow",
+      "primary_isbn13": "9780593797921",
+      "publisher": "Clarkson Potter",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "EVERYDAY EATS",
-      "updated_date": "2026-09-02T18:40:14.435Z",
+      "title": "HOMEMAKING WITH BABS",
+      "updated_date": "2026-09-09T18:10:33.676Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063425736"
+          "isbn13": "9780593797921"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593797922?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063425736?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593797921?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063425736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feveryday-eats-alex-snodgrass%2F1148811740%3Fean%3D9780063425736&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593797921&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhomemaking-with-babs-barbara-costello%2F1148854143%3Fean%3D9780593797921&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEveryday-Eats%2FAlex-Snodgrass%2F9780063425736"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHomemaking-Babs%2FBarbara-Costello%2F9780593797921"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063425736"
+          "url": "https://bookshop.org/a/3546/9780593797921"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 88,
+      "weeks_on_list": 89,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250423767?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1577155882?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sasha Hamdani",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250423764.jpg",
+      "author": "Julie Jones",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781577155881.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 394,
       "book_review_link": "",
-      "book_uri": "nyt://book/1318026e-dd2b-58c2-a2c9-4bb830a6e786",
-      "contributor": "by Sasha Hamdani",
+      "book_uri": "nyt://book/bc71b95a-41a0-53f8-840b-342d8a929ba8",
+      "contributor": "by Julie Jones",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.59Z",
+      "created_date": "2026-09-09T18:10:33.836Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250423764",
-      "publisher": "Flatiron",
+      "primary_isbn13": "9781577155881",
+      "publisher": "Cool Springs",
       "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "TOO SENSITIVE",
-      "updated_date": "2026-09-02T18:40:14.59Z",
+      "title": "THE FUNCTIONAL HOME",
+      "updated_date": "2026-09-09T18:10:33.836Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250423764"
+          "isbn13": "9781577155881"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250423767?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1577155882?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250423764?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781577155881?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250423764&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftoo-sensitive-sasha-hamdani-md%2F1148902483%3Fean%3D9781250423764&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781577155881&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-functional-home-julie-jones%2F1149125430%3Fean%3D9781577155881&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FToo-Sensitive%2FSasha-Hamdani%2F9781250423764"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFunctional-Home%2FJulie-Jones%2F9781577155881"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250423764"
+          "url": "https://bookshop.org/a/3546/9781577155881"
         }
       ]
     },
@@ -197,11 +197,11 @@
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
       "rank": 4,
-      "rank_last_week": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 353,
+      "weeks_on_list": 354,
       "isbns": [
         {
           "isbn10": "",
@@ -233,281 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
+      "author": "Angela Duckworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668005941.jpg",
       "book_image_height": 500,
-      "book_image_width": 392,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/9b3c4b0a-8798-5042-9982-26a70275ba27",
-      "contributor": "by Dolly Parton and Rachel Parton George with Maurice Miner",
+      "book_uri": "nyt://book/5f714c15-2245-5fe4-a1fc-f154e0c42733",
+      "contributor": "by Angela Duckworth",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.733Z",
+      "created_date": "2026-09-09T18:10:33.992Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781984863164",
-      "publisher": "Ten Speed",
+      "primary_isbn13": "9781668005941",
+      "publisher": "Scribner",
       "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "GOOD LOOKIN' COOKIN'",
-      "updated_date": "2026-09-02T18:40:14.733Z",
-      "weeks_on_list": 15,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781984863164"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984863164?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgood-lookin-cookin-dolly-parton%2F1144953293%3Fean%3D9781984863164&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOOD%2BLOOKIN%2527%2BCOOKIN%2527%2FDolly%2BParton%2Band%2BRachel%2BParton%2BGeorge%2Bwith%2BMaurice%2BMiner%2F9781984863164"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984863164"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316594601?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Cassy Joy Garcia",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316594608.jpg",
-      "book_image_height": 500,
-      "book_image_width": 403,
-      "book_review_link": "",
-      "book_uri": "nyt://book/14e1a336-c8a6-5eb7-a45e-c77e84a0168a",
-      "contributor": "by Cassy Joy Garcia",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.885Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316594608",
-      "publisher": "Voracious",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE PROTEIN MEAL PREP PLAN",
-      "updated_date": "2026-09-02T18:40:14.885Z",
+      "title": "SITUATED",
+      "updated_date": "2026-09-09T18:10:33.992Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316594608"
+          "isbn13": "9781668005941"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316594601?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316594608?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668005941?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316594608&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-protein-meal-prep-plan-cassy-joy-garcia%2F1148854395%3Fean%3D9780316594608&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668005941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsituated-angela-duckworth%2F1149447488%3Fean%3D9781668005941&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtein-Meal-Prep-Plan%2FCassy-Joy-Garcia%2F9780316594608"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSituated%2FAngela-Duckworth%2F9781668005941"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316594608"
+          "url": "https://bookshop.org/a/3546/9781668005941"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063510804?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Big Cat, PFT Commenter et al",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063510807.jpg",
+      "author": "Alex Snodgrass",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063425736.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 402,
       "book_review_link": "",
-      "book_uri": "nyt://book/ca9979e5-c6ea-5062-8b3c-75857eb96bcc",
-      "contributor": "by Big Cat, PFT Commenter et al",
+      "book_uri": "nyt://book/784bf714-d3b3-5f56-9d0d-2972289afe42",
+      "contributor": "by Alex Snodgrass",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:57.633Z",
+      "created_date": "2026-09-02T18:40:14.435Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063510807",
-      "publisher": "Harper",
-      "rank": 7,
+      "primary_isbn13": "9780063425736",
+      "publisher": "Morrow",
+      "rank": 6,
       "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "PARDON MY BOOK",
-      "updated_date": "2026-08-26T17:40:57.633Z",
+      "title": "EVERYDAY EATS",
+      "updated_date": "2026-09-02T18:40:14.435Z",
       "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063510807"
+          "isbn13": "9780063425736"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063510804?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063510807?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063425736?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063510807&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpardon-my-book-big-cat%2F1149527973%3Fean%3D9780063510807&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063425736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feveryday-eats-alex-snodgrass%2F1148811740%3Fean%3D9780063425736&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPardon-My-Book%2FBig-Cat%2F9780063510807"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEveryday-Eats%2FAlex-Snodgrass%2F9780063425736"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063510807"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G52B1J79?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Skye Perryman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217273997.jpg",
-      "book_image_height": 500,
-      "book_image_width": 363,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d1cf987a-cfe0-5dad-a1e2-ee31db27ad55",
-      "contributor": "by Skye Perryman",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:15.036Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217273997",
-      "publisher": "Ten Speed",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ORDINARY PEOPLE, EXTRAORDINARY TIMES",
-      "updated_date": "2026-09-02T18:40:15.036Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217273997"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G52B1J79?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217273997?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217273997&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fordinary-people-extraordinary-times-skye-perryman%2F1149434676%3Fean%3D9798217273997&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOrdinary-People-Extraordinary-Times%2FSkye-Perryman%2F9798217273997"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217273997"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Caroline Chambers",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781454963264.jpg",
-      "book_image_height": 500,
-      "book_image_width": 400,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4d674be1-2fd8-5552-b18b-d47cef56189f",
-      "contributor": "by Caroline Chambers",
-      "contributor_note": "",
-      "created_date": "2026-08-19T17:19:38.409Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781454963264",
-      "publisher": "Union Square & Co.",
-      "rank": 9,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "WHAT TO COOK WHEN YOU DON'T FEEL LIKE COOKING: MAKE IT FAST",
-      "updated_date": "2026-08-19T17:19:38.409Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781454963264"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781454963264?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454963264&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhat-to-cook-when-you-dont-feel-like-cooking-caroline-chambers%2F1149501620%3Fean%3D9781454963264&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhat-Cook-Dont-Feel-Like%2FCaroline-Chambers%2F9781454963264"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781454963264"
+          "url": "https://bookshop.org/a/3546/9780063425736"
         }
       ]
     },
@@ -532,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 10,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-08-12T19:01:59.045Z",
-      "weeks_on_list": 49,
+      "weeks_on_list": 50,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +396,174 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593418574"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPDHGH8K?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Booth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798893311952.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/72079e41-3ccc-5c24-a96e-b46bc626c052",
+      "contributor": "by David Booth",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:34.125Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798893311952",
+      "publisher": "Authors Equity",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "STAY CALM",
+      "updated_date": "2026-09-09T18:10:34.125Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798893311952"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GPDHGH8K?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798893311952?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893311952&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstay-calm-david-booth%2F1149520352%3Fean%3D9798893311952&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStay-Calm%2FDavid-Booth%2F9798893311952"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798893311952"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316587427?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kier Gaines",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316587426.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/57775ddd-031a-57e2-be43-bfea9cd9828a",
+      "contributor": "by Kier Gaines",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:34.282Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316587426",
+      "publisher": "Little, Brown Spark",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IT ALL STARTS WHEN YOU DO",
+      "updated_date": "2026-09-09T18:10:34.282Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316587426"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316587427?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316587426?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316587426&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fit-all-starts-when-you-do-kier-gaines-lpc%2F1150065730%3Fean%3D9780316587426&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-Starts%2FKier-Gaines%2F9780316587426"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316587426"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Caroline Chambers",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781454963264.jpg",
+      "book_image_height": 500,
+      "book_image_width": 400,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4d674be1-2fd8-5552-b18b-d47cef56189f",
+      "contributor": "by Caroline Chambers",
+      "contributor_note": "",
+      "created_date": "2026-08-19T17:19:38.409Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781454963264",
+      "publisher": "Union Square & Co.",
+      "rank": 10,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "WHAT TO COOK WHEN YOU DON'T FEEL LIKE COOKING: MAKE IT FAST",
+      "updated_date": "2026-08-19T17:19:38.409Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781454963264"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781454963264?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454963264&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhat-to-cook-when-you-dont-feel-like-cooking-caroline-chambers%2F1149501620%3Fean%3D9781454963264&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhat-Cook-Dont-Feel-Like%2FCaroline-Chambers%2F9781454963264"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781454963264"
         }
       ]
     }
