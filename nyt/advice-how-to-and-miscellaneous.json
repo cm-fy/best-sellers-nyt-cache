@@ -5,61 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/2eea1403-0047-5bd9-8dbb-5bbc436b4339",
+  "uri": "nyt://bestsellerslist/4c0f508e-b333-5aaa-acd6-71c210baa451",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593797922?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0736993932?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Barbara Costello",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593797921.jpg",
+      "author": "Amir Tsarfati with Tolik Piflaks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736993937.jpg",
       "book_image_height": 500,
-      "book_image_width": 409,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/f9c4b3b1-a208-5f8b-92ec-0e8888f4d82d",
-      "contributor": "by Barbara Costello",
+      "book_uri": "nyt://book/cea93b66-e1a2-50e8-ae90-e33955c69f17",
+      "contributor": "by Amir Tsarfati with Tolik Piflaks",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:33.676Z",
+      "created_date": "2026-09-16T18:02:44.596Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593797921",
-      "publisher": "Clarkson Potter",
+      "primary_isbn13": "9780736993937",
+      "publisher": "Harvest House",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOMEMAKING WITH BABS",
-      "updated_date": "2026-09-09T18:10:33.676Z",
+      "title": "THE ELIJAH MANDATE",
+      "updated_date": "2026-09-16T18:02:44.596Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593797921"
+          "isbn13": "9780736993937"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593797922?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0736993932?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593797921?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780736993937?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593797921&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhomemaking-with-babs-barbara-costello%2F1148854143%3Fean%3D9780593797921&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736993937&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-elijah-mandate-amir-tsarfati%2F1148981949%3Fean%3D9780736993937&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHomemaking-Babs%2FBarbara-Costello%2F9780593797921"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FElijah-Mandate%2FAmir-Tsarfati%2F9780736993937"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593797921"
+          "url": "https://bookshop.org/a/3546/9780736993937"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 89,
+      "weeks_on_list": 90,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1577155882?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Julie Jones",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781577155881.jpg",
-      "book_image_height": 500,
-      "book_image_width": 394,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bc71b95a-41a0-53f8-840b-342d8a929ba8",
-      "contributor": "by Julie Jones",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:33.836Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781577155881",
-      "publisher": "Cool Springs",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE FUNCTIONAL HOME",
-      "updated_date": "2026-09-09T18:10:33.836Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781577155881"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1577155882?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781577155881?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781577155881&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-functional-home-julie-jones%2F1149125430%3Fean%3D9781577155881&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFunctional-Home%2FJulie-Jones%2F9781577155881"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781577155881"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 4,
+      "rank": 3,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 354,
+      "weeks_on_list": 355,
       "isbns": [
         {
           "isbn10": "",
@@ -233,337 +177,393 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Angela Duckworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668005941.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5f714c15-2245-5fe4-a1fc-f154e0c42733",
-      "contributor": "by Angela Duckworth",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:33.992Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668005941",
-      "publisher": "Scribner",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SITUATED",
-      "updated_date": "2026-09-09T18:10:33.992Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668005941"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668005941?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668005941&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsituated-angela-duckworth%2F1149447488%3Fean%3D9781668005941&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSituated%2FAngela-Duckworth%2F9781668005941"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668005941"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alex Snodgrass",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063425736.jpg",
-      "book_image_height": 500,
-      "book_image_width": 402,
-      "book_review_link": "",
-      "book_uri": "nyt://book/784bf714-d3b3-5f56-9d0d-2972289afe42",
-      "contributor": "by Alex Snodgrass",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.435Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063425736",
-      "publisher": "Morrow",
-      "rank": 6,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "EVERYDAY EATS",
-      "updated_date": "2026-09-02T18:40:14.435Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063425736"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063425734?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063425736?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063425736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feveryday-eats-alex-snodgrass%2F1148811740%3Fean%3D9780063425736&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEveryday-Eats%2FAlex-Snodgrass%2F9780063425736"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063425736"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Will Guidara",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593418574.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bc1ec950-e54a-57a5-a404-c9007374b508",
-      "contributor": "by Will Guidara",
-      "contributor_note": "",
-      "created_date": "2026-08-12T19:01:59.045Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593418574",
-      "publisher": "Optimism",
-      "rank": 7,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "UNREASONABLE HOSPITALITY",
-      "updated_date": "2026-08-12T19:01:59.045Z",
-      "weeks_on_list": 50,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593418574"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593418574?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593418574&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funreasonable-hospitality-will-guidara%2F1140825098%3Fean%3D9780593418574&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNREASONABLE%2BHOSPITALITY%2FWill%2BGuidara%2F9780593418574"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593418574"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GPDHGH8K?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "David Booth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798893311952.jpg",
-      "book_image_height": 500,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/72079e41-3ccc-5c24-a96e-b46bc626c052",
-      "contributor": "by David Booth",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.125Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798893311952",
-      "publisher": "Authors Equity",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "STAY CALM",
-      "updated_date": "2026-09-09T18:10:34.125Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798893311952"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GPDHGH8K?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798893311952?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893311952&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstay-calm-david-booth%2F1149520352%3Fean%3D9798893311952&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStay-Calm%2FDavid-Booth%2F9798893311952"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798893311952"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316587427?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kier Gaines",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316587426.jpg",
+      "author": "Priya Parker",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/57775ddd-031a-57e2-be43-bfea9cd9828a",
-      "contributor": "by Kier Gaines",
+      "book_uri": "nyt://book/754a13d8-354e-54d9-ab61-a6fffdc99980",
+      "contributor": "by Priya Parker",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.282Z",
+      "created_date": "2026-09-16T18:02:44.727Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316587426",
-      "publisher": "Little, Brown Spark",
-      "rank": 9,
+      "primary_isbn13": "9780593420225",
+      "publisher": "Riverhead",
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "IT ALL STARTS WHEN YOU DO",
-      "updated_date": "2026-09-09T18:10:34.282Z",
+      "title": "THE ART OF FIGHTING",
+      "updated_date": "2026-09-16T18:02:44.727Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316587426"
+          "isbn13": "9780593420225"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316587427?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316587426?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593420225?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316587426&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fit-all-starts-when-you-do-kier-gaines-lpc%2F1150065730%3Fean%3D9780316587426&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593420225&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-fighting-priya-parker%2F1149014672%3Fean%3D9780593420225&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAll-Starts%2FKier-Gaines%2F9780316587426"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Fighting%2FPriya-Parker%2F9780593420225"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316587426"
+          "url": "https://bookshop.org/a/3546/9780593420225"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0736993630?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Caroline Chambers",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781454963264.jpg",
+      "author": "Frank Turek and Phoenix Hayes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736993630.jpg",
       "book_image_height": 500,
-      "book_image_width": 400,
+      "book_image_width": 326,
       "book_review_link": "",
-      "book_uri": "nyt://book/4d674be1-2fd8-5552-b18b-d47cef56189f",
-      "contributor": "by Caroline Chambers",
+      "book_uri": "nyt://book/6b5da1fc-a2a1-5539-beaf-428a81fa828d",
+      "contributor": "by Frank Turek and Phoenix Hayes",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:38.409Z",
+      "created_date": "2026-09-16T18:02:44.866Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781454963264",
-      "publisher": "Union Square & Co.",
-      "rank": 10,
-      "rank_last_week": 9,
+      "primary_isbn13": "9780736993630",
+      "publisher": "Harvest Apologetics",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WHAT TO COOK WHEN YOU DON'T FEEL LIKE COOKING: MAKE IT FAST",
-      "updated_date": "2026-08-19T17:19:38.409Z",
-      "weeks_on_list": 4,
+      "title": "THE WAR ON REALITY",
+      "updated_date": "2026-09-16T18:02:44.866Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781454963264"
+          "isbn13": "9780736993630"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1454963263?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0736993630?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781454963264?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780736993630?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454963264&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhat-to-cook-when-you-dont-feel-like-cooking-caroline-chambers%2F1149501620%3Fean%3D9781454963264&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736993630&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-war-on-reality-frank-turek%2F1149334777%3Fean%3D9780736993630&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWhat-Cook-Dont-Feel-Like%2FCaroline-Chambers%2F9781454963264"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWar-Reality%2FFrank-Turek%2F9780736993630"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781454963264"
+          "url": "https://bookshop.org/a/3546/9780736993630"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G5WTFYDR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Josh Axe and Will Cole",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181353.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9727c464-5473-5f92-b688-8e6cf920f63c",
+      "contributor": "by Josh Axe and Will Cole",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:16:15.684Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217181353",
+      "publisher": "Avery",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HEAL YOUR CELLS",
+      "updated_date": "2026-09-16T18:16:15.684Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217181353"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G5WTFYDR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217181360?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheal-your-cells-josh-axe%2F1148911920%3Fean%3D9798217181353&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeal-Your-Cells%2FJosh-Axe%2F9798217181353"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217181353"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316594644?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Maria Koutsogiannis with Rachel Holtzman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316594646.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/743f3758-b0fb-5189-a7f7-3996672bc5eb",
+      "contributor": "by Maria Koutsogiannis with Rachel Holtzman",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:16:42.492Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316594646",
+      "publisher": "Voracious",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GREEK OUT",
+      "updated_date": "2026-09-16T18:16:42.492Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316594646"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316594644?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316594646?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316594646&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgreek-out-maria-koutsogiannis%2F1149565891%3Fean%3D9780316594646&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGreek-Out%2FMaria-Koutsogiannis%2F9780316594646"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316594646"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GV5YW2FZ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tracey Miller-Zarneke",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217377657.jpg",
+      "book_image_height": 500,
+      "book_image_width": 338,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b054a869-90fe-53d7-8f28-2ca4f1f1bac6",
+      "contributor": "by Tracey Miller-Zarneke",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:45.272Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217377657",
+      "publisher": "Random House Worlds",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ART OF KPOP DEMON HUNTERS: PLATINUM EDITION",
+      "updated_date": "2026-09-16T18:02:45.272Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217377657"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GV5YW2FZ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217377657?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217377657&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-kpop-demon-hunters-tracey-miller-zarneke%2F1149785917%3Fean%3D9798217377657&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Kpop-Demon-Hunters%2FTracey-Miller-Zarneke%2F9798217377657"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217377657"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/166824649X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jim Curtis",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668246498.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/20eeddd0-9e68-5a5f-bcf1-9bb090e957a6",
+      "contributor": "by Jim Curtis",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:45.459Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668246498",
+      "publisher": "Simon & Schuster",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE BOOK OF POSSIBILITY",
+      "updated_date": "2026-09-16T18:02:45.459Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668246498"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/166824649X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668246498?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668246498&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-of-possibility-jim-curtis%2F1149277658%3Fean%3D9781668246498&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBook-Possibility%2FJim-Curtis%2F9781668246498"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668246498"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G4ST45RC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jean Chatzky",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217179473.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c74a3de6-4b38-50c5-94af-7cda28ac630f",
+      "contributor": "by Jean Chatzky",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:45.59Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217179473",
+      "publisher": "Avery",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE FOREVER PAYCHECK",
+      "updated_date": "2026-09-16T18:02:45.59Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217179473"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G4ST45RC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217179473?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217179473&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-forever-paycheck-jean-chatzky%2F1149621091%3Fean%3D9798217179473&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FForever-Paycheck%2FJean-Chatzky%2F9798217179473"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217179473"
         }
       ]
     }

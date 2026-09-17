@@ -5,61 +5,173 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/8a1efd70-3d13-586f-957f-7dfd37519268",
+  "uri": "nyt://bestsellerslist/b2bf0bab-826c-5e16-923c-931edcddc918",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Hayden Panettiere",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538773420.jpg",
+      "author": "Victor Davis Hanson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 323,
       "book_review_link": "",
-      "book_uri": "nyt://book/beb1c79b-8322-5d38-8af3-1e36b2bc5f33",
-      "contributor": "by Hayden Panettiere",
+      "book_uri": "nyt://book/5d71f2e2-6c9c-534e-97a8-c1853871cd2b",
+      "contributor": "by Victor Davis Hanson",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.923Z",
+      "created_date": "2026-09-16T18:02:46.889Z",
       "dagger": 0,
-      "description": "The late actress describes how she contended with fame and handled difficulties in her life.",
+      "description": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781538773420",
-      "publisher": "Grand Central",
+      "primary_isbn13": "9781541607828",
+      "publisher": "Basic",
       "rank": 1,
-      "rank_last_week": 4,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THIS IS ME",
-      "updated_date": "2026-09-02T18:40:17.923Z",
-      "weeks_on_list": 4,
+      "title": "THE COUNTERREVOLUTION",
+      "updated_date": "2026-09-16T18:02:46.889Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781538773420"
+          "isbn13": "9781541607828"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668655627?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781541607828?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538773420&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-me-hayden-panettiere%2F1149240724%3Fean%3D9781538773420&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541607828&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-counterrevolution-victor-davis-hanson%2F1149100786%3Fean%3D9781541607828&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis%2FHayden-Panettiere%2F9781538773420"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCounterrevolution%2FVictor-Davis-Hanson%2F9781541607828"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538773420"
+          "url": "https://bookshop.org/a/3546/9781541607828"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah Longwell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250464170.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7879e6a7-f50c-54ed-a4b2-ea50b9475474",
+      "contributor": "by Sarah Longwell",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:47.029Z",
+      "dagger": 0,
+      "description": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250464170",
+      "publisher": "St. Martin's",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO EAT AN ELEPHANT",
+      "updated_date": "2026-09-16T18:02:47.029Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250464170"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250464170?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250464170&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-eat-an-elephant-sarah-longwell%2F1149619381%3Fean%3D9781250464170&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Eat-Elephant%2FSarah-Longwell%2F9781250464170"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250464170"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538784629?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Harlan Coben",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784624.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/49508792-6ee1-5a63-aa4f-dbcd00e1bd21",
+      "contributor": "by Harlan Coben",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:47.173Z",
+      "dagger": 0,
+      "description": "Coben, known for his suspense novels, shares stories from his childhood, inspirations for his characters and insights into his craft.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538784624",
+      "publisher": "Grand Central",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PLOT TWIST",
+      "updated_date": "2026-09-16T18:02:47.173Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784624"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538784629?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538784624?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784624&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fplot-twist-harlan-coben%2F1150025264%3Fean%3D9781538784624&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPlot-Twist%2FHarlan-Coben%2F9781538784624"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538784624"
         }
       ]
     },
@@ -84,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668031575",
       "publisher": "Scribner",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "AMERICAN SCOUNDREL",
       "updated_date": "2026-09-09T18:10:35.436Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Wilson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324099406.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/08/26/books/review/crossing-the-wine-dark-sea-emily-wilson.html",
-      "book_uri": "nyt://book/d281d7f8-31f3-50c0-9346-1e090294b2e7",
-      "contributor": "by Emily Wilson",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.571Z",
-      "dagger": 0,
-      "description": "The translator of editions of Homer’s “Iliad” and “Odyssey” explicates potential complications encountered in her line of work.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781324099406",
-      "publisher": "Liveright",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CROSSING THE WINE-DARK SEA",
-      "updated_date": "2026-09-09T18:10:35.571Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781324099406"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324099406?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324099406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrossing-the-wine-dark-sea-emily-wilson%2F1148214886%3Fean%3D9781324099406&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrossing-Wine-Dark-Sea%2FEmily-Wilson%2F9781324099406"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324099406"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668067246",
       "publisher": "Simon & Schuster",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "REGIME CHANGE",
       "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 11,
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +289,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0306837439?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ted Cruz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181193.jpg",
+      "author": "Dave Mustaine with Joe Layden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780306837432.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/40d3d16a-d4d4-585e-a2a6-5515666885c8",
-      "contributor": "by Ted Cruz",
+      "book_uri": "nyt://book/f99698fa-38ca-502c-80c1-05dceeab3897",
+      "contributor": "by Dave Mustaine with Joe Layden",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.65Z",
+      "created_date": "2026-09-16T18:02:47.301Z",
       "dagger": 0,
-      "description": "The Republican senator from Texas profiles the Supreme Court justice Clarence Thomas.",
+      "description": "The lead vocalist and guitarist for Megadeth describes the turn his life took when he was diagnosed with squamous cell carcinoma.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217181193",
-      "publisher": "Sentinel",
-      "rank": 5,
-      "rank_last_week": 1,
+      "primary_isbn13": "9780306837432",
+      "publisher": "Da Capo",
+      "rank": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "GOING FURTHER",
-      "updated_date": "2026-09-02T18:40:17.65Z",
-      "weeks_on_list": 2,
+      "title": "IN MY DARKEST HOUR",
+      "updated_date": "2026-09-16T18:02:47.301Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217181193"
+          "isbn13": "9780306837432"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0306837439?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217181193?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780306837432?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181193&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgoing-further-ted-cruz%2F1149929705%3Fean%3D9798217181193&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780306837432&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fin-my-darkest-hour-dave-mustaine%2F1146068958%3Fean%3D9780306837432&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoing-Further%2FTed-Cruz%2F9798217181193"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Darkest-Hour%2FDave-Mustaine%2F9780306837432"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217181193"
+          "url": "https://bookshop.org/a/3546/9780306837432"
         }
       ]
     },
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593733318",
       "publisher": "Dial",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "STRANGERS",
       "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 34,
+      "weeks_on_list": 35,
       "isbns": [
         {
           "isbn10": "",
@@ -345,62 +401,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668090163?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dara Horn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668090169.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4e8a275e-a4af-5d1c-b04f-243d631bd677",
-      "contributor": "by Dara Horn",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.728Z",
-      "dagger": 0,
-      "description": "The National Jewish Book Award winner looks at some of the causes of antisemitism throughout history.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668090169",
-      "publisher": "Avid Reader",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE FINAL SOLUTION TO THE JEWISH QUESTION",
-      "updated_date": "2026-09-09T18:10:35.728Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668090169"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668090163?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668090169?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668090169&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-final-solution-to-the-jewish-question-dara-horn%2F1150050073%3Fean%3D9781668090169&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520FINAL%2520SOLUTION%2520TO%2520THE%2520JEWISH%2520QUESTION%2520by%2520Dara%2520Horn"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668090169"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -425,7 +425,7 @@
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 311,
+      "weeks_on_list": 312,
       "isbns": [
         {
           "isbn10": "",
@@ -457,169 +457,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593716345?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Patrick Radden Keefe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
+      "author": "William D. Cohan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593716342.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
-      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
-      "contributor": "by Patrick Radden Keefe",
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/09/08/books/review/money-to-burn-william-d-cohan.html",
+      "book_uri": "nyt://book/af21aa64-eef5-5647-86da-f588e94b0251",
+      "contributor": "by William D. Cohan",
       "contributor_note": "",
-      "created_date": "2026-04-15T21:36:09.161Z",
+      "created_date": "2026-09-16T18:02:47.446Z",
       "dagger": 0,
-      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
+      "description": "The author of “Power Failure” depicts the rise and fall of Leon Black, a founder of the investment firm Apollo Global Management.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780385548533",
-      "publisher": "Doubleday",
+      "primary_isbn13": "9780593716342",
+      "publisher": "Portfolio",
       "rank": 9,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "LONDON FALLING",
-      "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 22,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385548533"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385548533"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063572672?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Frank Siller",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063572676.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ee4c94f7-74f4-5677-a9ce-f022d168ca12",
-      "contributor": "by Frank Siller",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.863Z",
-      "dagger": 1,
-      "description": "The chief executive of the Tunnel to Towers Foundation describes how the actions his deceased brother took on 9/11 inspired the creation of his nonprofit.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063572676",
-      "publisher": "Broadside",
-      "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LET US DO GOOD",
-      "updated_date": "2026-09-09T18:10:35.863Z",
+      "title": "MONEY TO BURN",
+      "updated_date": "2026-09-16T18:02:47.446Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063572676"
+          "isbn13": "9780593716342"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063572672?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593716345?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063572676?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593716342?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063572676&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flet-us-do-good-frank-siller%2F1150151652%3Fean%3D9780063572676&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593716342&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmoney-to-burn-william-d-cohan%2F1149856096%3Fean%3D9780593716342&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLet-Us-Good%2FFrank-Siller%2F9780063572676"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMoney-Burn%2FWilliam-D-Cohan%2F9780593716342"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063572676"
+          "url": "https://bookshop.org/a/3546/9780593716342"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1982116641?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gil Durán",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668221402.jpg",
+      "author": "Jaclyn Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781982116644.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/ee761f8e-7548-5534-a13f-a9f7c8fe325c",
-      "contributor": "by Gil Durán",
+      "book_uri": "nyt://book/828e73a4-9fd7-5975-b410-2264b96f0299",
+      "contributor": "by Jaclyn Smith",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:58.952Z",
+      "created_date": "2026-09-16T18:02:47.602Z",
       "dagger": 0,
-      "description": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule.",
+      "description": "The actress recounts some of her personal and professional experiences, including her five seasons on the TV series “Charlie’s Angels.”",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668221402",
-      "publisher": "Avid Reader",
-      "rank": 11,
-      "rank_last_week": 11,
+      "primary_isbn13": "9781982116644",
+      "publisher": "Gallery",
+      "rank": 10,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE NERD REICH",
-      "updated_date": "2026-08-26T17:40:58.952Z",
-      "weeks_on_list": 3,
+      "title": "I ONCE KNEW A GUY NAMED CHARLIE",
+      "updated_date": "2026-09-16T18:02:47.602Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668221402"
+          "isbn13": "9781982116644"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1982116641?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668221402?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781982116644?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668221402&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-nerd-reich-gil-duran%2F1148803930%3Fean%3D9781668221402&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982116644&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-once-knew-a-guy-named-charlie-jaclyn-smith%2F1149528098%3Fean%3D9781982116644&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNerd-Reich%2FGil-Durn%2F9781668221402"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOnce-Knew-Guy-Named-Charlie%2FJaclyn-Smith%2F9781982116644"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668221402"
+          "url": "https://bookshop.org/a/3546/9781982116644"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Hayden Panettiere",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538773420.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/beb1c79b-8322-5d38-8af3-1e36b2bc5f33",
+      "contributor": "by Hayden Panettiere",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:17.923Z",
+      "dagger": 0,
+      "description": "The late actress describes how she contended with fame and handled difficulties in her life.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538773420",
+      "publisher": "Grand Central",
+      "rank": 11,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THIS IS ME",
+      "updated_date": "2026-09-02T18:40:17.923Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538773420"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668655627?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538773420&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-me-hayden-panettiere%2F1149240724%3Fean%3D9781538773420&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis%2FHayden-Panettiere%2F9781538773420"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538773420"
         }
       ]
     },
@@ -645,11 +645,11 @@
       "primary_isbn13": "9780060959470",
       "publisher": "Morrow",
       "rank": 12,
-      "rank_last_week": 14,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "ALL ABOUT LOVE",
       "updated_date": "2026-09-02T18:40:18.473Z",
-      "weeks_on_list": 68,
+      "weeks_on_list": 69,
       "isbns": [
         {
           "isbn10": "",
@@ -681,169 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984863134?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Dolly Parton with Tom Roland",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863133.jpg",
+      "author": "Patrick Radden Keefe",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
       "book_image_height": 500,
-      "book_image_width": 374,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f643f24d-a97b-5516-9dcf-9c4c5ffe89d1",
-      "contributor": "by Dolly Parton with Tom Roland",
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
+      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
+      "contributor": "by Patrick Radden Keefe",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:18.057Z",
+      "created_date": "2026-04-15T21:36:09.161Z",
       "dagger": 0,
-      "description": "Stories and photographs documenting the late country music icon’s career onstage.",
+      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781984863133",
-      "publisher": "Ten Speed",
+      "primary_isbn13": "9780385548533",
+      "publisher": "Doubleday",
       "rank": 13,
-      "rank_last_week": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "STAR OF THE SHOW",
-      "updated_date": "2026-09-02T18:40:18.057Z",
-      "weeks_on_list": 3,
+      "title": "LONDON FALLING",
+      "updated_date": "2026-04-15T21:36:09.161Z",
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781984863133"
+          "isbn13": "9780385548533"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984863134?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984863133?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863133&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstar-of-the-show-dolly-parton%2F1147206404%3Fean%3D9781984863133&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStar-Show%2FDolly-Parton%2F9781984863133"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984863133"
+          "url": "https://bookshop.org/a/3546/9780385548533"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robin Wall Kimmerer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
+      "author": "Ted Cruz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181193.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
-      "contributor": "by Robin Wall Kimmerer",
+      "book_uri": "nyt://book/40d3d16a-d4d4-585e-a2a6-5515666885c8",
+      "contributor": "by Ted Cruz",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.415Z",
+      "created_date": "2026-09-02T18:40:17.65Z",
       "dagger": 0,
-      "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+      "description": "The Republican senator from Texas profiles the Supreme Court justice Clarence Thomas.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781571313560",
-      "publisher": "Milkweed Editions",
+      "primary_isbn13": "9798217181193",
+      "publisher": "Sentinel",
       "rank": 14,
-      "rank_last_week": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "BRAIDING SWEETGRASS",
-      "updated_date": "2026-06-03T18:21:54.415Z",
-      "weeks_on_list": 106,
+      "title": "GOING FURTHER",
+      "updated_date": "2026-09-02T18:40:17.65Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781571313560"
+          "isbn13": "9798217181193"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217181193?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781571313560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbraiding-sweetgrass-robin-wall-kimmerer%2F1114828102%3Fean%3D9781571313560&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181193&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgoing-further-ted-cruz%2F1149929705%3Fean%3D9798217181193&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBraiding-Sweetgrass%2FRobin-Wall-Kimmerer%2F9781571313560"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoing-Further%2FTed-Cruz%2F9798217181193"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781571313560"
+          "url": "https://bookshop.org/a/3546/9798217181193"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ian Leslie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250869517.jpg",
+      "author": "Gil Durán",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668221402.jpg",
       "book_image_height": 500,
-      "book_image_width": 326,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/7adab9a6-c0b4-5937-85be-26eb991f9b7e",
-      "contributor": "by Ian Leslie",
+      "book_uri": "nyt://book/ee761f8e-7548-5534-a13f-a9f7c8fe325c",
+      "contributor": "by Gil Durán",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:36.015Z",
+      "created_date": "2026-08-26T17:40:58.952Z",
       "dagger": 0,
-      "description": "The 23-year relationship between John Lennon and Paul McCartney is viewed through the lens of the songs they wrote together.",
+      "description": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250869517",
-      "publisher": "Celadon",
+      "primary_isbn13": "9781668221402",
+      "publisher": "Avid Reader",
       "rank": 15,
-      "rank_last_week": 0,
+      "rank_last_week": 11,
       "sunday_review_link": "",
-      "title": "JOHN & PAUL",
-      "updated_date": "2026-09-09T18:10:36.015Z",
-      "weeks_on_list": 3,
+      "title": "THE NERD REICH",
+      "updated_date": "2026-08-26T17:40:58.952Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250869517"
+          "isbn13": "9781668221402"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250869517?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668221402?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250869517&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjohn-paul-ian-leslie%2F1146328438%3Fean%3D9781250869517&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668221402&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-nerd-reich-gil-duran%2F1148803930%3Fean%3D9781668221402&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJohn-Paul%2FIan-Leslie%2F9781250869517"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNerd-Reich%2FGil-Durn%2F9781668221402"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250869517"
+          "url": "https://bookshop.org/a/3546/9781668221402"
         }
       ]
     }

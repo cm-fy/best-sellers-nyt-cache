@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/bc3c5abd-0503-53ff-8a32-dbf5b564b12d",
+  "uri": "nyt://bestsellerslist/9c1c31a0-cd98-5185-a690-b79160f0d23f",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9798217124183",
       "publisher": "Delacorte",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "OUR STRANGE DUET",
       "updated_date": "2026-09-09T18:10:32.228Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -64,114 +64,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20",
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Brandon Sanderson and Janci Patterson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593707050.jpg",
+      "author": "Aiden Thomas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250894939.jpg",
       "book_image_height": 500,
-      "book_image_width": 311,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/7cf6878e-177c-5a88-b706-4d58fda88588",
-      "contributor": "by Brandon Sanderson and Janci Patterson",
+      "book_uri": "nyt://book/b1384045-8dd5-5743-b886-8527051a16fc",
+      "contributor": "by Aiden Thomas",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.378Z",
+      "created_date": "2026-09-16T18:02:43.696Z",
       "dagger": 0,
-      "description": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
+      "description": "In this sequel to “Cemetery Boys,” Julian is now able to see and communicate with spirits. (Ages 13 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593707050",
-      "publisher": "Delacorte",
+      "primary_isbn13": "9781250894939",
+      "publisher": "Feiwel & Friends",
       "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BLIGHTFALL",
-      "updated_date": "2026-09-09T18:10:32.378Z",
+      "title": "ESPÍRITU",
+      "updated_date": "2026-09-16T18:02:43.696Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593707050"
+          "isbn13": "9781250894939"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593707050?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250894939?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593707050&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblightfall-brandon-sanderson%2F1149611648%3Fean%3D9780593707050&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250894939&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcemetery-boys-aiden-thomas%2F1146474040%3Fean%3D9781250894939&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlightfall%2FBrandon-Sanderson%2F9780593707050"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCemetery-Boys%2FAiden-Thomas%2F9781250894939"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593707050"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJ4BBFM7?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Autumn Krause",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217027668.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/829ac9da-73ff-5114-b202-f6ee0d28e6a6",
-      "contributor": "by Autumn Krause",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.537Z",
-      "dagger": 0,
-      "description": "Love blooms in a Japanese internment camp in California. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217027668",
-      "publisher": "Delacorte",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE GODS WILL SING OUR SONG",
-      "updated_date": "2026-09-09T18:10:32.537Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217027668"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJ4BBFM7?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217027668?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217027668&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gods-will-sing-our-song-autumn-krause%2F1149267617%3Fean%3D9798217027668&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGods-Will-Sing-Our-Song%2FAutumn-Krause%2F9798217027668"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217027668"
+          "url": "https://bookshop.org/a/3546/9781250894939"
         }
       ]
     },
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781640366008",
       "publisher": "Mattel",
-      "rank": 4,
-      "rank_last_week": 1,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "BARBIE: DREAMSCAPE",
       "updated_date": "2026-08-26T17:40:57.362Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -237,31 +181,31 @@
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Anna Bright",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217236237.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780736447362.jpg",
+      "book_image_height": 500,
+      "book_image_width": 353,
       "book_review_link": "",
-      "book_uri": "nyt://book/2c9598dd-3677-5f57-b42a-dce061ddcea8",
+      "book_uri": "nyt://book/1a98bc13-924f-57e2-9f5d-8f0cf5435702",
       "contributor": "by Anna Bright",
       "contributor_note": "",
-      "created_date": "2026-08-13T14:35:04.184Z",
+      "created_date": "2026-09-16T18:02:43.834Z",
       "dagger": 0,
       "description": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217236237",
+      "primary_isbn13": "9780736447362",
       "publisher": "Random House/Disney",
-      "rank": 5,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
-      "updated_date": "2026-08-13T14:35:04.184Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-09-16T18:02:43.834Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217236237"
+          "isbn13": "9780736447362"
         }
       ],
       "buy_links": [
@@ -274,8 +218,8 @@
           "url": "https://goto.applebooks.apple/9780736447362?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217236237&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwings-of-reverie-anna-bright%2F1149150097%3Fean%3D9798217236237&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736447362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwings-of-reverie-anna-bright%2F1149150097%3Fean%3D9780736447362&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -284,62 +228,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780736447362"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250411238?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ayana Gray",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250411235.jpg",
-      "book_image_height": 500,
-      "book_image_width": 350,
-      "book_review_link": "",
-      "book_uri": "nyt://book/2c0b5ede-5703-5e2b-aa9d-cff386f700d4",
-      "contributor": "by Ayana Gray",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.695Z",
-      "dagger": 0,
-      "description": "Vesper Evans is hired to prove the innocence of Maximilian Kite, a prime suspect in a murder case. (Ages 14 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250411235",
-      "publisher": "Balzer + Bray",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HAWK & SPARROW",
-      "updated_date": "2026-09-09T18:10:32.695Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250411235"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250411238?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250411235?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250411235&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhawk-sparrow-ayana-gray%2F1149446343%3Fean%3D9781250411235&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHawk-Sparrow%2FAyana-Gray%2F9781250411235"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250411235"
         }
       ]
     },
@@ -356,7 +244,7 @@
       "book_uri": "nyt://book/0919a11a-0b5e-5ba7-a763-ea9e56f13405",
       "contributor": "by Misty Wilson",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.824Z",
+      "created_date": "2026-09-16T18:02:43.987Z",
       "dagger": 0,
       "description": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
       "first_chapter_link": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347116430",
       "publisher": "Margaret K. McElderry",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "FALLING LIKE LEAVES",
-      "updated_date": "2026-09-09T18:10:32.824Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-09-16T18:02:43.987Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -400,62 +288,6 @@
       ]
     },
     {
-      "age_group": "Ages 16 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1682817512?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Nisha J. Tuli",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682817513.jpg",
-      "book_image_height": 500,
-      "book_image_width": 309,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9b6288d6-9705-5228-8e06-58e4573f9ccb",
-      "contributor": "by Nisha J. Tuli",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.965Z",
-      "dagger": 0,
-      "description": "In the sequel to “Storm Breaker,” Poet finds it harder to trust anyone, including Rook. (Ages 16 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781682817513",
-      "publisher": "Mayhem",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "STORM CALLER",
-      "updated_date": "2026-09-09T18:10:32.965Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781682817513"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682817512?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682817513?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682817513&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstorm-caller-nisha-j-tuli%2F1150313214%3Fean%3D9781682817513&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStorm-Caller%2FNisha-J-Tuli%2F9781682817513"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682817513"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -476,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217026500",
       "publisher": "Delacorte",
-      "rank": 9,
-      "rank_last_week": 4,
+      "rank": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THORNBIRD",
       "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -512,6 +344,62 @@
       ]
     },
     {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brandon Sanderson and Janci Patterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217446353.jpg",
+      "book_image_height": 500,
+      "book_image_width": 311,
+      "book_review_link": "",
+      "book_uri": "nyt://book/baf17b4d-b576-5a0d-8c2e-cde99affd05a",
+      "contributor": "by Brandon Sanderson and Janci Patterson",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:44.123Z",
+      "dagger": 0,
+      "description": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217446353",
+      "publisher": "Delacorte",
+      "rank": 7,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "BLIGHTFALL",
+      "updated_date": "2026-09-16T18:02:44.123Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217446353"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593707050?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217446353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblightfall-brandon-sanderson%2F1149611648%3Fean%3D9798217446353&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlightfall%2FBrandon-Sanderson%2F9780593707050"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217446353"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593898840",
       "publisher": "Delacorte",
-      "rank": 10,
-      "rank_last_week": 5,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +452,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593898840"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1665978937?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Scott Reintgen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665978934.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7666568d-200c-5179-a32e-7bf73a706dc9",
+      "contributor": "by Scott Reintgen",
+      "contributor_note": "",
+      "created_date": "2026-04-08T18:13:19.228Z",
+      "dagger": 0,
+      "description": "When an airship crash lands on a deserted island, a deadly mythical creature smuggled aboard escapes and begins to prey on the survivors. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665978934",
+      "publisher": "Margaret K. McElderry",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DEVIOUS PREY",
+      "updated_date": "2026-04-08T18:13:19.228Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665978934"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665978937?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665978934?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665978934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdevious-prey-scott-reintgen%2F1147556664%3Fean%3D9781665978934&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDevious-Prey%2FScott-Reintgen%2F9781665978934"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665978934"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Margaret Owen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368101042.jpg",
+      "book_image_height": 500,
+      "book_image_width": 343,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c13ab041-341c-5b33-b5e6-e3820b9ff2d6",
+      "contributor": "by Margaret Owen",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:12.825Z",
+      "dagger": 0,
+      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368101042",
+      "publisher": "Random House/Disney",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ROOTBOUND",
+      "updated_date": "2026-09-02T18:40:12.825Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368101042"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368101042&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9781368101042&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368101042"
         }
       ]
     }

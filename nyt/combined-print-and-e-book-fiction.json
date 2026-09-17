@@ -5,61 +5,61 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/8d480557-df02-594d-9c58-24d09e511d92",
+  "uri": "nyt://bestsellerslist/b5eb7718-13c0-597f-90b5-7b777efcf5fe",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316601845?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G75QJGLQ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rachel Gillig",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316608329.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "J.D. Robb",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250414571.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/13890d2c-ad77-5c4a-b605-61b10abc491c",
-      "contributor": "by Rachel Gillig",
+      "book_uri": "nyt://book/99c0d53d-cb7f-5f07-aacb-893607b9e604",
+      "contributor": "by J.D. Robb",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:13:25.548Z",
+      "created_date": "2026-09-16T18:02:45.726Z",
       "dagger": 0,
-      "description": "The second book in the Stonewater Kingdom series. A knave who is lacking his memory may help Sybil take Benji out of power.",
+      "description": "The 63rd book of the In Death series. Eve Dallas investigates the violent death of a wealthy biotech executive.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316608329",
-      "publisher": "Orbit",
+      "primary_isbn13": "9781250414571",
+      "publisher": "St. Martin's",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE KNAVE AND THE MOON",
-      "updated_date": "2026-09-09T18:13:25.548Z",
+      "title": "FURY IN DEATH",
+      "updated_date": "2026-09-16T18:02:45.726Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316608329"
+          "isbn13": "9781250414571"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316601845?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G75QJGLQ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316601849?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250414571?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316608329&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-knave-and-the-moon-rachel-gillig%2F1148304786%3Fean%3D9780316608329&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250414571&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffury-in-death-j-d-robb%2F1148909599%3Fean%3D9781250414571&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKnave-Moon%2FRachel-Gillig%2F9780316601849"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFury-Death%2FJ-D-Robb%2F9781250414564"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316601849"
+          "url": "https://bookshop.org/a/3546/9781250414571"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781668236512",
       "publisher": "Atria",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668200228?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Penn Cole",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668200223.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/538d15ba-2855-571e-a9e5-73c23192bf4a",
+      "contributor": "by Penn Cole",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:45.883Z",
+      "dagger": 0,
+      "description": "The fourth book of the Kindred's Curse Saga. War, rebellion and an unlikely alliance factor into whether the future will be in darkness.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668200223",
+      "publisher": "Atria",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BURN OF THE EVERFLAME",
+      "updated_date": "2026-09-16T18:02:45.883Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668200223"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668200228?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668200223?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668200223&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fburn-of-the-everflame-penn-cole%2F1149917487%3Fean%3D9781668200223&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBurn-Everflame%2FPenn-Cole%2F9781668200223"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668200223"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +233,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385550340?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ariel Lawhon",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550345.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/09/08/books/review/the-pirate-queen-ariel-lawhon.html",
+      "book_uri": "nyt://book/917506e8-c130-5dba-ab81-08d312a53e34",
+      "contributor": "by Ariel Lawhon",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:46.037Z",
+      "dagger": 0,
+      "description": "In 16th-century Ireland, Grace O’Malley endures betrayal and hardship before leading a fleet of ships to defend her land.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780385550345",
+      "publisher": "Doubleday",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE PIRATE QUEEN",
+      "updated_date": "2026-09-16T18:02:46.037Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780385550345"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385550340?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385550345?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550345&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pirate-queen-ariel-lawhon%2F1149957216%3Fean%3D9780385550345&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPirate-Queen%2FAriel-Lawhon%2F9780385550345"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385550345"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316601845?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rachel Gillig",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316601849.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/46c8472b-9156-5157-95e0-6d1264bd4db3",
+      "contributor": "by Rachel Gillig",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:46.171Z",
+      "dagger": 0,
+      "description": "The second book in the Stonewater Kingdom series. A knave who is lacking his memory may help Sybil take Benji out of power.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316601849",
+      "publisher": "Orbit",
+      "rank": 6,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THE KNAVE AND THE MOON",
+      "updated_date": "2026-09-16T18:02:46.171Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316601849"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316601845?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316601849?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316601849&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-knave-and-the-moon-rachel-gillig%2F1148304786%3Fean%3D9780316601849&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKnave-Moon%2FRachel-Gillig%2F9780316601849"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316601849"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 7,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +401,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063473747?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "R.F. Kuang",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063473744.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/69ceb7f4-fe7e-5474-ac3e-d8be5912da7d",
+      "contributor": "by R.F. Kuang",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:08:23.463Z",
+      "dagger": 0,
+      "description": "A Chinese American college freshman spending a summer in Taipei struggles with her family’s history.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063473744",
+      "publisher": "Morrow",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "TAIPEI STORY",
+      "updated_date": "2026-09-16T18:08:23.463Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063473744"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063473747?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063571976?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063473744&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftaipei-story-r-f-kuang%2F1149008782%3Fean%3D9780063473744&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTaipei-Story-Deluxe-Limited%2FR-F-Kuang%2F9780063473744"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063473744"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668074648?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Hoffman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668074640.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f7de7143-d7ee-5b2d-8685-a00b1e887ace",
+      "contributor": "by Alice Hoffman",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:46.444Z",
+      "dagger": 0,
+      "description": "In 1950s Cambridge, Mass., Ava and Lauren join a society of witches with ties going back to colonial times.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668074640",
+      "publisher": "Scribner",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE WITCHES OF CAMBRIDGE",
+      "updated_date": "2026-09-16T18:02:46.444Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668074640"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668074648?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668074640?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668074640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-witches-of-cambridge-alice-hoffman%2F1148560383%3Fean%3D9781668074640&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWitches-Cambridge-Read-Jenna-Pick%2FAlice-Hoffman%2F9781668074640"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668074640"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 10,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 22,
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
@@ -300,7 +580,7 @@
       "book_uri": "nyt://book/683bea68-f9f7-5567-b25e-0bdb14bb9e7a",
       "contributor": "by Liane Moriarty",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.553Z",
+      "created_date": "2026-09-16T18:02:46.604Z",
       "dagger": 0,
       "description": "In a sequel to “Big Little Lies,” a stranger’s presence at a school may force things to the fore that had not been shared.",
       "first_chapter_link": "",
@@ -308,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593798645",
       "publisher": "Crown",
-      "rank": 6,
-      "rank_last_week": 2,
+      "rank": 11,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "BIG LITTLE TRUTHS",
-      "updated_date": "2026-09-09T18:10:34.553Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-09-16T18:02:46.604Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
-      "rank": 7,
+      "rank": 12,
       "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -401,449 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063488760?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "MrBeast and James Patterson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063488762.jpg",
-      "book_image_height": 500,
-      "book_image_width": 346,
-      "book_review_link": "",
-      "book_uri": "nyt://book/825d6e34-7459-561c-90f3-0aa416154b5e",
-      "contributor": "by MrBeast and James Patterson",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.691Z",
-      "dagger": 0,
-      "description": "A group of mysteriously summoned competitors must overcome difficult terrain and tough challengers.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063488762",
-      "publisher": "Morrow",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE MOST DANGEROUS GAMES",
-      "updated_date": "2026-09-09T18:10:34.691Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063488762"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063488760?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063488762?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063488762&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-most-dangerous-games-mrbeast%2F1150203780%3Fean%3D9780063488762&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMost-Dangerous-Games-Deluxe-Limited%2FMrBeast%2F9780063488762"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063488762"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593717201?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Marlon James",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593717202.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html",
-      "book_uri": "nyt://book/a243e2b8-47f9-5e3d-85d2-7b1514f36e93",
-      "contributor": "by Marlon James",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.839Z",
-      "dagger": 0,
-      "description": "In 1988, a group of eight gay men are attacked in Jamaica. One of them is killed, leaving the others to respond in different ways.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593717202",
-      "publisher": "Riverhead",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE DISAPPEARERS",
-      "updated_date": "2026-09-09T18:10:34.839Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593717202"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593717201?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593717202?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://www.barnesandnoble.com/w/?ean=9780593717202"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDisappearers%2FMarlon-James%2F9780593717202"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593717202"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/145be7c2-d6e3-54f3-8cb3-a5fd82a4af37",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:19:09.043Z",
-      "dagger": 0,
-      "description": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464249617",
-      "publisher": "Poisoned Pen",
-      "rank": 10,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "BRAIN DAMAGE",
-      "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464249617"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781039416956?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbrain-damage-freida-mcfadden%2F1149563990%3Fean%3D9781464249617&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrain-Damage%2FFreida-McFadden%2F9781464249617"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249617"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0CYXX3PX1?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Virginia Evans",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593798447.jpg",
+      "author": "Colleen Hoover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/4757ace3-5397-5cbf-8681-ecab86c955d0",
-      "contributor": "by Virginia Evans",
+      "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
+      "contributor": "by Colleen Hoover",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:34.979Z",
+      "created_date": "2026-08-19T17:19:39.845Z",
       "dagger": 0,
-      "description": "Letters from someone she used to know push Sybil Van Antwerp toward revisiting her past and finding a way to forgive.",
+      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593798447",
-      "publisher": "Crown",
-      "rank": 11,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "THE CORRESPONDENT",
-      "updated_date": "2026-09-09T18:10:34.979Z",
-      "weeks_on_list": 43,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593798447"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0CYXX3PX1?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593798447?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593798447&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-correspondent-virginia-evans%2F1146138272%3Fean%3D9780593798447&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCorrespondent%2FVirginia-Evans%2F9780593798430"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593798447"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sally Hepworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/736c390c-8e20-527f-a6de-fbab2b17310c",
-      "contributor": "by Sally Hepworth",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.133Z",
-      "dagger": 0,
-      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250284556",
-      "publisher": "St. Martin's",
-      "rank": 12,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "MAD MABEL",
-      "updated_date": "2026-09-09T18:10:35.133Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250284556"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250284556?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284556&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284556&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250284556"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G4NM5B19?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jack Stewart",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217183180.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae2dc9b1-8e25-5b02-93bb-a0ea4f95df1e",
-      "contributor": "by Jack Stewart",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.291Z",
-      "dagger": 0,
-      "description": "The 15th book in the Jack Ryan Jr. series. A routine mission uncovers an unprecedented weapon.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217183180",
-      "publisher": "Putnam",
+      "primary_isbn13": "9781538784051",
+      "publisher": "Grand Central",
       "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "TOM CLANCY: PRESSURE DEPTH",
-      "updated_date": "2026-09-09T18:10:35.291Z",
+      "title": "VERITY",
+      "updated_date": "2026-08-19T17:19:39.845Z",
+      "weeks_on_list": 100,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784051"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538784051?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784051&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-colleen-hoover%2F1130171830%3Fean%3D9781538784051&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity%2FColleen-Hoover%2F9781538784051"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538784051"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1636416152?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jonathan Cahn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781636416151.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/966f797c-464b-5689-bede-347da077f146",
+      "contributor": "by Jonathan Cahn",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:30.116Z",
+      "dagger": 0,
+      "description": "Ariel Herzog and Lara Winter are pursued as they go around the world in an attempt to unlock a mystery.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781636416151",
+      "publisher": "Frontline",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ALTAR OF PERGAMON",
+      "updated_date": "2026-09-09T18:10:30.116Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217183180"
+          "isbn13": "9781636416151"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G4NM5B19?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1636416152?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217183180?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781636416151?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217183180&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftom-clancy-pressure-depth-jack-stewart%2F1148854079%3Fean%3D9798217183180&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781636416151&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-altar-of-pergamon-jonathan-cahn%2F1149929651%3Fean%3D9781636416151&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTom-Clancy-Pressure-Depth%2FJack-Stewart%2F9798217183166"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAltar-Pergamon%2FJonathan-Cahn%2F9781636416151"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217183180"
+          "url": "https://bookshop.org/a/3546/9781636416151"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063451360?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
+      "author": "Victoria Aveyard",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063451360.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 343,
       "book_review_link": "",
-      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
-      "contributor": "by Matt Dinniman",
+      "book_uri": "nyt://book/b3a219dd-5d9f-52f8-815f-8ef7212ce893",
+      "contributor": "by Victoria Aveyard",
       "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.637Z",
+      "created_date": "2026-09-16T18:02:46.735Z",
       "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "description": "Cat Rose, a fallen noblewoman, fights against Valerian Kane, a pirate captain who is her former lover, to gain control of the high seas.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593820278",
-      "publisher": "Ace",
-      "rank": 14,
-      "rank_last_week": 11,
+      "primary_isbn13": "9780063451360",
+      "publisher": "Harper Voyager",
+      "rank": 15,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 6,
+      "title": "TEMPEST",
+      "updated_date": "2026-09-16T18:02:46.735Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593820278"
+          "isbn13": "9780063451360"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063451360?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063451360?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063451360&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftempest-victoria-aveyard%2F1149128022%3Fean%3D9780063451360&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTempest-Deluxe-Limited%2FVictoria-Aveyard%2F9780063451360"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820278"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
-      "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 15,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 65,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593135228"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
+          "url": "https://bookshop.org/a/3546/9780063451360"
         }
       ]
     }

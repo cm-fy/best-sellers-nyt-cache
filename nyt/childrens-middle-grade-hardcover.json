@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/0b429f01-be90-5963-88e7-e77dfcea12d2",
+  "uri": "nyt://bestsellerslist/ca855624-f217-5d9d-8496-7b4618002047",
   "books": [
     {
       "age_group": "Ages 8 to 12",
@@ -20,7 +20,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:31.651Z",
+      "created_date": "2026-09-16T18:02:43.264Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9780375869020",
       "publisher": "Knopf",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-09-09T18:10:31.651Z",
-      "weeks_on_list": 559,
+      "updated_date": "2026-09-16T18:02:43.264Z",
+      "weeks_on_list": 560,
       "isbns": [
         {
           "isbn10": "",
@@ -64,62 +64,6 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G2Q5PZMY?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225063191.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a50eac42-05ca-52b5-aad5-f75b954c139d",
-      "contributor": "by Alan Gratz",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:31.808Z",
-      "dagger": 0,
-      "description": "Two Honduran refugee children ride on the top of a freight train known as “The Beast” to get to the Mexican-U.S. border. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798225063191",
-      "publisher": "Scholastic",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "FLIGHT",
-      "updated_date": "2026-09-09T18:10:31.808Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798225063191"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G2Q5PZMY?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798225063191?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225063191&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fflight-alan-gratz%2F1148867113%3Fean%3D9798225063191&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFlight%2FAlan-Gratz%2F9798225063191"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798225063191"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -132,7 +76,7 @@
       "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
       "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
       "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-09-09T18:10:31.941Z",
+      "created_date": "2026-09-16T18:02:43.432Z",
       "dagger": 0,
       "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236558",
       "publisher": "Delacorte",
-      "rank": 3,
+      "rank": 2,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-09-09T18:10:31.941Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-09-16T18:02:43.432Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217227105",
       "publisher": "Delacorte",
-      "rank": 4,
-      "rank_last_week": 1,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "KIKI AND THE NEW MAGIC",
       "updated_date": "2026-09-02T18:40:11.944Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063221178",
       "publisher": "Storytide",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -288,62 +232,6 @@
       ]
     },
     {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Beth Ferry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae51c986-5b35-53b1-8565-95844c1ccea0",
-      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
-      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
-      "created_date": "2026-06-17T18:31:10.281Z",
-      "dagger": 0,
-      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665989817",
-      "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "GROWING HOME",
-      "updated_date": "2026-06-17T18:31:10.281Z",
-      "weeks_on_list": 54,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665989817"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989817&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665989817&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrowing-Home%2FBeth-Ferry%2F9781665942485"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665942485"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0593712048?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593712047",
       "publisher": "Labyrinth Road",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "FORBIDDEN MOUNTAIN",
       "updated_date": "2026-04-22T17:21:10.72Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -400,170 +288,282 @@
       ]
     },
     {
-      "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665982349?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Peter Burns",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665982344.jpg",
+      "author": "Tiffany D. Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225017477.jpg",
       "book_image_height": 500,
-      "book_image_width": 335,
+      "book_image_width": 351,
       "book_review_link": "",
-      "book_uri": "nyt://book/fc007d92-5043-587f-890f-266fc65d7d0b",
-      "contributor": "by Peter Burns",
+      "book_uri": "nyt://book/936acc1f-75f8-5c2e-b592-195b843c7759",
+      "contributor": "by Tiffany D. Jackson",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.07Z",
+      "created_date": "2026-08-12T18:23:43.478Z",
       "dagger": 0,
-      "description": "Tom Morgan searches for a treasure of jewels, secret documents and plans for an ultimate weapon and he must beat the Chevaliers to it. (Ages 10 and up)",
+      "description": "Harmony Roundtree stumbles upon a murder mystery in Savannah, Ga. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665982344",
-      "publisher": "Aladdin",
-      "rank": 8,
+      "primary_isbn13": "9798225017477",
+      "publisher": "Scholastic",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ISLAND OF SKULLS",
-      "updated_date": "2026-09-09T18:10:32.07Z",
-      "weeks_on_list": 1,
+      "title": "GHOST IN THE NIGHT",
+      "updated_date": "2026-08-12T18:23:43.478Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665982344"
+          "isbn13": "9798225017477"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665982349?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665982344?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798225017477?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665982344&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fisland-of-skulls-peter-burns%2F1149526057%3Fean%3D9781665982344&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225017477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fghost-in-the-night-tiffany-d-jackson%2F1148276505%3Fean%3D9798225017477&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIsland-Skulls%2FPeter-Burns%2F9781665982344"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGhost-Night%2FTiffany-D-Jackson%2F9798225017477"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665982344"
+          "url": "https://bookshop.org/a/3546/9798225017477"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Beth Ferry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989817.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae51c986-5b35-53b1-8565-95844c1ccea0",
+      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
+      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
+      "created_date": "2026-06-17T18:31:10.281Z",
+      "dagger": 0,
+      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665989817",
+      "publisher": "Simon & Schuster",
+      "rank": 7,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "GROWING HOME",
+      "updated_date": "2026-06-17T18:31:10.281Z",
+      "weeks_on_list": 55,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665989817"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989817&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665989817&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrowing-Home%2FBeth-Ferry%2F9781665942485"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665942485"
         }
       ]
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1338849913?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
-      "book_image_height": 495,
-      "book_image_width": 327,
+      "author": "Tiffany D. Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338849912.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
-      "contributor": "by Alan Gratz",
+      "book_uri": "nyt://book/d46d1e6d-8411-5b18-b3e0-a81ed99662b7",
+      "contributor": "by Tiffany D. Jackson",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:40:05.762Z",
+      "created_date": "2026-06-17T17:38:16.458Z",
       "dagger": 0,
-      "description": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
+      "description": "Kaylani McKinnon investigates a mysterious death on Martha’s Vineyard. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780545880831",
+      "primary_isbn13": "9781338849912",
       "publisher": "Scholastic",
-      "rank": 9,
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "REFUGEE",
-      "updated_date": "2026-03-04T23:40:05.762Z",
-      "weeks_on_list": 329,
+      "title": "BLOOD IN THE WATER",
+      "updated_date": "2026-06-17T17:38:16.458Z",
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780545880831"
+          "isbn13": "9781338849912"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1338849913?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781338849912?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545880831&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frefugee-alan-gratz%2F1125808787%3Fean%3D9780545880831&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338849912&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblood-in-the-water-tiffany-d-jackson%2F1114911806%3Fean%3D9781338849912&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FREFUGEE%2FAlan%2BGratz%2F9780545880831"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLOOD%2BIN%2BTHE%2BWATER%2FTiffany%2BD.%2BJackson%2F9781338849912"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780545880831"
+          "url": "https://bookshop.org/a/3546/9781338849912"
         }
       ]
     },
     {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250904362.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Alan Gratz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/43f94763-9d3f-56da-ba4f-0750070c5258",
-      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
-      "contributor_note": "Illustrated by Charles Santoso",
-      "created_date": "2026-04-15T23:10:31.812Z",
+      "book_uri": "nyt://book/93e9d008-544b-581f-9681-75c147c79a93",
+      "contributor": "by Alan Gratz",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:03.282Z",
       "dagger": 0,
-      "description": "Zephyrina brings a rare stuffed bear back to the Second Chances Home for the Tossed and Treasured. (Ages 8 to 12)",
+      "description": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250904362",
-      "publisher": "Feiwel & Friends",
-      "rank": 10,
-      "rank_last_week": 7,
+      "primary_isbn13": "9781338245752",
+      "publisher": "Scholastic",
+      "rank": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "POCKET BEAR",
-      "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 51,
+      "title": "GROUND ZERO",
+      "updated_date": "2026-08-05T17:45:03.282Z",
+      "weeks_on_list": 68,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250904362"
+          "isbn13": "9781338245752"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250904362?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781338245752?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250904362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpocket-bear-katherine-applegate%2F1146474049%3Fean%3D9781250904362&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338245752&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fground-zero-alan-gratz%2F1136672425%3Fean%3D9781338245752&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPocket-Bear%2FKatherine-Applegate%2F9781250904362"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGROUND%2BZERO%2FAlan%2BGratz%2F9781338245752"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250904362"
+          "url": "https://bookshop.org/a/3546/9781338245752"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Maddie Frost",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347103997.jpg",
+      "book_image_height": 500,
+      "book_image_width": 339,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0c9f5255-de3a-5e45-8502-2910b7e1ff4f",
+      "contributor": "by Maddie Frost",
+      "contributor_note": "",
+      "created_date": "2026-06-10T17:37:54.95Z",
+      "dagger": 0,
+      "description": "When Rubie’s best friend breaks her ankle and can’t make it to summer camp, Rubie must go by herself. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347103997",
+      "publisher": "Aladdin",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "REALLY RUBIE",
+      "updated_date": "2026-06-10T17:37:54.95Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347103997"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798347103997?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347103997&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Freally-rubie-maddie-frost%2F1148560017%3Fean%3D9798347103997&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReally-Rubie%2FMaddie-Frost%2F9798347103997"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798347103997"
         }
       ]
     }
