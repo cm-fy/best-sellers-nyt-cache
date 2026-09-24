@@ -5,61 +5,453 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/4c0f508e-b333-5aaa-acd6-71c210baa451",
+  "uri": "nyt://bestsellerslist/00d1e86c-8495-5da3-a428-386d6523b7ad",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0736993932?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Amir Tsarfati with Tolik Piflaks",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780736993937.jpg",
+      "author": "Andrew D. Huberman with Jessica Wapner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668032145.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 318,
       "book_review_link": "",
-      "book_uri": "nyt://book/cea93b66-e1a2-50e8-ae90-e33955c69f17",
-      "contributor": "by Amir Tsarfati with Tolik Piflaks",
+      "book_uri": "nyt://book/3a986f8b-484f-58ec-a583-4d4b64c04d45",
+      "contributor": "by Andrew D. Huberman with Jessica Wapner",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.596Z",
+      "created_date": "2026-09-23T18:21:02.85Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780736993937",
-      "publisher": "Harvest House",
+      "primary_isbn13": "9781668032145",
+      "publisher": "Simon Element",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE ELIJAH MANDATE",
-      "updated_date": "2026-09-16T18:02:44.596Z",
+      "title": "PROTOCOLS",
+      "updated_date": "2026-09-23T18:21:02.85Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780736993937"
+          "isbn13": "9781668032145"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0736993932?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780736993937?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668032145?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736993937&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-elijah-mandate-amir-tsarfati%2F1148981949%3Fean%3D9780736993937&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668032145&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprotocols-andrew-d-huberman-phd%2F1145846225%3Fean%3D9781668032145&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FElijah-Mandate%2FAmir-Tsarfati%2F9780736993937"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtocols%2FAndrew-D-Huberman%2F9781668032145"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780736993937"
+          "url": "https://bookshop.org/a/3546/9781668032145"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1368117864?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alex Hirsch and Rob Renzetti",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368117869.jpg",
+      "book_image_height": 402,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e837cdf7-ec68-5650-9093-0cc1acd18de7",
+      "contributor": "by Alex Hirsch and Rob Renzetti",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:02.988Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368117869",
+      "publisher": "Hyperion Avenue",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ART OF GRAVITY FALLS",
+      "updated_date": "2026-09-23T18:21:02.988Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368117869"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368117864?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368117869?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368117869&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-gravity-falls-alex-hirsch%2F1149628941%3Fean%3D9781368117869&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Gravity-Falls%2FAlex-Hirsch%2F9781368117869"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368117869"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1454962348?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cortney LaCorte",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781454962342.jpg",
+      "book_image_height": 500,
+      "book_image_width": 402,
+      "book_review_link": "",
+      "book_uri": "nyt://book/61eb35f2-442f-5ac8-8132-6582c19cc18f",
+      "contributor": "by Cortney LaCorte",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.113Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781454962342",
+      "publisher": "Union Square & Co.",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "OVERSHARING",
+      "updated_date": "2026-09-23T18:21:03.113Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781454962342"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1454962348?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781454962342?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454962342&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Foversharing-cortney-lacorte%2F1149594996%3Fean%3D9781454962342&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOversharing%2FCortney-Lacorte%2F9781454962342"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781454962342"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lysa TerKeurst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400230723.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ff81dc49-b33a-51e1-9f3a-285072b205c3",
+      "contributor": "by Lysa TerKeurst",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.24Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781400230723",
+      "publisher": "Thomas Nelson",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
+      "updated_date": "2026-09-23T18:21:03.24Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781400230723"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781400230723?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400230723&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmaking-peace-with-what-i-cant-control-lysa-terkeurst%2F1148674723%3Fean%3D9781400230723&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMaking-Peace-What-Cant-Control%2FLysa-TerKeurst%2F9781400230723"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781400230723"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1426224389?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Neil deGrasse Tyson and Lindsey Nyx Walker",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781426224386.jpg",
+      "book_image_height": 500,
+      "book_image_width": 400,
+      "book_review_link": "",
+      "book_uri": "nyt://book/41362b37-8ad7-56a5-9903-f4f2b76e3e08",
+      "contributor": "by Neil deGrasse Tyson and Lindsey Nyx Walker",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.351Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781426224386",
+      "publisher": "National Geographic",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LOST IN SPACE",
+      "updated_date": "2026-09-23T18:21:03.351Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781426224386"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1426224389?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781426224386?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781426224386&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flost-in-space-neil-degrasse-tyson%2F1148854225%3Fean%3D9781426224386&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLost-Space%2FNeil-Degrasse-Tyson%2F9781426224386"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781426224386"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Benny Blanco",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668205242.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7f28ab3c-5ccc-5f3f-8fbc-0163c257a118",
+      "contributor": "by Benny Blanco",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.474Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668205242",
+      "publisher": "Simon & Schuster",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "F*CK FAILURE",
+      "updated_date": "2026-09-23T18:21:03.474Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668205242"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668205242?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668205242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ff-ck-failure-benny-blanco%2F1149781358%3Fean%3D9781668205242&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFck-Failure%2FBenny-Blanco%2F9781668205242"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668205242"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593836626?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tanya Sichynsky and New York Times Cooking",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593836620.jpg",
+      "book_image_height": 500,
+      "book_image_width": 408,
+      "book_review_link": "",
+      "book_uri": "nyt://book/98fc2c39-089b-5446-9e2e-4afbdaf6d5a5",
+      "contributor": "by Tanya Sichynsky and New York Times Cooking",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.666Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593836620",
+      "publisher": "Ten Speed",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "VEG EVERYTHING",
+      "updated_date": "2026-09-23T18:21:03.666Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593836620"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593836626?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593836620?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593836620&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fveg-everything-tanya-sichynsky%2F1148986985%3Fean%3D9780593836620&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVeg-Everything%2FTanya-Sichynsky%2F9780593836620"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593836620"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1797239368?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Annie Meyers-Shyer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781797239361.jpg",
+      "book_image_height": 500,
+      "book_image_width": 411,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d285fff0-c6ae-538d-b89a-335bfac092e8",
+      "contributor": "by Annie Meyers-Shyer",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.799Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781797239361",
+      "publisher": "Chronicle",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THIS OAK HOUSE",
+      "updated_date": "2026-09-23T18:21:03.799Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781797239361"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1797239368?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781797239361?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781797239361&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-oak-house-annie-meyers-shyer%2F1149187689%3Fean%3D9781797239361&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Oak-House%2FAnnie-Meyers-Shyer%2F9781797239361"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781797239361"
         }
       ]
     },
@@ -84,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
-      "rank": 2,
+      "rank": 9,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 90,
+      "weeks_on_list": 91,
       "isbns": [
         {
           "isbn10": "",
@@ -121,449 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063499517?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Clear",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
-      "contributor": "by James Clear",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:19.644Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780735211292",
-      "publisher": "Avery",
-      "rank": 3,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "ATOMIC HABITS",
-      "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 355,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780735211292"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780735211292"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Priya Parker",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/754a13d8-354e-54d9-ab61-a6fffdc99980",
-      "contributor": "by Priya Parker",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.727Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593420225",
-      "publisher": "Riverhead",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE ART OF FIGHTING",
-      "updated_date": "2026-09-16T18:02:44.727Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593420225"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593420225?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593420225&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-fighting-priya-parker%2F1149014672%3Fean%3D9780593420225&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Fighting%2FPriya-Parker%2F9780593420225"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593420225"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0736993630?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Frank Turek and Phoenix Hayes",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780736993630.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6b5da1fc-a2a1-5539-beaf-428a81fa828d",
-      "contributor": "by Frank Turek and Phoenix Hayes",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.866Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780736993630",
-      "publisher": "Harvest Apologetics",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE WAR ON REALITY",
-      "updated_date": "2026-09-16T18:02:44.866Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780736993630"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0736993630?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780736993630?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780736993630&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-war-on-reality-frank-turek%2F1149334777%3Fean%3D9780736993630&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWar-Reality%2FFrank-Turek%2F9780736993630"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780736993630"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G5WTFYDR?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Josh Axe and Will Cole",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181353.jpg",
+      "author": "Shefali Tsabary",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063499515.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/9727c464-5473-5f92-b688-8e6cf920f63c",
-      "contributor": "by Josh Axe and Will Cole",
+      "book_uri": "nyt://book/1540bfaf-a51b-51cf-a0e1-7c6d28fae71b",
+      "contributor": "by Shefali Tsabary",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:16:15.684Z",
+      "created_date": "2026-09-23T18:35:06.106Z",
       "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217181353",
-      "publisher": "Avery",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HEAL YOUR CELLS",
-      "updated_date": "2026-09-16T18:16:15.684Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217181353"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G5WTFYDR?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217181360?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheal-your-cells-josh-axe%2F1148911920%3Fean%3D9798217181353&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeal-Your-Cells%2FJosh-Axe%2F9798217181353"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217181353"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316594644?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maria Koutsogiannis with Rachel Holtzman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316594646.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/743f3758-b0fb-5189-a7f7-3996672bc5eb",
-      "contributor": "by Maria Koutsogiannis with Rachel Holtzman",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:16:42.492Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316594646",
-      "publisher": "Voracious",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GREEK OUT",
-      "updated_date": "2026-09-16T18:16:42.492Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316594646"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316594644?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316594646?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316594646&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgreek-out-maria-koutsogiannis%2F1149565891%3Fean%3D9780316594646&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGreek-Out%2FMaria-Koutsogiannis%2F9780316594646"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316594646"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GV5YW2FZ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tracey Miller-Zarneke",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217377657.jpg",
-      "book_image_height": 500,
-      "book_image_width": 338,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b054a869-90fe-53d7-8f28-2ca4f1f1bac6",
-      "contributor": "by Tracey Miller-Zarneke",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:45.272Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217377657",
-      "publisher": "Random House Worlds",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE ART OF KPOP DEMON HUNTERS: PLATINUM EDITION",
-      "updated_date": "2026-09-16T18:02:45.272Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217377657"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GV5YW2FZ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217377657?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217377657&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-kpop-demon-hunters-tracey-miller-zarneke%2F1149785917%3Fean%3D9798217377657&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Kpop-Demon-Hunters%2FTracey-Miller-Zarneke%2F9798217377657"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217377657"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/166824649X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jim Curtis",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668246498.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/20eeddd0-9e68-5a5f-bcf1-9bb090e957a6",
-      "contributor": "by Jim Curtis",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:45.459Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668246498",
-      "publisher": "Simon & Schuster",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BOOK OF POSSIBILITY",
-      "updated_date": "2026-09-16T18:02:45.459Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668246498"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166824649X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668246498?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668246498&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-of-possibility-jim-curtis%2F1149277658%3Fean%3D9781668246498&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBook-Possibility%2FJim-Curtis%2F9781668246498"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668246498"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G4ST45RC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jean Chatzky",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217179473.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c74a3de6-4b38-50c5-94af-7cda28ac630f",
-      "contributor": "by Jean Chatzky",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:45.59Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217179473",
-      "publisher": "Avery",
+      "primary_isbn13": "9780063499515",
+      "publisher": "HarperOne",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE FOREVER PAYCHECK",
-      "updated_date": "2026-09-16T18:02:45.59Z",
+      "title": "RAISING CONSCIOUS SONS",
+      "updated_date": "2026-09-23T18:35:06.106Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217179473"
+          "isbn13": "9780063499515"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G4ST45RC?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063499517?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217179473?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063499539?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217179473&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-forever-paycheck-jean-chatzky%2F1149621091%3Fean%3D9798217179473&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063499515&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fraising-conscious-sons-dr-shefali-tsabary%2F1149416372%3Fean%3D9780063499515&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FForever-Paycheck%2FJean-Chatzky%2F9798217179473"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRaising-Conscious-Sons%2FShefali-Tsabary%2F9780063499515"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217179473"
+          "url": "https://bookshop.org/a/3546/9780063499515"
         }
       ]
     }

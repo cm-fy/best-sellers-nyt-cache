@@ -518,15 +518,15 @@
       "asterisk": 0,
       "author": "Kassia St",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781324096733.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/7aa1469f-575c-5d88-a4c5-3b2b0f4cfa39",
       "contributor": "by Kassia St. Clair",
       "contributor_note": "Clair",
-      "created_date": "2026-09-02T18:40:11.023Z",
+      "created_date": "2026-09-23T14:22:27.038Z",
       "dagger": 0,
-      "description": "The story of the Peking-to-Paris Motor Challenge, which took place near the beginning of the 20th Century.",
+      "description": "The story of the Peking-to-Paris Motor Challenge, which took place near the beginning of the 20th century.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
@@ -536,7 +536,7 @@
       "rank_last_week": 0,
       "sunday_review_link": "",
       "title": "THE RACE TO THE FUTURE",
-      "updated_date": "2026-09-02T18:40:11.023Z",
+      "updated_date": "2026-09-23T14:22:27.038Z",
       "weeks_on_list": 1,
       "isbns": [
         {
@@ -554,7 +554,7 @@
           "url": "https://goto.applebooks.apple/9781324096733?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324096733&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-race-to-the-future-kassia-st-clair%2F1144065610%3Fean%3D9781324096733&intsrc=APIG_15890"
         },
         {

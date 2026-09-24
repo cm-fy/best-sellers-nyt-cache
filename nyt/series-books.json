@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/6be73e2f-cb24-5958-b283-6023ae35ebbc",
+  "uri": "nyt://bestsellerslist/2b05eac7-2dad-59b9-9160-31802f2e65be",
   "books": [
     {
       "age_group": "Ages 12 and up",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 440,
+      "weeks_on_list": 441,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 913,
+      "weeks_on_list": 914,
       "isbns": [
         {
           "isbn10": "",
@@ -120,62 +120,6 @@
       ]
     },
     {
-      "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
-      "book_image_height": 500,
-      "book_image_width": 344,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.768Z",
-      "dagger": 0,
-      "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781338878929",
-      "publisher": "Scholastic",
-      "rank": 3,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER",
-      "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 912,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781338878929"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338878929"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
-      "rank": 4,
+      "rank": 3,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 53,
+      "weeks_on_list": 54,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
-      "rank": 5,
-      "rank_last_week": 6,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 845,
+      "weeks_on_list": 846,
       "isbns": [
         {
           "isbn10": "",
@@ -288,170 +232,114 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.899Z",
-      "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
-      "rank": 6,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 184,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544336261"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593809947?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Rundell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593809945.jpg",
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 344,
       "book_review_link": "",
-      "book_uri": "nyt://book/1bc766da-328e-5be9-b45e-722b1db4757d",
-      "contributor": "by Katherine Rundell. Illustrated by Ashley Mackenzie",
-      "contributor_note": "Illustrated by Ashley Mackenzie",
-      "created_date": "2026-09-09T18:10:31.392Z",
+      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-03-12T21:08:22.768Z",
       "dagger": 0,
-      "description": "Christopher and his friends race to save the magic and the creatures of the Archipelago. (Ages 10 and up)",
+      "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593809945",
-      "publisher": "Knopf",
-      "rank": 7,
-      "rank_last_week": 2,
+      "primary_isbn13": "9781338878929",
+      "publisher": "Scholastic",
+      "rank": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "IMPOSSIBLE CREATURES",
-      "updated_date": "2026-09-09T18:10:31.392Z",
-      "weeks_on_list": 2,
+      "title": "HARRY POTTER",
+      "updated_date": "2026-03-12T21:08:22.768Z",
+      "weeks_on_list": 913,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593809945"
+          "isbn13": "9781338878929"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593809947?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593809945?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593809945&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-neverfear-katherine-rundell%2F1148854132%3Fean%3D9780593809945&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNeverfear%2FKatherine-Rundell%2F9780593809945"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593809945"
+          "url": "https://bookshop.org/a/3546/9781338878929"
         }
       ]
     },
     {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 11",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
+      "author": "Lauren Tarshis",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225066772.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 343,
       "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
-      "contributor": "by Peter Brown",
+      "book_uri": "nyt://book/d9cd382c-7d70-5bda-956a-f67809247f27",
+      "contributor": "by Lauren Tarshis",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
+      "created_date": "2026-09-23T18:21:01.067Z",
       "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+      "description": "Youngsters' tales of living through dangerous historical events. (Ages 9 to 11)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
-      "publisher": "Little, Brown",
-      "rank": 8,
-      "rank_last_week": 9,
+      "primary_isbn13": "9798225066772",
+      "publisher": "Scholastic",
+      "rank": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 134,
+      "title": "I SURVIVED",
+      "updated_date": "2026-09-23T18:21:01.067Z",
+      "weeks_on_list": 83,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316382007"
+          "isbn13": "9798225066772"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798225066772?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225066772&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-survived-the-night-of-the-lions-2025-lauren-tarshis%2F1149659889%3Fean%3D9798225066772&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSurvived-Night-Lions%2FLauren-Tarshis%2F9798225066772"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
+          "url": "https://bookshop.org/a/3546/9798225066772"
         }
       ]
     },
@@ -476,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375813658",
       "publisher": "Stepping Stone/Random House",
-      "rank": 9,
-      "rank_last_week": 10,
+      "rank": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "MAGIC TREE HOUSE",
       "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 341,
+      "weeks_on_list": 342,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +400,170 @@
       ]
     },
     {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0316370959?tag=thenewyorktim-20",
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jennifer Lynn Barnes",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780759555402.jpg",
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/e2abd326-9377-54d9-bf9c-5125478dd1c1",
-      "contributor": "by Jennifer Lynn Barnes",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:43.14Z",
+      "created_date": "2026-06-17T17:38:16.173Z",
       "dagger": 0,
-      "description": "Avery Grambs tries to figure out why an inheritance from a stranger was bestowed upon her. (Ages 12 to 18)",
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780759555402",
+      "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "THE INHERITANCE GAMES",
-      "updated_date": "2026-09-16T18:02:43.14Z",
-      "weeks_on_list": 107,
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 135,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780759555402"
+          "isbn13": "9780316382007"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316370959?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368053242?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780759555402&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-inheritance-games-jennifer-lynn-barnes%2F1136584326%3Fean%3D9780759555402&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BINHERITANCE%2BGAMES%2FJennifer%2BLynn%2BBarnes%2F9781368053242"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368053242"
+          "url": "https://bookshop.org/a/3546/9780316382007"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
+      "contributor": "by Lois Lowry",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:02.899Z",
+      "dagger": 0,
+      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780544336261",
+      "publisher": "Clarion",
+      "rank": 9,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "GIVER QUARTET",
+      "updated_date": "2026-08-05T17:45:02.899Z",
+      "weeks_on_list": 185,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780544336261"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780544336261"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 16 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chloe Walsh",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
+      "contributor": "by Chloe Walsh",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:04.785Z",
+      "dagger": 0,
+      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464277061",
+      "publisher": "Bloom",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BOYS OF TOMMEN",
+      "updated_date": "2026-03-04T23:40:04.785Z",
+      "weeks_on_list": 87,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464277061"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464277061"
         }
       ]
     }

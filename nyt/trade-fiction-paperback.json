@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/d11c420e-0476-53c0-bb52-e57fb4d86c2a",
+  "uri": "nyt://bestsellerslist/d7aa5003-651f-546d-bcfa-07b8aff91528",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "B.K. Borison",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063430464.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cf974492-ef78-5de1-a741-4fb83b675cdd",
+      "contributor": "by B.K. Borison",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:04.744Z",
+      "dagger": 0,
+      "description": "The second book in the Ghosted series. A Grim Reaper looking to not do harm forms an unexpected alliance with a Guardian Angel.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063430464",
+      "publisher": "Avon",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GRIM TIDINGS",
+      "updated_date": "2026-09-23T18:21:04.744Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063430464"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063430464?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063430464&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrim-tidings-bk-borison%2F1148610168%3Fean%3D9780063430464&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrim-Tidings%2FB-K-Borison%2F9780063430464"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063430464"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 2,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -132,20 +188,20 @@
       "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
       "contributor": "by Colleen Hoover",
       "contributor_note": "",
-      "created_date": "2026-08-19T17:19:39.845Z",
+      "created_date": "2026-09-23T18:21:04.885Z",
       "dagger": 0,
-      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 3,
-      "rank_last_week": 6,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "VERITY",
-      "updated_date": "2026-08-19T17:19:39.845Z",
-      "weeks_on_list": 161,
+      "updated_date": "2026-09-23T18:21:04.885Z",
+      "weeks_on_list": 162,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249617",
       "publisher": "Poisoned Pen",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "BRAIN DAMAGE",
       "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +289,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GFKGXBK5?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250178649?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Eli McCann",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798890920461.jpg",
+      "author": "Kristin Hannah",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250178640.jpg",
       "book_image_height": 500,
-      "book_image_width": 328,
+      "book_image_width": 326,
       "book_review_link": "",
-      "book_uri": "nyt://book/3e05cc06-50d7-54ba-9d29-2c119c1e7027",
-      "contributor": "by Eli McCann",
+      "book_uri": "nyt://book/6f817224-2d77-5ac1-b6bb-5ce7734064d0",
+      "contributor": "by Kristin Hannah",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.258Z",
+      "created_date": "2026-09-23T18:21:02.583Z",
       "dagger": 0,
-      "description": "When a big quilting competition in Utah is announced, the women belonging to a quilting group add two young gay men as members.",
+      "description": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798890920461",
-      "publisher": "Torrey House",
-      "rank": 5,
+      "primary_isbn13": "9781250178640",
+      "publisher": "St. Martin's Griffin",
+      "rank": 6,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "STITCHED",
-      "updated_date": "2026-09-16T18:02:44.258Z",
+      "title": "THE WOMEN",
+      "updated_date": "2026-09-23T18:21:02.583Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798890920461"
+          "isbn13": "9781250178640"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GFKGXBK5?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250178649?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798890920461?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250178640?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798890920461&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstitched-eli-mccann%2F1149253689%3Fean%3D9798890920461&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250178640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-women-kristin-hannah%2F1143461662%3Fean%3D9781250178640&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStitched%2FEli-McCann%2F9798890920461"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWomen%2FKristin-Hannah%2F9781250178640"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798890920461"
+          "url": "https://bookshop.org/a/3546/9781250178640"
         }
       ]
     },
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 6,
-      "rank_last_week": 4,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 64,
+      "weeks_on_list": 65,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +401,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250828015?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1682817563?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Charlotte McConaghy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250828019.jpg",
+      "author": "Devney Perry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682817568.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 327,
       "book_review_link": "",
-      "book_uri": "nyt://book/90d81822-c0f8-57f3-af2c-bcc171169f25",
-      "contributor": "by Charlotte McConaghy",
+      "book_uri": "nyt://book/9b8244cf-a592-5333-8a38-56d220faac53",
+      "contributor": "by Devney Perry",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:33.105Z",
+      "created_date": "2026-09-23T18:21:02.711Z",
       "dagger": 0,
-      "description": "A woman washes ashore on a tiny island near Antarctica, where the only inhabitants are a man and his three children.",
+      "description": "A princess deals with various adversaries as she moves into the role she chooses for herself, not the one chosen for her.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250828019",
-      "publisher": "Flatiron",
-      "rank": 7,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781682817568",
+      "publisher": "Red Tower",
+      "rank": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WILD DARK SHORE",
-      "updated_date": "2026-09-09T18:10:33.105Z",
-      "weeks_on_list": 2,
+      "title": "SHIELD OF SPARROWS",
+      "updated_date": "2026-09-23T18:21:02.711Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250828019"
+          "isbn13": "9781682817568"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250828015?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1682817563?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250828019?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781682817568?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250828019&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwild-dark-shore-charlotte-mcconaghy%2F1145317337%3Fean%3D9781250828019&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682817568&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshield-of-sparrows-devney-perry%2F1146581589%3Fean%3D9781682817568&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Dark-Shore%2FCharlotte-McConaghy%2F9781250828019"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShield-Sparrows%2FDevney-Perry%2F9781682817568"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250828019"
+          "url": "https://bookshop.org/a/3546/9781682817568"
         }
       ]
     },
@@ -420,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 8,
+      "rank": 9,
       "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -457,57 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250828015?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "H.D. Carlton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638936015.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Charlotte McConaghy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250828019.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/b4458610-89a9-5c73-945a-4905a74cb33f",
-      "contributor": "by H.D. Carlton",
+      "book_uri": "nyt://book/90d81822-c0f8-57f3-af2c-bcc171169f25",
+      "contributor": "by Charlotte McConaghy",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:15:04.846Z",
+      "created_date": "2026-09-09T18:10:33.105Z",
       "dagger": 0,
-      "description": "Reverie Adams attempts to put her dark past behind her but Dreadful Sharpe’s desire for revenge brings it back.",
+      "description": "A woman washes ashore on a tiny island near Antarctica, where the only inhabitants are a man and his three children.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638936015",
-      "publisher": "ZPN",
-      "rank": 9,
+      "primary_isbn13": "9781250828019",
+      "publisher": "Flatiron",
+      "rank": 10,
       "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "MY DREADFUL DARLING",
-      "updated_date": "2026-09-16T18:15:04.846Z",
-      "weeks_on_list": 2,
+      "title": "WILD DARK SHORE",
+      "updated_date": "2026-09-09T18:10:33.105Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638936015"
+          "isbn13": "9781250828019"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250828015?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798240885310?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250828019?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638936015&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-dreadful-darling-h-d-carlton%2F1150229527%3Fean%3D9781638936015&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250828019&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwild-dark-shore-charlotte-mcconaghy%2F1145317337%3Fean%3D9781250828019&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Dreadful-Darling%2FHD-Carlton%2F9781638936015"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Dark-Shore%2FCharlotte-McConaghy%2F9781250828019"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638936015"
+          "url": "https://bookshop.org/a/3546/9781250828019"
         }
       ]
     },
@@ -532,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593336823",
       "publisher": "Berkley",
-      "rank": 10,
-      "rank_last_week": 13,
+      "rank": 11,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE LOVE HYPOTHESIS",
       "updated_date": "2026-09-02T18:40:14.157Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -569,62 +625,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elle Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ead15738-5b14-5e39-b2fa-30efd062a916",
-      "contributor": "by Elle Kennedy",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:35.241Z",
-      "dagger": 0,
-      "description": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781775293934",
-      "publisher": "Bloom",
-      "rank": 11,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "THE DEAL",
-      "updated_date": "2026-05-20T18:34:35.241Z",
-      "weeks_on_list": 18,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781775293934"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1775293939?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781775293934?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781775293934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-deal-elle-kennedy%2F1121202984%3Fean%3D9781775293934&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeal%2FElle-Kennedy%2F9781775293934"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781775293934"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -645,11 +645,11 @@
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
       "rank": 12,
-      "rank_last_week": 10,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -681,6 +681,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "H.D. Carlton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781638936015.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b4458610-89a9-5c73-945a-4905a74cb33f",
+      "contributor": "by H.D. Carlton",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:15:04.846Z",
+      "dagger": 0,
+      "description": "Reverie Adams attempts to put her dark past behind her but Dreadful Sharpe’s desire for revenge brings it back.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781638936015",
+      "publisher": "ZPN",
+      "rank": 13,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "MY DREADFUL DARLING",
+      "updated_date": "2026-09-16T18:15:04.846Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781638936015"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798240885310?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638936015&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-dreadful-darling-h-d-carlton%2F1150229527%3Fean%3D9781638936015&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Dreadful-Darling%2FHD-Carlton%2F9781638936015"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781638936015"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -700,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781635575569",
       "publisher": "Bloomsbury",
-      "rank": 13,
-      "rank_last_week": 14,
+      "rank": 14,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "A COURT OF THORNS AND ROSES",
       "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 87,
+      "weeks_on_list": 88,
       "isbns": [
         {
           "isbn10": "",
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
-      "rank": 14,
-      "rank_last_week": 0,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 15,
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781464249631"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
-      "book_image_height": 500,
-      "book_image_width": 313,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e5e95429-6a83-5d7f-8138-1f5064986f40",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.358Z",
-      "dagger": 0,
-      "description": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798256510381",
-      "publisher": "Poisoned Pen",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DEATH ROW",
-      "updated_date": "2026-09-16T18:02:44.358Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798256510381"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H5DLL52B?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798256510381?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510381&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdeath-row-freida-mcfadden%2F1150419560%3Fean%3D9798256510381&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDeath-Row%2FFreida-McFadden%2F9798256510381"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798256510381"
         }
       ]
     }

@@ -5,341 +5,285 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/33bd757d-1d94-50fa-8276-4e0f2bc138c9",
+  "uri": "nyt://bestsellerslist/3cd4485e-d7c0-5a47-a238-777c243f2791",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1538777878?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Victor Davis Hanson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
+      "author": "Colin Kaepernick with Nick Chiles",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538777879.jpg",
       "book_image_height": 500,
-      "book_image_width": 323,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/5d71f2e2-6c9c-534e-97a8-c1853871cd2b",
-      "contributor": "by Victor Davis Hanson",
+      "book_uri": "nyt://book/e7520ae7-9df3-523c-9372-619ac51c2ae2",
+      "contributor": "by Colin Kaepernick with Nick Chiles",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:46.889Z",
+      "created_date": "2026-09-23T18:21:05.149Z",
       "dagger": 0,
-      "description": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
+      "description": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781541607828",
-      "publisher": "Basic",
+      "primary_isbn13": "9781538777879",
+      "publisher": "Legacy Lit",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE COUNTERREVOLUTION",
-      "updated_date": "2026-09-16T18:02:46.889Z",
+      "title": "THE PERILOUS FIGHT",
+      "updated_date": "2026-09-23T18:21:05.149Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781541607828"
+          "isbn13": "9781538777879"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1538777878?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781541607828?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781538777879?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541607828&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-counterrevolution-victor-davis-hanson%2F1149100786%3Fean%3D9781541607828&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538777879&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-perilous-fight-colin-kaepernick%2F1149594899%3Fean%3D9781538777879&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCounterrevolution%2FVictor-Davis-Hanson%2F9781541607828"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPerilous-Fight%2FColin-Kaepernick%2F9781538777879"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781541607828"
+          "url": "https://bookshop.org/a/3546/9781538777879"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sarah Longwell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250464170.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7879e6a7-f50c-54ed-a4b2-ea50b9475474",
-      "contributor": "by Sarah Longwell",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:47.029Z",
-      "dagger": 0,
-      "description": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250464170",
-      "publisher": "St. Martin's",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HOW TO EAT AN ELEPHANT",
-      "updated_date": "2026-09-16T18:02:47.029Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250464170"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250464170?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250464170&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-eat-an-elephant-sarah-longwell%2F1149619381%3Fean%3D9781250464170&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Eat-Elephant%2FSarah-Longwell%2F9781250464170"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250464170"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538784629?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Harlan Coben",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784624.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/49508792-6ee1-5a63-aa4f-dbcd00e1bd21",
-      "contributor": "by Harlan Coben",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:47.173Z",
-      "dagger": 0,
-      "description": "Coben, known for his suspense novels, shares stories from his childhood, inspirations for his characters and insights into his craft.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781538784624",
-      "publisher": "Grand Central",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PLOT TWIST",
-      "updated_date": "2026-09-16T18:02:47.173Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781538784624"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538784629?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538784624?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784624&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fplot-twist-harlan-coben%2F1150025264%3Fean%3D9781538784624&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPlot-Twist%2FHarlan-Coben%2F9781538784624"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538784624"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0306837439?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dave Mustaine with Joe Layden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780306837432.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f99698fa-38ca-502c-80c1-05dceeab3897",
-      "contributor": "by Dave Mustaine with Joe Layden",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:47.301Z",
-      "dagger": 0,
-      "description": "The lead vocalist and guitarist for Megadeth describes the turn his life took when he was diagnosed with squamous cell carcinoma.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780306837432",
-      "publisher": "Da Capo",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "IN MY DARKEST HOUR",
-      "updated_date": "2026-09-16T18:02:47.301Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780306837432"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0306837439?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780306837432?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780306837432&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fin-my-darkest-hour-dave-mustaine%2F1146068958%3Fean%3D9780306837432&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Darkest-Hour%2FDave-Mustaine%2F9780306837432"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780306837432"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maggie Haberman and Jonathan Swan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
+      "author": "Naomi Klein and Astra Taylor",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621384.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5dd87b27-9d9d-5130-a307-8c86ece9528e",
-      "contributor": "by Maggie Haberman and Jonathan Swan",
+      "book_uri": "nyt://book/721a143d-3920-5ad6-a94f-9a7aa2952759",
+      "contributor": "by Naomi Klein and Astra Taylor",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:23:03.213Z",
+      "created_date": "2026-09-23T18:35:52.835Z",
       "dagger": 0,
-      "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
+      "description": "An investigation of the shared beliefs belonging to religious fundamentalists, Silicon Valley technologists and ethno-nationalists.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668067246",
-      "publisher": "Simon & Schuster",
-      "rank": 5,
-      "rank_last_week": 3,
+      "primary_isbn13": "9780374621384",
+      "publisher": "Farrar, Straus & Giroux",
+      "rank": 2,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "REGIME CHANGE",
-      "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 12,
+      "title": "END TIMES FASCISM",
+      "updated_date": "2026-09-23T18:35:52.835Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668067246"
+          "isbn13": "9780374621384"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668067246?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780374621384?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067246&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067246&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621384&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fend-times-fascism-naomi-klein%2F1148854151%3Fean%3D9780374621384&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRegime-Change%2FMaggie-Haberman%2F9781668067246"
+          "url": "https://www.booksamillion.com/p/End-Times-Fascism/Naomi-Klein/9780374621384?cjdata=MXxOfDB8WXww&AID=35140&PID=7990613&cjevent=87a85654b77d11f180bf003a0a82b838"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668067246"
+          "url": "https://bookshop.org/a/3546/9780374621384"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668031574?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250374073?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kai Bird with Susan Goldmark",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668031575.jpg",
+      "author": "Bill O'Reilly and Josh Hammer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250374073.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/09/01/books/review/american-scoundrel-kai-bird-susan-goldmark.html",
-      "book_uri": "nyt://book/3eeed148-e2e0-5cd7-9cd0-7c8ab4422819",
-      "contributor": "by Kai Bird with Susan Goldmark",
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cd8d3169-3b75-5997-8c85-d83b00570d74",
+      "contributor": "by Bill O'Reilly and Josh Hammer",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.436Z",
+      "created_date": "2026-09-23T18:21:05.588Z",
       "dagger": 0,
-      "description": "A co-author of “American Prometheus” chronicles the life and work of the lawyer and political fixer Roy Cohn.",
+      "description": "The conservative commentator shares his views on education, family, drugs, work and religion.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668031575",
-      "publisher": "Scribner",
-      "rank": 6,
-      "rank_last_week": 2,
+      "primary_isbn13": "9781250374073",
+      "publisher": "St. Martin's",
+      "rank": 3,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "AMERICAN SCOUNDREL",
-      "updated_date": "2026-09-09T18:10:35.436Z",
-      "weeks_on_list": 2,
+      "title": "CONFRONTING AMERICA",
+      "updated_date": "2026-09-23T18:21:05.588Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668031575"
+          "isbn13": "9781250374073"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668031574?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250374073?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668031575?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250374073?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668031575&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Famerican-scoundrel-kai-bird%2F1149526146%3Fean%3D9781668031575&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250374073&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fconfronting-america-bill-oreilly%2F1149258686%3Fean%3D9781250374073&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmerican-Scoundrel%2FKai-Bird%2F9781668031575"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FConfronting-America%2FBill-OReilly%2F9781250374073"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668031575"
+          "url": "https://bookshop.org/a/3546/9781250374073"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1982177330?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Christian Craighead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781982177331.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/804c6e21-8b70-579f-849f-b5dd99870ba3",
+      "contributor": "by Christian Craighead",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:05.462Z",
+      "dagger": 0,
+      "description": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781982177331",
+      "publisher": "Threshold Editions",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ONE MAN IN",
+      "updated_date": "2026-09-23T18:21:05.462Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781982177331"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1982177330?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781982177331?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982177331&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-man-in-christian-craighead%2F1149542791%3Fean%3D9781982177331&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUntitled-OMI-Be-Confirmed%2FTBD%2F9781982177331"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781982177331"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324090979?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kristin Kobes Du Mez",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324090977.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/09/16/books/review/live-laugh-love-kristin-kobes-du-mez.html",
+      "book_uri": "nyt://book/296f76ec-b923-5440-9925-4fe37def3884",
+      "contributor": "by Kristin Kobes Du Mez",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:05.715Z",
+      "dagger": 0,
+      "description": "The author of “Jesus and John Wayne\" explores the history of white Christian womanhood in the United States.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324090977",
+      "publisher": "Liveright",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LIVE LAUGH LOVE",
+      "updated_date": "2026-09-23T18:21:05.715Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324090977"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324090979?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324090977?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324090977&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flive-laugh-love-kristin-kobes-du-mez%2F1149229770%3Fean%3D9781324090977&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLive-Laugh-Love%2FKristin-Kobes-Du-Mez%2F9781324090977"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324090977"
         }
       ]
     },
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538773420",
       "publisher": "Grand Central",
-      "rank": 7,
-      "rank_last_week": 1,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THIS IS ME",
       "updated_date": "2026-09-02T18:40:17.923Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -401,393 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ted Cruz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181193.jpg",
+      "author": "Victor Davis Hanson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 323,
       "book_review_link": "",
-      "book_uri": "nyt://book/40d3d16a-d4d4-585e-a2a6-5515666885c8",
-      "contributor": "by Ted Cruz",
+      "book_uri": "nyt://book/5d71f2e2-6c9c-534e-97a8-c1853871cd2b",
+      "contributor": "by Victor Davis Hanson",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.65Z",
+      "created_date": "2026-09-16T18:02:46.889Z",
       "dagger": 0,
-      "description": "The Republican senator from Texas profiles the Supreme Court justice Clarence Thomas.",
+      "description": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217181193",
-      "publisher": "Sentinel",
-      "rank": 8,
-      "rank_last_week": 4,
+      "primary_isbn13": "9781541607828",
+      "publisher": "Basic",
+      "rank": 7,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "GOING FURTHER",
-      "updated_date": "2026-09-02T18:40:17.65Z",
-      "weeks_on_list": 3,
+      "title": "THE COUNTERREVOLUTION",
+      "updated_date": "2026-09-16T18:02:46.889Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217181193"
+          "isbn13": "9781541607828"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GXNLZ6W8?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217181193?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781541607828?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181193&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgoing-further-ted-cruz%2F1149929705%3Fean%3D9798217181193&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541607828&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-counterrevolution-victor-davis-hanson%2F1149100786%3Fean%3D9781541607828&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGoing-Further%2FTed-Cruz%2F9798217181193"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCounterrevolution%2FVictor-Davis-Hanson%2F9781541607828"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217181193"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1982116641?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jaclyn Smith",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781982116644.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/828e73a4-9fd7-5975-b410-2264b96f0299",
-      "contributor": "by Jaclyn Smith",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:47.602Z",
-      "dagger": 0,
-      "description": "The actress recounts some of her personal and professional experiences, including her five seasons on the TV series “Charlie’s Angels.”",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781982116644",
-      "publisher": "Gallery",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "I ONCE KNEW A GUY NAMED CHARLIE",
-      "updated_date": "2026-09-16T18:02:47.602Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781982116644"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1982116641?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781982116644?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982116644&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-once-knew-a-guy-named-charlie-jaclyn-smith%2F1149528098%3Fean%3D9781982116644&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOnce-Knew-Guy-Named-Charlie%2FJaclyn-Smith%2F9781982116644"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781982116644"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Belle Burden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
-      "contributor": "by Belle Burden",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:00.746Z",
-      "dagger": 0,
-      "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593733318",
-      "publisher": "Dial",
-      "rank": 10,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "STRANGERS",
-      "updated_date": "2026-03-04T23:40:00.746Z",
-      "weeks_on_list": 34,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593733318"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593733318&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstrangers-belle-burden%2F1147241871%3Fean%3D9780593733318&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593733318"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593716345?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "William D. Cohan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593716342.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/09/08/books/review/money-to-burn-william-d-cohan.html",
-      "book_uri": "nyt://book/af21aa64-eef5-5647-86da-f588e94b0251",
-      "contributor": "by William D. Cohan",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:47.446Z",
-      "dagger": 0,
-      "description": "The author of “Power Failure” depicts the rise and fall of Leon Black, a founder of the investment firm Apollo Global Management.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593716342",
-      "publisher": "Portfolio",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MONEY TO BURN",
-      "updated_date": "2026-09-16T18:02:47.446Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593716342"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593716345?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593716342?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593716342&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmoney-to-burn-william-d-cohan%2F1149856096%3Fean%3D9780593716342&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMoney-Burn%2FWilliam-D-Cohan%2F9780593716342"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593716342"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jonathan Haidt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
-      "contributor": "by Jonathan Haidt",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:23.53Z",
-      "dagger": 0,
-      "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593655030",
-      "publisher": "Penguin Press",
-      "rank": 12,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "THE ANXIOUS GENERATION",
-      "updated_date": "2026-03-04T23:40:23.53Z",
-      "weeks_on_list": 123,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593655030"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593655030&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anxious-generation-jonathan-haidt%2F1143532841%3Fean%3D9780593655030&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593655030"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Patrick Radden Keefe",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html",
-      "book_uri": "nyt://book/0f065502-f228-525f-89c1-19b511d49a2e",
-      "contributor": "by Patrick Radden Keefe",
-      "contributor_note": "",
-      "created_date": "2026-04-15T21:36:09.161Z",
-      "dagger": 0,
-      "description": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385548533",
-      "publisher": "Doubleday",
-      "rank": 13,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "LONDON FALLING",
-      "updated_date": "2026-04-15T21:36:09.161Z",
-      "weeks_on_list": 23,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385548533"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385548532?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385548533?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385548533&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flondon-falling-patrick-radden-keefe%2F1147793831%3Fean%3D9780385548533&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLondon-Falling%2FPatrick-Radden-Keefe%2F9780385548533"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385548533"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400256763?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eric Idle",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400256761.jpg",
-      "book_image_height": 500,
-      "book_image_width": 334,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1b8c88f1-5d31-5cd4-b7e8-4bd482c78199",
-      "contributor": "by Eric Idle",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:42.592Z",
-      "dagger": 0,
-      "description": "The Monty Python co-founder and author of \"Always Look on the Bright Side of Life\" describes how in 1971 he took a stone shack in disrepair in southeastern France and turned it into a haven for respite and creativity.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781400256761",
-      "publisher": "Harper Select",
-      "rank": 14,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "IDLE IN PROVENCE",
-      "updated_date": "2026-09-16T18:02:42.592Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781400256761"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400256763?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400256761?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400256761&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fidle-in-provence-eric-idle%2F1148705818%3Fean%3D9781400256761&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIdle-Provence%2FEric-Idle%2F9781400256761"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400256761"
+          "url": "https://bookshop.org/a/3546/9781541607828"
         }
       ]
     },
@@ -812,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668221402",
       "publisher": "Avid Reader",
-      "rank": 15,
-      "rank_last_week": 10,
+      "rank": 8,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE NERD REICH",
       "updated_date": "2026-08-26T17:40:58.952Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +452,398 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781668221402"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GZTB2BPR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jacob Weisberg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217062591.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "https://www.nytimes.com/2026/09/14/books/review/profiles-in-cowardice-jacob-weisberg.html",
+      "book_uri": "nyt://book/625723b5-2541-52ad-951d-93f7b4142d1a",
+      "contributor": "by Jacob Weisberg",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:05.84Z",
+      "dagger": 0,
+      "description": "An examination of how eight individuals may have been complicit in President Trump’s acquisition of authoritarian power.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217062591",
+      "publisher": "Penguin Press",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PROFILES IN COWARDICE",
+      "updated_date": "2026-09-23T18:21:05.84Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217062591"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GZTB2BPR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217062591?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217062591&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprofiles-in-cowardice-jacob-weisberg%2F1150110379%3Fean%3D9798217062591&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProfiles-Cowardice%2FJacob-Weisberg%2F9798217062591"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217062591"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Maggie Haberman and Jonathan Swan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5dd87b27-9d9d-5130-a307-8c86ece9528e",
+      "contributor": "by Maggie Haberman and Jonathan Swan",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:23:03.213Z",
+      "dagger": 0,
+      "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668067246",
+      "publisher": "Simon & Schuster",
+      "rank": 10,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "REGIME CHANGE",
+      "updated_date": "2026-07-08T17:23:03.213Z",
+      "weeks_on_list": 13,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668067246"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668067246?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067246&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067246&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRegime-Change%2FMaggie-Haberman%2F9781668067246"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668067246"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1546008845?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Joyce Meyer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546008842.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/06ce1f83-4282-533f-b821-45203e0a848b",
+      "contributor": "by Joyce Meyer",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:06.101Z",
+      "dagger": 0,
+      "description": "The author of “God Is Not Mad at You” retraces her journey to become a Bible teacher and ministry leader.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546008842",
+      "publisher": "FaithWords",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MY BATTLEFIELD",
+      "updated_date": "2026-09-23T18:21:06.101Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546008842"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546008845?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546008842?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546008842&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-battlefield-joyce-meyer%2F1149100815%3Fean%3D9781546008842&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Battlefield%2FJoyce-Meyer%2F9781546008842"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546008842"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah Longwell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250464170.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7879e6a7-f50c-54ed-a4b2-ea50b9475474",
+      "contributor": "by Sarah Longwell",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:47.029Z",
+      "dagger": 0,
+      "description": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250464170",
+      "publisher": "St. Martin's",
+      "rank": 12,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "HOW TO EAT AN ELEPHANT",
+      "updated_date": "2026-09-16T18:02:47.029Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250464170"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/125046417X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250464170?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250464170&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-eat-an-elephant-sarah-longwell%2F1149619381%3Fean%3D9781250464170&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Eat-Elephant%2FSarah-Longwell%2F9781250464170"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250464170"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316595640?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eliezer Yudkowsky and Nate Soares",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316595643.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fc864867-aea1-5335-a24c-7d65d8749244",
+      "contributor": "by Eliezer Yudkowsky and Nate Soares",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:28:56.567Z",
+      "dagger": 0,
+      "description": "A warning regarding how machine superintelligence may bring about human extinction.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316595643",
+      "publisher": "Little, Brown",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IF ANYONE BUILDS IT, EVERYONE DIES",
+      "updated_date": "2026-09-23T18:28:56.567Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316595643"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316595640?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316595643?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316595643&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-anyone-builds-it-everyone-dies-eliezer-yudkowsky%2F1147242101%3Fean%3D9780316595643&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Anyone-Builds-Everyone-Dies%2FEliezer-Yudkowsky%2F9780316595643"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316595643"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593728122?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ben Macintyre",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593728123.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/40c807e5-90f8-54c9-b3a6-a411be5bd03d",
+      "contributor": "by Ben Macintyre",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:05.965Z",
+      "dagger": 0,
+      "description": "The author of “The Spy and the Traitor” portrays an MI6 undercover officer’s work to help a Russian double agent hiding a secret in 1981.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593728123",
+      "publisher": "Crown",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "REDWOOD",
+      "updated_date": "2026-09-23T18:21:05.965Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593728123"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593728122?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593728123?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593728123&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fredwood-ben-macintyre%2F1148963735%3Fean%3D9780593728123&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRedwood%2FBen-MacIntyre%2F9780593728123"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593728123"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538776995?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ke Huy Quan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538776995.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f3aaa514-71c8-5516-9a9f-2e93aef53c7d",
+      "contributor": "by Ke Huy Quan",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:00.82Z",
+      "dagger": 0,
+      "description": "The Oscar-winning actor recounts his iconic childhood roles, his work behind the camera and his return to starring roles decades later.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538776995",
+      "publisher": "Grand Central",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NEVER SAY DIE",
+      "updated_date": "2026-09-23T18:21:00.82Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538776995"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538776995?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538776995?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538776995&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-say-die-ke-huy-quan%2F1149484389%3Fean%3D9781538776995&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Say-Die%2FKe-Huy-Quan%2F9781538776995"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538776995"
         }
       ]
     }

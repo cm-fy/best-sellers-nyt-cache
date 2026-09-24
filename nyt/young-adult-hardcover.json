@@ -5,117 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/9c1c31a0-cd98-5185-a690-b79160f0d23f",
+  "uri": "nyt://bestsellerslist/4f683abf-feb3-563e-80f4-972004ad37e8",
   "books": [
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
+      "age_group": "Ages 14 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/0316581852?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Erin A. Craig",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
+      "author": "Nikita Gill",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316581851.jpg",
       "book_image_height": 500,
-      "book_image_width": 309,
+      "book_image_width": 368,
       "book_review_link": "",
-      "book_uri": "nyt://book/4ccb17b0-6cc0-55d6-9ada-83aec0579311",
-      "contributor": "by Erin A. Craig",
+      "book_uri": "nyt://book/c0633efd-1903-5ce1-a79f-f8dc36fa40b1",
+      "contributor": "by Nikita Gill",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.228Z",
+      "created_date": "2026-09-23T18:21:01.732Z",
       "dagger": 0,
-      "description": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
+      "description": "A lifelong bond of sisterhood forms between the goddesses Styx and Asteria. (Ages 14 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217124183",
-      "publisher": "Delacorte",
+      "primary_isbn13": "9780316581851",
+      "publisher": "Little, Brown",
       "rank": 1,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "OUR STRANGE DUET",
-      "updated_date": "2026-09-09T18:10:32.228Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217124183"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217124183?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217124183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-strange-duet-erin-a-craig%2F1149680621%3Fean%3D9798217124183&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Strange-Duet%2FErin-A-Craig%2F9798217124183"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217124183"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Aiden Thomas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250894939.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b1384045-8dd5-5743-b886-8527051a16fc",
-      "contributor": "by Aiden Thomas",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:43.696Z",
-      "dagger": 0,
-      "description": "In this sequel to “Cemetery Boys,” Julian is now able to see and communicate with spirits. (Ages 13 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250894939",
-      "publisher": "Feiwel & Friends",
-      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ESPÍRITU",
-      "updated_date": "2026-09-16T18:02:43.696Z",
+      "title": "STYX",
+      "updated_date": "2026-09-23T18:21:01.732Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250894939"
+          "isbn13": "9780316581851"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316581852?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250894939?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316581851?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250894939&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcemetery-boys-aiden-thomas%2F1146474040%3Fean%3D9781250894939&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316581851&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fstyx-nikita-gill%2F1148669239%3Fean%3D9780316581851&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCemetery-Boys%2FAiden-Thomas%2F9781250894939"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStyx%2FNikita-Gill%2F9780316581851"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250894939"
+          "url": "https://bookshop.org/a/3546/9780316581851"
         }
       ]
     },
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781640366008",
       "publisher": "Mattel",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "BARBIE: DREAMSCAPE",
       "updated_date": "2026-08-26T17:40:57.362Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +121,174 @@
     },
     {
       "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erin A. Craig",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
+      "book_image_height": 500,
+      "book_image_width": 309,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4ccb17b0-6cc0-55d6-9ada-83aec0579311",
+      "contributor": "by Erin A. Craig",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.228Z",
+      "dagger": 0,
+      "description": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217124183",
+      "publisher": "Delacorte",
+      "rank": 3,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "OUR STRANGE DUET",
+      "updated_date": "2026-09-09T18:10:32.228Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217124183"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217124183?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217124183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-strange-duet-erin-a-craig%2F1149680621%3Fean%3D9798217124183&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Strange-Duet%2FErin-A-Craig%2F9798217124183"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217124183"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0063462273?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ava Reid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063462274.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8a4c4bad-29c5-5b64-862f-2b585cd52344",
+      "contributor": "by Ava Reid",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:01.885Z",
+      "dagger": 0,
+      "description": "Four teenagers with unique skill sets are recruited by the C.I.A. for a dangerous secret mission. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063462274",
+      "publisher": "HarperCollins",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WINTERVEIL",
+      "updated_date": "2026-09-23T18:21:01.885Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063462274"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063462273?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063462274?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063462274&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwinterveil-ava-reid%2F1148853439%3Fean%3D9780063462274&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWinterveil-Deluxe%2FAva-Reid%2F9780063462274"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063462274"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0062882791?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elizabeth Acevedo",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062882790.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/189e082d-1c82-572f-a7a3-c7155da0cb87",
+      "contributor": "by Elizabeth Acevedo",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:02.012Z",
+      "dagger": 0,
+      "description": "A teenage girl risks violating her probation to help her older brother. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062882790",
+      "publisher": "Quill Tree",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ANGER IS ONLY A SHADOW",
+      "updated_date": "2026-09-23T18:21:02.012Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062882790"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062882791?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062882790?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062882790&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fanger-is-only-a-shadow-elizabeth-acevedo%2F1149008748%3Fean%3D9780062882790&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAnger-Only-Shadow%2FElizabeth-Acevedo%2F9780062882790"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062882790"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780736447362",
       "publisher": "Random House/Disney",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-09-16T18:02:43.834Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -244,7 +356,7 @@
       "book_uri": "nyt://book/0919a11a-0b5e-5ba7-a763-ea9e56f13405",
       "contributor": "by Misty Wilson",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:43.987Z",
+      "created_date": "2026-09-23T18:21:02.152Z",
       "dagger": 0,
       "description": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
       "first_chapter_link": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347116430",
       "publisher": "Margaret K. McElderry",
-      "rank": 5,
-      "rank_last_week": 7,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "FALLING LIKE LEAVES",
-      "updated_date": "2026-09-16T18:02:43.987Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-09-23T18:21:02.152Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -288,58 +400,58 @@
       ]
     },
     {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20",
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "E. Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217026500.jpg",
+      "author": "Aiden Thomas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250894939.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/7c3133b8-8744-5ec2-bad4-9e49eabe42b8",
-      "contributor": "by E. Kennedy",
+      "book_uri": "nyt://book/b1384045-8dd5-5743-b886-8527051a16fc",
+      "contributor": "by Aiden Thomas",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:19:38.865Z",
+      "created_date": "2026-09-16T18:02:43.696Z",
       "dagger": 0,
-      "description": "Gabrielle Thorn, now going by Ryan Shipley, conceals her identity to distance herself from her father, a convicted serial killer. (Ages 14 and up)",
+      "description": "In this sequel to “Cemetery Boys,” Julian is now able to see and communicate with spirits. (Ages 13 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217026500",
-      "publisher": "Delacorte",
-      "rank": 6,
-      "rank_last_week": 9,
+      "primary_isbn13": "9781250894939",
+      "publisher": "Feiwel & Friends",
+      "rank": 8,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "THORNBIRD",
-      "updated_date": "2026-07-08T17:19:38.865Z",
-      "weeks_on_list": 7,
+      "title": "ESPÍRITU",
+      "updated_date": "2026-09-16T18:02:43.696Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217026500"
+          "isbn13": "9781250894939"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FTFKFP89?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/125089493X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217026500?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250894939?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217026500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthornbird-e-kennedy%2F1148412226%3Fean%3D9798217026500&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250894939&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcemetery-boys-aiden-thomas%2F1146474040%3Fean%3D9781250894939&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThornbird%2FE-Kennedy%2F9798217026500"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCemetery-Boys%2FAiden-Thomas%2F9781250894939"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217026500"
+          "url": "https://bookshop.org/a/3546/9781250894939"
         }
       ]
     },
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217446353",
       "publisher": "Delacorte",
-      "rank": 7,
-      "rank_last_week": 2,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "BLIGHTFALL",
       "updated_date": "2026-09-16T18:02:44.123Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593898840",
       "publisher": "Delacorte",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "RUINOUS ENDS",
       "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780593898840"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1665978937?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Scott Reintgen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665978934.jpg",
-      "book_image_height": 500,
-      "book_image_width": 344,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7666568d-200c-5179-a32e-7bf73a706dc9",
-      "contributor": "by Scott Reintgen",
-      "contributor_note": "",
-      "created_date": "2026-04-08T18:13:19.228Z",
-      "dagger": 0,
-      "description": "When an airship crash lands on a deserted island, a deadly mythical creature smuggled aboard escapes and begins to prey on the survivors. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665978934",
-      "publisher": "Margaret K. McElderry",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DEVIOUS PREY",
-      "updated_date": "2026-04-08T18:13:19.228Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665978934"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665978937?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665978934?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665978934&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdevious-prey-scott-reintgen%2F1147556664%3Fean%3D9781665978934&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDevious-Prey%2FScott-Reintgen%2F9781665978934"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665978934"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Margaret Owen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368101042.jpg",
-      "book_image_height": 500,
-      "book_image_width": 343,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c13ab041-341c-5b33-b5e6-e3820b9ff2d6",
-      "contributor": "by Margaret Owen",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:12.825Z",
-      "dagger": 0,
-      "description": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368101042",
-      "publisher": "Random House/Disney",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ROOTBOUND",
-      "updated_date": "2026-09-02T18:40:12.825Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368101042"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368101046?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368101042?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368101042&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frootbound-margaret-owen%2F1146801005%3Fean%3D9781368101042&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRootbound%2FMargaret-Owen%2F9781368101042"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368101042"
         }
       ]
     }

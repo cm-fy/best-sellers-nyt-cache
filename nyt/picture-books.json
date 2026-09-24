@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/d2f3e05f-40c6-5d19-a302-6981f338408c",
+  "uri": "nyt://bestsellerslist/1d6be62e-3924-52ec-8849-83cf3bea4964",
   "books": [
     {
       "age_group": "Ages 3 to 7",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "FRANKENKITTY",
       "updated_date": "2026-09-09T18:15:26.434Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Hemming",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
-      "book_image_height": 500,
-      "book_image_width": 458,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
-      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
-      "contributor_note": "Illustrated by Nicola Slater",
-      "created_date": "2026-08-05T17:45:02.569Z",
-      "dagger": 0,
-      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464268076",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 2,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "THE PUMPKIN THIEF",
-      "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464268076"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464268076"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728235202",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 3,
-      "rank_last_week": 5,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE LEAF THIEF",
       "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -176,58 +120,114 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 5",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G5WFP8V9?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJJQ2GFZ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Loryn Brantz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217042142.jpg",
+      "author": "Julia Donaldson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217238736.jpg",
       "book_image_height": 500,
-      "book_image_width": 500,
+      "book_image_width": 404,
       "book_review_link": "",
-      "book_uri": "nyt://book/17685f48-9109-5892-bdd3-03a8e37f7934",
-      "contributor": "by Loryn Brantz",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:42.725Z",
+      "book_uri": "nyt://book/2f621925-2b20-5751-a778-3f4bce82aa00",
+      "contributor": "by Julia Donaldson. Illustrated by Axel Scheffler",
+      "contributor_note": "Illustrated by Axel Scheffler",
+      "created_date": "2026-09-23T18:21:00.941Z",
       "dagger": 0,
-      "description": "A little girl is so infuriated by a denied request that she turns into a spicy nugget! (Ages 3 to 5)",
+      "description": "Granny pays the Gruffalo family a visit. (Ages 3 to 7)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217042142",
-      "publisher": "Viking",
-      "rank": 4,
+      "primary_isbn13": "9798217238736",
+      "publisher": "Dial",
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "I AM A SPICY NUGGET",
-      "updated_date": "2026-09-16T18:02:42.725Z",
+      "title": "GRUFFALO GRANNY",
+      "updated_date": "2026-09-23T18:21:00.941Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217042142"
+          "isbn13": "9798217238736"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G5WFP8V9?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GJJQ2GFZ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217042142?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217238736?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217042142&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-am-a-spicy-nugget-loryn-brantz%2F1148911923%3Fean%3D9798217042142&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217238736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgruffalo-granny-julia-donaldson%2F1149412359%3Fean%3D9798217238736&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAm-Spicy-Nugget%2FLoryn-Brantz%2F9798217042142"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGruffalo-Granny%2FJulia-Donaldson%2F9798217238736"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217042142"
+          "url": "https://bookshop.org/a/3546/9798217238736"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Hemming",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
+      "book_image_height": 500,
+      "book_image_width": 458,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
+      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
+      "contributor_note": "Illustrated by Nicola Slater",
+      "created_date": "2026-08-05T17:45:02.569Z",
+      "dagger": 0,
+      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464268076",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 4,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE PUMPKIN THIEF",
+      "updated_date": "2026-08-05T17:45:02.569Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464268076"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464268076"
         }
       ]
     },
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
       "rank": 5,
-      "rank_last_week": 3,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -309,11 +309,11 @@
       "primary_isbn13": "9780063436121",
       "publisher": "Clarion",
       "rank": 6,
-      "rank_last_week": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "LITTLE BLUE TRUCK LOST AND FOUND",
       "updated_date": "2026-08-26T17:40:56.806Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -344,62 +344,6 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Winfield Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "book_image_height": 500,
-      "book_image_width": 475,
-      "book_review_link": "",
-      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
-      "contributor": "by Emily Winfield Martin",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:37.607Z",
-      "dagger": 0,
-      "description": "A celebration of future possibilities. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385376716",
-      "publisher": "Random House",
-      "rank": 7,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE WONDERFUL THINGS YOU WILL BE",
-      "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 477,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385376716"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385376716"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 4 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728210353",
       "publisher": "Sourcebooks Wonderland",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A WITCH",
       "updated_date": "2026-09-16T18:02:42.859Z",
-      "weeks_on_list": 30,
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
@@ -456,6 +400,62 @@
       ]
     },
     {
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily Winfield Martin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
+      "book_image_height": 500,
+      "book_image_width": 475,
+      "book_review_link": "",
+      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
+      "contributor": "by Emily Winfield Martin",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:37.607Z",
+      "dagger": 0,
+      "description": "A celebration of future possibilities. (Ages 3 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780385376716",
+      "publisher": "Random House",
+      "rank": 8,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE WONDERFUL THINGS YOU WILL BE",
+      "updated_date": "2026-07-08T17:19:37.607Z",
+      "weeks_on_list": 478,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780385376716"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385376716"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -477,11 +477,11 @@
       "primary_isbn13": "9781492648949",
       "publisher": "Sourcebooks Jabberwocky",
       "rank": 9,
-      "rank_last_week": 0,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A MONSTER",
       "updated_date": "2026-09-16T18:02:43.002Z",
-      "weeks_on_list": 29,
+      "weeks_on_list": 30,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 5 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSFTC64?tag=thenewyorktim-20",
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jessica Magro",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217244867.jpg",
-      "book_image_height": 500,
-      "book_image_width": 411,
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492669739.jpg",
+      "book_image_height": 330,
+      "book_image_width": 330,
       "book_review_link": "",
-      "book_uri": "nyt://book/0ff288fd-0211-58f5-bb21-75a97f8fa7cc",
-      "contributor": "by Jessica Magro",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:31.196Z",
+      "book_uri": "nyt://book/c45cf6ec-9c12-534e-99a7-c443a0d375ff",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-07-01T17:54:34.675Z",
       "dagger": 0,
-      "description": "Bluey and family play scary games on Halloween night. (Ages 5 to 8)",
+      "description": "Children attempt to capture the mythical creature. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217244867",
-      "publisher": "Penguin",
+      "primary_isbn13": "9781492669739",
+      "publisher": "Sourcebooks Wonderland",
       "rank": 10,
-      "rank_last_week": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BLUEY'S HEELERWEEN",
-      "updated_date": "2026-09-09T18:10:31.196Z",
-      "weeks_on_list": 2,
+      "title": "HOW TO CATCH A UNICORN",
+      "updated_date": "2026-07-01T17:54:34.675Z",
+      "weeks_on_list": 65,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217244867"
+          "isbn13": "9781492669739"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSFTC64?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217244867?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781492669739?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217244867&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblueys-heelerween-jessica-magro%2F1149909549%3Fean%3D9798217244867&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492669739&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-unicorn-adam-wallace%2F1128943354%3Fean%3D9781492669739&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlueys-Heelerween%2FJessica-Magro%2F9798217244867"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BUNICORN%2FAdam%2BWallace.%2F9781492669739"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217244867"
+          "url": "https://bookshop.org/a/3546/9781492669739"
         }
       ]
     }
