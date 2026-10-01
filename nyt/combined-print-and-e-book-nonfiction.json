@@ -5,8 +5,288 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/06ecd67c-c295-5aed-a33e-c7585941db36",
+  "uri": "nyt://bestsellerslist/92682b6b-e32b-57d5-aa65-dc51cc87d550",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Charles Spencer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217379743.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c262d874-79c3-5cad-bc05-39a2c97051b5",
+      "contributor": "by Charles Spencer",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:31.679Z",
+      "dagger": 0,
+      "description": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217379743",
+      "publisher": "Penguin Press",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SWAN SONG",
+      "updated_date": "2026-09-30T18:09:31.679Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217379743"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217379743?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217379743&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fswan-song-charles-spencer%2F1151113422%3Fean%3D9798217379743&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSwan-Song-Diana-my-sister%2FCharles-Spencer%2F9798217379743"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217379743"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ari Emanuel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
+      "book_uri": "nyt://book/6f8497cf-f6ee-51aa-9c49-627202468227",
+      "contributor": "by Ari Emanuel",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:31.804Z",
+      "dagger": 0,
+      "description": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217209347",
+      "publisher": "Knopf",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ROLL THE CALLS",
+      "updated_date": "2026-09-30T18:09:31.804Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217209347"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217209347?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217209347&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Froll-the-calls-ari-emanuel%2F1149326459%3Fean%3D9798217209347&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRoll-Calls%2FAri-Emanuel%2F9798217209347"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217209347"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668097230?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Taylor Tomlinson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668097236.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3f7afbcd-1095-585b-aaa7-91b112a597ab",
+      "contributor": "by Taylor Tomlinson",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:31.933Z",
+      "dagger": 0,
+      "description": "In a collection of essays, the comedian reflects upon her life as she approaches the same age her mother was when she died.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668097236",
+      "publisher": "Gallery",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ACTUALLY, NEVERMIND",
+      "updated_date": "2026-09-30T18:09:31.933Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668097236"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668097230?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668097236?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668097236&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Factually-nevermind-taylor-tomlinson%2F1149525917%3Fean%3D9781668097236&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FActually-Nevermind%2FTaylor-Tomlinson%2F9781668097236"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668097236"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/059397817X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gloria Steinem",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593978177.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2cd3ecee-c39a-5f99-8f2a-3db8518a8c33",
+      "contributor": "by Gloria Steinem",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:32.063Z",
+      "dagger": 0,
+      "description": "A memoir by the recently deceased feminist journalist and icon in which she recounts her six decades of activism.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593978177",
+      "publisher": "Random House",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "AN UNEXPECTED LIFE",
+      "updated_date": "2026-09-30T18:09:32.063Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593978177"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/059397817X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593978177?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593978177&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fan-unexpected-life-gloria-steinem%2F1149525594%3Fean%3D9780593978177&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnexpected-Life%2FGloria-Steinem%2F9780593978177"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593978177"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063569809?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Pakman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063569805.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/62c1d339-0a93-598a-8196-cf7dadc7f0cb",
+      "contributor": "by David Pakman",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:32.223Z",
+      "dagger": 0,
+      "description": "The author of “The Echo Machine” looks at the ways in which technology exacerbates political and cultural divisions.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063569805",
+      "publisher": "Harper",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PAY ATTENTION",
+      "updated_date": "2026-09-30T18:09:32.223Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063569805"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063569809?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063569805?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063569805&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpay-attention-david-pakman%2F1149202449%3Fean%3D9780063569805&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPay-Attention%2FDavid-Pakman%2F9780063569805"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063569805"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1538777878?tag=thenewyorktim-20",
@@ -28,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538777879",
       "publisher": "Legacy Lit",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE PERILOUS FIGHT",
       "updated_date": "2026-09-23T18:21:05.149Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,57 +345,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250452716?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Naomi Klein and Astra Taylor",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621384.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Andy Beshear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250452719.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/721a143d-3920-5ad6-a94f-9a7aa2952759",
-      "contributor": "by Naomi Klein and Astra Taylor",
+      "book_uri": "nyt://book/84245bcd-2b64-5d1e-b0a4-23d81c294c89",
+      "contributor": "by Andy Beshear",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:35:52.835Z",
+      "created_date": "2026-09-30T18:09:32.349Z",
       "dagger": 0,
-      "description": "An investigation of the shared beliefs belonging to religious fundamentalists, Silicon Valley technologists and ethno-nationalists.",
+      "description": "The governor of Kentucky, who is the grandson of Baptist lay ministers, shares his views on the role that faith might have on public life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780374621384",
-      "publisher": "Farrar, Straus & Giroux",
-      "rank": 2,
+      "primary_isbn13": "9781250452719",
+      "publisher": "St. Martin's",
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "END TIMES FASCISM",
-      "updated_date": "2026-09-23T18:35:52.835Z",
+      "title": "GO AND DO LIKEWISE",
+      "updated_date": "2026-09-30T18:09:32.349Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780374621384"
+          "isbn13": "9781250452719"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250452716?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374621384?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250452719?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621384&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fend-times-fascism-naomi-klein%2F1148854151%3Fean%3D9780374621384&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250452719&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgo-and-do-likewise-andy-beshear%2F1149501650%3Fean%3D9781250452719&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/End-Times-Fascism/Naomi-Klein/9780374621384?cjdata=MXxOfDB8WXww&AID=35140&PID=7990613&cjevent=87a85654b77d11f180bf003a0a82b838"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGo-Likewise%2FAndy-Beshear%2F9781250452719"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374621384"
+          "url": "https://bookshop.org/a/3546/9781250452719"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Maggie Haberman and Jonathan Swan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5dd87b27-9d9d-5130-a307-8c86ece9528e",
+      "contributor": "by Maggie Haberman and Jonathan Swan",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:23:03.213Z",
+      "dagger": 0,
+      "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668067246",
+      "publisher": "Simon & Schuster",
+      "rank": 8,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "REGIME CHANGE",
+      "updated_date": "2026-07-08T17:23:03.213Z",
+      "weeks_on_list": 14,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668067246"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668067246?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067246&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067246&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRegime-Change%2FMaggie-Haberman%2F9781668067246"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668067246"
         }
       ]
     },
@@ -126,13 +462,13 @@
       "asterisk": 0,
       "author": "Christian Craighead",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781982177331.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/804c6e21-8b70-579f-849f-b5dd99870ba3",
       "contributor": "by Christian Craighead",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:21:05.462Z",
+      "created_date": "2026-09-30T18:32:39.927Z",
       "dagger": 0,
       "description": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi.",
       "first_chapter_link": "",
@@ -140,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781982177331",
       "publisher": "Threshold Editions",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "ONE MAN IN",
-      "updated_date": "2026-09-23T18:21:05.462Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-09-30T18:32:39.927Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -159,10 +495,10 @@
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781982177331?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781982177355?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982177331&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-man-in-christian-craighead%2F1149542791%3Fean%3D9781982177331&intsrc=APIG_15890"
         },
         {
@@ -196,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250374073",
       "publisher": "St. Martin's",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "CONFRONTING AMERICA",
       "updated_date": "2026-09-23T18:21:05.588Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668221402",
       "publisher": "Avid Reader",
-      "rank": 5,
-      "rank_last_week": 15,
+      "rank": 11,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE NERD REICH",
       "updated_date": "2026-08-26T17:40:58.952Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -289,505 +625,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1324090979?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063499053?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kristin Kobes Du Mez",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324090977.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/09/16/books/review/live-laugh-love-kristin-kobes-du-mez.html",
-      "book_uri": "nyt://book/296f76ec-b923-5440-9925-4fe37def3884",
-      "contributor": "by Kristin Kobes Du Mez",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:05.715Z",
-      "dagger": 0,
-      "description": "The author of “Jesus and John Wayne\" explores the history of white Christian womanhood in the United States.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781324090977",
-      "publisher": "Liveright",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "LIVE LAUGH LOVE",
-      "updated_date": "2026-09-23T18:21:05.715Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781324090977"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1324090979?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324090977?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324090977&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flive-laugh-love-kristin-kobes-du-mez%2F1149229770%3Fean%3D9781324090977&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLive-Laugh-Love%2FKristin-Kobes-Du-Mez%2F9781324090977"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324090977"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GZTB2BPR?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jacob Weisberg",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217062591.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/09/14/books/review/profiles-in-cowardice-jacob-weisberg.html",
-      "book_uri": "nyt://book/625723b5-2541-52ad-951d-93f7b4142d1a",
-      "contributor": "by Jacob Weisberg",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:05.84Z",
-      "dagger": 0,
-      "description": "An examination of how eight individuals may have been complicit in President Trump’s acquisition of authoritarian power.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217062591",
-      "publisher": "Penguin Press",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PROFILES IN COWARDICE",
-      "updated_date": "2026-09-23T18:21:05.84Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217062591"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GZTB2BPR?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217062591?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217062591&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprofiles-in-cowardice-jacob-weisberg%2F1150110379%3Fean%3D9798217062591&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProfiles-Cowardice%2FJacob-Weisberg%2F9798217062591"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217062591"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Victor Davis Hanson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
-      "book_image_height": 500,
-      "book_image_width": 323,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5d71f2e2-6c9c-534e-97a8-c1853871cd2b",
-      "contributor": "by Victor Davis Hanson",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:46.889Z",
-      "dagger": 0,
-      "description": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781541607828",
-      "publisher": "Basic",
-      "rank": 8,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "THE COUNTERREVOLUTION",
-      "updated_date": "2026-09-16T18:02:46.889Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781541607828"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781541607828?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541607828&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-counterrevolution-victor-davis-hanson%2F1149100786%3Fean%3D9781541607828&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCounterrevolution%2FVictor-Davis-Hanson%2F9781541607828"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781541607828"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Hayden Panettiere",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538773420.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/beb1c79b-8322-5d38-8af3-1e36b2bc5f33",
-      "contributor": "by Hayden Panettiere",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.923Z",
-      "dagger": 0,
-      "description": "The late actress describes how she contended with fame and handled difficulties in her life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781538773420",
-      "publisher": "Grand Central",
-      "rank": 9,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "THIS IS ME",
-      "updated_date": "2026-09-02T18:40:17.923Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781538773420"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538773422?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668655627?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538773420&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-me-hayden-panettiere%2F1149240724%3Fean%3D9781538773420&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis%2FHayden-Panettiere%2F9781538773420"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538773420"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593728122?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ben Macintyre",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593728123.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/40c807e5-90f8-54c9-b3a6-a411be5bd03d",
-      "contributor": "by Ben Macintyre",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:05.965Z",
-      "dagger": 0,
-      "description": "The author of “The Spy and the Traitor” portrays an MI6 undercover officer’s work to help a Russian double agent hiding a secret in 1981.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593728123",
-      "publisher": "Crown",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "REDWOOD",
-      "updated_date": "2026-09-23T18:21:05.965Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593728123"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593728122?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593728123?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593728123&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fredwood-ben-macintyre%2F1148963735%3Fean%3D9780593728123&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRedwood%2FBen-MacIntyre%2F9780593728123"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593728123"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maggie Haberman and Jonathan Swan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
+      "author": "Lindy Li",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063499058.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5dd87b27-9d9d-5130-a307-8c86ece9528e",
-      "contributor": "by Maggie Haberman and Jonathan Swan",
+      "book_uri": "nyt://book/cf2f5d49-ebdd-5ff6-9ba5-661ab0016dba",
+      "contributor": "by Lindy Li",
       "contributor_note": "",
-      "created_date": "2026-07-08T17:23:03.213Z",
-      "dagger": 0,
-      "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
+      "created_date": "2026-09-30T18:32:56.403Z",
+      "dagger": 1,
+      "description": "A former Democratic fund-raiser gives her perspectives on actions taken by the consultants, staffers, celebrities and elites connected to that party.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668067246",
-      "publisher": "Simon & Schuster",
-      "rank": 11,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "REGIME CHANGE",
-      "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 13,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668067246"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668067246?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067246&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067246&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRegime-Change%2FMaggie-Haberman%2F9781668067246"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668067246"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1546008845?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Joyce Meyer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546008842.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/06ce1f83-4282-533f-b821-45203e0a848b",
-      "contributor": "by Joyce Meyer",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:06.101Z",
-      "dagger": 0,
-      "description": "The author of “God Is Not Mad at You” retraces her journey to become a Bible teacher and ministry leader.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781546008842",
-      "publisher": "FaithWords",
+      "primary_isbn13": "9780063499058",
+      "publisher": "Harper",
       "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MY BATTLEFIELD",
-      "updated_date": "2026-09-23T18:21:06.101Z",
+      "title": "UNBURDENED",
+      "updated_date": "2026-09-30T18:32:56.403Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781546008842"
+          "isbn13": "9780063499058"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1546008845?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063499053?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546008842?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546008842&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-battlefield-joyce-meyer%2F1149100815%3Fean%3D9781546008842&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Battlefield%2FJoyce-Meyer%2F9781546008842"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546008842"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250901634?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alex Wagner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250901637.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/149fe392-9c14-5349-885e-10c7420ed666",
-      "contributor": "by Alex Wagner",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:06.231Z",
-      "dagger": 0,
-      "description": "The host of the podcast Runaway Country profiles a handful of conservatives whose efforts during the Reagan administration impacted the American judiciary.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250901637",
-      "publisher": "Flatiron",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE STEAL",
-      "updated_date": "2026-09-23T18:21:06.231Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250901637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250901634?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250901637?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250901637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-steal-alex-wagner%2F1149268254%3Fean%3D9781250901637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSteal%2FAlex-Wagner%2F9781250901637"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250901637"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316595640?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eliezer Yudkowsky and Nate Soares",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316595643.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/fc864867-aea1-5335-a24c-7d65d8749244",
-      "contributor": "by Eliezer Yudkowsky and Nate Soares",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:28:56.567Z",
-      "dagger": 0,
-      "description": "A warning regarding how machine superintelligence may bring about human extinction.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316595643",
-      "publisher": "Little, Brown",
-      "rank": 14,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "IF ANYONE BUILDS IT, EVERYONE DIES",
-      "updated_date": "2026-09-23T18:28:56.567Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316595643"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316595640?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316595643?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063499065?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316595643&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-anyone-builds-it-everyone-dies-eliezer-yudkowsky%2F1147242101%3Fean%3D9780316595643&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063499058&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funburdened-lindy-li%2F1150314556%3Fean%3D9780063499058&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Anyone-Builds-Everyone-Dies%2FEliezer-Yudkowsky%2F9780316595643"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnburdened%2FLindy-Li%2F9780063499058"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316595643"
+          "url": "https://bookshop.org/a/3546/9780063499058"
         }
       ]
     },
@@ -812,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780143127741",
       "publisher": "Penguin",
-      "rank": 15,
-      "rank_last_week": 8,
+      "rank": 13,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 313,
+      "weeks_on_list": 314,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +732,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780143127741"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Naomi Klein and Astra Taylor",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621384.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/721a143d-3920-5ad6-a94f-9a7aa2952759",
+      "contributor": "by Naomi Klein and Astra Taylor",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:35:52.835Z",
+      "dagger": 0,
+      "description": "An investigation of the shared beliefs belonging to religious fundamentalists, Silicon Valley technologists and ethno-nationalists.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780374621384",
+      "publisher": "Farrar, Straus & Giroux",
+      "rank": 14,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "END TIMES FASCISM",
+      "updated_date": "2026-09-23T18:35:52.835Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780374621384"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0374621381?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780374621384?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621384&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fend-times-fascism-naomi-klein%2F1148854151%3Fean%3D9780374621384&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/End-Times-Fascism/Naomi-Klein/9780374621384?cjdata=MXxOfDB8WXww&AID=35140&PID=7990613&cjevent=87a85654b77d11f180bf003a0a82b838"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780374621384"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Victor Davis Hanson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
+      "book_image_height": 500,
+      "book_image_width": 323,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5d71f2e2-6c9c-534e-97a8-c1853871cd2b",
+      "contributor": "by Victor Davis Hanson",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:46.889Z",
+      "dagger": 0,
+      "description": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781541607828",
+      "publisher": "Basic",
+      "rank": 15,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE COUNTERREVOLUTION",
+      "updated_date": "2026-09-16T18:02:46.889Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781541607828"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1541607821?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781541607828?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541607828&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-counterrevolution-victor-davis-hanson%2F1149100786%3Fean%3D9781541607828&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCounterrevolution%2FVictor-Davis-Hanson%2F9781541607828"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781541607828"
         }
       ]
     }

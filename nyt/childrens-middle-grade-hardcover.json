@@ -5,8 +5,288 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/6534fa74-f504-54a7-add7-bb39d60e3256",
+  "uri": "nyt://bestsellerslist/09395ffc-1325-59fa-abde-bde41bcee8db",
   "books": [
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "R.J. Palacio",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
+      "book_image_height": 500,
+      "book_image_width": 339,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+      "contributor": "by R.J. Palacio",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:29.079Z",
+      "dagger": 0,
+      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375869020",
+      "publisher": "Knopf",
+      "rank": 1,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "WONDER",
+      "updated_date": "2026-09-30T18:09:29.079Z",
+      "weeks_on_list": 562,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375869020"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375869020"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 and up",
+      "amazon_product_url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "America's Test Kitchen Kids",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492670025.jpg",
+      "book_image_height": 419,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/894e62dd-9e61-570a-ad32-6f4617d323e5",
+      "contributor": "by America's Test Kitchen Kids",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:05.9Z",
+      "dagger": 0,
+      "description": "Over 100 kid-tested recipes from America's Test Kitchen. (Ages 8 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781492670025",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
+      "updated_date": "2026-03-04T23:40:05.9Z",
+      "weeks_on_list": 289,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781492670025"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781492670025?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492670025&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-complete-cookbook-for-young-chefs-americas-test-kitchen-kids%2F1140313472%3Fean%3D9781492670025&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOMPLETE%2BCOOKBOOK%2BFOR%2BYOUNG%2BCHEFS%2FAmerica%2527s%2BTest%2BKitchen%2BKids%2F9781492670025"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781492670025"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eiko Kadono",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217236558.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
+      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
+      "contributor_note": "Illustrated by Yuta Onoda",
+      "created_date": "2026-09-30T18:09:29.213Z",
+      "dagger": 0,
+      "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217236558",
+      "publisher": "Delacorte",
+      "rank": 3,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "KIKI'S DELIVERY SERVICE",
+      "updated_date": "2026-09-30T18:09:29.213Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217236558"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217236558?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217236558&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkikis-delivery-service-eiko-kadono%2F1102380864%3Fean%3D9798217236558&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKikis-Delivery-Service-Deluxe%2FEiko-Kadono%2F9798217236558"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217236558"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1400217121?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dude Perfect with Allan Woodrow",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400217120.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0a353d09-5ac6-50a8-8ffd-2c1b0c10f147",
+      "contributor": "by Dude Perfect with Allan Woodrow. Illustrated by Genevieve Kote",
+      "contributor_note": "Illustrated by Genevieve Kote",
+      "created_date": "2026-09-30T18:09:29.377Z",
+      "dagger": 0,
+      "description": "The crew are set to perform at a London soccer match. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781400217120",
+      "publisher": "Tommy Nelson",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MATCH DAY MAYHEM",
+      "updated_date": "2026-09-30T18:09:29.377Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781400217120"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1400217121?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781400217120?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400217120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmatch-day-mayhem-dude-perfect%2F1149631900%3Fean%3D9781400217120&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMatch-Day-Mayhem%2FDude-Perfect%2F9781400217120"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781400217120"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Eiko Kadono",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217227105.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2e1f6e1d-9064-5023-bcaa-7629c284d57a",
+      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
+      "contributor_note": "Illustrated by Yuta Onoda",
+      "created_date": "2026-09-02T18:40:11.944Z",
+      "dagger": 0,
+      "description": "Kiki faces the challenges of growing up as an honest-to-goodness witch; translated by Emily Balistrieri. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217227105",
+      "publisher": "Delacorte",
+      "rank": 5,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "KIKI AND THE NEW MAGIC",
+      "updated_date": "2026-09-02T18:40:11.944Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217227105"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217227105?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217227105&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkiki-and-the-new-magic-eiko-kadono%2F1149711982%3Fean%3D9798217227105&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKiki-New-Magic%2FEiko-Kadono%2F9798217227105"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217227105"
+        }
+      ]
+    },
     {
       "age_group": "Ages 8 to 11",
       "amazon_product_url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20",
@@ -28,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419770555",
       "publisher": "Abrams",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "SPOOKY RIVERS",
       "updated_date": "2026-09-23T18:21:01.189Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,230 +345,6 @@
     },
     {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "R.J. Palacio",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
-      "book_image_height": 500,
-      "book_image_width": 339,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
-      "contributor": "by R.J. Palacio",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.326Z",
-      "dagger": 0,
-      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375869020",
-      "publisher": "Knopf",
-      "rank": 2,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "WONDER",
-      "updated_date": "2026-09-23T18:21:01.326Z",
-      "weeks_on_list": 561,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375869020"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375869020"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eiko Kadono",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217236558.jpg",
-      "book_image_height": 500,
-      "book_image_width": 317,
-      "book_review_link": "",
-      "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
-      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
-      "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-09-23T18:21:01.464Z",
-      "dagger": 0,
-      "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217236558",
-      "publisher": "Delacorte",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-09-23T18:21:01.464Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217236558"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G432W2KC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217236558?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217236558&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkikis-delivery-service-eiko-kadono%2F1102380864%3Fean%3D9798217236558&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKikis-Delivery-Service-Deluxe%2FEiko-Kadono%2F9798217236558"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217236558"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1464241260?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lindsay Currie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464241260.jpg",
-      "book_image_height": 500,
-      "book_image_width": 393,
-      "book_review_link": "",
-      "book_uri": "nyt://book/acbe4dec-ba32-506d-b0d7-b05128cff3f8",
-      "contributor": "by Lindsay Currie",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.592Z",
-      "dagger": 0,
-      "description": "Four friends investigate a murder inside a book-themed inn during an ice storm. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464241260",
-      "publisher": "Sourcebooks",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SECRET BOOKSTORE SLEUTH SOCIETY",
-      "updated_date": "2026-09-23T18:21:01.592Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464241260"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464241260?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464241260?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464241260&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-bookstore-sleuth-society-lindsay-currie%2F1148976831%3Fean%3D9781464241260&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520SECRET%2520BOOKSTORE%2520SLEUTH%2520SOCIETY%2520by%2520Lindsay%2520Currie"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464241260"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Eiko Kadono",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217227105.jpg",
-      "book_image_height": 500,
-      "book_image_width": 317,
-      "book_review_link": "",
-      "book_uri": "nyt://book/2e1f6e1d-9064-5023-bcaa-7629c284d57a",
-      "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
-      "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-09-02T18:40:11.944Z",
-      "dagger": 0,
-      "description": "Kiki faces the challenges of growing up as an honest-to-goodness witch; translated by Emily Balistrieri. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217227105",
-      "publisher": "Delacorte",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "KIKI AND THE NEW MAGIC",
-      "updated_date": "2026-09-02T18:40:11.944Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217227105"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G433VQQQ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217227105?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217227105&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fkiki-and-the-new-magic-eiko-kadono%2F1149711982%3Fean%3D9798217227105&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKiki-New-Magic%2FEiko-Kadono%2F9798217227105"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217227105"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063221178",
       "publisher": "Storytide",
-      "rank": 6,
-      "rank_last_week": 4,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 20,
+      "weeks_on_list": 21,
       "isbns": [
         {
           "isbn10": "",
@@ -344,58 +400,114 @@
       ]
     },
     {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250904362.jpg",
+      "author": "Beth Ferry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665942485.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/43f94763-9d3f-56da-ba4f-0750070c5258",
-      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
-      "contributor_note": "Illustrated by Charles Santoso",
-      "created_date": "2026-04-15T23:10:31.812Z",
+      "book_uri": "nyt://book/5db178f6-22fe-5a9b-93c9-68b56e239f63",
+      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
+      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
+      "created_date": "2026-07-29T17:27:30.514Z",
       "dagger": 0,
-      "description": "Zephyrina brings a rare stuffed bear back to the Second Chances Home for the Tossed and Treasured. (Ages 8 to 12)",
+      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250904362",
-      "publisher": "Feiwel & Friends",
-      "rank": 7,
+      "primary_isbn13": "9781665942485",
+      "publisher": "Simon & Schuster",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "POCKET BEAR",
-      "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 52,
+      "title": "GROWING HOME",
+      "updated_date": "2026-07-29T17:27:30.514Z",
+      "weeks_on_list": 56,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250904362"
+          "isbn13": "9781665942485"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250904362?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250904362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpocket-bear-katherine-applegate%2F1146474049%3Fean%3D9781250904362&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665942485&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665942485&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPocket-Bear%2FKatherine-Applegate%2F9781250904362"
+          "url": "https://www.booksamillion.com/p/Growing-Home/Beth-Ferry/9781665942485"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250904362"
+          "url": "https://bookshop.org/a/3546/9781665942485"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tiffany D. Jackson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225017477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 351,
+      "book_review_link": "",
+      "book_uri": "nyt://book/936acc1f-75f8-5c2e-b592-195b843c7759",
+      "contributor": "by Tiffany D. Jackson",
+      "contributor_note": "",
+      "created_date": "2026-08-12T18:23:43.478Z",
+      "dagger": 0,
+      "description": "Harmony Roundtree stumbles upon a murder mystery in Savannah, Ga. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798225017477",
+      "publisher": "Scholastic",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GHOST IN THE NIGHT",
+      "updated_date": "2026-08-12T18:23:43.478Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798225017477"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798225017477?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225017477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fghost-in-the-night-tiffany-d-jackson%2F1148276505%3Fean%3D9798225017477&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGhost-Night%2FTiffany-D-Jackson%2F9798225017477"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798225017477"
         }
       ]
     },
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347103997",
       "publisher": "Aladdin",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "REALLY RUBIE",
       "updated_date": "2026-06-10T17:37:54.95Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9798347103997"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/93e9d008-544b-581f-9681-75c147c79a93",
-      "contributor": "by Alan Gratz",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:03.282Z",
-      "dagger": 0,
-      "description": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781338245752",
-      "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "GROUND ZERO",
-      "updated_date": "2026-08-05T17:45:03.282Z",
-      "weeks_on_list": 69,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781338245752"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338245759?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338245752?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338245752&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fground-zero-alan-gratz%2F1136672425%3Fean%3D9781338245752&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGROUND%2BZERO%2FAlan%2BGratz%2F9781338245752"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338245752"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G2Q5PZMY?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alan Gratz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225063191.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a50eac42-05ca-52b5-aad5-f75b954c139d",
-      "contributor": "by Alan Gratz",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:31.808Z",
-      "dagger": 0,
-      "description": "Two Honduran refugee children ride on the top of a freight train known as “The Beast” to get to the Mexican-U.S. border. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798225063191",
-      "publisher": "Scholastic",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "FLIGHT",
-      "updated_date": "2026-09-09T18:10:31.808Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798225063191"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G2Q5PZMY?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798225063191?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225063191&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fflight-alan-gratz%2F1148867113%3Fean%3D9798225063191&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFlight%2FAlan-Gratz%2F9798225063191"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798225063191"
         }
       ]
     }

@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/2b05eac7-2dad-59b9-9160-31802f2e65be",
+  "uri": "nyt://bestsellerslist/030e3b19-0328-55be-bffa-25d8acaf0b14",
   "books": [
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250268400?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Stephanie Garber",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250474933.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3b39ed03-a599-585c-8e8e-879f257b9f6f",
+      "contributor": "by Stephanie Garber",
+      "contributor_note": "",
+      "created_date": "2026-10-01T00:32:37.574Z",
+      "dagger": 0,
+      "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250474933",
+      "publisher": "Flatiron",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ONCE UPON A BROKEN HEART",
+      "updated_date": "2026-10-01T00:32:37.574Z",
+      "weeks_on_list": 28,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250474933"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250268400?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250268389?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250474933&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mirror-of-infinite-endings-stephanie-garber%2F1149447811%3Fean%3D9781250474933&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DONCE%2520UPON%2520A%2520BROKEN%2520HEART%2520by%2520Stephanie%2520Garber"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250474933"
+        }
+      ]
+    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1546171606?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546171607",
       "publisher": "Scholastic",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 441,
+      "weeks_on_list": 442,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419782695",
       "publisher": "Amulet",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 914,
+      "weeks_on_list": 915,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 54,
+      "weeks_on_list": 55,
       "isbns": [
         {
           "isbn10": "",
@@ -176,282 +232,170 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rick Riordan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
-      "book_image_height": 500,
-      "book_image_width": 340,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
-      "contributor": "by Rick Riordan",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.452Z",
-      "dagger": 0,
-      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781368051477",
-      "publisher": "Disney-Hyperion",
-      "rank": 4,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "PERCY JACKSON & THE OLYMPIANS",
-      "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 846,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781368051477"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781368051477"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 10 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546148500.jpg",
       "book_image_height": 500,
-      "book_image_width": 344,
+      "book_image_width": 469,
       "book_review_link": "",
-      "book_uri": "nyt://book/9df40295-9d1e-5ee8-ba89-ba22d2992500",
+      "book_uri": "nyt://book/321fd90b-aad6-5385-a0af-5a2c1a33ccf5",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-03-12T21:08:22.768Z",
+      "created_date": "2026-05-27T22:36:37.318Z",
       "dagger": 0,
       "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781338878929",
+      "primary_isbn13": "9781546148500",
       "publisher": "Scholastic",
       "rank": 5,
-      "rank_last_week": 3,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
-      "updated_date": "2026-03-12T21:08:22.768Z",
-      "weeks_on_list": 913,
+      "updated_date": "2026-05-27T22:36:37.318Z",
+      "weeks_on_list": 914,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781338878929"
+          "isbn13": "9781546148500"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1546148507?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781546148500?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781338878929&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1143017727%3Fean%3D9781338878929&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546148500&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1100036321%3Fean%3D9781546148500&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Book%2FJ-K-Rowling%2F9781338878929"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHarry-Potter-Sorcerers-Stone-Stenciled%2FJ-K-Rowling%2F9781546148500"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338878929"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 11",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lauren Tarshis",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225066772.jpg",
-      "book_image_height": 500,
-      "book_image_width": 343,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d9cd382c-7d70-5bda-956a-f67809247f27",
-      "contributor": "by Lauren Tarshis",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.067Z",
-      "dagger": 0,
-      "description": "Youngsters' tales of living through dangerous historical events. (Ages 9 to 11)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798225066772",
-      "publisher": "Scholastic",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "I SURVIVED",
-      "updated_date": "2026-09-23T18:21:01.067Z",
-      "weeks_on_list": 83,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798225066772"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798225066772?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225066772&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-survived-the-night-of-the-lions-2025-lauren-tarshis%2F1149659889%3Fean%3D9798225066772&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSurvived-Night-Lions%2FLauren-Tarshis%2F9798225066772"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798225066772"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mary Pope Osborne",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
-      "book_image_height": 500,
-      "book_image_width": 317,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
-      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
-      "contributor_note": "Illustrated by Sal Murdocca",
-      "created_date": "2026-05-20T18:34:32.732Z",
-      "dagger": 0,
-      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375813658",
-      "publisher": "Stepping Stone/Random House",
-      "rank": 7,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "MAGIC TREE HOUSE",
-      "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 342,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375813658"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375813658"
+          "url": "https://bookshop.org/a/3546/9781546148500"
         }
       ]
     },
     {
       "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316581097.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "book_uri": "nyt://book/757f1518-d1fd-5a6b-bf5b-4778f7cdd775",
       "contributor": "by Peter Brown",
       "contributor_note": "",
-      "created_date": "2026-06-17T17:38:16.173Z",
+      "created_date": "2026-05-20T18:34:32.318Z",
       "dagger": 0,
       "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316382007",
+      "primary_isbn13": "9780316581097",
       "publisher": "Little, Brown",
-      "rank": 8,
+      "rank": 6,
       "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
-      "updated_date": "2026-06-17T17:38:16.173Z",
-      "weeks_on_list": 135,
+      "updated_date": "2026-05-20T18:34:32.318Z",
+      "weeks_on_list": 136,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316382007"
+          "isbn13": "9780316581097"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316581097?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316581097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1146354980%3Fean%3D9780316581097&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316581097"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316382007"
+          "url": "https://bookshop.org/a/3546/9780316581097"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B00NAJOPMC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781484727218.jpg",
+      "book_image_height": 500,
+      "book_image_width": 334,
+      "book_review_link": "",
+      "book_uri": "nyt://book/dabe44a8-8933-55bd-948e-86542a7a4f7d",
+      "contributor": "by Rick Riordan",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:28.948Z",
+      "dagger": 0,
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781484727218",
+      "publisher": "Disney-Hyperion",
+      "rank": 7,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-09-30T18:09:28.948Z",
+      "weeks_on_list": 847,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781484727218"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B00NAJOPMC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781484727218?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781484727218&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpercy-jackson-and-the-olympians-rick-riordan%2F1118920300%3Fean%3D9781484727218&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DPERCY%2520JACKSON%2520%2526%2520THE%2520OLYMPIANS%2520by%2520Rick%2520Riordan"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781484727218"
         }
       ]
     },
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780544336261",
       "publisher": "Clarion",
-      "rank": 9,
-      "rank_last_week": 6,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "GIVER QUARTET",
       "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 185,
+      "weeks_on_list": 186,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +456,114 @@
       ]
     },
     {
-      "age_group": "Ages 16 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20",
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Chloe Walsh",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "author": "Mary Pope Osborne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 317,
       "book_review_link": "",
-      "book_uri": "nyt://book/0e7c82f6-dc5a-5d23-8d0a-a92914b79154",
-      "contributor": "by Chloe Walsh",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:04.785Z",
+      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
+      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
+      "contributor_note": "Illustrated by Sal Murdocca",
+      "created_date": "2026-05-20T18:34:32.732Z",
       "dagger": 0,
-      "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464277061",
-      "publisher": "Bloom",
-      "rank": 10,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780375813658",
+      "publisher": "Stepping Stone/Random House",
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "BOYS OF TOMMEN",
-      "updated_date": "2026-03-04T23:40:04.785Z",
-      "weeks_on_list": 87,
+      "title": "MAGIC TREE HOUSE",
+      "updated_date": "2026-05-20T18:34:32.732Z",
+      "weeks_on_list": 343,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464277061"
+          "isbn13": "9780375813658"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464277060?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464277061?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464277061&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbinding-13-chloe-walsh%2F1143428727%3Fean%3D9781464277061&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DBOYS%2520OF%2520TOMMEN%2520by%2520Chloe%2520Walsh"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464277061"
+          "url": "https://bookshop.org/a/3546/9780375813658"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 11",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lauren Tarshis",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798225066772.jpg",
+      "book_image_height": 500,
+      "book_image_width": 343,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d9cd382c-7d70-5bda-956a-f67809247f27",
+      "contributor": "by Lauren Tarshis",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:01.067Z",
+      "dagger": 0,
+      "description": "Youngsters' tales of living through dangerous historical events. (Ages 9 to 11)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798225066772",
+      "publisher": "Scholastic",
+      "rank": 10,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "I SURVIVED",
+      "updated_date": "2026-09-23T18:21:01.067Z",
+      "weeks_on_list": 84,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798225066772"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G2PRRSF3?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798225066772?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225066772&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fi-survived-the-night-of-the-lions-2025-lauren-tarshis%2F1149659889%3Fean%3D9798225066772&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSurvived-Night-Lions%2FLauren-Tarshis%2F9798225066772"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798225066772"
         }
       ]
     }

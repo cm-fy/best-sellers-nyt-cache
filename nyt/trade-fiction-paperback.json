@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/d7aa5003-651f-546d-bcfa-07b8aff91528",
+  "uri": "nyt://bestsellerslist/f8f6a80f-1a8a-57a5-a877-7bbabeee1303",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -65,118 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "B.K. Borison",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063430464.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/cf974492-ef78-5de1-a741-4fb83b675cdd",
-      "contributor": "by B.K. Borison",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:04.744Z",
-      "dagger": 0,
-      "description": "The second book in the Ghosted series. A Grim Reaper looking to not do harm forms an unexpected alliance with a Guardian Angel.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063430464",
-      "publisher": "Avon",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GRIM TIDINGS",
-      "updated_date": "2026-09-23T18:21:04.744Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063430464"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063430464?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063430464&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrim-tidings-bk-borison%2F1148610168%3Fean%3D9780063430464&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrim-Tidings%2FB-K-Borison%2F9780063430464"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063430464"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:55:08.886Z",
-      "dagger": 0,
-      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593820254",
-      "publisher": "Ace",
-      "rank": 3,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "DUNGEON CRAWLER CARL",
-      "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 38,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593820254"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798688591507?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820254&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820254&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820254"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 2,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-09-23T18:21:04.885Z",
-      "weeks_on_list": 162,
+      "weeks_on_list": 163,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +121,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464252084?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "L.J. Shen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464252082.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/812115b7-d977-513b-a320-919ae7a1670a",
+      "contributor": "by L.J. Shen",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:26:13.61Z",
+      "dagger": 0,
+      "description": "The third book in the Society of Villains series. An F.B.I. special agent and a member of a crime organization develop a forbidden relationship.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464252082",
+      "publisher": "Bloom",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FALLEN ROOK",
+      "updated_date": "2026-09-30T18:26:13.61Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464252082"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464252084?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798349112225?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464252082&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffallen-rook-lj-shen%2F1148538337%3Fean%3D9781464252082&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFallen-Rook-Deluxe%2FL-J-Shen%2F9781464252082"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464252082"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:55:08.886Z",
+      "dagger": 0,
+      "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593820254",
+      "publisher": "Ace",
+      "rank": 4,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "DUNGEON CRAWLER CARL",
+      "updated_date": "2026-07-01T20:55:08.886Z",
+      "weeks_on_list": 39,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593820254"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798688591507?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820254&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdungeon-crawler-carl-matt-dinniman%2F1145437169%3Fean%3D9780593820254&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593820254"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ali Hazelwood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
+      "contributor": "by Ali Hazelwood",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:14.157Z",
+      "dagger": 0,
+      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593336823",
+      "publisher": "Berkley",
+      "rank": 5,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "THE LOVE HYPOTHESIS",
+      "updated_date": "2026-09-02T18:40:14.157Z",
+      "weeks_on_list": 46,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593336823"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593336823"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249617",
       "publisher": "Poisoned Pen",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "BRAIN DAMAGE",
       "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250178640",
       "publisher": "St. Martin's Griffin",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE WOMEN",
       "updated_date": "2026-09-23T18:21:02.583Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 65,
+      "weeks_on_list": 66,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +457,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1682817563?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593977793?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Devney Perry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682817568.jpg",
+      "author": "Lyla Sage",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593977798.jpg",
       "book_image_height": 500,
-      "book_image_width": 327,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/9b8244cf-a592-5333-8a38-56d220faac53",
-      "contributor": "by Devney Perry",
+      "book_uri": "nyt://book/4ff34695-8ebe-5469-b2ba-ce3b26d5cdb3",
+      "contributor": "by Lyla Sage",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:21:02.711Z",
+      "created_date": "2026-09-30T18:09:29.876Z",
       "dagger": 0,
-      "description": "A princess deals with various adversaries as she moves into the role she chooses for herself, not the one chosen for her.",
+      "description": "A woman who runs an antiques shop and a man who might inherit his family’s farm pretend to be involved with each other.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781682817568",
-      "publisher": "Red Tower",
-      "rank": 8,
+      "primary_isbn13": "9780593977798",
+      "publisher": "Dial",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "SHIELD OF SPARROWS",
-      "updated_date": "2026-09-23T18:21:02.711Z",
+      "title": "FREE FALLING",
+      "updated_date": "2026-09-30T18:09:29.876Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781682817568"
+          "isbn13": "9780593977798"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1682817563?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593977793?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781682817568?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593977798?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682817568&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fshield-of-sparrows-devney-perry%2F1146581589%3Fean%3D9781682817568&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593977798&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffree-falling-lyla-sage%2F1149667426%3Fean%3D9780593977798&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShield-Sparrows%2FDevney-Perry%2F9781682817568"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFree-Falling%2FLyla-Sage%2F9780593977798"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682817568"
+          "url": "https://bookshop.org/a/3546/9780593977798"
         }
       ]
     },
@@ -476,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 9,
-      "rank_last_week": 8,
+      "rank": 10,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -513,6 +569,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "B.K. Borison",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063430464.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cf974492-ef78-5de1-a741-4fb83b675cdd",
+      "contributor": "by B.K. Borison",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:04.744Z",
+      "dagger": 0,
+      "description": "The second book in the Ghosted series. A Grim Reaper looking to not do harm forms an unexpected alliance with a Guardian Angel.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063430464",
+      "publisher": "Avon",
+      "rank": 11,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "GRIM TIDINGS",
+      "updated_date": "2026-09-23T18:21:04.744Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063430464"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063430460?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063430464?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063430464&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrim-tidings-bk-borison%2F1148610168%3Fean%3D9780063430464&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGrim-Tidings%2FB-K-Borison%2F9780063430464"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063430464"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1250828015?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250828019",
       "publisher": "Flatiron",
-      "rank": 10,
-      "rank_last_week": 7,
+      "rank": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "WILD DARK SHORE",
       "updated_date": "2026-09-09T18:10:33.105Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -569,62 +681,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ali Hazelwood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
-      "contributor": "by Ali Hazelwood",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.157Z",
-      "dagger": 0,
-      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593336823",
-      "publisher": "Berkley",
-      "rank": 11,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE LOVE HYPOTHESIS",
-      "updated_date": "2026-09-02T18:40:14.157Z",
-      "weeks_on_list": 45,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593336823"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593336823"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -644,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 12,
+      "rank": 13,
       "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -681,57 +737,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "H.D. Carlton",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781638936015.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Josh Silver",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798892426374.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/b4458610-89a9-5c73-945a-4905a74cb33f",
-      "contributor": "by H.D. Carlton",
+      "book_uri": "nyt://book/6018f667-1466-5fab-ba78-419baa532d49",
+      "contributor": "by Josh Silver",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:15:04.846Z",
+      "created_date": "2026-09-30T18:09:30.006Z",
       "dagger": 0,
-      "description": "Reverie Adams attempts to put her dark past behind her but Dreadful Sharpe’s desire for revenge brings it back.",
+      "description": "A writer who is severely blocked claims a struggling addict’s story as her own.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781638936015",
-      "publisher": "ZPN",
-      "rank": 13,
-      "rank_last_week": 9,
+      "primary_isbn13": "9798892426374",
+      "publisher": "Crooked Lane",
+      "rank": 14,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MY DREADFUL DARLING",
-      "updated_date": "2026-09-16T18:15:04.846Z",
-      "weeks_on_list": 3,
+      "title": "FRUIT FLY",
+      "updated_date": "2026-09-30T18:09:30.006Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781638936015"
+          "isbn13": "9798892426374"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1957635274?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798240885310?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798892426374?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781638936015&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmy-dreadful-darling-h-d-carlton%2F1150229527%3Fean%3D9781638936015&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798892426374&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffruit-fly-josh-silver%2F1147593193%3Fean%3D9798892426374&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Dreadful-Darling%2FHD-Carlton%2F9781638936015"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFruit-Fly%2FJosh-Silver%2F9798892426374"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781638936015"
+          "url": "https://bookshop.org/a/3546/9798892426374"
         }
       ]
     },
@@ -756,12 +812,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781635575569",
       "publisher": "Bloomsbury",
-      "rank": 14,
-      "rank_last_week": 13,
+      "rank": 15,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "A COURT OF THORNS AND ROSES",
       "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 88,
+      "weeks_on_list": 89,
       "isbns": [
         {
           "isbn10": "",
@@ -788,62 +844,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781635575569"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:55:48.983Z",
-      "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464249631",
-      "publisher": "Poisoned Pen",
-      "rank": 15,
-      "rank_last_week": 14,
-      "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 16,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464249631"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249631"
         }
       ]
     }

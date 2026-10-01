@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/00d1e86c-8495-5da3-a428-386d6523b7ad",
+  "uri": "nyt://bestsellerslist/c547d200-a175-5830-ba33-3fc6c9cf45ff",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781668032145",
       "publisher": "Simon Element",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "PROTOCOLS",
       "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/166800254X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alexis Nikole Nelson with Jeanelle Hayner Olson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668002544.jpg",
+      "book_image_height": 500,
+      "book_image_width": 402,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a1880107-3f42-5e54-88d6-25bde94565ef",
+      "contributor": "by Alexis Nikole Nelson with Jeanelle Hayner Olson",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:30.146Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668002544",
+      "publisher": "Simon Element",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HAPPY SNACKING, DON'T DIE!",
+      "updated_date": "2026-09-30T18:09:30.146Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668002544"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/166800254X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668002544?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668002544&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhappy-snacking-dont-die-alexis-nikole-nelson%2F1149542795%3Fean%3D9781668002544&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHappy-Snacking-Dont-Die%2FAlexis-Nikole-Nelson%2F9781668002544"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668002544"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mel Robbins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+      "contributor": "by Mel Robbins",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:19.513Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781401971366",
+      "publisher": "Hay House",
+      "rank": 3,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE LET THEM THEORY",
+      "updated_date": "2026-03-04T23:40:19.513Z",
+      "weeks_on_list": 92,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781401971366"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781401971366"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1368117864?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368117869",
       "publisher": "Hyperion Avenue",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE ART OF GRAVITY FALLS",
       "updated_date": "2026-09-23T18:21:02.988Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +233,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1454962348?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Cortney LaCorte",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781454962342.jpg",
-      "book_image_height": 500,
-      "book_image_width": 402,
+      "author": "James Clear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
       "book_review_link": "",
-      "book_uri": "nyt://book/61eb35f2-442f-5ac8-8132-6582c19cc18f",
-      "contributor": "by Cortney LaCorte",
+      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+      "contributor": "by James Clear",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.113Z",
-      "dagger": 0,
+      "created_date": "2026-03-04T23:40:19.644Z",
+      "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781454962342",
-      "publisher": "Union Square & Co.",
-      "rank": 3,
+      "primary_isbn13": "9780735211292",
+      "publisher": "Avery",
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "OVERSHARING",
-      "updated_date": "2026-09-23T18:21:03.113Z",
-      "weeks_on_list": 1,
+      "title": "ATOMIC HABITS",
+      "updated_date": "2026-03-04T23:40:19.644Z",
+      "weeks_on_list": 356,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781454962342"
+          "isbn13": "9780735211292"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1454962348?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781454962342?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454962342&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Foversharing-cortney-lacorte%2F1149594996%3Fean%3D9781454962342&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOversharing%2FCortney-Lacorte%2F9781454962342"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781454962342"
+          "url": "https://bookshop.org/a/3546/9780735211292"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1426224702?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lee Asher",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781426224706.jpg",
+      "book_image_height": 500,
+      "book_image_width": 390,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6fb34c46-7c2a-5418-a360-143ea9fd810c",
+      "contributor": "by Lee Asher",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:30.276Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781426224706",
+      "publisher": "National Geographic",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SAVED BY THE PACK",
+      "updated_date": "2026-09-30T18:09:30.276Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781426224706"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1426224702?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781426224706?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781426224706&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsaved-by-the-pack-lee-asher%2F1149199288%3Fean%3D9781426224706&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSaved-Pack%2FLee-Asher%2F9781426224706"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781426224706"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316602515?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Heidi Skolnik",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316602518.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/dec31a34-724c-55ae-96c2-566b2cd072ff",
+      "contributor": "by Heidi Skolnik",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:30.403Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316602518",
+      "publisher": "Little, Brown Spark",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "YOUR GLP-1 GAME PLAN",
+      "updated_date": "2026-09-30T18:09:30.403Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316602518"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316602515?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316602518?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316602518&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyour-glp-1-game-plan-heidi-skolnik-ms-cdn-facsm%2F1149922733%3Fean%3D9780316602518&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYour-Glp-Game-Plan%2FHeidi-Skolnik%2F9780316602518"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316602518"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593968719?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Shay Spence",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593968710.jpg",
+      "book_image_height": 500,
+      "book_image_width": 404,
+      "book_review_link": "",
+      "book_uri": "nyt://book/76eeb6e7-cb18-5955-8eb5-e3470a883675",
+      "contributor": "by Shay Spence",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:30.539Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593968710",
+      "publisher": "DK",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MEALS YOU CAN'T MESS UP",
+      "updated_date": "2026-09-30T18:09:30.539Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593968710"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593968719?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593968710?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593968710&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmeals-you-cant-mess-up-shay-spence%2F1149302489%3Fean%3D9780593968710&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMeals-Cant-Mess-Up%2FShay-Spence%2F9780593968710"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593968710"
         }
       ]
     },
@@ -196,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400230723",
       "publisher": "Thomas Nelson",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
       "updated_date": "2026-09-23T18:21:03.24Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781426224386",
       "publisher": "National Geographic",
-      "rank": 5,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "LOST IN SPACE",
       "updated_date": "2026-09-23T18:21:03.351Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -284,286 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781426224386"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Benny Blanco",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668205242.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7f28ab3c-5ccc-5f3f-8fbc-0163c257a118",
-      "contributor": "by Benny Blanco",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.474Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668205242",
-      "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "F*CK FAILURE",
-      "updated_date": "2026-09-23T18:21:03.474Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668205242"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668205242?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668205242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ff-ck-failure-benny-blanco%2F1149781358%3Fean%3D9781668205242&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFck-Failure%2FBenny-Blanco%2F9781668205242"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668205242"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593836626?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tanya Sichynsky and New York Times Cooking",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593836620.jpg",
-      "book_image_height": 500,
-      "book_image_width": 408,
-      "book_review_link": "",
-      "book_uri": "nyt://book/98fc2c39-089b-5446-9e2e-4afbdaf6d5a5",
-      "contributor": "by Tanya Sichynsky and New York Times Cooking",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.666Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593836620",
-      "publisher": "Ten Speed",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "VEG EVERYTHING",
-      "updated_date": "2026-09-23T18:21:03.666Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593836620"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593836626?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593836620?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593836620&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fveg-everything-tanya-sichynsky%2F1148986985%3Fean%3D9780593836620&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVeg-Everything%2FTanya-Sichynsky%2F9780593836620"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593836620"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1797239368?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annie Meyers-Shyer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781797239361.jpg",
-      "book_image_height": 500,
-      "book_image_width": 411,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d285fff0-c6ae-538d-b89a-335bfac092e8",
-      "contributor": "by Annie Meyers-Shyer",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.799Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781797239361",
-      "publisher": "Chronicle",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THIS OAK HOUSE",
-      "updated_date": "2026-09-23T18:21:03.799Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781797239361"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1797239368?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781797239361?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781797239361&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-oak-house-annie-meyers-shyer%2F1149187689%3Fean%3D9781797239361&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Oak-House%2FAnnie-Meyers-Shyer%2F9781797239361"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781797239361"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mel Robbins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
-      "contributor": "by Mel Robbins",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:19.513Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781401971366",
-      "publisher": "Hay House",
-      "rank": 9,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "THE LET THEM THEORY",
-      "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 91,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781401971366"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781401971366"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063499517?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shefali Tsabary",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063499515.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1540bfaf-a51b-51cf-a0e1-7c6d28fae71b",
-      "contributor": "by Shefali Tsabary",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:35:06.106Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063499515",
-      "publisher": "HarperOne",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "RAISING CONSCIOUS SONS",
-      "updated_date": "2026-09-23T18:35:06.106Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063499515"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063499517?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063499539?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063499515&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fraising-conscious-sons-dr-shefali-tsabary%2F1149416372%3Fean%3D9780063499515&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRaising-Conscious-Sons%2FShefali-Tsabary%2F9780063499515"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063499515"
         }
       ]
     }

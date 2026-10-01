@@ -5,64 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/1d6be62e-3924-52ec-8849-83cf3bea4964",
+  "uri": "nyt://bestsellerslist/f8d2a1ce-5256-5491-988d-de84da58fe4b",
   "books": [
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maudie Powell-Tuck",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
-      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
-      "contributor_note": "Illustrated by Mini Grey",
-      "created_date": "2026-09-09T18:15:26.434Z",
-      "dagger": 0,
-      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781680108354",
-      "publisher": "Tiger Tales",
-      "rank": 1,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "FRANKENKITTY",
-      "updated_date": "2026-09-09T18:15:26.434Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781680108354"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781664391000"
-        }
-      ]
-    },
     {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728235202",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 2,
-      "rank_last_week": 3,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE LEAF THIEF",
       "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 36,
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +65,57 @@
     },
     {
       "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJJQ2GFZ?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Julia Donaldson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217238736.jpg",
-      "book_image_height": 500,
-      "book_image_width": 404,
+      "author": "Maudie Powell-Tuck",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/2f621925-2b20-5751-a778-3f4bce82aa00",
-      "contributor": "by Julia Donaldson. Illustrated by Axel Scheffler",
-      "contributor_note": "Illustrated by Axel Scheffler",
-      "created_date": "2026-09-23T18:21:00.941Z",
+      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
+      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
+      "contributor_note": "Illustrated by Mini Grey",
+      "created_date": "2026-09-09T18:15:26.434Z",
       "dagger": 0,
-      "description": "Granny pays the Gruffalo family a visit. (Ages 3 to 7)",
+      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217238736",
-      "publisher": "Dial",
-      "rank": 3,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781680108354",
+      "publisher": "Tiger Tales",
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "GRUFFALO GRANNY",
-      "updated_date": "2026-09-23T18:21:00.941Z",
-      "weeks_on_list": 1,
+      "title": "FRANKENKITTY",
+      "updated_date": "2026-09-09T18:15:26.434Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217238736"
+          "isbn13": "9781680108354"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJJQ2GFZ?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217238736?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217238736&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgruffalo-granny-julia-donaldson%2F1149412359%3Fean%3D9798217238736&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGruffalo-Granny%2FJulia-Donaldson%2F9798217238736"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217238736"
+          "url": "https://bookshop.org/a/3546/9781664391000"
         }
       ]
     },
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464268076",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE PUMPKIN THIEF",
       "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 38,
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
@@ -289,57 +233,57 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alice Schertle",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063436121.jpg",
-      "book_image_height": 403,
-      "book_image_width": 500,
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492648949.jpg",
+      "book_image_height": 500,
+      "book_image_width": 490,
       "book_review_link": "",
-      "book_uri": "nyt://book/02797bc5-ccac-5943-a99a-42c0c9e894d8",
-      "contributor": "by Alice Schertle. Illustrated by Jill McElmurry",
-      "contributor_note": "Illustrated by Jill McElmurry",
-      "created_date": "2026-08-26T17:40:56.806Z",
+      "book_uri": "nyt://book/c40b8966-0afe-5857-804b-a25fdc7a03fd",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-09-16T18:02:43.002Z",
       "dagger": 0,
-      "description": "Blue and friends search for Toad before the hayride. (Ages 4 to 8)",
+      "description": "A boy attempts to catch the monster in his closet. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063436121",
-      "publisher": "Clarion",
-      "rank": 6,
-      "rank_last_week": 6,
+      "primary_isbn13": "9781492648949",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 5,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "LITTLE BLUE TRUCK LOST AND FOUND",
-      "updated_date": "2026-08-26T17:40:56.806Z",
-      "weeks_on_list": 5,
+      "title": "HOW TO CATCH A MONSTER",
+      "updated_date": "2026-09-16T18:02:43.002Z",
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063436121"
+          "isbn13": "9781492648949"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063436124?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063436121?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781492648949?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063436121&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flittle-blue-truck-lost-and-found-alice-schertle%2F1148767207%3Fean%3D9780063436121&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492648949&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-monster-adam-wallace%2F1125551339%3Fean%3D9781492648949&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLittle-Blue-Truck-Lost-Found%2FAlice-Schertle%2F9780063436121"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BMONSTER%2FAdam%2BWallace.%2F9781492648949"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063436121"
+          "url": "https://bookshop.org/a/3546/9781492648949"
         }
       ]
     },
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728210353",
       "publisher": "Sourcebooks Wonderland",
-      "rank": 7,
-      "rank_last_week": 8,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A WITCH",
       "updated_date": "2026-09-16T18:02:42.859Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -400,6 +344,62 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 10",
+      "amazon_product_url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492680529.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0d1a3727-f06d-5193-a407-60ef9b68e363",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-07-01T17:54:34.833Z",
+      "dagger": 0,
+      "description": "The How to Catch Kids try to wrangle a dinosaur for their school science fair. (Ages 4 to 10)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781492680529",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A DINOSAUR",
+      "updated_date": "2026-07-01T17:54:34.833Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781492680529"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781492680529?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492680529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-dinosaur-adam-wallace%2F1129678150%3Fean%3D9781492680529&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BDINOSAUR%2FAdam%2BWallace.%2F9781492680529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781492680529"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 3 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -421,11 +421,11 @@
       "primary_isbn13": "9780385376716",
       "publisher": "Random House",
       "rank": 8,
-      "rank_last_week": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WONDERFUL THINGS YOU WILL BE",
       "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 478,
+      "weeks_on_list": 479,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +457,113 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492648949.jpg",
+      "author": "Jory John",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062954541.jpg",
       "book_image_height": 500,
-      "book_image_width": 490,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/c40b8966-0afe-5857-804b-a25fdc7a03fd",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-09-16T18:02:43.002Z",
+      "book_uri": "nyt://book/2aa7fe5f-5cf8-58a9-aaef-4aff6da37576",
+      "contributor": "by Jory John. Illustrated by Pete Oswald",
+      "contributor_note": "Illustrated by Pete Oswald",
+      "created_date": "2026-09-30T18:09:28.55Z",
       "dagger": 0,
-      "description": "A boy attempts to catch the monster in his closet. (Ages 4 to 8)",
+      "description": "Bad Seed seeks the perfect Halloween costume. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781492648949",
-      "publisher": "Sourcebooks Jabberwocky",
+      "primary_isbn13": "9780062954541",
+      "publisher": "HarperCollins",
       "rank": 9,
-      "rank_last_week": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO CATCH A MONSTER",
-      "updated_date": "2026-09-16T18:02:43.002Z",
-      "weeks_on_list": 30,
+      "title": "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",
+      "updated_date": "2026-09-30T18:09:28.55Z",
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781492648949"
+          "isbn13": "9780062954541"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492648949?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780062954541?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492648949&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-monster-adam-wallace%2F1125551339%3Fean%3D9781492648949&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062954541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-good-the-bad-and-the-spooky-jory-john%2F1144263087%3Fean%3D9780062954541&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BMONSTER%2FAdam%2BWallace.%2F9781492648949"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBAD%2BSEED%2BPRESENTS%253A%2BTHE%2BGOOD%252C%2BTHE%2BBAD%252C%2BAND%2BTHE%2BSPOOKY%2FJory%2BJohn.%2F9780062954541"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492648949"
+          "url": "https://bookshop.org/a/3546/9780062954541"
         }
       ]
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492669739.jpg",
-      "book_image_height": 330,
-      "book_image_width": 330,
+      "author": "Aaron Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781442402973.jpg",
+      "book_image_height": 350,
+      "book_image_width": 263,
       "book_review_link": "",
-      "book_uri": "nyt://book/c45cf6ec-9c12-534e-99a7-c443a0d375ff",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-07-01T17:54:34.675Z",
+      "book_uri": "nyt://book/25a010a7-37bf-5f3d-941f-314d145f7ccf",
+      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+      "contributor_note": "Illustrated by Peter Brown",
+      "created_date": "2026-09-30T18:09:28.677Z",
       "dagger": 0,
-      "description": "Children attempt to capture the mythical creature. (Ages 4 to 8)",
+      "description": "A rabbit’s comeuppance. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781492669739",
-      "publisher": "Sourcebooks Wonderland",
+      "primary_isbn13": "9781442402973",
+      "publisher": "Simon & Schuster",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO CATCH A UNICORN",
-      "updated_date": "2026-07-01T17:54:34.675Z",
-      "weeks_on_list": 65,
+      "title": "CREEPY CARROTS!",
+      "updated_date": "2026-09-30T18:09:28.677Z",
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781492669739"
+          "isbn13": "9781442402973"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/How-Catch-Unicorn-Adam-Wallace/dp/1492669733?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492669739?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781442402973?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492669739&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-unicorn-adam-wallace%2F1128943354%3Fean%3D9781492669739&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781442402973&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcreepy-carrots-aaron-reynolds%2F1111756050%3Fean%3D9781442402973&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BUNICORN%2FAdam%2BWallace.%2F9781492669739"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCREEPY%2BCARROTS%2521%2FAaron%2BReynolds.%2F9781442402973"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492669739"
+          "url": "https://bookshop.org/a/3546/9781442402973"
         }
       ]
     }
