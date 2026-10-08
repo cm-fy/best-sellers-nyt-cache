@@ -5,8 +5,120 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/09395ffc-1325-59fa-abde-bde41bcee8db",
+  "uri": "nyt://bestsellerslist/8661849c-3cca-5900-a377-29a88efc85ce",
   "books": [
+    {
+      "age_group": "Ages 10 to 14",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GQ6PGS7P?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan and Annabelle Oh",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217445981.jpg",
+      "book_image_height": 500,
+      "book_image_width": 343,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0f8b6044-80a5-51b1-9013-df5b18e1d6b1",
+      "contributor": "by Rick Riordan and Annabelle Oh",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:37.398Z",
+      "dagger": 0,
+      "description": "Campers venture into the forest’s forbidden Wild Zone. (Ages 10 to 14)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217445981",
+      "publisher": "Random House",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE WILD ZONE",
+      "updated_date": "2026-10-07T18:18:37.398Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217445981"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GQ6PGS7P?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217445981?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217445981&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-zone-rick-riordan%2F1150147982%3Fean%3D9798217445981&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrom-World-Percy-Jackson-Wild%2FRick-Riordan%2F9798217445981"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217445981"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0063515105?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lois Lowry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063515109.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/09/25/books/review/lois-lowry-building-903.html",
+      "book_uri": "nyt://book/b7066fde-7f8c-5937-9610-7293f47f2301",
+      "contributor": "by Lois Lowry",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:37.525Z",
+      "dagger": 0,
+      "description": "Tessa delves into the mystery of her missing twin brother, Theo. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063515109",
+      "publisher": "Clarion",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BUILDING 903",
+      "updated_date": "2026-10-07T18:18:37.525Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063515109"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063515105?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063515109?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063515109&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbuilding-903-lois-lowry%2F1148965492%3Fean%3D9780063515109&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBuilding%2FLois-Lowry%2F9780063515109"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063515109"
+        }
+      ]
+    },
     {
       "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
@@ -20,7 +132,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:29.079Z",
+      "created_date": "2026-10-07T18:18:37.679Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -28,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375869020",
       "publisher": "Knopf",
-      "rank": 1,
-      "rank_last_week": 2,
+      "rank": 3,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-09-30T18:09:29.079Z",
-      "weeks_on_list": 562,
+      "updated_date": "2026-10-07T18:18:37.679Z",
+      "weeks_on_list": 563,
       "isbns": [
         {
           "isbn10": "",
@@ -64,58 +176,114 @@
       ]
     },
     {
-      "age_group": "Ages 8 and up",
-      "amazon_product_url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20",
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1250424992?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "America's Test Kitchen Kids",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492670025.jpg",
-      "book_image_height": 419,
-      "book_image_width": 330,
+      "author": "Aaron Blabey",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250424990.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/894e62dd-9e61-570a-ad32-6f4617d323e5",
-      "contributor": "by America's Test Kitchen Kids",
+      "book_uri": "nyt://book/77e03599-0421-5285-9ebf-1642ceffd419",
+      "contributor": "by Aaron Blabey",
       "contributor_note": "",
-      "created_date": "2026-03-04T23:40:05.9Z",
+      "created_date": "2026-10-07T22:08:31.992Z",
       "dagger": 0,
-      "description": "Over 100 kid-tested recipes from America's Test Kitchen. (Ages 8 and up)",
+      "description": "An 11-year-old named Griff is Earth’s last hope against an extraterrestrial threat. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781492670025",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 2,
+      "primary_isbn13": "9781250424990",
+      "publisher": "Odd Dot",
+      "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
-      "updated_date": "2026-03-04T23:40:05.9Z",
-      "weeks_on_list": 289,
+      "title": "GAME OF PETS: THE BOY WHO KNEW TOO MUCH",
+      "updated_date": "2026-10-07T22:08:31.992Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781492670025"
+          "isbn13": "9781250424990"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250424992?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492670025?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250424990?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492670025&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-complete-cookbook-for-young-chefs-americas-test-kitchen-kids%2F1140313472%3Fean%3D9781492670025&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250424990&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgame-of-pets-book-1-aaron-blabey%2F1148921652%3Fean%3D9781250424990&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BCOMPLETE%2BCOOKBOOK%2BFOR%2BYOUNG%2BCHEFS%2FAmerica%2527s%2BTest%2BKitchen%2BKids%2F9781492670025"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGame-Pets-Book%2FAaron-Blabey%2F9781250424990"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492670025"
+          "url": "https://bookshop.org/a/3546/9781250424990"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 5 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1454963182?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mo Willems and Cher Willems",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781454963189.jpg",
+      "book_image_height": 475,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/87abc585-7787-5f56-87d1-118189459be5",
+      "contributor": "by Mo Willems and Cher Willems",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:37.962Z",
+      "dagger": 0,
+      "description": "Fifty yummy recipes. (Ages 5 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781454963189",
+      "publisher": "Union Square Kids",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WE REALLY LIKE COOKING SLOP!",
+      "updated_date": "2026-10-07T18:18:37.962Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781454963189"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1454963182?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781454963189?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781454963189&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwe-really-like-cooking-slop-cher-willems%2F1149484519%3Fean%3D9781454963189&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWe-Really-Like-Cooking-Slop%2FCher-Willems%2F9781454963189"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781454963189"
         }
       ]
     },
@@ -132,7 +300,7 @@
       "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
       "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
       "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-09-30T18:09:29.213Z",
+      "created_date": "2026-10-07T18:18:38.18Z",
       "dagger": 0,
       "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -140,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236558",
       "publisher": "Delacorte",
-      "rank": 3,
+      "rank": 6,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-09-30T18:09:29.213Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-10-07T18:18:38.18Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -176,58 +344,58 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1400217121?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Dude Perfect with Allan Woodrow",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400217120.jpg",
+      "author": "Tony DiTerlizzi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217004911.jpg",
       "book_image_height": 500,
-      "book_image_width": 344,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/0a353d09-5ac6-50a8-8ffd-2c1b0c10f147",
-      "contributor": "by Dude Perfect with Allan Woodrow. Illustrated by Genevieve Kote",
-      "contributor_note": "Illustrated by Genevieve Kote",
-      "created_date": "2026-09-30T18:09:29.377Z",
+      "book_uri": "nyt://book/910d76f4-5408-51ff-a628-75df47b45235",
+      "contributor": "by Tony DiTerlizzi",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:38.335Z",
       "dagger": 0,
-      "description": "The crew are set to perform at a London soccer match. (Ages 8 to 12)",
+      "description": "Timothy Quibble, a bullied middle schooler, suppresses his dark side’s thirst for revenge. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400217120",
-      "publisher": "Tommy Nelson",
-      "rank": 4,
+      "primary_isbn13": "9798217004911",
+      "publisher": "Dial",
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MATCH DAY MAYHEM",
-      "updated_date": "2026-09-30T18:09:29.377Z",
+      "title": "THE WUMP",
+      "updated_date": "2026-10-07T18:18:38.335Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400217120"
+          "isbn13": "9798217004911"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400217121?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400217120?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217004911?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400217120&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmatch-day-mayhem-dude-perfect%2F1149631900%3Fean%3D9781400217120&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217004911&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wump-tony-diterlizzi%2F1149062216%3Fean%3D9798217004911&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMatch-Day-Mayhem%2FDude-Perfect%2F9781400217120"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520WUMP%2520by%2520Tony%2520DiTerlizzi"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400217120"
+          "url": "https://bookshop.org/a/3546/9798217004911"
         }
       ]
     },
@@ -252,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217227105",
       "publisher": "Delacorte",
-      "rank": 5,
+      "rank": 8,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "KIKI AND THE NEW MAGIC",
       "updated_date": "2026-09-02T18:40:11.944Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419770555",
       "publisher": "Abrams",
-      "rank": 6,
-      "rank_last_week": 1,
+      "rank": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "SPOOKY RIVERS",
       "updated_date": "2026-09-23T18:21:01.189Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063221178",
       "publisher": "Storytide",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 10,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "WOMBAT WAITING",
       "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 21,
+      "weeks_on_list": 22,
       "isbns": [
         {
           "isbn10": "",
@@ -396,174 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780063221178"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 6 to 9",
-      "amazon_product_url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Beth Ferry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665942485.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5db178f6-22fe-5a9b-93c9-68b56e239f63",
-      "contributor": "by Beth Ferry. Illustrated by Terry Fan and Eric Fan",
-      "contributor_note": "Illustrated by Terry Fan and Eric Fan",
-      "created_date": "2026-07-29T17:27:30.514Z",
-      "dagger": 0,
-      "description": "Talking plants, a grumpy goldfish and an inquisitive spider save the Tupper family from utter ruin. (Ages 6 to 9)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665942485",
-      "publisher": "Simon & Schuster",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GROWING HOME",
-      "updated_date": "2026-07-29T17:27:30.514Z",
-      "weeks_on_list": 56,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665942485"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665942487?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665942485?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665942485&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgrowing-home-beth-ferry%2F1146384374%3Fean%3D9781665942485&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/Growing-Home/Beth-Ferry/9781665942485"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665942485"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tiffany D. Jackson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798225017477.jpg",
-      "book_image_height": 500,
-      "book_image_width": 351,
-      "book_review_link": "",
-      "book_uri": "nyt://book/936acc1f-75f8-5c2e-b592-195b843c7759",
-      "contributor": "by Tiffany D. Jackson",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:43.478Z",
-      "dagger": 0,
-      "description": "Harmony Roundtree stumbles upon a murder mystery in Savannah, Ga. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798225017477",
-      "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GHOST IN THE NIGHT",
-      "updated_date": "2026-08-12T18:23:43.478Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798225017477"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FK11RBK8?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798225017477?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798225017477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fghost-in-the-night-tiffany-d-jackson%2F1148276505%3Fean%3D9798225017477&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGhost-Night%2FTiffany-D-Jackson%2F9798225017477"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798225017477"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maddie Frost",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798347103997.jpg",
-      "book_image_height": 500,
-      "book_image_width": 339,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0c9f5255-de3a-5e45-8502-2910b7e1ff4f",
-      "contributor": "by Maddie Frost",
-      "contributor_note": "",
-      "created_date": "2026-06-10T17:37:54.95Z",
-      "dagger": 0,
-      "description": "When Rubie’s best friend breaks her ankle and can’t make it to summer camp, Rubie must go by herself. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798347103997",
-      "publisher": "Aladdin",
-      "rank": 10,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "REALLY RUBIE",
-      "updated_date": "2026-06-10T17:37:54.95Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798347103997"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798347103997?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347103997&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Freally-rubie-maddie-frost%2F1148560017%3Fean%3D9798347103997&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReally-Rubie%2FMaddie-Frost%2F9798347103997"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798347103997"
         }
       ]
     }

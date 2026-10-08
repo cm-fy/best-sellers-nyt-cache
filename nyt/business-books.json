@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 532,
-  "uri": "nyt://bestsellerslist/d2680dab-fbd9-589b-b7f2-2f3b11b337da",
+  "uri": "nyt://bestsellerslist/8e64cc00-2613-57c2-b811-7874306d7032",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 21,
+      "weeks_on_list": 22,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 95,
+      "weeks_on_list": 96,
       "isbns": [
         {
           "isbn10": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
       "rank": 3,
-      "rank_last_week": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-08-12T19:01:59.045Z",
-      "weeks_on_list": 27,
+      "weeks_on_list": 28,
       "isbns": [
         {
           "isbn10": "",
@@ -188,20 +188,20 @@
       "book_uri": "nyt://book/ee761f8e-7548-5534-a13f-a9f7c8fe325c",
       "contributor": "by Gil Durán",
       "contributor_note": "",
-      "created_date": "2026-08-26T17:40:58.952Z",
+      "created_date": "2026-10-07T18:18:43.994Z",
       "dagger": 0,
-      "description": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule.",
+      "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9781668221402",
       "publisher": "Avid Reader",
       "rank": 4,
-      "rank_last_week": 0,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE NERD REICH",
-      "updated_date": "2026-08-26T17:40:58.952Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-10-07T18:18:43.994Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +233,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jocko Willink and Leif Babin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250183866.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b0cec2f9-300f-5850-8c43-8a67152a96a5",
-      "contributor": "by Jocko Willink and Leif Babin",
+      "author": "Ari Emanuel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
+      "book_uri": "nyt://book/6f8497cf-f6ee-51aa-9c49-627202468227",
+      "contributor": "by Ari Emanuel",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:56:59.266Z",
-      "dagger": 1,
-      "description": "",
+      "created_date": "2026-09-30T18:09:31.804Z",
+      "dagger": 0,
+      "description": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250183866",
-      "publisher": "St. Martin's",
+      "primary_isbn13": "9798217209347",
+      "publisher": "Knopf",
       "rank": 5,
-      "rank_last_week": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "EXTREME OWNERSHIP",
-      "updated_date": "2026-08-05T17:56:59.266Z",
-      "weeks_on_list": 80,
+      "title": "ROLL THE CALLS",
+      "updated_date": "2026-09-30T18:09:31.804Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250183866"
+          "isbn13": "9798217209347"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781427264305?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217209347?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250183866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextreme-ownership-jocko-willink%2F1121081209%3Fean%3D9781250183866&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217209347&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Froll-the-calls-ari-emanuel%2F1149326459%3Fean%3D9798217209347&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https:www.booksamillion.com/p/Extreme-Ownership/Jocko-Willink/9781250183866"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRoll-Calls%2FAri-Emanuel%2F9798217209347"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250183866"
+          "url": "https://bookshop.org/a/3546/9798217209347"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Benny Blanco",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668205242.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7f28ab3c-5ccc-5f3f-8fbc-0163c257a118",
+      "contributor": "by Benny Blanco",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:03.474Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668205242",
+      "publisher": "Simon & Schuster",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "F*CK FAILURE",
+      "updated_date": "2026-09-23T18:21:03.474Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668205242"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668205242?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668205242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ff-ck-failure-benny-blanco%2F1149781358%3Fean%3D9781668205242&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFck-Failure%2FBenny-Blanco%2F9781668205242"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668205242"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chris Voss with Tahl Raz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062407801.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c5d04ae-b121-5d4d-9909-0dedab06872e",
+      "contributor": "by Chris Voss with Tahl Raz",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:20.383Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062407801",
+      "publisher": "Harper Business",
+      "rank": 7,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "NEVER SPLIT THE DIFFERENCE",
+      "updated_date": "2026-03-04T23:40:20.383Z",
+      "weeks_on_list": 11,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062407801"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062407801?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062407801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-split-the-difference-chris-voss%2F1122714695%3Fean%3D9780062407801&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Split-Difference%2FChris-Voss%2F9780062407801"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062407801"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Priya Parker",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/754a13d8-354e-54d9-ab61-a6fffdc99980",
+      "contributor": "by Priya Parker",
+      "contributor_note": "",
+      "created_date": "2026-09-16T18:02:44.727Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593420225",
+      "publisher": "Riverhead",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE ART OF FIGHTING",
+      "updated_date": "2026-09-16T18:02:44.727Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593420225"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593420225?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593420225&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-fighting-priya-parker%2F1149014672%3Fean%3D9780593420225&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Fighting%2FPriya-Parker%2F9780593420225"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593420225"
         }
       ]
     },
@@ -308,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593652886",
       "publisher": "Penguin Press",
-      "rank": 6,
+      "rank": 9,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE CREATIVE ACT",
       "updated_date": "2026-03-04T23:40:20.231Z",
-      "weeks_on_list": 39,
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780358567097",
       "publisher": "Mariner",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "DIE WITH ZERO",
       "updated_date": "2026-09-02T18:40:16.985Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -396,174 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780358567097"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Chris Voss with Tahl Raz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062407801.jpg",
-      "book_image_height": 500,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c5d04ae-b121-5d4d-9909-0dedab06872e",
-      "contributor": "by Chris Voss with Tahl Raz",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:20.383Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062407801",
-      "publisher": "Harper Business",
-      "rank": 8,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "NEVER SPLIT THE DIFFERENCE",
-      "updated_date": "2026-03-04T23:40:20.383Z",
-      "weeks_on_list": 10,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062407801"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062407801?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062407801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-split-the-difference-chris-voss%2F1122714695%3Fean%3D9780062407801&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Split-Difference%2FChris-Voss%2F9780062407801"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062407801"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "JL Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798893310474.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9cb07452-70f0-5f31-92a6-938e3af01632",
-      "contributor": "by JL Collins",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:22:00.748Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798893310474",
-      "publisher": "Authors Equity",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SIMPLE PATH TO WEALTH",
-      "updated_date": "2026-06-03T18:22:00.748Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798893310474"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0DQJMVM59?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798893310474?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798893310474&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-simple-path-to-wealth-j-l-collins%2F1123947856%3Fean%3D9798893310474&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BSIMPLE%2BPATH%2BTO%2BWEALTH%2FJL%2BCollins%2F9798893310474"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798893310474"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Kahneman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374533557.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9",
-      "contributor": "by Daniel Kahneman",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.118Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780374533557",
-      "publisher": "Farrar, Straus & Giroux",
-      "rank": 10,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THINKING, FAST AND SLOW",
-      "updated_date": "2026-09-02T18:40:17.118Z",
-      "weeks_on_list": 105,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780374533557"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374533557&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthinking-fast-and-slow-daniel-kahneman%2F1100169801%3Fean%3D9780374533557&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHINKING%252C%2BFAST%2BAND%2BSLOW%2FDaniel%2BKahneman%2F9780374533557"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374533557"
         }
       ]
     }

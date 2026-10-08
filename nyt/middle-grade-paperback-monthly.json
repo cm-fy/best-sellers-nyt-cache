@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 10015,
-  "uri": "nyt://bestsellerslist/88f7895b-5d84-56c4-be81-dfb01bb183e3",
+  "uri": "nyt://bestsellerslist/73ba2819-83d4-5e0d-9fa6-0e8302e406cd",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "RESTART",
       "updated_date": "2026-04-01T17:34:07.278Z",
-      "weeks_on_list": 68,
+      "weeks_on_list": 69,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "A LONG WALK TO WATER",
       "updated_date": "2026-08-05T17:45:03.628Z",
-      "weeks_on_list": 82,
+      "weeks_on_list": 83,
       "isbns": [
         {
           "isbn10": "",
@@ -121,169 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0316575739?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lynda Mullaly Hunt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bcd9be95-b252-588a-a9a8-f2aef2f3be6a",
-      "contributor": "by Lynda Mullaly Hunt",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:56.022Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780142426425",
-      "publisher": "Nancy Paulsen",
-      "rank": 3,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "FISH IN A TREE",
-      "updated_date": "2026-06-03T18:21:56.022Z",
-      "weeks_on_list": 40,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780142426425"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780142426425?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142426425&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffish-in-a-tree-lynda-mullaly-hunt%2F1120198328%3Fean%3D9780142426425&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFISH%2BIN%2BA%2BTREE%2FLynda%2BMullaly%2BHunt%2F9780142426425"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780142426425"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250489423?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "T.C. Kemper",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250489425.jpg",
+      "author": "Aubrey Hartman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316575737.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 341,
       "book_review_link": "",
-      "book_uri": "nyt://book/ed8bfa45-f91d-515a-9870-18231d5e6ba3",
-      "contributor": "by T.C. Kemper",
+      "book_uri": "nyt://book/bbad530b-633e-5ed1-85ee-9e39a7b92bab",
+      "contributor": "by Aubrey Hartman",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:13Z",
+      "created_date": "2026-10-07T18:18:39.174Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250489425",
-      "publisher": "Holt",
-      "rank": 4,
+      "primary_isbn13": "9780316575737",
+      "publisher": "Little, Brown",
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE GINGHAMS",
-      "updated_date": "2026-09-02T18:40:13Z",
+      "title": "THE UNDEAD FOX OF DEADWOOD FOREST",
+      "updated_date": "2026-10-07T18:18:39.174Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250489425"
+          "isbn13": "9780316575737"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250489423?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316575739?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250489425?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316575737?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250489425&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-ginghams-t-c-kemper%2F1147744472%3Fean%3D9781250489425&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316575737&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-undead-fox-of-deadwood-forest-aubrey-hartman%2F1145683629%3Fean%3D9780316575737&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGinghams%2FT-C-Kemper%2F9781250489425"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUndead-Fox-Deadwood-Forest-Newbery%2FAubrey-Hartman%2F9780316575737"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250489425"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gordon Korman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062563903.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/20efe851-a876-5119-a199-8ec7dde0bc23",
-      "contributor": "by Gordon Korman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:17:06.898Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062563903",
-      "publisher": "Balzer + Bray",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE UNTEACHABLES",
-      "updated_date": "2026-07-01T20:17:06.898Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062563903"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062563903?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062563903&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unteachables-gordon-korman%2F1127903155%3Fean%3D9780062563903&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9780062563880"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062563903"
+          "url": "https://bookshop.org/a/3546/9780316575737"
         }
       ]
     },
@@ -308,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217111916",
       "publisher": "Rocky Pond",
-      "rank": 6,
-      "rank_last_week": 3,
+      "rank": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE AMAZING GENERATION",
       "updated_date": "2026-06-03T18:35:44.051Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +233,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Gordon Korman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062563903.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/20efe851-a876-5119-a199-8ec7dde0bc23",
+      "contributor": "by Gordon Korman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T20:17:06.898Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062563903",
+      "publisher": "Balzer + Bray",
+      "rank": 5,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE UNTEACHABLES",
+      "updated_date": "2026-07-01T20:17:06.898Z",
+      "weeks_on_list": 8,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062563903"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062563903?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062563903&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unteachables-gordon-korman%2F1127903155%3Fean%3D9780062563903&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.booksamillion.com/p/9780062563880"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062563903"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0763680893?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780763680893",
       "publisher": "Candlewick",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE TALE OF DESPEREAUX",
       "updated_date": "2026-09-02T18:40:13.143Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -401,113 +345,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Boy-Harnessed-Wind-Young-Readers/dp/0147510422?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJNTNGS5?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "William Kamkwamba and Bryan Mealer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780147510426.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4f159983-be87-5d5e-8bba-e91c16d4f09c",
-      "contributor": "by William Kamkwamba and Bryan Mealer. Illustrated by Anna Hymas",
-      "contributor_note": "Illustrated by Anna Hymas",
-      "created_date": "2026-07-02T19:23:36.642Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780147510426",
-      "publisher": "Puffin",
-      "rank": 8,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THE BOY WHO HARNESSED THE WIND",
-      "updated_date": "2026-07-02T19:23:36.642Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780147510426"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Boy-Harnessed-Wind-Young-Readers/dp/0147510422?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780147510426?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780147510426&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-boy-who-harnessed-the-wind-william-kamkwamba%2F1109136621%3Fean%3D9780147510426&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOY%2BWHO%2BHARNESSED%2BTHE%2BWIND%2FWilliam%2BKamkwamba%2Band%2BBryan%2BMealer.%2F9780147510426"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780147510426"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063449536?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Erin Hunter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063449534.jpg",
+      "author": "Dan Poblocki",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217252237.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 336,
       "book_review_link": "",
-      "book_uri": "nyt://book/087dba0f-86e7-5778-8915-287f9a488716",
-      "contributor": "by Erin Hunter",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:03.748Z",
+      "book_uri": "nyt://book/a6c572be-e500-591f-86cc-7e55785158fe",
+      "contributor": "by Dan Poblocki. Illustrated by Marie Bergeron",
+      "contributor_note": "Illustrated by Marie Bergeron",
+      "created_date": "2026-10-07T18:18:39.35Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063449534",
-      "publisher": "HarperCollins",
-      "rank": 9,
-      "rank_last_week": 4,
+      "primary_isbn13": "9798217252237",
+      "publisher": "Penguin Workshop",
+      "rank": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "RENEGADES: THE MAGIC AWAKENS",
-      "updated_date": "2026-08-05T17:45:03.748Z",
-      "weeks_on_list": 4,
+      "title": "TALES TO KEEP YOU UP AT NIGHT",
+      "updated_date": "2026-10-07T18:18:39.35Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063449534"
+          "isbn13": "9798217252237"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063449536?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GJNTNGS5?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063449534?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217252237?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063449534&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frenegades-1-erin-hunter%2F1148449102%3Fean%3D9780063449534&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217252237&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftales-to-keep-you-up-at-night-dan-poblocki%2F1149321461%3Fean%3D9798217252237&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRenegades%2FErin-Hunter%2F9780063449534"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTales-Keep-Up-Night%2FDan-Poblocki%2F9780593387498"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063449534"
+          "url": "https://bookshop.org/a/3546/9798217252237"
         }
       ]
     },
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780763680909",
       "publisher": "Candlewick",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE MIRACULOUS JOURNEY OF EDWARD TULANE",
       "updated_date": "2026-09-02T18:40:13.289Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +452,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780763680909"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynda Mullaly Hunt",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bcd9be95-b252-588a-a9a8-f2aef2f3be6a",
+      "contributor": "by Lynda Mullaly Hunt",
+      "contributor_note": "",
+      "created_date": "2026-06-03T18:21:56.022Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780142426425",
+      "publisher": "Nancy Paulsen",
+      "rank": 9,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "FISH IN A TREE",
+      "updated_date": "2026-06-03T18:21:56.022Z",
+      "weeks_on_list": 41,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780142426425"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780142426425?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142426425&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffish-in-a-tree-lynda-mullaly-hunt%2F1120198328%3Fean%3D9780142426425&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFISH%2BIN%2BA%2BTREE%2FLynda%2BMullaly%2BHunt%2F9780142426425"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780142426425"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250423422?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250423429.jpg",
+      "book_image_height": 500,
+      "book_image_width": 347,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6df1db11-27a6-5b23-a247-ec668a25ea53",
+      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
+      "contributor_note": "Illustrated by Charles Santoso",
+      "created_date": "2026-05-06T17:41:05.452Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250423429",
+      "publisher": "Square Fish",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ODDER",
+      "updated_date": "2026-05-06T17:41:05.452Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250423429"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250423422?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250423429?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250423429&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fodder-katherine-applegate%2F1146314543%3Fean%3D9781250423429&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOdder%2FKatherine-Applegate%2F9781250423429"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250423429"
         }
       ]
     }

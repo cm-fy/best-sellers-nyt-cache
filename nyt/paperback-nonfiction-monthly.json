@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 10004,
-  "uri": "nyt://bestsellerslist/031fb371-1c1a-5e65-b556-8f219d18cea2",
+  "uri": "nyt://bestsellerslist/39ea1d3a-0946-5a3c-a091-07b0a629eb22",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324099406.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/08/26/books/review/crossing-the-wine-dark-sea-emily-wilson.html",
+      "book_uri": "nyt://book/d281d7f8-31f3-50c0-9346-1e090294b2e7",
+      "contributor": "by Emily Wilson",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:35.571Z",
+      "dagger": 0,
+      "description": "The translator of editions of Homer’s “Iliad” and “Odyssey” explicates potential complications encountered in her line of work.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324099406",
+      "publisher": "Liveright",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CROSSING THE WINE-DARK SEA",
+      "updated_date": "2026-09-09T18:10:35.571Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324099406"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324099406?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324099406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrossing-the-wine-dark-sea-emily-wilson%2F1148214886%3Fean%3D9781324099406&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrossing-Wine-Dark-Sea%2FEmily-Wilson%2F9781324099406"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324099406"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780060959470",
       "publisher": "Morrow",
-      "rank": 2,
-      "rank_last_week": 8,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ALL ABOUT LOVE",
       "updated_date": "2026-09-02T18:40:18.473Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ian Leslie",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250869517.jpg",
+      "book_image_height": 500,
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7adab9a6-c0b4-5937-85be-26eb991f9b7e",
+      "contributor": "by Ian Leslie",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:36.015Z",
+      "dagger": 0,
+      "description": "The 23-year relationship between John Lennon and Paul McCartney is viewed through the lens of the songs they wrote together.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250869517",
+      "publisher": "Celadon",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "JOHN & PAUL",
+      "updated_date": "2026-09-09T18:10:36.015Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250869517"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250869517?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250869517&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjohn-paul-ian-leslie%2F1146328438%3Fean%3D9781250869517&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJohn-Paul%2FIan-Leslie%2F9781250869517"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250869517"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780399588198",
       "publisher": "One World",
-      "rank": 3,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "BORN A CRIME",
       "updated_date": "2026-08-19T23:59:11.311Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -177,230 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Robin Wall Kimmerer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
-      "contributor": "by Robin Wall Kimmerer",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:54.415Z",
-      "dagger": 0,
-      "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781571313560",
-      "publisher": "Milkweed Editions",
-      "rank": 4,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "BRAIDING SWEETGRASS",
-      "updated_date": "2026-06-03T18:21:54.415Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781571313560"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781571313560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbraiding-sweetgrass-robin-wall-kimmerer%2F1114828102%3Fean%3D9781571313560&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBraiding-Sweetgrass%2FRobin-Wall-Kimmerer%2F9781571313560"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781571313560"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeannette Walls",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780743247542.jpg",
-      "book_image_height": 495,
-      "book_image_width": 313,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6525f71e-9487-5a7e-9534-f26d1a493c5f",
-      "contributor": "by Jeannette Walls",
-      "contributor_note": "",
-      "created_date": "2026-07-14T17:46:17.019Z",
-      "dagger": 1,
-      "description": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780743247542",
-      "publisher": "Scribner",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE GLASS CASTLE",
-      "updated_date": "2026-07-14T17:46:17.019Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780743247542"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780743247542?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780743247542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-glass-castle-jeannette-walls%2F1100321217%3Fean%3D9780743247542&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGLASS%2BCASTLE%2FJeannette%2BWalls%2F9780743247542"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780743247542"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mark Kurlansky",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780142001615.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4e243384-211c-5c3e-8874-b9d3ac78db3a",
-      "contributor": "by Mark Kurlansky",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:10.591Z",
-      "dagger": 0,
-      "description": "The author of “The Food of a Younger Land” describes several ways in which a valuable substance has impacted civilization. ",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780142001615",
-      "publisher": "Penguin",
-      "rank": 6,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "SALT",
-      "updated_date": "2026-09-02T18:40:10.591Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780142001615"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0142001619?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780142001615?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142001615&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsalt-mark-kurlansky%2F1102487050%3Fean%3D9780142001615&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSalt%2FMark-Kurlansky%2F9780142001615"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780142001615"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tara Westover",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399590528.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
-      "book_review_link": "https://www.nytimes.com/2018/03/01/books/review/tara-westover-educated.html",
-      "book_uri": "nyt://book/1ee7a801-b1ae-56e0-90ad-6b443e2881fd",
-      "contributor": "by Tara Westover",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:34.347Z",
-      "dagger": 0,
-      "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399590528",
-      "publisher": "Random House",
-      "rank": 7,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "EDUCATED",
-      "updated_date": "2026-07-01T17:54:34.347Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399590528"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399590528?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399590528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feducated-tara-westover%2F1126358348%3Fean%3D9780399590528&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590528"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399590528"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0FRH96Q23?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -412,7 +300,7 @@
       "book_uri": "nyt://book/69445722-6cb7-5363-89f7-384da16a9902",
       "contributor": "by Sebastian Krahl. Illustrated by Fábio Lyra",
       "contributor_note": "Illustrated by Fábio Lyra",
-      "created_date": "2026-09-02T18:40:10.741Z",
+      "created_date": "2026-10-07T18:18:35.833Z",
       "dagger": 0,
       "description": "A true-crime storyteller shares a collection of scary and gruesome tales.",
       "first_chapter_link": "",
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798886087178",
       "publisher": "Callisto",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "50 TRUE STORIES THAT WILL SCARE YOU TO DEATH",
-      "updated_date": "2026-09-02T18:40:10.741Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-10-07T18:18:35.833Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +345,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525555247.jpg",
+      "author": "Robin Wall Kimmerer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/46e48617-316d-5d31-b826-62f7b6580826",
-      "contributor": "by John Green",
+      "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
+      "contributor": "by Robin Wall Kimmerer",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:10.889Z",
+      "created_date": "2026-06-03T18:21:54.415Z",
       "dagger": 0,
-      "description": "A collection of personal essays that review different facets of the human-centered planet.",
+      "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780525555247",
-      "publisher": "Dutton",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781571313560",
+      "publisher": "Milkweed Editions",
+      "rank": 7,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "THE ANTHROPOCENE REVIEWED",
-      "updated_date": "2026-09-02T18:40:10.889Z",
-      "weeks_on_list": 1,
+      "title": "BRAIDING SWEETGRASS",
+      "updated_date": "2026-06-03T18:21:54.415Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780525555247"
+          "isbn13": "9781571313560"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525555247?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525555247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anthropocene-reviewed-john-green%2F1139032320%3Fean%3D9780525555247&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781571313560&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbraiding-sweetgrass-robin-wall-kimmerer%2F1114828102%3Fean%3D9781571313560&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANTHROPOCENE%2BREVIEWED%2FJohn%2BGreen%2F9780525555247"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBraiding-Sweetgrass%2FRobin-Wall-Kimmerer%2F9781571313560"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525555247"
+          "url": "https://bookshop.org/a/3546/9781571313560"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/132409673X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kassia St",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324096733.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Patti Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781101910177.jpg",
+      "book_image_height": 500,
+      "book_image_width": 337,
       "book_review_link": "",
-      "book_uri": "nyt://book/7aa1469f-575c-5d88-a4c5-3b2b0f4cfa39",
-      "contributor": "by Kassia St. Clair",
-      "contributor_note": "Clair",
-      "created_date": "2026-09-23T14:22:27.038Z",
+      "book_uri": "nyt://book/52049806-406e-5619-acae-690f8662a49c",
+      "contributor": "by Patti Smith",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:35.983Z",
       "dagger": 0,
-      "description": "The story of the Peking-to-Paris Motor Challenge, which took place near the beginning of the 20th century.",
+      "description": "The National Book Award–winning author and Rock and Roll Hall of Fame inductee shares the ebbs and flows of her life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781324096733",
-      "publisher": "Liveright",
-      "rank": 10,
+      "primary_isbn13": "9781101910177",
+      "publisher": "Random House",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE RACE TO THE FUTURE",
-      "updated_date": "2026-09-23T14:22:27.038Z",
+      "title": "BREAD OF ANGELS",
+      "updated_date": "2026-10-07T18:18:35.983Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781324096733"
+          "isbn13": "9781101910177"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/132409673X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324096733?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781101910177?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324096733&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-race-to-the-future-kassia-st-clair%2F1144065610%3Fean%3D9781324096733&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101910177&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbread-of-angels-patti-smith%2F1147247468%3Fean%3D9781101910177&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRace-Future%2FKassia-St-Clair%2F9781324094913"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBread-Angels%2FPatti-Smith%2F9781101910177"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324096733"
+          "url": "https://bookshop.org/a/3546/9781101910177"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeannette Walls",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780743247542.jpg",
+      "book_image_height": 495,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6525f71e-9487-5a7e-9534-f26d1a493c5f",
+      "contributor": "by Jeannette Walls",
+      "contributor_note": "",
+      "created_date": "2026-07-14T17:46:17.019Z",
+      "dagger": 1,
+      "description": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780743247542",
+      "publisher": "Scribner",
+      "rank": 9,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE GLASS CASTLE",
+      "updated_date": "2026-07-14T17:46:17.019Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780743247542"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780743247542?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780743247542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-glass-castle-jeannette-walls%2F1100321217%3Fean%3D9780743247542&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGLASS%2BCASTLE%2FJeannette%2BWalls%2F9780743247542"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780743247542"
         }
       ]
     },
@@ -588,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593854297",
       "publisher": "Riverhead",
-      "rank": 11,
-      "rank_last_week": 2,
+      "rank": 10,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "A MARRIAGE AT SEA",
       "updated_date": "2026-07-08T17:19:40.87Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -625,169 +569,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Bryan Stevenson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780812984965.jpg",
-      "book_image_height": 193,
-      "book_image_width": 128,
-      "book_review_link": "",
-      "book_uri": "nyt://book/cd6d25c8-a6f0-55a4-b322-e8eb0dbb5fb3",
-      "contributor": "by Bryan Stevenson",
+      "author": "Tara Westover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780399590528.jpg",
+      "book_image_height": 495,
+      "book_image_width": 328,
+      "book_review_link": "https://www.nytimes.com/2018/03/01/books/review/tara-westover-educated.html",
+      "book_uri": "nyt://book/1ee7a801-b1ae-56e0-90ad-6b443e2881fd",
+      "contributor": "by Tara Westover",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:11.168Z",
+      "created_date": "2026-07-01T17:54:34.347Z",
       "dagger": 0,
-      "description": "A civil rights lawyer and MacArthur grant recipient’s memoir of his decades of work to free innocent people condemned to death.",
+      "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780812984965",
-      "publisher": "One World",
+      "primary_isbn13": "9780399590528",
+      "publisher": "Random House",
+      "rank": 11,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "EDUCATED",
+      "updated_date": "2026-07-01T17:54:34.347Z",
+      "weeks_on_list": 4,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780399590528"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780399590528?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399590528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feducated-tara-westover%2F1126358348%3Fean%3D9780399590528&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590528"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780399590528"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cory Doctorow",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250448194.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6115a880-4566-5ce7-aabd-10e5e3054bc3",
+      "contributor": "by Cory Doctorow",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:36.133Z",
+      "dagger": 0,
+      "description": "The author of “The Reverse Centaur's Guide to Life After AI” describes how decisions by tech leaders made services worse.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250448194",
+      "publisher": "Picador",
       "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "JUST MERCY",
-      "updated_date": "2026-09-02T18:40:11.168Z",
+      "title": "ENSHITTIFICATION",
+      "updated_date": "2026-10-07T18:18:36.133Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780812984965"
+          "isbn13": "9781250448194"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780812984965?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250448194?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780812984965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjust-mercy-bryan-stevenson%2F1120199052%3Fean%3D9780812984965&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250448194&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fenshittification-cory-doctorow%2F1146657404%3Fean%3D9781250448194&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJUST%2BMERCY%2FBryan%2BStevenson%2F9780812984965"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEnshittification%2FCory-Doctorow%2F9781250448194"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780812984965"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Kahneman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374533557.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9",
-      "contributor": "by Daniel Kahneman",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:17.118Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780374533557",
-      "publisher": "Farrar, Straus & Giroux",
-      "rank": 13,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "THINKING, FAST AND SLOW",
-      "updated_date": "2026-09-02T18:40:17.118Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780374533557"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374533557&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthinking-fast-and-slow-daniel-kahneman%2F1100169801%3Fean%3D9780374533557&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHINKING%252C%2BFAST%2BAND%2BSLOW%2FDaniel%2BKahneman%2F9780374533557"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374533557"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Malcolm Gladwell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316017930.jpg",
-      "book_image_height": 280,
-      "book_image_width": 184,
-      "book_review_link": "https://www.nytimes.com/2008/11/18/books/18kaku.html",
-      "book_uri": "nyt://book/f91e18c2-0d6a-55fb-962e-f09204a77836",
-      "contributor": "by Malcolm Gladwell",
-      "contributor_note": "",
-      "created_date": "2026-07-14T17:46:16.551Z",
-      "dagger": 0,
-      "description": "Unexpected factors that explain why some people succeed, such as upbringing, timing and 10,000 hours of deliberate practice.",
-      "first_chapter_link": "https://www.nytimes.com/2008/11/30/books/chapters/chapter-outliers.html",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316017930",
-      "publisher": "Back Bay",
-      "rank": 14,
-      "rank_last_week": 12,
-      "sunday_review_link": "https://www.nytimes.com/2008/11/30/books/review/Leonhardt-t.html",
-      "title": "OUTLIERS",
-      "updated_date": "2026-07-14T17:46:16.551Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316017930"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316017930?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316017930&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Foutliers-malcolm-gladwell%2F1100030024%3Fean%3D9780316017930&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTLIERS%2FMalcolm%2BGladwell%2F9780316017930"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316017930"
+          "url": "https://bookshop.org/a/3546/9781250448194"
         }
       ]
     },
@@ -812,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780399591617",
       "publisher": "Dial",
-      "rank": 15,
-      "rank_last_week": 0,
+      "rank": 13,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "SIGNS",
       "updated_date": "2026-06-03T18:21:53.973Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +732,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780399591617"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "John Green",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525555247.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/46e48617-316d-5d31-b826-62f7b6580826",
+      "contributor": "by John Green",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:10.889Z",
+      "dagger": 0,
+      "description": "A collection of personal essays that review different facets of the human-centered planet.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780525555247",
+      "publisher": "Dutton",
+      "rank": 14,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE ANTHROPOCENE REVIEWED",
+      "updated_date": "2026-09-02T18:40:10.889Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780525555247"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780525555247?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525555247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anthropocene-reviewed-john-green%2F1139032320%3Fean%3D9780525555247&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANTHROPOCENE%2BREVIEWED%2FJohn%2BGreen%2F9780525555247"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780525555247"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063005980?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jim DeFede",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063005983.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e6b381e2-0908-5880-867f-868f8aeb1283",
+      "contributor": "by Jim DeFede",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:36.265Z",
+      "dagger": 0,
+      "description": "Thirty-eight jetliners en route to the United States were diverted to the Gander International Airport in Canada on 9/11; the basis of the musical “Come From Away.”",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063005983",
+      "publisher": "Morrow",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE DAY THE WORLD CAME TO TOWN",
+      "updated_date": "2026-10-07T18:18:36.265Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063005983"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063005980?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063005983?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063005983&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-the-world-came-to-town-updated-edition-jim-defede%2F1100616498%3Fean%3D9780063005983&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-World-Came-Town-Updated%2FJim-DeFede%2F9780063005983"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063005983"
         }
       ]
     }

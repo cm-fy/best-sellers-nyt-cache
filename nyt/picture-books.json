@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/f8d2a1ce-5256-5491-988d-de84da58fe4b",
+  "uri": "nyt://bestsellerslist/16e0b666-3c65-5eb8-8b89-36f4a31be97a",
   "books": [
     {
       "age_group": "Ages 4 to 8",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781728235202",
       "publisher": "Sourcebooks Jabberwocky",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE LEAF THIEF",
       "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -64,62 +64,6 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maudie Powell-Tuck",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
-      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
-      "contributor_note": "Illustrated by Mini Grey",
-      "created_date": "2026-09-09T18:15:26.434Z",
-      "dagger": 0,
-      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781680108354",
-      "publisher": "Tiger Tales",
-      "rank": 2,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "FRANKENKITTY",
-      "updated_date": "2026-09-09T18:15:26.434Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781680108354"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781664391000"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464268076",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE PUMPKIN THIEF",
       "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -176,58 +120,114 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 6",
-      "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sally Hopgood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781510704848.jpg",
+      "author": "Maudie Powell-Tuck",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/09e2bb62-b598-56cb-8dfe-d267fb8e3ede",
-      "contributor": "by Sally Hopgood. Illustrated by Emma Levey",
-      "contributor_note": "Illustrated by Emma Levey",
-      "created_date": "2026-05-27T22:36:37.131Z",
+      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
+      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
+      "contributor_note": "Illustrated by Mini Grey",
+      "created_date": "2026-09-09T18:15:26.434Z",
       "dagger": 0,
-      "description": "A departing tortoise says goodbye to all his animal friends. (Ages 3 to 6)",
+      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781510704848",
-      "publisher": "Sky Pony",
-      "rank": 4,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781680108354",
+      "publisher": "Tiger Tales",
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "SEE YOU LATER, ALLIGATOR!",
-      "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 39,
+      "title": "FRANKENKITTY",
+      "updated_date": "2026-09-09T18:15:26.434Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781510704848"
+          "isbn13": "9781680108354"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781510704855?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781510704848&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsee-you-later-alligator-sally-hopgood%2F1123362706%3Fean%3D9781510704848&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEE%2BYOU%2BLATER%252C%2BALLIGATOR%2521%2FSally%2BHopgood.%2F9781510704848"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781510704848"
+          "url": "https://bookshop.org/a/3546/9781664391000"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 5 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G7T8PCY2?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cecilia Blomdahl",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217306213.jpg",
+      "book_image_height": 500,
+      "book_image_width": 374,
+      "book_review_link": "",
+      "book_uri": "nyt://book/95c8ec14-f9c2-5038-a6bd-0501ca09e011",
+      "contributor": "by Cecilia Blomdahl. Illustrated by Suzie Mason",
+      "contributor_note": "Illustrated by Suzie Mason",
+      "created_date": "2026-10-07T18:18:36.391Z",
+      "dagger": 0,
+      "description": "Grim, a Finnish Lapphund, gets lost in the Arctic. (Ages 5 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217306213",
+      "publisher": "DK",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE POLAR NIGHT ADVENTURE",
+      "updated_date": "2026-10-07T18:18:36.391Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217306213"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0G7T8PCY2?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217306213?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217306213&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-polar-night-adventure-cecilia-blomdahl%2F1149509000%3Fean%3D9798217306213&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPolar-Night-Adventure%2FCecilia-Blomdahl%2F9798217306213"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217306213"
         }
       ]
     },
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781492648949",
       "publisher": "Sourcebooks Jabberwocky",
       "rank": 5,
-      "rank_last_week": 9,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A MONSTER",
       "updated_date": "2026-09-16T18:02:43.002Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -288,174 +288,6 @@
       ]
     },
     {
-      "age_group": "Ages 4 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Walstead",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728210353.jpg",
-      "book_image_height": 500,
-      "book_image_width": 499,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c89476b4-1da5-5061-8ca3-d0ce7d422bc1",
-      "contributor": "by Alice Walstead. Illustrated by Megan Joyce",
-      "contributor_note": "Illustrated by Megan Joyce",
-      "created_date": "2026-09-16T18:02:42.859Z",
-      "dagger": 0,
-      "description": "The Catch Club Kids attempt to snare a witch on Halloween. (Ages 4 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728210353",
-      "publisher": "Sourcebooks Wonderland",
-      "rank": 6,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "HOW TO CATCH A WITCH",
-      "updated_date": "2026-09-16T18:02:42.859Z",
-      "weeks_on_list": 32,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728210353"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728210353?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728210353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-witch-alice-walstead%2F1140359318%3Fean%3D9781728210353&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BWITCH%2FAlice%2BWalstead.%2F9781728210353"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728210353"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 10",
-      "amazon_product_url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Adam Wallace",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781492680529.jpg",
-      "book_image_height": 500,
-      "book_image_width": 500,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0d1a3727-f06d-5193-a407-60ef9b68e363",
-      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
-      "contributor_note": "Illustrated by Andy Elkerton",
-      "created_date": "2026-07-01T17:54:34.833Z",
-      "dagger": 0,
-      "description": "The How to Catch Kids try to wrangle a dinosaur for their school science fair. (Ages 4 to 10)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781492680529",
-      "publisher": "Sourcebooks Wonderland",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HOW TO CATCH A DINOSAUR",
-      "updated_date": "2026-07-01T17:54:34.833Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781492680529"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781492680529?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492680529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-dinosaur-adam-wallace%2F1129678150%3Fean%3D9781492680529&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BDINOSAUR%2FAdam%2BWallace.%2F9781492680529"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781492680529"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Winfield Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "book_image_height": 500,
-      "book_image_width": 475,
-      "book_review_link": "",
-      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
-      "contributor": "by Emily Winfield Martin",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:37.607Z",
-      "dagger": 0,
-      "description": "A celebration of future possibilities. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385376716",
-      "publisher": "Random House",
-      "rank": 8,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE WONDERFUL THINGS YOU WILL BE",
-      "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 479,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385376716"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385376716"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -476,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062954541",
       "publisher": "HarperCollins",
-      "rank": 9,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",
       "updated_date": "2026-09-30T18:09:28.55Z",
-      "weeks_on_list": 37,
+      "weeks_on_list": 38,
       "isbns": [
         {
           "isbn10": "",
@@ -512,6 +344,118 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 7",
+      "amazon_product_url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Walstead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728210353.jpg",
+      "book_image_height": 500,
+      "book_image_width": 499,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c89476b4-1da5-5061-8ca3-d0ce7d422bc1",
+      "contributor": "by Alice Walstead. Illustrated by Megan Joyce",
+      "contributor_note": "Illustrated by Megan Joyce",
+      "created_date": "2026-09-16T18:02:42.859Z",
+      "dagger": 0,
+      "description": "The Catch Club Kids attempt to snare a witch on Halloween. (Ages 4 to 7)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728210353",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 7,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A WITCH",
+      "updated_date": "2026-09-16T18:02:42.859Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728210353"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728210353?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728210353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-witch-alice-walstead%2F1140359318%3Fean%3D9781728210353&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BWITCH%2FAlice%2BWalstead.%2F9781728210353"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728210353"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Deborah Hopkinson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593306857.jpg",
+      "book_image_height": 500,
+      "book_image_width": 420,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4f84c13d-039a-52f8-b9c5-818dfa8cc573",
+      "contributor": "by Deborah Hopkinson. Illustrated by Monique Dong",
+      "contributor_note": "Illustrated by Monique Dong",
+      "created_date": "2026-09-02T18:40:11.491Z",
+      "dagger": 0,
+      "description": "A biography of the late singer, songwriter and actress. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593306857",
+      "publisher": "Golden",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DOLLY PARTON",
+      "updated_date": "2026-09-02T18:40:11.491Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593306857"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593306857?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593306857&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-parton-deborah-hopkinson%2F1150213128%3Fean%3D9780593306857&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-Parton%2FDeborah-Hopkinson%2F9780593306857"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593306857"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781442402973",
       "publisher": "Simon & Schuster",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "CREEPY CARROTS!",
       "updated_date": "2026-09-30T18:09:28.677Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781442402973"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1665954787?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Julien Chung",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665954785.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/05c73989-99a0-55b5-873e-1155a2bf3ab9",
+      "contributor": "by Julien Chung",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:36.524Z",
+      "dagger": 0,
+      "description": "The alphabet letters climb the creaky old tree for Halloween. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665954785",
+      "publisher": "Beach Lane",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CHICKA CHICKA TRICKA TREAT",
+      "updated_date": "2026-10-07T18:18:36.524Z",
+      "weeks_on_list": 13,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665954785"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665954787?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665954785?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665954785&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchicka-chicka-tricka-treat-julien-chung%2F1146384103%3Fean%3D9781665954785&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCHICKA%2BCHICKA%2BTRICKA%2BTREAT%2FJulien%2BChung%2F9781665954785"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665954785"
         }
       ]
     }

@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 304,
-  "uri": "nyt://bestsellerslist/e4c0f423-6ceb-56cc-aeb2-7b27e421ebdd",
+  "uri": "nyt://bestsellerslist/00eb6ad4-df82-5615-a574-c81c36f40b69",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andrew D. Huberman with Jessica Wapner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781797182919.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/45929cd0-1832-559b-8b3b-b7ba7e32b5a5",
+      "contributor": "by Andrew D. Huberman with Jessica Wapner",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:43.48Z",
+      "dagger": 0,
+      "description": "Read by Andrew D. Huberman. 18 hours, 5 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781797182919",
+      "publisher": "Simon & Schuster Audio",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PROTOCOLS",
+      "updated_date": "2026-10-07T18:18:43.48Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781797182919"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781797182919?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668032152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprotocols-andrew-d-huberman-phd%2F1145846225%3Fean%3D9781668032152&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtocols%2FAndrew-D-Huberman%2F9781668032145"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668032145"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798350429084",
       "publisher": "Audible Studios",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-06-10T20:13:58.685Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781524779269",
       "publisher": "Penguin Audio",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-06-10T20:13:58.945Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Angela Duckworth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668131626.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3b84bcd4-9f4e-5b02-942c-7718c8165423",
+      "contributor": "by Angela Duckworth",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:43.603Z",
+      "dagger": 0,
+      "description": "Read by the author. 8 hours, 27 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668131626",
+      "publisher": "Simon & Schuster Audio",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SITUATED",
+      "updated_date": "2026-10-07T18:18:43.603Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668131626"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668131626?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668005965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsituated-angela-duckworth%2F1148947837%3Fean%3D9781668005965&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSituated%2FAngela-Duckworth%2F9781668005941"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668005941"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0140280197?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781622318643",
       "publisher": "HighBridge",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE 48 LAWS OF POWER",
       "updated_date": "2026-06-03T19:42:37.869Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -177,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063510804?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Big Cat, PFT Commenter et al",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063510821.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/28f841c2-2c30-5962-a520-356d06262c9a",
-      "contributor": "by Big Cat, PFT Commenter et al",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:16.856Z",
-      "dagger": 0,
-      "description": "Read by Big Cat, PFT Commenter and Jerry O'Connell. 7 hours, 56 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063510821",
-      "publisher": "Harper",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PARDON MY BOOK",
-      "updated_date": "2026-09-02T18:40:16.856Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063510821"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063510804?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063510821?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063510814&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpardon-my-book-big-cat%2F1149527973%3Fean%3D9780063510814&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPardon-My-Book%2FBig-Cat%2F9780063510807"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063510807"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062471253",
       "publisher": "Harper Business",
-      "rank": 5,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "NEVER SPLIT THE DIFFERENCE",
       "updated_date": "2026-08-05T18:31:51.684Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781508258476",
       "publisher": "Simon & Schuster Audio",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE COURAGE TO BE DISLIKED",
       "updated_date": "2026-08-05T17:45:07.012Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +401,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FD7PR4K7?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "W. Lee Warren",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798400517433.jpg",
+      "book_image_height": 500,
+      "book_image_width": 334,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5c930353-cd96-56de-9def-e30d0d81efc1",
+      "contributor": "by W. Lee Warren",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:43.734Z",
+      "dagger": 0,
+      "description": "Read by the author. 9 hours, 44 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798400517433",
+      "publisher": "Tyndale House",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LIFE-CHANGING ART OF SELF-BRAIN SURGERY",
+      "updated_date": "2026-10-07T18:18:43.734Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798400517433"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FD7PR4K7?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798400517433?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798400509902&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-life-changing-art-of-self-brain-surgery-w-lee-warren-md%2F1147629375%3Fean%3D9798400509902&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520LIFE-CHANGING%2520ART%2520OF%2520SELF-BRAIN%2520SURGERY%2520by%2520W.%2520Lee%2520Warren"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798400509889"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1949759229?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "DBKACX0303323",
       "publisher": "Thought Catalog",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE MOUNTAIN IS YOU",
       "updated_date": "2026-07-01T21:01:14.196Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/014311137X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Robert Greene",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525641544.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Lysa TerKeurst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400230730.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/1d075680-d773-55d2-a196-c6843750dfc3",
-      "contributor": "by Robert Greene",
+      "book_uri": "nyt://book/24bd6091-e0f5-5d40-8afb-55353dc47c14",
+      "contributor": "by Lysa TerKeurst",
       "contributor_note": "",
-      "created_date": "2026-08-05T18:34:12.832Z",
+      "created_date": "2026-10-07T18:18:43.862Z",
       "dagger": 0,
-      "description": "Read by Paul Michael and the author. 28 hours, 27 minutes unabridged.",
+      "description": "Read by the author. 6 hours, 9 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780525641544",
-      "publisher": "Penguin Audio",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE LAWS OF HUMAN NATURE",
-      "updated_date": "2026-08-05T18:34:12.832Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780525641544"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/014311137X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525641544?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780698184541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-laws-of-human-nature-robert-greene%2F1128233534%3Fean%3D9780698184541&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520LAWS%2520OF%2520HUMAN%2520NATURE%2520by%2520Robert%2520Greene"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780698184541"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mark Manson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062562982.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d77a3f49-23f6-50d2-afb8-9d049d189a0f",
-      "contributor": "by Mark Manson",
-      "contributor_note": "",
-      "created_date": "2026-06-03T19:45:12.068Z",
-      "dagger": 0,
-      "description": "Read by Roger Wayne. 5 hours, 17 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062562982",
-      "publisher": "Harper",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
-      "updated_date": "2026-06-03T19:45:12.068Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062562982"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062457713?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062562982?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062457738&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-subtle-art-of-not-giving-a-f-ck-mark-manson%2F1123517507%3Fean%3D9780062457738&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520SUBTLE%2520ART%2520OF%2520NOT%2520GIVING%2520A%2520F*CK%2520by%2520Mark%2520Manson"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062457738"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Will Guidara",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593613313.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/567c59cf-52df-519e-bbf5-7086eff27b69",
-      "contributor": "by Will Guidara",
-      "contributor_note": "",
-      "created_date": "2026-07-02T18:46:19.814Z",
-      "dagger": 0,
-      "description": "Read by the author. 8 hours, 37 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593613313",
-      "publisher": "Penguin Audio",
+      "primary_isbn13": "9781400230730",
+      "publisher": "Thomas Nelson",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "UNREASONABLE HOSPITALITY",
-      "updated_date": "2026-07-02T18:46:19.814Z",
-      "weeks_on_list": 3,
+      "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
+      "updated_date": "2026-10-07T18:18:43.862Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593613313"
+          "isbn13": "9781400230730"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593613313?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400230730?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593418581&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funreasonable-hospitality-will-guidara%2F1140825098%3Fean%3D9780593418581&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400230747&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmaking-peace-with-what-i-cant-control-lysa-terkeurst%2F1148674723%3Fean%3D9781400230747&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnreasonable-Hospitality%2FWill-Guidara%2F9780593418574"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMaking-Peace-What-Cant-Control%2FLysa-TerKeurst%2F9781400230723"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593418574"
+          "url": "https://bookshop.org/a/3546/9781400230723"
         }
       ]
     }

@@ -5,397 +5,117 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 704,
-  "uri": "nyt://bestsellerslist/a0761362-3675-5549-9a08-7c3e47b10b2b",
+  "uri": "nyt://bestsellerslist/4a24412f-c54b-585c-bd70-aaf074e47fae",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525556656?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/168281808X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525556657.jpg",
+      "author": "Rebecca Yarros",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781682818084.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/bbd9e50d-e304-5adb-89bd-ea9b39e48572",
-      "contributor": "by John Green",
+      "book_uri": "nyt://book/ce1ec3e9-1213-5b7d-922f-c8859b1b06fe",
+      "contributor": "by Rebecca Yarros",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:23:50.176Z",
+      "created_date": "2026-10-07T18:21:49.532Z",
       "dagger": 0,
-      "description": "Celebrity permeates lives onscreen and off for two rising stars appearing in the biopic “Andy Warhol Never Gets Old.”",
+      "description": "Thirteen short stories, set in the Empyrean world, in which cadets compete to earn the bond of a dragon.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780525556657",
-      "publisher": "Dutton",
+      "primary_isbn13": "9781682818084",
+      "publisher": "Red Tower",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOLLYWOOD, ENDING",
-      "updated_date": "2026-09-30T18:23:50.176Z",
+      "title": "THRESHING DAY",
+      "updated_date": "2026-10-07T18:21:49.532Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780525556657"
+          "isbn13": "9781682818084"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525556656?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/168281808X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525556657?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781682818527?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525556657&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollywood-ending-john-green%2F1149802863%3Fean%3D9780525556657&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682818084&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthreshing-day-rebecca-yarros%2F1150799611%3Fean%3D9781682818084&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "http://www.booksamillion.com/p/Hollywood-Ending/John-Green/9780525426073"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThreshing-Day-Wing-Claw-Collection%2FRebecca-Yarros%2F9781682818084"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525556657"
+          "url": "https://bookshop.org/a/3546/9781682818084"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Allen Levi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f3e1f4c8-34a3-54a3-8305-277666e21b4b",
-      "contributor": "by Allen Levi",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:20.88Z",
-      "dagger": 0,
-      "description": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668236512",
-      "publisher": "Atria",
-      "rank": 2,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "THEO OF GOLDEN",
-      "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 43,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668236512"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668236512?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668236512&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftheo-of-golden-allen-levi%2F1143923011%3Fean%3D9781668236512&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTheo-Golden%2FAllen-Levi%2F9781668236512"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668236512"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GM1G8WKF?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Don Bentley",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668045947.jpg",
+      "author": "John Grisham",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550543.jpg",
       "book_image_height": 500,
       "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/f3a4337a-f01a-5453-addc-660f4bdea6f9",
-      "contributor": "by Don Bentley",
+      "book_uri": "nyt://book/a7ee5364-063d-5297-8677-b6076b2f0562",
+      "contributor": "by John Grisham",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.801Z",
+      "created_date": "2026-10-07T18:18:44.279Z",
       "dagger": 0,
-      "description": "The 25th book in the Mitch Rapp series. When a scientist is kidnapped, Mitch must infiltrate a jihadi cell.",
+      "description": "When a couple is kidnapped during a honeymoon trip in the French countryside, a young lawyer is used as part of a C.I.A. operation.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668045947",
-      "publisher": "Atria/Emily Bestler",
-      "rank": 3,
+      "primary_isbn13": "9780385550543",
+      "publisher": "Doubleday",
+      "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "VINCE FLYNN: DOUBLE TAP",
-      "updated_date": "2026-09-30T18:09:30.801Z",
+      "title": "THE FRENCH ILLUSION",
+      "updated_date": "2026-10-07T18:18:44.279Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668045947"
+          "isbn13": "9780385550543"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GM1G8WKF?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668045947?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780385550543?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668045947&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdouble-tap-vince-flynn%2F1149520527%3Fean%3D9781668045947&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550543&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-french-illusion-john-grisham%2F1149667428%3Fean%3D9780385550543&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDouble-Tap%2FVince-Flynn%2F9781668045916"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrench-Illusion%2FJohn-Grisham%2F9780385550543"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668045947"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jodi Picoult",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593726259.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d19f7ae5-50a0-52c6-9f32-8b6794c54f3d",
-      "contributor": "by Jodi Picoult",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:04.06Z",
-      "dagger": 0,
-      "description": "A woman who runs the Rhode Island Department for Emergency Preparedness and her husband, who is a police polygraph expert, face a crisis in their marriage.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593726259",
-      "publisher": "Ballantine",
-      "rank": 4,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "HOLLOW BONES",
-      "updated_date": "2026-09-23T18:21:04.06Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593726259"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593726259?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593726259&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollow-bones-jodi-picoult%2F1149014562%3Fean%3D9780593726259&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollow-Bones%2FJodi-Picoult%2F9780593726259"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593726259"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kathryn Stockett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
-      "contributor": "by Kathryn Stockett",
-      "contributor_note": "",
-      "created_date": "2026-05-13T21:30:50.865Z",
-      "dagger": 0,
-      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781954118812",
-      "publisher": "Spiegel & Grau",
-      "rank": 5,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "THE CALAMITY CLUB",
-      "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 21,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781954118812"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781954118812"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GPGKSFHJ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeneva Rose",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798212182881.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6ca676e6-8621-57b3-b92a-576ecc417c59",
-      "contributor": "by Jeneva Rose",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.942Z",
-      "dagger": 0,
-      "description": "Three horror stories: “Never Kill the Medium,” “The Nightmare House” and “All Curses Are Final.”",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798212182881",
-      "publisher": "Blackstone",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SOMETIMES I SCARE MYSELF",
-      "updated_date": "2026-09-30T18:09:30.942Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798212182881"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GPGKSFHJ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798212182881?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798212182881&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsometimes-i-scare-myself-jeneva-rose%2F1149525228%3Fean%3D9798212182881&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSometimes-Scare-Myself%2FJeneva-Rose%2F9798212182881"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798212182881"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ali Hazelwood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
-      "contributor": "by Ali Hazelwood",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.157Z",
-      "dagger": 0,
-      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593336823",
-      "publisher": "Berkley",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE LOVE HYPOTHESIS",
-      "updated_date": "2026-09-02T18:40:14.157Z",
-      "weeks_on_list": 22,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593336823"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593336823"
+          "url": "https://bookshop.org/a/3546/9780385550543"
         }
       ]
     },
@@ -420,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 3,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-09-23T18:21:04.885Z",
-      "weeks_on_list": 102,
+      "weeks_on_list": 103,
       "isbns": [
         {
           "isbn10": "",
@@ -457,57 +177,393 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063376695?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lucy Foley",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063376694.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Allen Levi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/50bd7b96-d651-57dc-b46c-537ce91a0d60",
-      "contributor": "by Lucy Foley",
+      "book_uri": "nyt://book/f3e1f4c8-34a3-54a3-8305-277666e21b4b",
+      "contributor": "by Allen Levi",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.076Z",
+      "created_date": "2026-03-04T23:40:20.88Z",
       "dagger": 0,
-      "description": "At a secluded hotel in the Swiss Alps during a blizzard, Miss Marple must determine the identity of a killer.",
+      "description": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063376694",
-      "publisher": "Morrow",
-      "rank": 9,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781668236512",
+      "publisher": "Atria",
+      "rank": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "AGATHA CHRISTIE: MURDER AT THE GRAND ALPINE HOTEL",
-      "updated_date": "2026-09-30T18:09:31.076Z",
-      "weeks_on_list": 1,
+      "title": "THEO OF GOLDEN",
+      "updated_date": "2026-03-04T23:40:20.88Z",
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063376694"
+          "isbn13": "9781668236512"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063376695?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063376694?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668236512?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063376694&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmurder-at-the-grand-alpine-hotel-lucy-foley%2F1148769663%3Fean%3D9780063376694&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668236512&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftheo-of-golden-allen-levi%2F1143923011%3Fean%3D9781668236512&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMurder-Grand-Alpine-Hotel%2FLucy-Foley%2F9780063376694"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTheo-Golden%2FAllen-Levi%2F9781668236512"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063376694"
+          "url": "https://bookshop.org/a/3546/9781668236512"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kathryn Stockett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/37a1d1e0-131c-5003-8a26-827e5b166569",
+      "contributor": "by Kathryn Stockett",
+      "contributor_note": "",
+      "created_date": "2026-05-13T21:30:50.865Z",
+      "dagger": 0,
+      "description": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781954118812",
+      "publisher": "Spiegel & Grau",
+      "rank": 5,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE CALAMITY CLUB",
+      "updated_date": "2026-05-13T21:30:50.865Z",
+      "weeks_on_list": 22,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781954118812"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781954118812?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781954118812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-calamity-club-kathryn-stockett%2F1147098401%3Fean%3D9781954118812&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCalamity-Club%2FKathryn-Stockett%2F9781954118812"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781954118812"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ali Hazelwood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
+      "contributor": "by Ali Hazelwood",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:14.157Z",
+      "dagger": 0,
+      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593336823",
+      "publisher": "Berkley",
+      "rank": 6,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "THE LOVE HYPOTHESIS",
+      "updated_date": "2026-09-02T18:40:14.157Z",
+      "weeks_on_list": 23,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593336823"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593336823"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538752034?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Min Jin Lee",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538752036.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/09/29/books/review/american-hagwon-min-jin-lee.html",
+      "book_uri": "nyt://book/47d2af85-04d9-5270-b960-a35cc07e9935",
+      "contributor": "by Min Jin Lee",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:44.421Z",
+      "dagger": 0,
+      "description": "After a betrayal and a financial crisis, John and Helen Koh move with their three children from Korea to Australia to California in the 1990s.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538752036",
+      "publisher": "Cardinal",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "AMERICAN HAGWON",
+      "updated_date": "2026-10-07T18:18:44.421Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538752036"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538752034?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538752036?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538752036&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Famerican-hagwon-min-jin-lee%2F1149052260%3Fean%3D9781538752036&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmerican-Hagwon%2FMin-Jin-Lee%2F9781538752036"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538752036"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135211.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2021/05/04/books/review/andy-weir-project-hail-mary.html",
+      "book_uri": "nyt://book/01715f16-9513-5d03-827a-82e2d17a2c04",
+      "contributor": "by Andy Weir",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:44.555Z",
+      "dagger": 0,
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593135211",
+      "publisher": "Ballantine",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-10-07T18:18:44.555Z",
+      "weeks_on_list": 66,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593135211"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135211&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135211&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135211"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593135211"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0525426078?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "John Green",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525426073.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "https://www.nytimes.com/2026/09/18/books/review/hollywood-ending-john-green.html",
+      "book_uri": "nyt://book/02cf1035-2d0f-5834-a01f-9f35443a7f54",
+      "contributor": "by John Green",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:44.686Z",
+      "dagger": 0,
+      "description": "Celebrity permeates lives onscreen and off for two rising stars appearing in the biopic “Andy Warhol Never Gets Old.”",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780525426073",
+      "publisher": "Dutton",
+      "rank": 9,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "HOLLYWOOD, ENDING",
+      "updated_date": "2026-10-07T18:18:44.686Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780525426073"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0525426078?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780525426073?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525426073&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollywood-ending-john-green%2F1149802863%3Fean%3D9780525426073&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollywood-Ending%2FJohn-Green%2F9780525426073"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780525426073"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jodi Picoult",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593726259.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d19f7ae5-50a0-52c6-9f32-8b6794c54f3d",
+      "contributor": "by Jodi Picoult",
+      "contributor_note": "",
+      "created_date": "2026-09-23T18:21:04.06Z",
+      "dagger": 0,
+      "description": "A woman who runs the Rhode Island Department for Emergency Preparedness and her husband, who is a police polygraph expert, face a crisis in their marriage.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593726259",
+      "publisher": "Ballantine",
+      "rank": 10,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "HOLLOW BONES",
+      "updated_date": "2026-09-23T18:21:04.06Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593726259"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593726259?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593726259&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollow-bones-jodi-picoult%2F1149014562%3Fean%3D9780593726259&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollow-Bones%2FJodi-Picoult%2F9780593726259"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593726259"
         }
       ]
     },
@@ -532,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 10,
-      "rank_last_week": 9,
+      "rank": 11,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-07-01T20:55:08.886Z",
-      "weeks_on_list": 38,
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
@@ -569,113 +625,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316404098?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593973305?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Patterson and David Ellis",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316404099.jpg",
+      "author": "Danielle Steel",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593973301.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/bebc649b-5552-589d-bd60-54bb31821e18",
-      "contributor": "by James Patterson and David Ellis",
+      "book_uri": "nyt://book/329c9bc6-9127-5733-881d-7d6b3a266ce8",
+      "contributor": "by Danielle Steel",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.237Z",
+      "created_date": "2026-10-07T18:18:44.821Z",
       "dagger": 0,
-      "description": "An investigation into the death of a young woman in Hitler’s apartment in 1931 puts several people at risk.",
+      "description": "A senior editor at Vanity Fair interviews a high-tech billionaire and faces off against a shipping magnate in St. Barts.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316404099",
-      "publisher": "Little, Brown",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE MUNICH AFFAIR",
-      "updated_date": "2026-09-30T18:09:31.237Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316404099"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316404098?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316404099?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316404099&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-munich-affair-james-patterson%2F1149578721%3Fean%3D9780316404099&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMunich-Affair%2FJames-Patterson%2F9780316404099"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316404099"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464252084?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "L.J. Shen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464252082.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/812115b7-d977-513b-a320-919ae7a1670a",
-      "contributor": "by L.J. Shen",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:26:13.61Z",
-      "dagger": 0,
-      "description": "The third book in the Society of Villains series. An F.B.I. special agent and a member of a crime organization develop a forbidden relationship.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464252082",
-      "publisher": "Bloom",
+      "primary_isbn13": "9780593973301",
+      "publisher": "Delacorte",
       "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FALLEN ROOK",
-      "updated_date": "2026-09-30T18:26:13.61Z",
+      "title": "RUTHLESS",
+      "updated_date": "2026-10-07T18:18:44.821Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464252082"
+          "isbn13": "9780593973301"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464252084?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593973305?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349112225?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593973301?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464252082&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffallen-rook-lj-shen%2F1148538337%3Fean%3D9781464252082&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593973301&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruthless-danielle-steel%2F1149062208%3Fean%3D9780593973301&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFallen-Rook-Deluxe%2FL-J-Shen%2F9781464252082"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuthless%2FDanielle-Steel%2F9780593973301"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464252082"
+          "url": "https://bookshop.org/a/3546/9780593973301"
         }
       ]
     },
@@ -701,11 +701,11 @@
       "primary_isbn13": "9780063511637",
       "publisher": "Harper",
       "rank": 13,
-      "rank_last_week": 12,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "WHISTLER",
       "updated_date": "2026-06-10T21:51:30.058Z",
-      "weeks_on_list": 17,
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
@@ -757,11 +757,11 @@
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
       "rank": 14,
-      "rank_last_week": 13,
+      "rank_last_week": 14,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 25,
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
@@ -793,57 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1649379293?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sally Hepworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "author": "Rebecca Yarros",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781649379290.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/736c390c-8e20-527f-a6de-fbab2b17310c",
-      "contributor": "by Sally Hepworth",
+      "book_uri": "nyt://book/333140ca-2cf5-5a9e-a379-8fbb9df3371f",
+      "contributor": "by Rebecca Yarros",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.524Z",
+      "created_date": "2026-10-07T18:26:00.494Z",
       "dagger": 0,
-      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250284556",
-      "publisher": "St. Martin's",
+      "primary_isbn13": "9781649379290",
+      "publisher": "Red Tower",
       "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MAD MABEL",
-      "updated_date": "2026-09-30T18:09:31.524Z",
-      "weeks_on_list": 7,
+      "title": "FOURTH WING",
+      "updated_date": "2026-10-07T18:26:00.494Z",
+      "weeks_on_list": 105,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250284556"
+          "isbn13": "9781649379290"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F5PCBV62?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1649379293?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250284556?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284556&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284556&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649379290&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649379290&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFourth-Wing-Claw-Collection%2FRebecca-Yarros%2F9781649379290"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250284556"
+          "url": "https://bookshop.org/a/3546/9781649379290"
         }
       ]
     }

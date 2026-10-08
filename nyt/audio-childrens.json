@@ -5,8 +5,64 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 303,
-  "uri": "nyt://bestsellerslist/97b60322-7208-5cd6-92d6-682c2b58221d",
+  "uri": "nyt://bestsellerslist/43dccf7b-b64f-523c-b260-6749cf241ad1",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392869.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/151688da-bd38-5117-9015-35e952e9a6eb",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:45:45.057Z",
+      "dagger": 0,
+      "description": "A young wizard discovers his magical heritage. Read by Hugh Laurie et al. 8 hours, 41 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781789392869",
+      "publisher": "Pottermore and Audible Studios",
+      "rank": 1,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER AND THE SORCERER’S STONE (FULL-CAST EDITION)",
+      "updated_date": "2026-10-07T18:45:45.057Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781789392869"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781338878929?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545790352&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1121061860%3Fean%3D9780545790352&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "www.barnesandnoble.com/w/harry-potter-and-the-sorcerers-stone-j-k-rowling/1100036321?ean=9780590353403"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781338596700"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0F14VX598?tag=thenewyorktim-20",
@@ -14,13 +70,13 @@
       "asterisk": 0,
       "author": "J.K. Rowling",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781789392920.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image_height": 500,
+      "book_image_width": 500,
       "book_review_link": "",
       "book_uri": "nyt://book/1fe60129-23cd-51c7-842c-1bfacd08b445",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-09-02T19:11:38.931Z",
+      "created_date": "2026-10-07T18:18:43.07Z",
       "dagger": 0,
       "description": "The seventh book in the Harry Potter series. Read by Hugh Laurie et al. 20 hours, 30 minutes unabridged.",
       "first_chapter_link": "",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392920",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE DEATHLY HALLOWS (FULL-CAST EDITION)",
-      "updated_date": "2026-09-02T19:11:38.931Z",
-      "weeks_on_list": 4,
+      "updated_date": "2026-10-07T18:18:43.07Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -50,7 +106,7 @@
           "url": "https://books.apple.com/us/book/harry-potter-and-the-deathly-hallows-enhanced-edition/id1037196603"
         },
         {
-          "name": "Barnes and Noble",
+          "name": "Barnes & Noble",
           "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-deathly-hallows-j-k-rowling/1100178133?ean=9781546171454"
         },
         {
@@ -65,57 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0545791324?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392876.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/6352261c-424a-5047-b0b0-433b01577e72",
+      "book_uri": "nyt://book/b0a112e6-8097-573d-b5b5-44bfb3d24945",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-09-02T19:14:01.819Z",
+      "created_date": "2026-10-07T18:46:53.121Z",
       "dagger": 0,
-      "description": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
+      "description": "The second book in the Harry Potter series. Read by Hugh Laurie et al. 9 hours, 37 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781789392913",
+      "primary_isbn13": "9781789392876",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE (FULL-CAST EDITION)",
-      "updated_date": "2026-09-02T19:14:01.819Z",
-      "weeks_on_list": 5,
+      "title": "HARRY POTTER AND THE CHAMBER OF SECRETS (FULL-CAST EDITION)",
+      "updated_date": "2026-10-07T18:46:53.121Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781789392913"
+          "isbn13": "9781789392876"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0545791324?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781789392388?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781789392340?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439784542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-half-blood-prince-j-k-rowling%2F1100079342%3Fean%3D9780439784542&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439064866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-chamber-of-secrets-j-k-rowling%2F1004338523%3Fean%3D9780439064866&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520HALF-BLOOD%2520PRINCE%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520CHAMBER%2520OF%2520SECRETS%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439784542"
+          "url": "https://bookshop.org/a/3546/9780545791328"
         }
       ]
     },
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392890",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE GOBLET OF FIRE (FULL-CAST EDITION)",
       "updated_date": "2026-09-02T19:16:32.707Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -177,118 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F154RT46?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392906.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f2ec8931-0a95-5cd8-bda9-6bf99a7c466e",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:37:30.705Z",
-      "dagger": 0,
-      "description": "The fifth book in the Harry Potter series. Read by Hugh Laurie et al. 26 hours, 39 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781789392906",
-      "publisher": "Pottermore and Audible Studios",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE ORDER OF THE PHOENIX (FULL-CAST EDITION)",
-      "updated_date": "2026-07-01T20:37:30.705Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781789392906"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F154RT46?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781789392371?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439358064&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-order-of-the-phoenix-j-k-rowling%2F1100041270%3Fean%3D9780439358064&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520ORDER%2520OF%2520THE%2520PHOENIX%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439358064"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F14PDX2Z?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392869.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/151688da-bd38-5117-9015-35e952e9a6eb",
-      "contributor": "by J.K. Rowling",
-      "contributor_note": "",
-      "created_date": "2026-07-02T18:48:55.591Z",
-      "dagger": 0,
-      "description": "A young wizard discovers his magical heritage. Read by Hugh Laurie et al. 8 hours, 41 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781789392869",
-      "publisher": "Pottermore and Audible Studios",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE SORCERER’S STONE (FULL-CAST EDITION)",
-      "updated_date": "2026-07-02T18:48:55.591Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781789392869"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F14PDX2Z?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://books.apple.com/us/book/harry-potter-and-the-sorcerers-stone-enhanced-edition/id1037193578"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780590353403&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-sorcerers-stone-j-k-rowling%2F1100036321%3Fean%3D9780590353403&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520SORCERER%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BDS%2520STONE%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780590353403"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0F155MX8X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -300,7 +244,7 @@
       "book_uri": "nyt://book/904e7d64-9141-5495-b94c-60de07477d2a",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-08-05T18:20:15.602Z",
+      "created_date": "2026-10-07T18:47:50.395Z",
       "dagger": 0,
       "description": "The third book in the Harry Potter series. Read by Hugh Laurie et al. 11 hours, 32 minutes unabridged.",
       "first_chapter_link": "",
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781789392883",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "HARRY POTTER AND THE PRISONER OF AZKABAN (FULL-CAST EDITION)",
-      "updated_date": "2026-08-05T18:20:15.602Z",
-      "weeks_on_list": 6,
+      "updated_date": "2026-10-07T18:47:50.395Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +289,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F151V9H2?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392876.jpg",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/b0a112e6-8097-573d-b5b5-44bfb3d24945",
+      "book_uri": "nyt://book/6352261c-424a-5047-b0b0-433b01577e72",
       "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:32:07.195Z",
+      "created_date": "2026-09-02T19:14:01.819Z",
       "dagger": 0,
-      "description": "The second book in the Harry Potter series. Read by Hugh Laurie et al. 9 hours, 37 minutes unabridged.",
+      "description": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781789392876",
+      "primary_isbn13": "9781789392913",
       "publisher": "Pottermore and Audible Studios",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE CHAMBER OF SECRETS (FULL-CAST EDITION)",
-      "updated_date": "2026-07-01T20:32:07.195Z",
+      "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE (FULL-CAST EDITION)",
+      "updated_date": "2026-09-02T19:14:01.819Z",
       "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781789392876"
+          "isbn13": "9781789392913"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F151V9H2?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0F14Y9VTD?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781789392340?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781789392388?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439064866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-chamber-of-secrets-j-k-rowling%2F1004338523%3Fean%3D9780439064866&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439784542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-half-blood-prince-j-k-rowling%2F1100079342%3Fean%3D9780439784542&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520CHAMBER%2520OF%2520SECRETS%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520HALF-BLOOD%2520PRINCE%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439064866"
+          "url": "https://bookshop.org/a/3546/9780439784542"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F154RT46?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781789392906.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f2ec8931-0a95-5cd8-bda9-6bf99a7c466e",
+      "contributor": "by J.K. Rowling",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:49:42.915Z",
+      "dagger": 0,
+      "description": "The fifth book in the Harry Potter series. Read by Hugh Laurie et al. 26 hours, 39 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781789392906",
+      "publisher": "Pottermore and Audible Studios",
+      "rank": 7,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "HARRY POTTER AND THE ORDER OF THE PHOENIX (FULL-CAST EDITION)",
+      "updated_date": "2026-10-07T18:49:42.915Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781789392906"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0F154RT46?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781789392371?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780439358064&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fharry-potter-and-the-order-of-the-phoenix-j-k-rowling%2F1100041270%3Fean%3D9780439358064&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520ORDER%2520OF%2520THE%2520PHOENIX%2520(FULL-CAST%2520EDITION)%2520by%2520J.K.%2520Rowling"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780439358064"
         }
       ]
     },
@@ -412,7 +412,7 @@
       "book_uri": "nyt://book/7ac8bad3-31fb-5b67-b517-c201a8c8f7a9",
       "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:38:07.371Z",
+      "created_date": "2026-10-07T18:50:17.922Z",
       "dagger": 0,
       "description": "The fifth book in the “Hunger Games” series. Read by Jefferson White. 12 hours, 48 minutes unabridged.",
       "first_chapter_link": "",
@@ -421,11 +421,11 @@
       "primary_isbn13": "9781546171492",
       "publisher": "Scholastic Audio",
       "rank": 8,
-      "rank_last_week": 0,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "SUNRISE ON THE REAPING",
-      "updated_date": "2026-07-01T20:38:07.371Z",
-      "weeks_on_list": 6,
+      "updated_date": "2026-10-07T18:50:17.922Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -468,7 +468,7 @@
       "book_uri": "nyt://book/60d87778-66ac-5a41-8234-0c7eb8d36570",
       "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-05-29T15:53:20.306Z",
+      "created_date": "2026-10-07T18:50:48.347Z",
       "dagger": 0,
       "description": "In a dystopia, a girl fights for survival on live TV. Read by Tatiana Maslany. 10 hours, 35 minutes unabridged.",
       "first_chapter_link": "",
@@ -477,11 +477,11 @@
       "primary_isbn13": "9781338334906",
       "publisher": "Scholastic Audio",
       "rank": 9,
-      "rank_last_week": 0,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
-      "updated_date": "2026-05-29T15:53:20.306Z",
-      "weeks_on_list": 6,
+      "updated_date": "2026-10-07T18:50:48.347Z",
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -513,6 +513,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brandon Sanderson and Janci Patterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593745878.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/d7f0271d-867f-5789-ad76-aaa35a0aa2b7",
+      "contributor": "by Brandon Sanderson and Janci Patterson",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:51:24.193Z",
+      "dagger": 0,
+      "description": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. Read by Eddie Lopez and Suzy Jackson. 12 hours, 41 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593745878",
+      "publisher": "Listening Library",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BLIGHTFALL",
+      "updated_date": "2026-10-07T18:51:24.193Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593745878"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593745878?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593707074&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblightfall-brandon-sanderson%2F1149611648%3Fean%3D9780593707074&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlightfall%2FBrandon-Sanderson%2F9780593707050"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593707074"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0545586178?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -524,7 +580,7 @@
       "book_uri": "nyt://book/ddd0d728-6396-5709-a8df-de0abd11e27e",
       "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:45:34.554Z",
+      "created_date": "2026-10-07T18:51:55.075Z",
       "dagger": 0,
       "description": "The second book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 3 minutes unabridged.",
       "first_chapter_link": "",
@@ -532,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338589016",
       "publisher": "Scholastic Audio",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 11,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "CATCHING FIRE",
-      "updated_date": "2026-07-01T20:45:34.554Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-10-07T18:51:55.075Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -555,7 +611,7 @@
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/catching-fire-suzanne-collins/1100296850?ean=9780545586177"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545227247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcatching-fire-suzanne-collins%2F1100296850%3Fean%3D9780545227247&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
@@ -569,57 +625,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0545663261?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0192CTMW8?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Suzanne Collins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781338589047.jpg",
+      "author": "J.K. Rowling",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781781102640.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5fdd6b80-4e3e-5fca-8e34-ce59f15d635d",
-      "contributor": "by Suzanne Collins",
+      "book_uri": "nyt://book/228fda6f-b45a-50cf-ba48-e0f8315ef1c7",
+      "contributor": "by J.K. Rowling",
       "contributor_note": "",
-      "created_date": "2026-07-01T20:47:52.07Z",
+      "created_date": "2026-10-07T18:53:54.173Z",
       "dagger": 0,
-      "description": "The third book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 19 minutes unabridged.",
+      "description": "The second book in the Harry Potter series. Read by Jim Dale. 9 hours, 2 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781338589047",
-      "publisher": "Scholastic Audio",
-      "rank": 11,
+      "primary_isbn13": "9781781102640",
+      "publisher": "Pottermore",
+      "rank": 12,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MOCKINGJAY",
-      "updated_date": "2026-07-01T20:47:52.07Z",
-      "weeks_on_list": 5,
+      "title": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+      "updated_date": "2026-10-07T18:53:54.173Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781338589047"
+          "isbn13": "9781781102640"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0545663261?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0192CTMW8?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781338589047?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781781102640?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/mockingjay-suzanne-collins/1100171586?ean=9780545663267"
+          "url": "https://www.barnesandnoble.com/s/HARRY%20POTTER%20AND%20THE%20CHAMBER%20OF%20SECRETS%20by%20J.K.%20Rowling"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DMOCKINGJAY%2520by%2520Suzanne%2520Collins"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520CHAMBER%2520OF%2520SECRETS%2520by%2520J.K.%2520Rowling"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780439023511"
+          "url": "bookshop.org/p/books/harry-potter-and-the-chamber-of-secrets-j-k-rowling/0fe9e69f2c28c624?ean=9780545791328"
         }
       ]
     },
@@ -644,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338635201",
       "publisher": "Scholastic Audio",
-      "rank": 12,
-      "rank_last_week": 0,
+      "rank": 13,
+      "rank_last_week": 12,
       "sunday_review_link": "",
       "title": "THE BALLAD OF SONGBIRDS AND SNAKES",
       "updated_date": "2026-07-02T18:55:44.331Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -681,113 +737,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250294622?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0545663261?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Tomi Adeyemi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781427295507.jpg",
-      "book_image_height": 500,
-      "book_image_width": 350,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f3291307-513e-5382-9599-3a64265a70e5",
-      "contributor": "by Tomi Adeyemi",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:06.912Z",
-      "dagger": 0,
-      "description": "Zélie fights to restore magic to the land of Orïsha. Read by Bahni Turpin. 17 hours, 56 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781427295507",
-      "publisher": "Macmillan Young Listeners",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "CHILDREN OF BLOOD AND BONE",
-      "updated_date": "2026-08-05T17:45:06.912Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781427295507"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250294622?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781427295507?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250170989&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchildren-of-blood-and-bone-tomi-adeyemi%2F1126559534%3Fean%3D9781250170989&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChildren-Blood-Bone%2FTomi-Adeyemi%2F9781250294623"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250170972"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "J.K. Rowling",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781781102633.jpg",
+      "author": "Suzanne Collins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781338589047.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/93daa2f7-8eac-5720-a6c1-e21fcc712633",
-      "contributor": "by J.K. Rowling",
+      "book_uri": "nyt://book/5fdd6b80-4e3e-5fca-8e34-ce59f15d635d",
+      "contributor": "by Suzanne Collins",
       "contributor_note": "",
-      "created_date": "2026-08-05T17:53:09.296Z",
+      "created_date": "2026-10-07T18:54:48.163Z",
       "dagger": 0,
-      "description": "A young wizard discovers his magical heritage. Read by Jim Dale. 8 hours, 18 minutes unabridged.",
+      "description": "The third book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 19 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781781102633",
-      "publisher": "Pottermore",
+      "primary_isbn13": "9781338589047",
+      "publisher": "Scholastic Audio",
       "rank": 14,
-      "rank_last_week": 0,
+      "rank_last_week": 11,
       "sunday_review_link": "",
-      "title": "HARRY POTTER AND THE SORCERER'S STONE",
-      "updated_date": "2026-08-05T17:53:09.296Z",
+      "title": "MOCKINGJAY",
+      "updated_date": "2026-10-07T18:54:48.163Z",
       "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781781102633"
+          "isbn13": "9781338589047"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1338878921?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0545663261?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781781102633?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781338589047?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/harry-potter-and-the-sorcerers-stone-j-k-rowling/1100036321?ean=9781546148500"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780545317801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmockingjay-suzanne-collins%2F1100171586%3Fean%3D9780545317801&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHARRY%2520POTTER%2520AND%2520THE%2520SORCERER'S%2520STONE%2520by%2520J.K.%2520Rowling"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DMOCKINGJAY%2520by%2520Suzanne%2520Collins"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781338878929"
+          "url": "https://bookshop.org/a/3546/9780439023511"
         }
       ]
     },
@@ -804,7 +804,7 @@
       "book_uri": "nyt://book/b90c3b19-74db-5e78-b9b4-c25dca02a7de",
       "contributor": "by Rick Riordan",
       "contributor_note": "",
-      "created_date": "2026-07-02T18:54:48.943Z",
+      "created_date": "2026-10-07T18:55:23.378Z",
       "dagger": 0,
       "description": "To prevent a war, Percy Jackson must find Zeus' stolen master lightning bolt. Read by Jesse Bernstein. 10 hours, 2 minutes unabridged.",
       "first_chapter_link": "",
@@ -813,11 +813,11 @@
       "primary_isbn13": "9780307245328",
       "publisher": "Listening Library",
       "rank": 15,
-      "rank_last_week": 0,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE LIGHTNING THIEF",
-      "updated_date": "2026-07-02T18:54:48.943Z",
-      "weeks_on_list": 3,
+      "updated_date": "2026-10-07T18:55:23.378Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",

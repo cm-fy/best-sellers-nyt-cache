@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/c547d200-a175-5830-ba33-3fc6c9cf45ff",
+  "uri": "nyt://bestsellerslist/c382697e-2bf8-567b-a01e-2bce4297f076",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/030683751X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Carleigh Bodrug",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780306837517.jpg",
+      "book_image_height": 500,
+      "book_image_width": 401,
+      "book_review_link": "",
+      "book_uri": "nyt://book/264887fb-06fe-57bb-adf7-fa873a7739c8",
+      "contributor": "by Carleigh Bodrug",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:40.607Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780306837517",
+      "publisher": "Balance",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PLANTYOU QUICKIES",
+      "updated_date": "2026-10-07T18:18:40.607Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780306837517"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/030683751X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780306837517?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780306837517&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fplantyou-quickies-carleigh-bodrug%2F1149958104%3Fean%3D9780306837517&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPlantYou-Quickies-Nourishing-Plant-Based%2FCarleigh-Bodrug%2F9780306837517"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780306837517"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668032145",
       "publisher": "Simon Element",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "PROTOCOLS",
       "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/166800254X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alexis Nikole Nelson with Jeanelle Hayner Olson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668002544.jpg",
-      "book_image_height": 500,
-      "book_image_width": 402,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a1880107-3f42-5e54-88d6-25bde94565ef",
-      "contributor": "by Alexis Nikole Nelson with Jeanelle Hayner Olson",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.146Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668002544",
-      "publisher": "Simon Element",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "HAPPY SNACKING, DON'T DIE!",
-      "updated_date": "2026-09-30T18:09:30.146Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668002544"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166800254X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668002544?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668002544&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhappy-snacking-dont-die-alexis-nikole-nelson%2F1149542795%3Fean%3D9781668002544&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHappy-Snacking-Dont-Die%2FAlexis-Nikole-Nelson%2F9781668002544"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668002544"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
       "rank": 3,
-      "rank_last_week": 9,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 92,
+      "weeks_on_list": 93,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250371643?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jimmy Chin with Daniel Duane",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250371645.jpg",
+      "book_image_height": 500,
+      "book_image_width": 322,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b75be89d-8f8a-5ad6-becc-39a4098c0d95",
+      "contributor": "by Jimmy Chin with Daniel Duane",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:40.712Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250371645",
+      "publisher": "Celadon",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "RULES TO LIVE BY",
+      "updated_date": "2026-10-07T18:18:40.712Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250371645"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250371643?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250371645?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250371645&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Frules-to-live-by-jimmy-chin%2F1150412003%3Fean%3D9781250371645&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRules-Live-How-Extraordinary-Lives%2FJimmy-Chinn%2F9781250371645"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250371645"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1368117864?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368117869",
       "publisher": "Hyperion Avenue",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE ART OF GRAVITY FALLS",
       "updated_date": "2026-09-23T18:21:02.988Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Will Guidara",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593418574.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bc1ec950-e54a-57a5-a404-c9007374b508",
+      "contributor": "by Will Guidara",
+      "contributor_note": "",
+      "created_date": "2026-08-12T19:01:59.045Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593418574",
+      "publisher": "Optimism",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "UNREASONABLE HOSPITALITY",
+      "updated_date": "2026-08-12T19:01:59.045Z",
+      "weeks_on_list": 51,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593418574"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593418574?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593418574&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funreasonable-hospitality-will-guidara%2F1140825098%3Fean%3D9780593418574&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUNREASONABLE%2BHOSPITALITY%2FWill%2BGuidara%2F9780593418574"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593418574"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 5,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 356,
+      "weeks_on_list": 357,
       "isbns": [
         {
           "isbn10": "",
@@ -289,174 +401,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1426224702?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lee Asher",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781426224706.jpg",
-      "book_image_height": 500,
-      "book_image_width": 390,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6fb34c46-7c2a-5418-a360-143ea9fd810c",
-      "contributor": "by Lee Asher",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.276Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781426224706",
-      "publisher": "National Geographic",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SAVED BY THE PACK",
-      "updated_date": "2026-09-30T18:09:30.276Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781426224706"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1426224702?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781426224706?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781426224706&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsaved-by-the-pack-lee-asher%2F1149199288%3Fean%3D9781426224706&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSaved-Pack%2FLee-Asher%2F9781426224706"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781426224706"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316602515?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Heidi Skolnik",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316602518.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/dec31a34-724c-55ae-96c2-566b2cd072ff",
-      "contributor": "by Heidi Skolnik",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.403Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316602518",
-      "publisher": "Little, Brown Spark",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "YOUR GLP-1 GAME PLAN",
-      "updated_date": "2026-09-30T18:09:30.403Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316602518"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316602515?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316602518?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316602518&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyour-glp-1-game-plan-heidi-skolnik-ms-cdn-facsm%2F1149922733%3Fean%3D9780316602518&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYour-Glp-Game-Plan%2FHeidi-Skolnik%2F9780316602518"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316602518"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593968719?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Shay Spence",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593968710.jpg",
-      "book_image_height": 500,
-      "book_image_width": 404,
-      "book_review_link": "",
-      "book_uri": "nyt://book/76eeb6e7-cb18-5955-8eb5-e3470a883675",
-      "contributor": "by Shay Spence",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:30.539Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593968710",
-      "publisher": "DK",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MEALS YOU CAN'T MESS UP",
-      "updated_date": "2026-09-30T18:09:30.539Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593968710"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593968719?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593968710?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593968710&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmeals-you-cant-mess-up-shay-spence%2F1149302489%3Fean%3D9780593968710&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMeals-Cant-Mess-Up%2FShay-Spence%2F9780593968710"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593968710"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400230723",
       "publisher": "Thomas Nelson",
-      "rank": 9,
-      "rank_last_week": 4,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
       "updated_date": "2026-09-23T18:21:03.24Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -513,57 +457,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1426224389?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0CW1GQLNL?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Neil deGrasse Tyson and Lindsey Nyx Walker",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781426224386.jpg",
+      "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863171.jpg",
       "book_image_height": 500,
-      "book_image_width": 400,
+      "book_image_width": 402,
       "book_review_link": "",
-      "book_uri": "nyt://book/41362b37-8ad7-56a5-9903-f4f2b76e3e08",
-      "contributor": "by Neil deGrasse Tyson and Lindsey Nyx Walker",
+      "book_uri": "nyt://book/cc3ff5c5-e91e-5fb7-87fb-0b7b6b40368c",
+      "contributor": "by Dolly Parton and Rachel Parton George with Maurice Miner",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.351Z",
+      "created_date": "2026-10-07T18:18:40.849Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781426224386",
-      "publisher": "National Geographic",
-      "rank": 10,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781984863171",
+      "publisher": "Ten Speed",
+      "rank": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LOST IN SPACE",
-      "updated_date": "2026-09-23T18:21:03.351Z",
-      "weeks_on_list": 2,
+      "title": "GOOD LOOKIN' COOKIN'",
+      "updated_date": "2026-10-07T18:18:40.849Z",
+      "weeks_on_list": 16,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781426224386"
+          "isbn13": "9781984863171"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1426224389?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0CW1GQLNL?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781426224386?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781984863171?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781426224386&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flost-in-space-neil-degrasse-tyson%2F1148854225%3Fean%3D9781426224386&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863171&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgood-lookin-cookin-dolly-parton%2F1144953293%3Fean%3D9781984863171&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLost-Space%2FNeil-Degrasse-Tyson%2F9781426224386"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGood-Lookin-Cookin%2FDolly-Parton%2F9781984863164"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781426224386"
+          "url": "https://bookshop.org/a/3546/9781984863171"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Chris Voss with Tahl Raz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062407801.jpg",
+      "book_image_height": 500,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/7c5d04ae-b121-5d4d-9909-0dedab06872e",
+      "contributor": "by Chris Voss with Tahl Raz",
+      "contributor_note": "",
+      "created_date": "2026-03-04T23:40:20.383Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062407801",
+      "publisher": "Harper Business",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NEVER SPLIT THE DIFFERENCE",
+      "updated_date": "2026-03-04T23:40:20.383Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062407801"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062407801?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062407801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-split-the-difference-chris-voss%2F1122714695%3Fean%3D9780062407801&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Split-Difference%2FChris-Voss%2F9780062407801"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062407801"
         }
       ]
     }

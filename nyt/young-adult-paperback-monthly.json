@@ -5,64 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 10016,
-  "uri": "nyt://bestsellerslist/6e7a5086-67e8-5612-bb34-f145e2b32283",
+  "uri": "nyt://bestsellerslist/e0aded71-e953-509c-84b5-c90a2293daa0",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781534467637.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1bf449fc-40e6-556e-8e7a-f4dc8ea61c3a",
-      "contributor": "by Lynn Painter",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:09.053Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781534467637",
-      "publisher": "Simon & Schuster",
-      "rank": 1,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "BETTER THAN THE MOVIES",
-      "updated_date": "2026-03-04T23:40:09.053Z",
-      "weeks_on_list": 46,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781534467637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665990301?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781534467637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetter-than-the-movies-lynn-painter%2F1137941902%3Fean%3D9781534467637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBetter-Than-Movies-Collectors%2FLynn-Painter%2F9781665990301"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665990301"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0G5ZDLMRN?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347119615",
       "publisher": "Simon & Schuster",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "21 DAYS OF FEAR",
       "updated_date": "2026-09-02T18:40:13.419Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +65,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665975199?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Misty Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347121151.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b23583fc-cfb6-52c1-9ab6-16ca6f0bedd3",
+      "contributor": "by Misty Wilson",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:25:21.679Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347121151",
+      "publisher": "Margaret K. McElderry",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FALLING LIKE LEAVES",
+      "updated_date": "2026-10-07T18:25:21.679Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347121151"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665975199?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665975193?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347121151&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffalling-like-leaves-misty-wilson%2F1146889511%3Fean%3D9798347121151&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalling-Like-Leaves%2FMisty-Wilson%2F9781665975193"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665975193"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665921277?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921275.jpg",
+      "book_image_height": 500,
+      "book_image_width": 336,
+      "book_review_link": "",
+      "book_uri": "nyt://book/294ff52a-4b65-5e22-9ed2-44273e0ad721",
+      "contributor": "by Lynn Painter",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:39.64Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665921275",
+      "publisher": "Simon & Schuster",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FAKE SKATING",
+      "updated_date": "2026-10-07T18:18:39.64Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665921275"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665921277?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665921275?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921275&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffake-skating-lynn-painter%2F1146890400%3Fean%3D9781665921275&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFake-Skating%2FLynn-Painter%2F9781665921275"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665921275"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GXWBGXVR?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Don Martin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798890036551.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0c35c8e7-756f-57b8-8b73-a161521ea2a1",
+      "contributor": "by Don Martin",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:39.78Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798890036551",
+      "publisher": "Page Street",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "VERITY VOX AND THE CURSE OF FOXFIRE",
+      "updated_date": "2026-10-07T18:18:39.78Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798890036551"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GXWBGXVR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798890036551?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798890036551&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-vox-and-the-curse-of-foxfire-don-martin%2F1146128413%3Fean%3D9798890036551&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity-Vox-Curse-Foxfire%2FDon-Martin%2F9798890036551"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798890036551"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1728205484?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728205489",
       "publisher": "Sourcebooks Fire",
-      "rank": 3,
+      "rank": 5,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "IF HE HAD BEEN WITH ME",
       "updated_date": "2026-07-01T17:54:36.2Z",
-      "weeks_on_list": 45,
+      "weeks_on_list": 46,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +289,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/031658455X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jordan Stephanie Gray",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316584555.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781534467637.jpg",
+      "book_image_height": 0,
+      "book_image_width": 0,
       "book_review_link": "",
-      "book_uri": "nyt://book/3d6ff0a5-94ca-5a50-a103-bbcafcc27d6c",
-      "contributor": "by Jordan Stephanie Gray",
+      "book_uri": "nyt://book/1bf449fc-40e6-556e-8e7a-f4dc8ea61c3a",
+      "contributor": "by Lynn Painter",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:13.563Z",
+      "created_date": "2026-03-04T23:40:09.053Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316584555",
-      "publisher": "Little, Brown",
-      "rank": 4,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781534467637",
+      "publisher": "Simon & Schuster",
+      "rank": 6,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "BITTEN",
-      "updated_date": "2026-09-02T18:40:13.563Z",
-      "weeks_on_list": 1,
+      "title": "BETTER THAN THE MOVIES",
+      "updated_date": "2026-03-04T23:40:09.053Z",
+      "weeks_on_list": 47,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316584555"
+          "isbn13": "9781534467637"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/031658455X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1665990309?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316584555?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781665990301?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316584555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbitten-jordan-stephanie-gray%2F1146511118%3Fean%3D9780316584555&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781534467637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetter-than-the-movies-lynn-painter%2F1137941902%3Fean%3D9781534467637&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBitten%2FJordan-Stephanie-Gray%2F9780316584555"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBetter-Than-Movies-Collectors%2FLynn-Painter%2F9781665990301"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316584555"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Markus Zusak",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375842207.jpg",
-      "book_image_height": 495,
-      "book_image_width": 321,
-      "book_review_link": "https://www.nytimes.com/2006/03/27/books/27masl.html",
-      "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
-      "contributor": "by Markus Zusak",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:13.713Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375842207",
-      "publisher": "Knopf",
-      "rank": 5,
-      "rank_last_week": 4,
-      "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
-      "title": "THE BOOK THIEF",
-      "updated_date": "2026-09-02T18:40:13.713Z",
-      "weeks_on_list": 64,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375842207"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375842207?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375842207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-thief-markus-zusak%2F1100189892%3Fean%3D9780375842207&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BTHIEF%2FMarkus%2BZusak%2F9780375842207"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375842207"
+          "url": "https://bookshop.org/a/3546/9781665990301"
         }
       ]
     },
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781481438261",
       "publisher": "Atheneum/Caitlyn Dlouhy",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "LONG WAY DOWN",
       "updated_date": "2026-09-02T18:40:13.871Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781101934746",
       "publisher": "Ember",
-      "rank": 7,
-      "rank_last_week": 5,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "GIRL IN PIECES",
       "updated_date": "2026-03-04T23:40:09.335Z",
-      "weeks_on_list": 57,
+      "weeks_on_list": 58,
       "isbns": [
         {
           "isbn10": "",
@@ -401,62 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1665947144?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665947145.jpg",
-      "book_image_height": 500,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ab0ac75e-ea60-5116-9d4f-afca94940f73",
-      "contributor": "by Lynn Painter",
-      "contributor_note": "",
-      "created_date": "2026-04-01T17:34:15.277Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665947145",
-      "publisher": "Simon & Schuster",
-      "rank": 8,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "NOTHING LIKE THE MOVIES",
-      "updated_date": "2026-04-01T17:34:15.277Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665947145"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665947144?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665947145?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665947145&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnothing-like-the-movies-lynn-painter%2F1144786603%3Fean%3D9781665947145&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNOTHING%2BLIKE%2BTHE%2BMOVIES%2FLynn%2BPainter%2F9781665947145"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665947145"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -477,11 +477,11 @@
       "primary_isbn13": "9781728276229",
       "publisher": "Sourcebooks Fire",
       "rank": 9,
-      "rank_last_week": 7,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "IF ONLY I HAD TOLD HER",
       "updated_date": "2026-03-04T23:40:09.204Z",
-      "weeks_on_list": 31,
+      "weeks_on_list": 32,
       "isbns": [
         {
           "isbn10": "",
@@ -513,57 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1665921234?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lynn Painter",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665921244.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/43dae99a-6314-5578-85e4-92067d1a605d",
-      "contributor": "by Lynn Painter",
+      "author": "Markus Zusak",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375842207.jpg",
+      "book_image_height": 495,
+      "book_image_width": 321,
+      "book_review_link": "https://www.nytimes.com/2006/03/27/books/27masl.html",
+      "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
+      "contributor": "by Markus Zusak",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.014Z",
+      "created_date": "2026-10-07T18:18:39.908Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665921244",
-      "publisher": "Simon & Schuster",
+      "primary_isbn13": "9780375842207",
+      "publisher": "Knopf",
       "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BETTING ON YOU",
-      "updated_date": "2026-09-02T18:40:14.014Z",
-      "weeks_on_list": 10,
+      "rank_last_week": 5,
+      "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
+      "title": "THE BOOK THIEF",
+      "updated_date": "2026-10-07T18:18:39.908Z",
+      "weeks_on_list": 65,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665921244"
+          "isbn13": "9780375842207"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665921234?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665921244?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780375842207?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665921244&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbetting-on-you-lynn-painter%2F1143029869%3Fean%3D9781665921244&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375842207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-thief-markus-zusak%2F1100189892%3Fean%3D9780375842207&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBETTING%2BON%2BYOU%2FLynn%2BPainter%2F9781665921244"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BTHIEF%2FMarkus%2BZusak%2F9780375842207"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665921244"
+          "url": "https://bookshop.org/a/3546/9780375842207"
         }
       ]
     }

@@ -5,61 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/02e2ce7f-fcaf-52a1-bf3a-0bf006cf324b",
+  "uri": "nyt://bestsellerslist/5c69ab01-b672-5ddc-801c-92a16c1debb1",
   "books": [
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593616979?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPNMBRHV?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sabaa Tahir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593616970.jpg",
+      "author": "Lynn Painter",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347100217.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3099fd89-c1e8-5357-99a3-d6cfea86f4b5",
-      "contributor": "by Sabaa Tahir",
+      "book_uri": "nyt://book/1ebf0f35-08bc-59cd-a97b-3728cb21f80d",
+      "contributor": "by Lynn Painter",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:29.508Z",
+      "created_date": "2026-10-07T18:18:38.47Z",
       "dagger": 0,
-      "description": "In the conclusion to the \"Heir\" duology, a fractured empire faces a grim reckoning. (Ages 14 and up)",
+      "description": "As a condition of a surprise inheritance, a small-town Nebraskan girl and her family move to New York City. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593616970",
-      "publisher": "Putnam",
+      "primary_isbn13": "9798347100217",
+      "publisher": "Simon & Schuster",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "EMPIRE",
-      "updated_date": "2026-09-30T18:09:29.508Z",
+      "title": "TRUST FALL",
+      "updated_date": "2026-10-07T18:18:38.47Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593616970"
+          "isbn13": "9798347100217"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593616979?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GPNMBRHV?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593616970?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798347100217?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593616970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fempire-sabaa-tahir%2F1149667471%3Fean%3D9780593616970&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347100217&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftrust-fall-lynn-painter%2F1149669107%3Fean%3D9798347100217&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEmpire%2FSabaa-Tahir%2F9780593616970"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTrust-Fall%2FLynn-Painter%2F9798347100217"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593616970"
+          "url": "https://bookshop.org/a/3546/9798347100217"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "BARBIE: DREAMSCAPE",
       "updated_date": "2026-08-26T17:40:57.362Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -120,6 +120,62 @@
       ]
     },
     {
+      "age_group": "Ages 16 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250404754?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Tomi Adeyemi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250404756.jpg",
+      "book_image_height": 500,
+      "book_image_width": 350,
+      "book_review_link": "",
+      "book_uri": "nyt://book/93427c89-b9f4-5e3b-b65f-896db385be05",
+      "contributor": "by Tomi Adeyemi",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:38.627Z",
+      "dagger": 0,
+      "description": "Emery Coleman attends Dartmouth on a scholarship and joins a cultlike group known as the Sirens. (Ages 16 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250404756",
+      "publisher": "Holt",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE SIREN",
+      "updated_date": "2026-10-07T18:18:38.627Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250404756"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250404754?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250404756?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250404756&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-siren-tomi-adeyemi%2F1149371432%3Fean%3D9781250404756&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSiren%2FTomi-Adeyemi%2F9781250404756"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250404756"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217124183",
       "publisher": "Delacorte",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "OUR STRANGE DUET",
       "updated_date": "2026-09-09T18:10:32.228Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780736447362",
       "publisher": "Random House/Disney",
-      "rank": 4,
-      "rank_last_week": 6,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-09-16T18:02:43.834Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -232,6 +288,118 @@
       ]
     },
     {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593616979?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sabaa Tahir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593616970.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3099fd89-c1e8-5357-99a3-d6cfea86f4b5",
+      "contributor": "by Sabaa Tahir",
+      "contributor_note": "",
+      "created_date": "2026-09-30T18:09:29.508Z",
+      "dagger": 0,
+      "description": "In the conclusion to the \"Heir\" duology, a fractured empire faces a grim reckoning. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593616970",
+      "publisher": "Putnam",
+      "rank": 6,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "EMPIRE",
+      "updated_date": "2026-09-30T18:09:29.508Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593616970"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593616979?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593616970?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593616970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fempire-sabaa-tahir%2F1149667471%3Fean%3D9780593616970&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEmpire%2FSabaa-Tahir%2F9780593616970"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593616970"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Misty Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347116430.jpg",
+      "book_image_height": 500,
+      "book_image_width": 344,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0919a11a-0b5e-5ba7-a763-ea9e56f13405",
+      "contributor": "by Misty Wilson",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:38.754Z",
+      "dagger": 0,
+      "description": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798347116430",
+      "publisher": "Margaret K. McElderry",
+      "rank": 7,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "FALLING LIKE LEAVES",
+      "updated_date": "2026-10-07T18:18:38.754Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798347116430"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798347116430?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347116430&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffalling-like-leaves-misty-wilson%2F1146889511%3Fean%3D9798347116430&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalling-Like-Leaves-Collectors%2FMisty-Wilson%2F9798347116430"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798347116430"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 14 to 18",
       "amazon_product_url": "https://www.amazon.com/dp/0316581852?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -252,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316581851",
       "publisher": "Little, Brown",
-      "rank": 5,
-      "rank_last_week": 1,
+      "rank": 8,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "STYX",
       "updated_date": "2026-09-23T18:21:01.732Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -289,281 +457,113 @@
     },
     {
       "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJ41NJBK?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Misty Wilson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798347116430.jpg",
-      "book_image_height": 500,
-      "book_image_width": 344,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0919a11a-0b5e-5ba7-a763-ea9e56f13405",
-      "contributor": "by Misty Wilson",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:29.641Z",
-      "dagger": 0,
-      "description": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798347116430",
-      "publisher": "Margaret K. McElderry",
-      "rank": 6,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "FALLING LIKE LEAVES",
-      "updated_date": "2026-09-30T18:09:29.641Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798347116430"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GPN6Q2VM?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798347116430?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347116430&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffalling-like-leaves-misty-wilson%2F1146889511%3Fean%3D9798347116430&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalling-Like-Leaves-Collectors%2FMisty-Wilson%2F9798347116430"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798347116430"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0062882791?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elizabeth Acevedo",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062882790.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/189e082d-1c82-572f-a7a3-c7155da0cb87",
-      "contributor": "by Elizabeth Acevedo",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:02.012Z",
-      "dagger": 0,
-      "description": "A teenage girl risks violating her probation to help her older brother. (Ages 14 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062882790",
-      "publisher": "Quill Tree",
-      "rank": 7,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "ANGER IS ONLY A SHADOW",
-      "updated_date": "2026-09-23T18:21:02.012Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062882790"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062882791?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062882790?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062882790&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fanger-is-only-a-shadow-elizabeth-acevedo%2F1149008748%3Fean%3D9780062882790&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAnger-Only-Shadow%2FElizabeth-Acevedo%2F9780062882790"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062882790"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "I.V. Marie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593898840.jpg",
+      "author": "Lydia Gregovic",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217120680.jpg",
       "book_image_height": 500,
       "book_image_width": 317,
       "book_review_link": "",
-      "book_uri": "nyt://book/c1d22716-4660-5f0b-9bbd-267597b919cb",
-      "contributor": "by I.V. Marie",
+      "book_uri": "nyt://book/2299c6ac-c828-53b3-a78e-17f18bd854d9",
+      "contributor": "by Lydia Gregovic",
       "contributor_note": "",
-      "created_date": "2026-07-22T17:04:40.634Z",
+      "created_date": "2026-10-07T18:18:38.894Z",
       "dagger": 0,
-      "description": "Even though the Decennial is over, the fate of Blackwood Academy rests in the hands of six former students. (Ages 14 and up)",
+      "description": "In this sequel to “The Weaver Bride,” even though Lovett has won the Vainglory, there’s still one more hurdle to face. (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593898840",
+      "primary_isbn13": "9798217120680",
       "publisher": "Delacorte",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "RUINOUS ENDS",
-      "updated_date": "2026-07-22T17:04:40.634Z",
-      "weeks_on_list": 11,
+      "title": "THE FALSE VOW",
+      "updated_date": "2026-10-07T18:18:38.894Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593898840"
+          "isbn13": "9798217120680"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593898842?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GJ41NJBK?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593898840?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217120680?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593898840&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fruinous-ends-i-v-marie%2F1150553730%3Fean%3D9780593898840&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217120680&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-false-vow-lydia-gregovic%2F1149267547%3Fean%3D9798217120680&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRuinous-Ends%2FI-V-Marie%2F9780593898840"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalse-Vow%2FLydia-Gregovic%2F9798217120680"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593898840"
+          "url": "https://bookshop.org/a/3546/9798217120680"
         }
       ]
     },
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0063462273?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593620410?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ava Reid",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063462274.jpg",
+      "author": "Isabel Cañas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593620410.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 330,
       "book_review_link": "",
-      "book_uri": "nyt://book/8a4c4bad-29c5-5b64-862f-2b585cd52344",
-      "contributor": "by Ava Reid",
+      "book_uri": "nyt://book/ab8d55c6-5eee-58be-a69d-5b2fbb851a78",
+      "contributor": "by Isabel Cañas",
       "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.885Z",
+      "created_date": "2026-10-07T18:18:39.033Z",
       "dagger": 0,
-      "description": "Four teenagers with unique skill sets are recruited by the C.I.A. for a dangerous secret mission. (Ages 14 and up)",
+      "description": "Sixteen-year-old Minerva takes a job as a maid in a manor house that is full of secrets. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063462274",
-      "publisher": "HarperCollins",
-      "rank": 9,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "WINTERVEIL",
-      "updated_date": "2026-09-23T18:21:01.885Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063462274"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063462273?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063462274?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063462274&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwinterveil-ava-reid%2F1148853439%3Fean%3D9780063462274&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWinterveil-Deluxe%2FAva-Reid%2F9780063462274"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063462274"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brandon Sanderson and Janci Patterson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217446353.jpg",
-      "book_image_height": 500,
-      "book_image_width": 311,
-      "book_review_link": "",
-      "book_uri": "nyt://book/baf17b4d-b576-5a0d-8c2e-cde99affd05a",
-      "contributor": "by Brandon Sanderson and Janci Patterson",
-      "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.123Z",
-      "dagger": 0,
-      "description": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217446353",
-      "publisher": "Delacorte",
+      "primary_isbn13": "9780593620410",
+      "publisher": "Dutton",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BLIGHTFALL",
-      "updated_date": "2026-09-16T18:02:44.123Z",
-      "weeks_on_list": 4,
+      "title": "THE HOUSE OF GARDENIAS",
+      "updated_date": "2026-10-07T18:18:39.033Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217446353"
+          "isbn13": "9780593620410"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593707052?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593620410?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593707050?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593620410?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217446353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblightfall-brandon-sanderson%2F1149611648%3Fean%3D9798217446353&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593620410&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-house-of-gardenias-isabel-canas%2F1149062222%3Fean%3D9780593620410&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlightfall%2FBrandon-Sanderson%2F9780593707050"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHouse-Gardenias%2FIsabel-Caas%2F9780593620410"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217446353"
+          "url": "https://bookshop.org/a/3546/9780593620410"
         }
       ]
     }
