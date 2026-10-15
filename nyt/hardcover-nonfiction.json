@@ -5,8 +5,120 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 2,
-  "uri": "nyt://bestsellerslist/16f33311-1ae2-55b1-ab55-6db179570bdf",
+  "uri": "nyt://bestsellerslist/931c245d-cc88-5306-9542-7c0a80fe7bbd",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Michael Douglas with Shane Salerno and Michael Fleming Jr",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538782224.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f009c812-9008-5dfb-8f90-24734b752a5a",
+      "contributor": "by Michael Douglas with Shane Salerno and Michael Fleming Jr",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:58.876Z",
+      "dagger": 0,
+      "description": "The Hollywood icon shares stories about his career and relationships.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538782224",
+      "publisher": "Grand Central",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ONE HELLUVA RIDE",
+      "updated_date": "2026-10-14T17:13:58.876Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538782224"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538782224?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538782224&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-helluva-ride-michael-douglas%2F1150521542%3Fean%3D9781538782224&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOne-Helluva-Ride%2FMichael-Douglas%2F9781538782224"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538782224"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324131659?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Michael Lewis",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324131656.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "https://www.nytimes.com/2026/10/05/books/review/blockers-michael-lewis.html",
+      "book_uri": "nyt://book/7726beec-f187-5ebc-8cf9-cf5a50a3fb22",
+      "contributor": "by Michael Lewis",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.02Z",
+      "dagger": 0,
+      "description": "The author of “The Fifth Risk” tells the story of President Trump’s Department of Government Efficiency through the lens of six public servants.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324131656",
+      "publisher": "Norton",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BLOCKERS",
+      "updated_date": "2026-10-14T17:13:59.02Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324131656"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324131659?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324131656?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324131656&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblockers-michael-lewis%2F1150303688%3Fean%3D9781324131656&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlockers-Rebels-Deep-State%2FMichael-Lewis%2F9781324131656"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324131656"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063443910?tag=thenewyorktim-20",
@@ -28,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063443914",
       "publisher": "Morrow",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE STEPS",
       "updated_date": "2026-10-07T18:18:45.124Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0306838028?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Cooper with Daniel Richler",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780306838026.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3cc82c6c-cfe9-5b35-8d8a-085afabb0c19",
+      "contributor": "by Alice Cooper with Daniel Richler",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.151Z",
+      "dagger": 0,
+      "description": "The Rock and Roll Hall of Fame inductee describes his struggles to overcome his demons.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780306838026",
+      "publisher": "Da Capo",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DEVIL ON MY SHOULDER",
+      "updated_date": "2026-10-14T17:13:59.151Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780306838026"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0306838028?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780306838026?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780306838026&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdevil-on-my-shoulder-alice-cooper%2F1149579632%3Fean%3D9780306838026&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDevil-My-Shoulder%2FAlice-Cooper%2F9780306838026"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780306838026"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217379743",
       "publisher": "Penguin Press",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 5,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "SWAN SONG",
       "updated_date": "2026-09-30T18:09:31.679Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316603782",
       "publisher": "Little, Brown",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE AMERICAN WAY OF KILLING",
       "updated_date": "2026-10-07T18:18:45.249Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +345,342 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0525562230?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Nathaniel Philbrick",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525562238.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/10/04/books/review/the-rush-nathaniel-philbrick.html",
+      "book_uri": "nyt://book/e39a051e-30ba-5d5a-890b-4e8e919389ff",
+      "contributor": "by Nathaniel Philbrick",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.304Z",
+      "dagger": 0,
+      "description": "The author of “Travels With George” looks at how America’s modern contradictions were born out of California’s Gold Rush.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780525562238",
+      "publisher": "Viking",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE RUSH",
+      "updated_date": "2026-10-14T17:13:59.304Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780525562238"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0525562230?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780525562238?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525562238&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-rush-nathaniel-philbrick%2F1149136766%3Fean%3D9780525562238&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRush%2FNathaniel-Philbrick%2F9780525562238"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780525562238"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1541608259?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Samuel A. Alito Jr",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781541608252.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/582879ef-a67e-57dd-9a8c-066f1ea06c75",
+      "contributor": "by Samuel A. Alito Jr",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:22:41.409Z",
+      "dagger": 0,
+      "description": "An associate justice of the United States Supreme Court defines his approach to the Constitution and describes what he considers threats to our liberties.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781541608252",
+      "publisher": "Basic Liberty",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SO ORDERED",
+      "updated_date": "2026-10-14T17:22:41.409Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781541608252"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1541608259?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781541608269?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541608252&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fso-ordered-samuel-a-alito-jr%2F1148669219%3Fean%3D9781541608252&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSo-Ordered%2FSamuel-A-Alito-Jr%2F9781541608252"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781541608252"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1335003436?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jennifer Welch",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781335003430.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/99dbeeae-f559-594b-8c44-a07ee7d6de08",
+      "contributor": "by Jennifer Welch",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.59Z",
+      "dagger": 0,
+      "description": "A co-host of the “I’ve Had It” podcast describes what she sees as a rise of theocracy and fascism in America.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781335003430",
+      "publisher": "Hanover Square",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NOT TODAY, FASCISTS",
+      "updated_date": "2026-10-14T17:13:59.59Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781335003430"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1335003436?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781335003430?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781335003430&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnot-today-fascists-jennifer-welch%2F1149403121%3Fean%3D9781335003430&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNot-Today-Fascists%2FJennifer-Welch%2F9781335003430"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781335003430"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593655273?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "David Byrne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593655276.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "https://www.nytimes.com/2026/10/07/books/review/sleeping-beauties-david-byrne.html",
+      "book_uri": "nyt://book/60819f66-c742-5bf6-9519-c1bd7def0f26",
+      "contributor": "by David Byrne",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.874Z",
+      "dagger": 0,
+      "description": "The co-founder of Talking Heads and multidisciplinary artist shares insights on how innovations get reawakened.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593655276",
+      "publisher": "Penguin Press",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SLEEPING BEAUTIES",
+      "updated_date": "2026-10-14T17:13:59.874Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593655276"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593655273?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593655276?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593655276&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsleeping-beauties-david-byrne%2F1149916072%3Fean%3D9780593655276&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSleeping-Beauties%2FDavid-Byrne%2F9780593655276"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593655276"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Annie Jacobsen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
+      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
+      "contributor": "by Annie Jacobsen",
+      "contributor_note": "",
+      "created_date": "2026-08-05T17:45:08.295Z",
+      "dagger": 0,
+      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217046034",
+      "publisher": "Dutton",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIOLOGICAL WAR",
+      "updated_date": "2026-08-05T17:45:08.295Z",
+      "weeks_on_list": 7,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217046034"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217046034"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0374618755?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kevin Roose",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374618759.jpg",
+      "book_image_height": 500,
+      "book_image_width": 326,
+      "book_review_link": "https://www.nytimes.com/2026/10/06/books/review/the-agi-chronicles-kevin-roose.html",
+      "book_uri": "nyt://book/0e4b01ba-20bb-54f2-8acb-024ac918da25",
+      "contributor": "by Kevin Roose",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:59.738Z",
+      "dagger": 1,
+      "description": "A co-host of the “Machine Gods” podcast describes the race to create artificial general intelligence.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780374618759",
+      "publisher": "Farrar, Straus & Giroux",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE AGI CHRONICLES",
+      "updated_date": "2026-10-14T17:13:59.738Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780374618759"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0374618755?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780374618759?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374618759&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-agi-chronicles-kevin-roose%2F1149551313%3Fean%3D9780374618759&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAgi-Chronicles%2FKevin-Roose%2F9780374618759"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780374618759"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593731778?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +700,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593731772",
       "publisher": "Random House",
-      "rank": 4,
-      "rank_last_week": 0,
+      "rank": 13,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "WHAT COULD POSSIBLY GO RIGHT?",
       "updated_date": "2026-10-07T18:18:45.556Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -233,617 +737,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GFD34191?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GFD7DVT7?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kyle MacLachlan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217086320.jpg",
+      "author": "George Harrison",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217154852.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 379,
       "book_review_link": "",
-      "book_uri": "nyt://book/3885b861-b843-5c44-9af4-4ba78bb38790",
-      "contributor": "by Kyle MacLachlan",
+      "book_uri": "nyt://book/b3e539fb-4afb-597d-a5dd-4d9372182231",
+      "contributor": "by George Harrison",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:45.827Z",
+      "created_date": "2026-10-14T17:13:54.887Z",
       "dagger": 0,
-      "description": "The Golden Globe-winning actor gives an account of his career in Hollywood and his relationships with his characters.",
+      "description": "A collection of over 200 images made by the Beatles guitarist, who died in 2001, showing moments from his life and the band's rise.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217086320",
-      "publisher": "Crown",
-      "rank": 5,
+      "primary_isbn13": "9798217154852",
+      "publisher": "Random House",
+      "rank": 14,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FICTIONAL SELVES",
-      "updated_date": "2026-10-07T18:18:45.827Z",
+      "title": "THE THIRD EYE",
+      "updated_date": "2026-10-14T17:13:54.887Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217086320"
+          "isbn13": "9798217154852"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GFD34191?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GFD7DVT7?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217086320?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217154852?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217086320&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffictional-selves-kyle-maclachlan%2F1149520781%3Fean%3D9798217086320&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217154852&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-third-eye-george-harrison%2F1149573643%3Fean%3D9798217154852&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFictional-Selves%2FKyle-MacLachlan%2F9798217086320"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThird-Eye%2FGeorge-Harrison%2F9798217154852"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217086320"
+          "url": "https://bookshop.org/a/3546/9798217154852"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593805054?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1982177330?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Simon Sebag Montefiore",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593805053.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "Christian Craighead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781982177331.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5bac17b4-b213-5761-ad3e-784a952ccd1f",
-      "contributor": "by Simon Sebag Montefiore",
+      "book_uri": "nyt://book/804c6e21-8b70-579f-849f-b5dd99870ba3",
+      "contributor": "by Christian Craighead",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:45.427Z",
+      "created_date": "2026-09-30T18:32:39.927Z",
       "dagger": 0,
-      "description": "The author of “The World” explores the complex history, diversity and interconnectedness of the Middle East.",
+      "description": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593805053",
-      "publisher": "Knopf",
-      "rank": 6,
+      "primary_isbn13": "9781982177331",
+      "publisher": "Threshold Editions",
+      "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE CAULDRON",
-      "updated_date": "2026-10-07T18:18:45.427Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593805053"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593805054?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593805053?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593805053&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-cauldron-simon-sebag-montefiore%2F1148401795%3Fean%3D9780593805053&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCauldron%2FSimon-Sebag-Montefiore%2F9780593805053"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593805053"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GQLDV1Z8?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Evan Gershkovich",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217087266.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/09/29/books/review/this-cursed-beautiful-land-evan-gershkovich.html",
-      "book_uri": "nyt://book/3570a222-115d-50be-9b9d-978425c07631",
-      "contributor": "by Evan Gershkovich",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:45.687Z",
-      "dagger": 0,
-      "description": "A foreign correspondent for The Wall Street Journal and son of Soviet defectors recounts being accused of spying and imprisoned in Moscow.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217087266",
-      "publisher": "Crown",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THIS CURSED BEAUTIFUL LAND",
-      "updated_date": "2026-10-07T18:18:45.687Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217087266"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GQLDV1Z8?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217087266?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217087266&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-cursed-beautiful-land-evan-gershkovich%2F1149579610%3Fean%3D9798217087266&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Cursed-Beautiful-Land%2FEvan-Gershkovich%2F9798217087266"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217087266"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593734483?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Devon Rodriguez",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593734483.jpg",
-      "book_image_height": 500,
-      "book_image_width": 316,
-      "book_review_link": "",
-      "book_uri": "nyt://book/697368f2-2441-515f-a915-9a6169fea42a",
-      "contributor": "by Devon Rodriguez",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:46.012Z",
-      "dagger": 0,
-      "description": "The Bronx-born portrait artist with a large social media following describes how art transformed his life.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593734483",
-      "publisher": "One World",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WORK IN PROGRESS",
-      "updated_date": "2026-10-07T18:18:46.012Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593734483"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593734483?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593734483?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593734483&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwork-in-progress-devon-rodriguez%2F1148793584%3Fean%3D9780593734483&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWork-Progress%2FDevon-Rodriguez%2F9780593734483"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593734483"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ari Emanuel",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
-      "book_uri": "nyt://book/6f8497cf-f6ee-51aa-9c49-627202468227",
-      "contributor": "by Ari Emanuel",
-      "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.804Z",
-      "dagger": 0,
-      "description": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217209347",
-      "publisher": "Knopf",
-      "rank": 9,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "ROLL THE CALLS",
-      "updated_date": "2026-09-30T18:09:31.804Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217209347"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217209347?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217209347&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Froll-the-calls-ari-emanuel%2F1149326459%3Fean%3D9798217209347&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRoll-Calls%2FAri-Emanuel%2F9798217209347"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217209347"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538777878?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Colin Kaepernick with Nick Chiles",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538777879.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e7520ae7-9df3-523c-9372-619ac51c2ae2",
-      "contributor": "by Colin Kaepernick with Nick Chiles",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:05.149Z",
-      "dagger": 0,
-      "description": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781538777879",
-      "publisher": "Legacy Lit",
-      "rank": 10,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE PERILOUS FIGHT",
-      "updated_date": "2026-09-23T18:21:05.149Z",
+      "title": "ONE MAN IN",
+      "updated_date": "2026-09-30T18:32:39.927Z",
       "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781538777879"
+          "isbn13": "9781982177331"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538777878?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1982177330?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538777879?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538777879&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-perilous-fight-colin-kaepernick%2F1149594899%3Fean%3D9781538777879&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPerilous-Fight%2FColin-Kaepernick%2F9781538777879"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538777879"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593802012?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Anand Giridharadas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593802014.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/09/27/books/review/man-in-the-mirror-anand-giridharadas.html",
-      "book_uri": "nyt://book/44b312ab-37e7-5295-b501-da5aaed9d439",
-      "contributor": "by Anand Giridharadas",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:46.251Z",
-      "dagger": 0,
-      "description": "The author of “The Persuaders” depicts the people and events connected to the deadly encounter between a homeless man and an ex-Marine in a New York City subway car.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593802014",
-      "publisher": "Knopf ",
-      "rank": 11,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MAN IN THE MIRROR",
-      "updated_date": "2026-10-07T18:18:46.251Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593802014"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593802012?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593802014?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593802014&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fman-in-the-mirror-anand-giridharadas%2F1149434685%3Fean%3D9780593802014&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMan-Mirror%2FAnand-Giridharadas%2F9780593802014"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593802014"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400258375?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Harry Connick Jr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400258376.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/65c1b22b-4efd-5c8c-b0dc-a231b731875a",
-      "contributor": "by Harry Connick Jr",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:35.386Z",
-      "dagger": 0,
-      "description": "The award-winning musician and actor pays tribute to his mother who passed away when he was 13 years old.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781400258376",
-      "publisher": "Harper Celebrate",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BABE: ELABORATIO",
-      "updated_date": "2026-10-07T18:18:35.386Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781400258376"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400258375?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400258376?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400258376&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbabe-harry-connick-jr%2F1151488628%3Fean%3D9781400258376&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBabe%2FHarry-Connick-Jr%2F9781400258376"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400258376"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593719182?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Robin Wigglesworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593719183.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0a88dcea-98b4-592c-8777-4cd7f1087358",
-      "contributor": "by Robin Wigglesworth",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:46.112Z",
-      "dagger": 0,
-      "description": "A journalist for The Financial Times gives an overview of the history of the bond market and explains its influence.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593719183",
-      "publisher": "Portfolio",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "A FABULOUS DEBT",
-      "updated_date": "2026-10-07T18:18:46.112Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593719183"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593719182?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593719183?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593719183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-fabulous-debt-robin-wigglesworth%2F1148834409%3Fean%3D9780593719183&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFabulous-Debt%2FRobin-Wigglesworth%2F9780593719183"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593719183"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Maggie Haberman and Jonathan Swan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5dd87b27-9d9d-5130-a307-8c86ece9528e",
-      "contributor": "by Maggie Haberman and Jonathan Swan",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:23:03.213Z",
-      "dagger": 0,
-      "description": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668067246",
-      "publisher": "Simon & Schuster",
-      "rank": 14,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "REGIME CHANGE",
-      "updated_date": "2026-07-08T17:23:03.213Z",
-      "weeks_on_list": 15,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668067246"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668067242?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668067246?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781982177355?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668067246&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fregime-change-maggie-haberman%2F1149840903%3Fean%3D9781668067246&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781982177331&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-man-in-christian-craighead%2F1149542791%3Fean%3D9781982177331&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRegime-Change%2FMaggie-Haberman%2F9781668067246"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUntitled-OMI-Be-Confirmed%2FTBD%2F9781982177331"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668067246"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250462002?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mahmoud Khalil",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250462008.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "https://www.nytimes.com/2026/09/23/books/review/no-land-to-stand-on-mahmoud-khalil.html",
-      "book_uri": "nyt://book/bd45f52b-d895-52ce-ad43-7c3ddae1e978",
-      "contributor": "by Mahmoud Khalil",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:35.673Z",
-      "dagger": 0,
-      "description": "The Palestinian activist and former Columbia graduate student chronicles the time when he was put into an ICE detention camp in Louisiana despite being a legal U.S. resident.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250462008",
-      "publisher": "Metropolitan",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "NO LAND TO STAND ON",
-      "updated_date": "2026-10-07T18:18:35.673Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250462008"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250462002?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250462008?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250462008&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fno-land-to-stand-on-mahmoud-khalil%2F1150148008%3Fean%3D9781250462008&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNo-Land-Stand%2FMahmoud-Khalil%2F9781250462008"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250462008"
+          "url": "https://bookshop.org/a/3546/9781982177331"
         }
       ]
     }

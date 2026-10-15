@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/16e0b666-3c65-5eb8-8b89-36f4a31be97a",
+  "uri": "nyt://bestsellerslist/179f62ac-b54d-5c83-a3b5-7e38b2ba514f",
   "books": [
     {
       "age_group": "Ages 4 to 8",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LEAF THIEF",
       "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 38,
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781464268076",
       "publisher": "Sourcebooks Jabberwocky",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE PUMPKIN THIEF",
       "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -120,114 +120,58 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20",
+      "age_group": "Ages 3 to 6",
+      "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Maudie Powell-Tuck",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
+      "author": "Sally Hopgood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781510704848.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/3e845425-66ca-5ba6-963a-4ffbdbe5237f",
-      "contributor": "by Maudie Powell-Tuck. Illustrated by Mini Grey",
-      "contributor_note": "Illustrated by Mini Grey",
-      "created_date": "2026-09-09T18:15:26.434Z",
+      "book_uri": "nyt://book/09e2bb62-b598-56cb-8dfe-d267fb8e3ede",
+      "contributor": "by Sally Hopgood. Illustrated by Emma Levey",
+      "contributor_note": "Illustrated by Emma Levey",
+      "created_date": "2026-05-27T22:36:37.131Z",
       "dagger": 0,
-      "description": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
+      "description": "A departing tortoise says goodbye to all his animal friends. (Ages 3 to 6)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781680108354",
-      "publisher": "Tiger Tales",
+      "primary_isbn13": "9781510704848",
+      "publisher": "Sky Pony",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FRANKENKITTY",
-      "updated_date": "2026-09-09T18:15:26.434Z",
-      "weeks_on_list": 5,
+      "title": "SEE YOU LATER, ALLIGATOR!",
+      "updated_date": "2026-05-27T22:36:37.131Z",
+      "weeks_on_list": 40,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781680108354"
+          "isbn13": "9781510704848"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166430097X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781664300972?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781510704855?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781680108354&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffrankenkitty-maudie-powell-tuck%2F1148477253%3Fean%3D9781680108354&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781510704848&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsee-you-later-alligator-sally-hopgood%2F1123362706%3Fean%3D9781510704848&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrankenkitty%2FMaudie-Powell-Tuck%2F9781664300972"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEE%2BYOU%2BLATER%252C%2BALLIGATOR%2521%2FSally%2BHopgood.%2F9781510704848"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781664391000"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 5 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/B0G7T8PCY2?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Cecilia Blomdahl",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217306213.jpg",
-      "book_image_height": 500,
-      "book_image_width": 374,
-      "book_review_link": "",
-      "book_uri": "nyt://book/95c8ec14-f9c2-5038-a6bd-0501ca09e011",
-      "contributor": "by Cecilia Blomdahl. Illustrated by Suzie Mason",
-      "contributor_note": "Illustrated by Suzie Mason",
-      "created_date": "2026-10-07T18:18:36.391Z",
-      "dagger": 0,
-      "description": "Grim, a Finnish Lapphund, gets lost in the Arctic. (Ages 5 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217306213",
-      "publisher": "DK",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE POLAR NIGHT ADVENTURE",
-      "updated_date": "2026-10-07T18:18:36.391Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217306213"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0G7T8PCY2?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217306213?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217306213&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-polar-night-adventure-cecilia-blomdahl%2F1149509000%3Fean%3D9798217306213&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPolar-Night-Adventure%2FCecilia-Blomdahl%2F9798217306213"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217306213"
+          "url": "https://bookshop.org/a/3546/9781510704848"
         }
       ]
     },
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781492648949",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 5,
+      "rank": 4,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A MONSTER",
       "updated_date": "2026-09-16T18:02:43.002Z",
-      "weeks_on_list": 32,
+      "weeks_on_list": 33,
       "isbns": [
         {
           "isbn10": "",
@@ -289,57 +233,169 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20",
+      "amazon_product_url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jory John",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062954541.jpg",
-      "book_image_height": 500,
-      "book_image_width": 500,
+      "author": "Aaron Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781442402973.jpg",
+      "book_image_height": 350,
+      "book_image_width": 263,
       "book_review_link": "",
-      "book_uri": "nyt://book/2aa7fe5f-5cf8-58a9-aaef-4aff6da37576",
-      "contributor": "by Jory John. Illustrated by Pete Oswald",
-      "contributor_note": "Illustrated by Pete Oswald",
-      "created_date": "2026-09-30T18:09:28.55Z",
+      "book_uri": "nyt://book/25a010a7-37bf-5f3d-941f-314d145f7ccf",
+      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+      "contributor_note": "Illustrated by Peter Brown",
+      "created_date": "2026-09-30T18:09:28.677Z",
       "dagger": 0,
-      "description": "Bad Seed seeks the perfect Halloween costume. (Ages 4 to 8)",
+      "description": "A rabbit’s comeuppance. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780062954541",
-      "publisher": "HarperCollins",
-      "rank": 6,
+      "primary_isbn13": "9781442402973",
+      "publisher": "Simon & Schuster",
+      "rank": 5,
       "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",
-      "updated_date": "2026-09-30T18:09:28.55Z",
-      "weeks_on_list": 38,
+      "title": "CREEPY CARROTS!",
+      "updated_date": "2026-09-30T18:09:28.677Z",
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780062954541"
+          "isbn13": "9781442402973"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20"
+          "url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062954541?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781442402973?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062954541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-good-the-bad-and-the-spooky-jory-john%2F1144263087%3Fean%3D9780062954541&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781442402973&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcreepy-carrots-aaron-reynolds%2F1111756050%3Fean%3D9781442402973&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBAD%2BSEED%2BPRESENTS%253A%2BTHE%2BGOOD%252C%2BTHE%2BBAD%252C%2BAND%2BTHE%2BSPOOKY%2FJory%2BJohn.%2F9780062954541"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCREEPY%2BCARROTS%2521%2FAaron%2BReynolds.%2F9781442402973"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062954541"
+          "url": "https://bookshop.org/a/3546/9781442402973"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 10",
+      "amazon_product_url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492680529.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/0d1a3727-f06d-5193-a407-60ef9b68e363",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-07-01T17:54:34.833Z",
+      "dagger": 0,
+      "description": "The How to Catch Kids try to wrangle a dinosaur for their school science fair. (Ages 4 to 10)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781492680529",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A DINOSAUR",
+      "updated_date": "2026-07-01T17:54:34.833Z",
+      "weeks_on_list": 9,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781492680529"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1492680524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781492680529?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492680529&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-dinosaur-adam-wallace%2F1129678150%3Fean%3D9781492680529&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BDINOSAUR%2FAdam%2BWallace.%2F9781492680529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781492680529"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/Creepy-Pair-Underwear-Aaron-Reynolds/dp/1442402989?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Aaron Reynolds",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781442402980.jpg",
+      "book_image_height": 446,
+      "book_image_width": 330,
+      "book_review_link": "",
+      "book_uri": "nyt://book/34645860-d60f-5944-b84c-866f517f53fe",
+      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+      "contributor_note": "Illustrated by Peter Brown",
+      "created_date": "2026-10-14T17:13:55.025Z",
+      "dagger": 0,
+      "description": "Jasper Rabbit deals with a pair of glowing underwear that won't go away. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781442402980",
+      "publisher": "Simon & Schuster",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CREEPY PAIR OF UNDERWEAR",
+      "updated_date": "2026-10-14T17:13:55.025Z",
+      "weeks_on_list": 46,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781442402980"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Creepy-Pair-Underwear-Aaron-Reynolds/dp/1442402989?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781442402980?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781442402980&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcreepy-pair-of-underwear-aaron-reynolds%2F1124743439%3Fean%3D9781442402980&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCREEPY%2BPAIR%2BOF%2BUNDERWEAR%2FAaron%2BReynolds.%2F9781442402980"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781442402980"
         }
       ]
     },
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781728210353",
       "publisher": "Sourcebooks Wonderland",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A WITCH",
       "updated_date": "2026-09-16T18:02:42.859Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +457,113 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Deborah Hopkinson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593306857.jpg",
+      "author": "Jory John",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062954541.jpg",
       "book_image_height": 500,
-      "book_image_width": 420,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/4f84c13d-039a-52f8-b9c5-818dfa8cc573",
-      "contributor": "by Deborah Hopkinson. Illustrated by Monique Dong",
-      "contributor_note": "Illustrated by Monique Dong",
-      "created_date": "2026-09-02T18:40:11.491Z",
+      "book_uri": "nyt://book/2aa7fe5f-5cf8-58a9-aaef-4aff6da37576",
+      "contributor": "by Jory John. Illustrated by Pete Oswald",
+      "contributor_note": "Illustrated by Pete Oswald",
+      "created_date": "2026-09-30T18:09:28.55Z",
       "dagger": 0,
-      "description": "A biography of the late singer, songwriter and actress. (Ages 4 to 8)",
+      "description": "Bad Seed seeks the perfect Halloween costume. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593306857",
-      "publisher": "Golden",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DOLLY PARTON",
-      "updated_date": "2026-09-02T18:40:11.491Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593306857"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593306856?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593306857?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593306857&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdolly-parton-deborah-hopkinson%2F1150213128%3Fean%3D9780593306857&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDolly-Parton%2FDeborah-Hopkinson%2F9780593306857"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593306857"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Aaron Reynolds",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781442402973.jpg",
-      "book_image_height": 350,
-      "book_image_width": 263,
-      "book_review_link": "",
-      "book_uri": "nyt://book/25a010a7-37bf-5f3d-941f-314d145f7ccf",
-      "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
-      "contributor_note": "Illustrated by Peter Brown",
-      "created_date": "2026-09-30T18:09:28.677Z",
-      "dagger": 0,
-      "description": "A rabbit’s comeuppance. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781442402973",
-      "publisher": "Simon & Schuster",
+      "primary_isbn13": "9780062954541",
+      "publisher": "HarperCollins",
       "rank": 9,
-      "rank_last_week": 10,
+      "rank_last_week": 6,
       "sunday_review_link": "",
-      "title": "CREEPY CARROTS!",
-      "updated_date": "2026-09-30T18:09:28.677Z",
-      "weeks_on_list": 19,
+      "title": "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",
+      "updated_date": "2026-09-30T18:09:28.55Z",
+      "weeks_on_list": 39,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781442402973"
+          "isbn13": "9780062954541"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/Creepy-Carrots-Aaron-Reynolds/dp/1442402970?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781442402973?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780062954541?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781442402973&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcreepy-carrots-aaron-reynolds%2F1111756050%3Fean%3D9781442402973&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062954541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-good-the-bad-and-the-spooky-jory-john%2F1144263087%3Fean%3D9780062954541&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCREEPY%2BCARROTS%2521%2FAaron%2BReynolds.%2F9781442402973"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBAD%2BSEED%2BPRESENTS%253A%2BTHE%2BGOOD%252C%2BTHE%2BBAD%252C%2BAND%2BTHE%2BSPOOKY%2FJory%2BJohn.%2F9780062954541"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781442402973"
+          "url": "https://bookshop.org/a/3546/9780062954541"
         }
       ]
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/1665954787?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/149266247X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Julien Chung",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665954785.jpg",
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492662471.jpg",
       "book_image_height": 500,
-      "book_image_width": 330,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/05c73989-99a0-55b5-873e-1155a2bf3ab9",
-      "contributor": "by Julien Chung",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:36.524Z",
+      "book_uri": "nyt://book/4f943620-3fd7-58ea-8ce8-e15e16c47232",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-07-14T17:46:18.551Z",
       "dagger": 0,
-      "description": "The alphabet letters climb the creaky old tree for Halloween. (Ages 4 to 8)",
+      "description": "A young girl attempts to catch a mermaid and befriend her. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781665954785",
-      "publisher": "Beach Lane",
+      "primary_isbn13": "9781492662471",
+      "publisher": "Sourcebooks Wonderland",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CHICKA CHICKA TRICKA TREAT",
-      "updated_date": "2026-10-07T18:18:36.524Z",
-      "weeks_on_list": 13,
+      "title": "HOW TO CATCH A MERMAID",
+      "updated_date": "2026-07-14T17:46:18.551Z",
+      "weeks_on_list": 26,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781665954785"
+          "isbn13": "9781492662471"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665954787?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/149266247X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665954785?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781492662471?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665954785&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchicka-chicka-tricka-treat-julien-chung%2F1146384103%3Fean%3D9781665954785&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492662471&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-mermaid-adam-wallace%2F1126980426%3Fean%3D9781492662471&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCHICKA%2BCHICKA%2BTRICKA%2BTREAT%2FJulien%2BChung%2F9781665954785"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BMERMAID%2FAdam%2BWallace.%2F9781492662471"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665954785"
+          "url": "https://bookshop.org/a/3546/9781492662471"
         }
       ]
     }
