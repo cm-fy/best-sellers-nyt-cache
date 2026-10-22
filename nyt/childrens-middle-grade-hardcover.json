@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/94b4d299-a1d3-5c41-9a57-264848be9799",
+  "uri": "nyt://bestsellerslist/0cdfab9d-469a-5da1-866e-0755f586e4b2",
   "books": [
     {
       "age_group": "Ages 10 to 14",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE WILD ZONE",
       "updated_date": "2026-10-07T18:18:37.398Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "R.J. Palacio",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
-      "book_image_height": 500,
-      "book_image_width": 339,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
-      "contributor": "by R.J. Palacio",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:55.729Z",
-      "dagger": 0,
-      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375869020",
-      "publisher": "Knopf",
-      "rank": 2,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "WONDER",
-      "updated_date": "2026-10-14T17:13:55.729Z",
-      "weeks_on_list": 564,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375869020"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375869020"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0063515105?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063515109",
       "publisher": "Clarion",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "BUILDING 903",
       "updated_date": "2026-10-07T18:18:37.525Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -176,6 +120,62 @@
       ]
     },
     {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "R.J. Palacio",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
+      "book_image_height": 500,
+      "book_image_width": 339,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+      "contributor": "by R.J. Palacio",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:28.939Z",
+      "dagger": 0,
+      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375869020",
+      "publisher": "Knopf",
+      "rank": 3,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "WONDER",
+      "updated_date": "2026-10-21T17:29:28.939Z",
+      "weeks_on_list": 565,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375869020"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375869020"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 8 and up",
       "amazon_product_url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781492670025",
       "publisher": "Sourcebooks Jabberwocky",
       "rank": 4,
-      "rank_last_week": 0,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
       "updated_date": "2026-03-04T23:40:05.9Z",
-      "weeks_on_list": 290,
+      "weeks_on_list": 291,
       "isbns": [
         {
           "isbn10": "",
@@ -244,7 +244,7 @@
       "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
       "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
       "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-10-14T17:13:55.89Z",
+      "created_date": "2026-10-21T17:29:29.067Z",
       "dagger": 0,
       "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9798217236558",
       "publisher": "Delacorte",
       "rank": 5,
-      "rank_last_week": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-10-14T17:13:55.89Z",
-      "weeks_on_list": 7,
+      "updated_date": "2026-10-21T17:29:29.067Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781250424990",
       "publisher": "Odd Dot",
       "rank": 6,
-      "rank_last_week": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "GAME OF PETS: THE BOY WHO KNEW TOO MUCH",
       "updated_date": "2026-10-07T22:08:31.992Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -344,114 +344,114 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "author": "Tony DiTerlizzi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217004911.jpg",
       "book_image_height": 500,
-      "book_image_width": 352,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
-      "contributor": "by Katherine Applegate",
+      "book_uri": "nyt://book/910d76f4-5408-51ff-a628-75df47b45235",
+      "contributor": "by Tony DiTerlizzi",
       "contributor_note": "",
-      "created_date": "2026-05-13T17:27:20.403Z",
+      "created_date": "2026-10-07T18:18:38.335Z",
       "dagger": 0,
-      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "description": "Timothy Quibble, a bullied middle schooler, suppresses his dark side’s thirst for revenge. (Ages 9 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063221178",
-      "publisher": "Storytide",
+      "primary_isbn13": "9798217004911",
+      "publisher": "Dial",
       "rank": 7,
-      "rank_last_week": 10,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WOMBAT WAITING",
-      "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 23,
+      "title": "THE WUMP",
+      "updated_date": "2026-10-07T18:18:38.335Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063221178"
+          "isbn13": "9798217004911"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217004911?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217004911&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wump-tony-diterlizzi%2F1149062216%3Fean%3D9798217004911&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520WUMP%2520by%2520Tony%2520DiTerlizzi"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063221178"
+          "url": "https://bookshop.org/a/3546/9798217004911"
         }
       ]
     },
     {
-      "age_group": "Ages 8 to 11",
-      "amazon_product_url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20",
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Geo Rutherford",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781419770555.jpg",
-      "book_image_height": 500,
-      "book_image_width": 375,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250904362.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/f23e5240-3bfa-5325-ab1c-a9b3ef791f1a",
-      "contributor": "by Geo Rutherford",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.189Z",
+      "book_uri": "nyt://book/43f94763-9d3f-56da-ba4f-0750070c5258",
+      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
+      "contributor_note": "Illustrated by Charles Santoso",
+      "created_date": "2026-04-15T23:10:31.812Z",
       "dagger": 0,
-      "description": "The histories of 25 mysterious rivers around the world. (Ages 8 to 11)",
+      "description": "Zephyrina brings a rare stuffed bear back to the Second Chances Home for the Tossed and Treasured. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781419770555",
-      "publisher": "Abrams",
+      "primary_isbn13": "9781250904362",
+      "publisher": "Feiwel & Friends",
       "rank": 8,
-      "rank_last_week": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "SPOOKY RIVERS",
-      "updated_date": "2026-09-23T18:21:01.189Z",
-      "weeks_on_list": 4,
+      "title": "POCKET BEAR",
+      "updated_date": "2026-04-15T23:10:31.812Z",
+      "weeks_on_list": 53,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781419770555"
+          "isbn13": "9781250904362"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781419770555?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250904362?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419770555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fspooky-rivers-geo-rutherford%2F1148552355%3Fean%3D9781419770555&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250904362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpocket-bear-katherine-applegate%2F1146474049%3Fean%3D9781250904362&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSpooky-Rivers%2FGeo-Rutherford%2F9781419770555"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPocket-Bear%2FKatherine-Applegate%2F9781250904362"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781419770555"
+          "url": "https://bookshop.org/a/3546/9781250904362"
         }
       ]
     },
@@ -477,11 +477,11 @@
       "primary_isbn13": "9798217227105",
       "publisher": "Delacorte",
       "rank": 9,
-      "rank_last_week": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "KIKI AND THE NEW MAGIC",
       "updated_date": "2026-09-02T18:40:11.944Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20",
+      "age_group": "Ages 8 to 11",
+      "amazon_product_url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Maddie Frost",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798347103997.jpg",
+      "author": "Geo Rutherford",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419770555.jpg",
       "book_image_height": 500,
-      "book_image_width": 339,
+      "book_image_width": 375,
       "book_review_link": "",
-      "book_uri": "nyt://book/0c9f5255-de3a-5e45-8502-2910b7e1ff4f",
-      "contributor": "by Maddie Frost",
+      "book_uri": "nyt://book/f23e5240-3bfa-5325-ab1c-a9b3ef791f1a",
+      "contributor": "by Geo Rutherford",
       "contributor_note": "",
-      "created_date": "2026-06-10T17:37:54.95Z",
+      "created_date": "2026-09-23T18:21:01.189Z",
       "dagger": 0,
-      "description": "When Rubie’s best friend breaks her ankle and can’t make it to summer camp, Rubie must go by herself. (Ages 8 to 12)",
+      "description": "The histories of 25 mysterious rivers around the world. (Ages 8 to 11)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798347103997",
-      "publisher": "Aladdin",
+      "primary_isbn13": "9781419770555",
+      "publisher": "Abrams",
       "rank": 10,
-      "rank_last_week": 0,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "REALLY RUBIE",
-      "updated_date": "2026-06-10T17:37:54.95Z",
+      "title": "SPOOKY RIVERS",
+      "updated_date": "2026-09-23T18:21:01.189Z",
       "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798347103997"
+          "isbn13": "9781419770555"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FWZXSMGW?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798347103997?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781419770555?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347103997&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Freally-rubie-maddie-frost%2F1148560017%3Fean%3D9798347103997&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419770555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fspooky-rivers-geo-rutherford%2F1148552355%3Fean%3D9781419770555&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReally-Rubie%2FMaddie-Frost%2F9798347103997"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSpooky-Rivers%2FGeo-Rutherford%2F9781419770555"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798347103997"
+          "url": "https://bookshop.org/a/3546/9781419770555"
         }
       ]
     }

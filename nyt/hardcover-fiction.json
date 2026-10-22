@@ -5,64 +5,8 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/2c5ca311-f676-5bb2-a229-bc3037e3bb79",
+  "uri": "nyt://bestsellerslist/e2c526f4-ebda-5e28-a272-498aa91f197f",
   "books": [
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249648.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/03927983-f9f9-53a4-98c0-fa29be7c3340",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:25:49.17Z",
-      "dagger": 0,
-      "description": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464249648",
-      "publisher": "Poisoned Pen",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE WITCH",
-      "updated_date": "2026-10-14T17:25:49.17Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464249648"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169328?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249648&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-witch-freida-mcfadden%2F1149622698%3Fean%3D9781464249648&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWitch-Deluxe%2FFreida-McFadden%2F9781464249648"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249648"
-        }
-      ]
-    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/168281808X?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781682818084",
       "publisher": "Red Tower",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THRESHING DAY",
       "updated_date": "2026-10-07T18:21:49.532Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -121,113 +65,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668233096?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Stephen King and Peter Straub",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668233092.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "https://www.nytimes.com/2026/10/07/books/review/other-worlds-than-these-stephen-king-peter-straub.html",
-      "book_uri": "nyt://book/a9324fba-0f59-5b35-9f5a-d97f5a3800d6",
-      "contributor": "by Stephen King and Peter Straub",
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249648.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/03927983-f9f9-53a4-98c0-fa29be7c3340",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.47Z",
+      "created_date": "2026-10-14T17:25:49.17Z",
       "dagger": 0,
-      "description": "In the finale to the Talisman trilogy, an older Jack Sawyer faces off against a gang of infected teenagers and other destructive forces.",
+      "description": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668233092",
-      "publisher": "Scribner",
-      "rank": 3,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781464249648",
+      "publisher": "Poisoned Pen",
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "OTHER WORLDS THAN THESE",
-      "updated_date": "2026-10-14T17:13:58.47Z",
-      "weeks_on_list": 1,
+      "title": "THE WITCH",
+      "updated_date": "2026-10-14T17:25:49.17Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668233092"
+          "isbn13": "9781464249648"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668233096?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668233092?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798349169328?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668233092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fother-worlds-than-these-stephen-king%2F1149427782%3Fean%3D9781668233092&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOther-Worlds-Than-These%2FStephen-King%2F9781668233092"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668233092"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Barbara Kingsolver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063577541.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/10/05/books/review/partita-barbara-kingsolver.html",
-      "book_uri": "nyt://book/e97cbb98-4dfd-5e44-85f9-6d0cc6468a66",
-      "contributor": "by Barbara Kingsolver",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.612Z",
-      "dagger": 0,
-      "description": "When she receives an unexpected phone call from an old lover, Livia contends with memories she put aside many years ago.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063577541",
-      "publisher": "Harper",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "PARTITA",
-      "updated_date": "2026-10-14T17:13:58.612Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063577541"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063577541?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063577541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartita-barbara-kingsolver%2F1149465352%3Fean%3D9780063577541&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249648&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-witch-freida-mcfadden%2F1149622698%3Fean%3D9781464249648&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartita%2FBarbara-Kingsolver%2F9780063577541"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWitch-Deluxe%2FFreida-McFadden%2F9781464249648"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063577541"
+          "url": "https://bookshop.org/a/3546/9781464249648"
         }
       ]
     },
@@ -252,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385550543",
       "publisher": "Doubleday",
-      "rank": 5,
-      "rank_last_week": 2,
+      "rank": 3,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE FRENCH ILLUSION",
       "updated_date": "2026-10-07T18:18:44.279Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -289,6 +177,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/166825106X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Bonnie Garmus",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668251065.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1dba302f-1c5a-54cf-ba58-66f1b73fa468",
+      "contributor": "by Bonnie Garmus",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:30.559Z",
+      "dagger": 0,
+      "description": "In 1982, a recent college graduate named Batter Gray winds up in the middle of internecine wars at a prestigious poetry journal.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668251065",
+      "publisher": "Scribner",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PECK & PECK",
+      "updated_date": "2026-10-21T17:29:30.559Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668251065"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/166825106X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668251065?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668251065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpeck-peck-bonnie-garmus%2F1149552676%3Fean%3D9781668251065&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPeck%2FBonnie-Garmus%2F9781668251065"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668251065"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 23,
+      "weeks_on_list": 24,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +289,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525426078?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525426073.jpg",
+      "author": "Barbara Kingsolver",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063577541.jpg",
       "book_image_height": 500,
       "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/09/18/books/review/hollywood-ending-john-green.html",
-      "book_uri": "nyt://book/02cf1035-2d0f-5834-a01f-9f35443a7f54",
-      "contributor": "by John Green",
+      "book_review_link": "https://www.nytimes.com/2026/10/05/books/review/partita-barbara-kingsolver.html",
+      "book_uri": "nyt://book/e97cbb98-4dfd-5e44-85f9-6d0cc6468a66",
+      "contributor": "by Barbara Kingsolver",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:44.686Z",
+      "created_date": "2026-10-14T17:13:58.612Z",
       "dagger": 0,
-      "description": "Celebrity permeates lives onscreen and off for two rising stars appearing in the biopic “Andy Warhol Never Gets Old.”",
+      "description": "When she receives an unexpected phone call from an old lover, Livia contends with memories she put aside many years ago.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780525426073",
-      "publisher": "Dutton",
-      "rank": 7,
-      "rank_last_week": 3,
+      "primary_isbn13": "9780063577541",
+      "publisher": "Harper",
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "HOLLYWOOD, ENDING",
-      "updated_date": "2026-10-07T18:18:44.686Z",
-      "weeks_on_list": 3,
+      "title": "PARTITA",
+      "updated_date": "2026-10-14T17:13:58.612Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780525426073"
+          "isbn13": "9780063577541"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525426078?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525426073?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063577541?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525426073&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollywood-ending-john-green%2F1149802863%3Fean%3D9780525426073&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063577541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartita-barbara-kingsolver%2F1149465352%3Fean%3D9780063577541&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollywood-Ending%2FJohn-Green%2F9780525426073"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartita%2FBarbara-Kingsolver%2F9780063577541"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525426073"
+          "url": "https://bookshop.org/a/3546/9780063577541"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668233096?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Stephen King and Peter Straub",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668233092.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "https://www.nytimes.com/2026/10/07/books/review/other-worlds-than-these-stephen-king-peter-straub.html",
+      "book_uri": "nyt://book/a9324fba-0f59-5b35-9f5a-d97f5a3800d6",
+      "contributor": "by Stephen King and Peter Straub",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:58.47Z",
+      "dagger": 0,
+      "description": "In the finale to the Talisman trilogy, an older Jack Sawyer faces off against a gang of infected teenagers and other destructive forces.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668233092",
+      "publisher": "Scribner",
+      "rank": 7,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "OTHER WORLDS THAN THESE",
+      "updated_date": "2026-10-14T17:13:58.47Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668233092"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668233096?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668233092?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668233092&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fother-worlds-than-these-stephen-king%2F1149427782%3Fean%3D9781668233092&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOther-Worlds-Than-These%2FStephen-King%2F9781668233092"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668233092"
         }
       ]
     },
@@ -421,11 +421,11 @@
       "primary_isbn13": "9780593726259",
       "publisher": "Ballantine",
       "rank": 8,
-      "rank_last_week": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "HOLLOW BONES",
       "updated_date": "2026-09-23T18:21:04.06Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -457,57 +457,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/154600887X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820282?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Wm",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781546008873.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820285.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/6371a0a0-e8f6-5fe0-9dfe-c9c5d9880ce9",
-      "contributor": "by Wm. Paul Young",
-      "contributor_note": "Paul Young",
-      "created_date": "2026-10-14T17:13:53.318Z",
+      "book_uri": "nyt://book/87acdbd7-b1e9-576a-a712-830df9715448",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:36.545Z",
       "dagger": 0,
-      "description": "Years after the murder of his daughter, Mack is summoned to death row to visit the serial killer who took her life.",
+      "description": "The third book in the \"Dungeon Crawler Carl\" series. Carl and Donut are up against a subway system filled with monsters.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781546008873",
-      "publisher": "Apiary",
+      "primary_isbn13": "9780593820285",
+      "publisher": "Ace",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "RETURN TO THE SHACK",
-      "updated_date": "2026-10-14T17:13:53.318Z",
-      "weeks_on_list": 1,
+      "title": "THE DUNGEON ANARCHIST'S COOKBOOK",
+      "updated_date": "2026-07-08T17:19:36.545Z",
+      "weeks_on_list": 31,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781546008873"
+          "isbn13": "9780593820285"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/154600887X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593820282?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781546008873?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820285?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546008873&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Freturn-to-the-shack-william-paul-young%2F1148524099%3Fean%3D9781546008873&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820285&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-dungeon-anarchists-cookbook-matt-dinniman%2F1145437166%3Fean%3D9780593820285&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReturn-Shack%2FWm-Paul-Young%2F9781546008873"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Anarchists-Cookbook%2FMatt-Dinniman%2F9780593820285"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781546008873"
+          "url": "https://bookshop.org/a/3546/9780593820285"
         }
       ]
     },
@@ -533,11 +533,11 @@
       "primary_isbn13": "9781538752036",
       "publisher": "Cardinal",
       "rank": 10,
-      "rank_last_week": 4,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "AMERICAN HAGWON",
       "updated_date": "2026-10-07T18:18:44.421Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -569,6 +569,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464244693?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily McIntire",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464244698.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3096a068-724b-5c32-a91c-b4ddd6724d02",
+      "contributor": "by Emily McIntire",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:45:37.68Z",
+      "dagger": 0,
+      "description": "The sixth book in the Never After series. A forbidden love develops between the underboss to a mafia syndicate and his fiancée's cousin.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464244698",
+      "publisher": "Bloom",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HEXED",
+      "updated_date": "2026-10-21T17:45:37.68Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464244698"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464244693?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798855593600?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464244698&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhexed-emily-mcintire%2F1145487112%3Fean%3D9781464244698&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHexed-Collectors%2FEmily-McIntire%2F9781464244698"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464244698"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/253e5724-9547-5551-b50d-97d71cbcfa45",
+      "contributor": "by Matt Dinniman",
+      "contributor_note": "",
+      "created_date": "2026-07-01T16:41:58.139Z",
+      "dagger": 0,
+      "description": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593955970",
+      "publisher": "Ace",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE GATE OF THE FERAL GODS",
+      "updated_date": "2026-07-01T16:41:58.139Z",
+      "weeks_on_list": 20,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593955970"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593955978?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593955970?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593955970&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gate-of-the-feral-gods-matt-dinniman%2F1146460801%3Fean%3D9780593955970&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGATE%2BOF%2BTHE%2BFERAL%2BGODS%2FMatt%2BDinniman%2F9780593955970"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593955970"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464244685?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily McIntire",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464244681.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8240306a-bbab-5b50-b409-4c3925419858",
+      "contributor": "by Emily McIntire",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:48:25.805Z",
+      "dagger": 0,
+      "description": "The fifth book in the Never After series. Father Cade becomes a priest in a Vermont town, where he is tempted by Amaya.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464244681",
+      "publisher": "Bloom",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CROSSED",
+      "updated_date": "2026-10-21T17:48:25.805Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464244681"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464244685?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798350836028?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464244681&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrossed-emily-mcintire%2F1142959259%3Fean%3D9781464244681&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrossed-Collectors%2FEmily-McIntire%2F9781464244681"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464244681"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/059380421X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -588,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593804216",
       "publisher": "Knopf",
-      "rank": 11,
-      "rank_last_week": 12,
+      "rank": 14,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "YESTERYEAR",
       "updated_date": "2026-04-16T20:39:40.59Z",
-      "weeks_on_list": 27,
+      "weeks_on_list": 28,
       "isbns": [
         {
           "isbn10": "",
@@ -625,225 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/059395601X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/154600887X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593956014.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5a0fad44-9436-5d12-b323-ed551bb20ad5",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T16:02:20.041Z",
-      "dagger": 0,
-      "description": "The sixth book in the \"Dungeon Crawler Carl\" series. On the eighth floor, Carl and Donut must capture a lethal monster.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593956014",
-      "publisher": "Ace",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE EYE OF THE BEDLAM BRIDE",
-      "updated_date": "2026-07-01T16:02:20.041Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593956014"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/059395601X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593956014?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593956014&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-eye-of-the-bedlam-bride-matt-dinniman%2F1146460700%3Fean%3D9780593956014&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BEYE%2BOF%2BTHE%2BBEDLAM%2BBRIDE%2FMatt%2BDinniman%2F9780593956014"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593956014"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sally Hepworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250284549.jpg",
+      "author": "Wm",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546008873.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/5f243b1b-9205-5936-bccb-e00e106cc594",
-      "contributor": "by Sally Hepworth",
-      "contributor_note": "",
-      "created_date": "2026-04-29T16:56:33.551Z",
+      "book_uri": "nyt://book/6371a0a0-e8f6-5fe0-9dfe-c9c5d9880ce9",
+      "contributor": "by Wm. Paul Young",
+      "contributor_note": "Paul Young",
+      "created_date": "2026-10-14T17:13:53.318Z",
       "dagger": 0,
-      "description": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "description": "Years after the murder of his daughter, Mack is summoned to death row to visit the serial killer who took her life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250284549",
-      "publisher": "St. Martin's",
-      "rank": 13,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MAD MABEL",
-      "updated_date": "2026-04-29T16:56:33.551Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250284549"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250284546?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250284549?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250284549&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmad-mabel-sally-hepworth%2F1147243855%3Fean%3D9781250284549&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMad-Mabel%2FSally-Hepworth%2F9781250284549"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250284549"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250192234?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "V.E. Schwab",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250192233.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9e7d5e04-b6c4-5567-883d-73a4d61eea10",
-      "contributor": "by V.E. Schwab",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:53.46Z",
-      "dagger": 0,
-      "description": "The third book in the Villains series. Victor Vale and Eli Ever, with teams of allies and rivals, go against each another for a final time.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250192233",
-      "publisher": "Tor",
-      "rank": 14,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "VICTORIOUS",
-      "updated_date": "2026-10-14T17:13:53.46Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250192233"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250192234?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250192233?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250192233&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fvictorious-v-e-schwab%2F1148909777%3Fean%3D9781250192233&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVictorious%2FVE-Schwab%2F9781250192233"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250192233"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F74CH248?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217190041.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/60824b38-4a0a-53b0-b080-6d90d8058aa6",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T15:23:26.166Z",
-      "dagger": 0,
-      "description": "The seventh book in the \"Dungeon Crawler Carl\" series. After becoming fully self-aware, the NPCs join the Faction Wars.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217190041",
-      "publisher": "Ace",
+      "primary_isbn13": "9781546008873",
+      "publisher": "Apiary",
       "rank": 15,
-      "rank_last_week": 0,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "THIS INEVITABLE RUIN",
-      "updated_date": "2026-07-01T15:23:26.166Z",
+      "title": "RETURN TO THE SHACK",
+      "updated_date": "2026-10-14T17:13:53.318Z",
       "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217190041"
+          "isbn13": "9781546008873"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F74CH248?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/154600887X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217190041?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781546008873?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217190041&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-inevitable-ruin-matt-dinniman%2F1147317211%3Fean%3D9798217190041&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546008873&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Freturn-to-the-shack-william-paul-young%2F1148524099%3Fean%3D9781546008873&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Inevitable-Ruin%2FMatt-Dinniman%2F9798217190041"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FReturn-Shack%2FWm-Paul-Young%2F9781546008873"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217190041"
+          "url": "https://bookshop.org/a/3546/9781546008873"
         }
       ]
     }

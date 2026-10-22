@@ -5,8 +5,176 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/f4ae4ca9-7f91-550b-83f7-4d5262ebd04d",
+  "uri": "nyt://bestsellerslist/f2f22098-1781-51c3-8871-b20065026c51",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1538784726?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Collin Gosselin with Allie Kingsley Baker",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784723.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9e029a5d-9f7e-590c-ac0e-fcafb2d06a86",
+      "contributor": "by Collin Gosselin with Allie Kingsley Baker",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:30.849Z",
+      "dagger": 0,
+      "description": "A dark tell-all by one of the sextuplets from the reality TV series “Jon & Kate Plus 8.”",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538784723",
+      "publisher": "Grand Central",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "IN THE SHADOW OF EIGHT",
+      "updated_date": "2026-10-21T17:29:30.849Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784723"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538784726?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538784723?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784723&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fin-the-shadow-of-eight-collin-gosselin%2F1150382503%3Fean%3D9781538784723&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FShadow-Eight%2FCollin-Gosselin%2F9781538784723"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538784723"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jay Stratton",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063384538.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a2bf5e57-d4b9-5b02-9571-4902067519e4",
+      "contributor": "by Jay Stratton",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:30.982Z",
+      "dagger": 0,
+      "description": "A former senior U.S. intelligence official gives his account of investigations into unidentified anomalous phenomena and non-human intelligent life.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063384538",
+      "publisher": "Morrow",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "OUT OF THE SHADOWS",
+      "updated_date": "2026-10-21T17:29:30.982Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063384538"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063384538?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063384538&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fout-of-the-shadows-jay-stratton%2F1150306489%3Fean%3D9780063384538&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOut-Shadows%2FJay-Stratton%2F9780063384538"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063384538"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Grant",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059706.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/03dd7c47-d4a5-552a-8b70-23d241bfbd77",
+      "contributor": "by Adam Grant",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:53:19.896Z",
+      "dagger": 0,
+      "description": "The author of “Think Again” delves into what might reinforce the strengths or exacerbate the weaknesses of bonds within relationships.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059706",
+      "publisher": "Viking",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "VIBE",
+      "updated_date": "2026-10-21T17:53:19.896Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059706"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059713?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059706&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fvibe-adam-grant%2F1149158802%3Fean%3D9798217059706&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVibe%2FAdam-Grant%2F9798217059706"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059706"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20",
@@ -28,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538782224",
       "publisher": "Grand Central",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "ONE HELLUVA RIDE",
       "updated_date": "2026-10-14T17:13:58.876Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781324131656",
       "publisher": "Norton",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 5,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "BLOCKERS",
       "updated_date": "2026-10-14T17:13:59.02Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brian Kilmeade",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063490031.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e7347b6f-7e37-51ad-a4e8-808dbbb44679",
+      "contributor": "by Brian Kilmeade",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:31.26Z",
+      "dagger": 0,
+      "description": "A co-host of “Fox & Friends” portrays contributions made by six key people around the time of the formation of our country.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063490031",
+      "publisher": "Morrow",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "UNITING THE STATES",
+      "updated_date": "2026-10-21T17:29:31.26Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063490031"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063490031?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063490031&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funiting-the-states-brian-kilmeade%2F1149444205%3Fean%3D9780063490031&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUniting-States%2FBrian-Kilmeade%2F9780063490031"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063490031"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063443910?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063443914",
       "publisher": "Morrow",
-      "rank": 3,
-      "rank_last_week": 1,
+      "rank": 7,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE STEPS",
       "updated_date": "2026-10-07T18:18:45.124Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217379743",
       "publisher": "Penguin Press",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 8,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "SWAN SONG",
       "updated_date": "2026-09-30T18:09:31.679Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +457,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0306838028?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Cooper with Daniel Richler",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780306838026.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3cc82c6c-cfe9-5b35-8d8a-085afabb0c19",
-      "contributor": "by Alice Cooper with Daniel Richler",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:59.151Z",
-      "dagger": 0,
-      "description": "The Rock and Roll Hall of Fame inductee describes his struggles to overcome his demons.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780306838026",
-      "publisher": "Da Capo",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "DEVIL ON MY SHOULDER",
-      "updated_date": "2026-10-14T17:13:59.151Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780306838026"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0306838028?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780306838026?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780306838026&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdevil-on-my-shoulder-alice-cooper%2F1149579632%3Fean%3D9780306838026&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDevil-My-Shoulder%2FAlice-Cooper%2F9780306838026"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780306838026"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0316603783?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316603782",
       "publisher": "Little, Brown",
-      "rank": 6,
-      "rank_last_week": 3,
+      "rank": 9,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE AMERICAN WAY OF KILLING",
       "updated_date": "2026-10-07T18:18:45.249Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -345,337 +513,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525562230?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/132412363X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Nathaniel Philbrick",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525562238.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/10/04/books/review/the-rush-nathaniel-philbrick.html",
-      "book_uri": "nyt://book/e39a051e-30ba-5d5a-890b-4e8e919389ff",
-      "contributor": "by Nathaniel Philbrick",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:59.304Z",
-      "dagger": 0,
-      "description": "The author of “Travels With George” looks at how America’s modern contradictions were born out of California’s Gold Rush.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780525562238",
-      "publisher": "Viking",
-      "rank": 7,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE RUSH",
-      "updated_date": "2026-10-14T17:13:59.304Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780525562238"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525562230?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525562238?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525562238&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-rush-nathaniel-philbrick%2F1149136766%3Fean%3D9780525562238&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRush%2FNathaniel-Philbrick%2F9780525562238"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525562238"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1541608259?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Samuel A. Alito Jr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781541608252.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/582879ef-a67e-57dd-9a8c-066f1ea06c75",
-      "contributor": "by Samuel A. Alito Jr",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:22:41.409Z",
-      "dagger": 0,
-      "description": "An associate justice of the United States Supreme Court defines his approach to the Constitution and describes what he considers threats to our liberties.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781541608252",
-      "publisher": "Basic Liberty",
-      "rank": 8,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SO ORDERED",
-      "updated_date": "2026-10-14T17:22:41.409Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781541608252"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1541608259?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781541608269?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781541608252&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fso-ordered-samuel-a-alito-jr%2F1148669219%3Fean%3D9781541608252&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSo-Ordered%2FSamuel-A-Alito-Jr%2F9781541608252"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781541608252"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Annie Jacobsen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-      "book_uri": "nyt://book/748184b1-c455-56ed-9b51-787fd56c75d4",
-      "contributor": "by Annie Jacobsen",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:08.295Z",
-      "dagger": 0,
-      "description": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217046034",
-      "publisher": "Dutton",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BIOLOGICAL WAR",
-      "updated_date": "2026-08-05T17:45:08.295Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217046034"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FY5WRTVC?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046034?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046034&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbiological-war-annie-jacobsen%2F1148625051%3Fean%3D9798217046034&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBiological-War%2FAnnie-Jacobsen%2F9798217046034"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046034"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1335003436?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jennifer Welch",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781335003430.jpg",
+      "author": "Peter King",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324123637.jpg",
       "book_image_height": 500,
       "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/99dbeeae-f559-594b-8c44-a07ee7d6de08",
-      "contributor": "by Jennifer Welch",
+      "book_uri": "nyt://book/0d0d3083-0a38-5bc3-8fc4-2a0548580910",
+      "contributor": "by Peter King",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:59.59Z",
+      "created_date": "2026-10-21T17:29:31.381Z",
       "dagger": 0,
-      "description": "A co-host of the “I’ve Had It” podcast describes what she sees as a rise of theocracy and fascism in America.",
+      "description": "The rise of the National Football League over the last four decades told through the stories of some of the players, teams, coaches and controversies.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781335003430",
-      "publisher": "Hanover Square",
+      "primary_isbn13": "9781324123637",
+      "publisher": "Norton",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "NOT TODAY, FASCISTS",
-      "updated_date": "2026-10-14T17:13:59.59Z",
+      "title": "THE GAME",
+      "updated_date": "2026-10-21T17:29:31.381Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781335003430"
+          "isbn13": "9781324123637"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1335003436?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/132412363X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781335003430?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781324123637?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781335003430&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnot-today-fascists-jennifer-welch%2F1149403121%3Fean%3D9781335003430&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324123637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-game-peter-king%2F1100302006%3Fean%3D9781324123637&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNot-Today-Fascists%2FJennifer-Welch%2F9781335003430"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGame%2FPeter-King%2F9781324123637"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781335003430"
+          "url": "https://bookshop.org/a/3546/9781324123637"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0374618755?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063454955?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kevin Roose",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780374618759.jpg",
+      "author": "Kerry Kennedy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063454958.jpg",
       "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "https://www.nytimes.com/2026/10/06/books/review/the-agi-chronicles-kevin-roose.html",
-      "book_uri": "nyt://book/0e4b01ba-20bb-54f2-8acb-024ac918da25",
-      "contributor": "by Kevin Roose",
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9089e507-3a6a-53e4-80da-5429572aec4b",
+      "contributor": "by Kerry Kennedy",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:59.738Z",
-      "dagger": 1,
-      "description": "A co-host of the “Machine Gods” podcast describes the race to create artificial general intelligence.",
+      "created_date": "2026-10-21T17:29:31.524Z",
+      "dagger": 0,
+      "description": "The daughter of Ethel Kennedy depicts her mother’s working-class background, marriage to Robert F. Kennedy and work in human rights.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780374618759",
-      "publisher": "Farrar, Straus & Giroux",
+      "primary_isbn13": "9780063454958",
+      "publisher": "HarperOne",
       "rank": 11,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE AGI CHRONICLES",
-      "updated_date": "2026-10-14T17:13:59.738Z",
+      "title": "ETHEL KENNEDY",
+      "updated_date": "2026-10-21T17:29:31.524Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780374618759"
+          "isbn13": "9780063454958"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0374618755?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063454955?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780374618759?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063454958?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374618759&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-agi-chronicles-kevin-roose%2F1149551313%3Fean%3D9780374618759&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063454958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fethel-kennedy-kerry-kennedy%2F1149552630%3Fean%3D9780063454958&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAgi-Chronicles%2FKevin-Roose%2F9780374618759"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEthel-Kennedy%2FKerry-Kennedy%2F9780063454958"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780374618759"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Bessel van der Kolk",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
-      "book_image_height": 500,
-      "book_image_width": 325,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
-      "contributor": "by Bessel van der Kolk",
-      "contributor_note": "",
-      "created_date": "2026-07-08T18:31:31.813Z",
-      "dagger": 0,
-      "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780143127741",
-      "publisher": "Penguin",
-      "rank": 12,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "THE BODY KEEPS THE SCORE",
-      "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 316,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780143127741"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780143127741&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9780143127741&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780143127741"
+          "url": "https://bookshop.org/a/3546/9780063454958"
         }
       ]
     },
@@ -700,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593655276",
       "publisher": "Penguin Press",
-      "rank": 13,
-      "rank_last_week": 0,
+      "rank": 12,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "SLEEPING BEAUTIES",
       "updated_date": "2026-10-14T17:13:59.874Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -737,57 +681,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ari Emanuel",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
+      "author": "Bessel van der Kolk",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
       "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
-      "book_uri": "nyt://book/6f8497cf-f6ee-51aa-9c49-627202468227",
-      "contributor": "by Ari Emanuel",
+      "book_image_width": 325,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+      "contributor": "by Bessel van der Kolk",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.804Z",
+      "created_date": "2026-07-08T18:31:31.813Z",
       "dagger": 0,
-      "description": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
+      "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217209347",
-      "publisher": "Knopf",
-      "rank": 14,
-      "rank_last_week": 8,
+      "primary_isbn13": "9780143127741",
+      "publisher": "Penguin",
+      "rank": 13,
+      "rank_last_week": 12,
       "sunday_review_link": "",
-      "title": "ROLL THE CALLS",
-      "updated_date": "2026-09-30T18:09:31.804Z",
-      "weeks_on_list": 3,
+      "title": "THE BODY KEEPS THE SCORE",
+      "updated_date": "2026-07-08T18:31:31.813Z",
+      "weeks_on_list": 317,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217209347"
+          "isbn13": "9780143127741"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GH5RW948?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0143127748?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217209347?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217209347&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Froll-the-calls-ari-emanuel%2F1149326459%3Fean%3D9798217209347&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780143127741&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-body-keeps-the-score-bessel-van-der-kolk-md%2F1117229987%3Fean%3D9780143127741&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRoll-Calls%2FAri-Emanuel%2F9798217209347"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBody-Keeps-Score%2FBessel-Van-Der-Kolk%2F9780143127741"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217209347"
+          "url": "https://bookshop.org/a/3546/9780143127741"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1400260272?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Terry Bradshaw with David Fisher",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400260270.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/18da8653-16f9-58b2-8d8a-0e5b128906c9",
+      "contributor": "by Terry Bradshaw with David Fisher",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:31.672Z",
+      "dagger": 0,
+      "description": "The Hall of Fame quarterback who became a N.F.L. broadcaster describes personal difficulties he encountered.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781400260270",
+      "publisher": "Harper Select",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "LOOKING FOR TERRY",
+      "updated_date": "2026-10-21T17:29:31.672Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781400260270"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1400260272?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781400260270?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400260270&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flooking-for-terry-terry-bradshaw%2F1149641278%3Fean%3D9781400260270&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLooking-Terry%2FTerry-Bradshaw%2F9781400260270"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781400260270"
         }
       ]
     },
@@ -813,11 +813,11 @@
       "primary_isbn13": "9781250344489",
       "publisher": "Celadon",
       "rank": 15,
-      "rank_last_week": 0,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "FAMILY OF SPIES",
       "updated_date": "2026-10-14T17:14:00Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",

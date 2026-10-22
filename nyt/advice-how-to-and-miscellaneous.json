@@ -5,173 +5,117 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/0850bee5-0757-5a9e-95c9-cef90cfe2028",
+  "uri": "nyt://bestsellerslist/671d92d6-f7f7-5166-8dbf-31c951ca0d6f",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GFCWM3CY?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ben Meer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046799.jpg",
+      "author": "Philip Anthony Mitchell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400356829.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/eda302aa-1d4f-5f10-970e-a2c602d37d5a",
-      "contributor": "by Ben Meer",
+      "book_uri": "nyt://book/a9febde8-094b-5f49-b850-8fca759d615c",
+      "contributor": "by Philip Anthony Mitchell",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.269Z",
+      "created_date": "2026-10-21T17:29:29.474Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217046799",
-      "publisher": "Avery",
+      "primary_isbn13": "9781400356829",
+      "publisher": "Thomas Nelson",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO BE GOOD AT LIFE",
-      "updated_date": "2026-10-14T17:13:57.269Z",
+      "title": "CONTEND",
+      "updated_date": "2026-10-21T17:29:29.474Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217046799"
+          "isbn13": "9781400356829"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GFCWM3CY?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217046799?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400356829?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046799&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-be-good-at-life-ben-meer%2F1149136792%3Fean%3D9798217046799&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400356829&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcontend-philip-anthony-mitchell%2F1149894242%3Fean%3D9781400356829&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Be-Good-Life%2FBen-Meer%2F9798217046799"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FContend%2FPhilip-Anthony-Mitchell%2F9781400356829"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217046799"
+          "url": "https://bookshop.org/a/3546/9781400356829"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593837819?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250369622?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Levy Rozman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593837818.jpg",
+      "author": "Erin French with Rachel Holtzman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250369628.jpg",
       "book_image_height": 500,
-      "book_image_width": 438,
+      "book_image_width": 375,
       "book_review_link": "",
-      "book_uri": "nyt://book/b13c4e60-3c0d-50fd-923d-e2047217774b",
-      "contributor": "by Levy Rozman",
+      "book_uri": "nyt://book/2e2fef69-7be2-5e38-aee2-09df1c6cf594",
+      "contributor": "by Erin French with Rachel Holtzman",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.433Z",
+      "created_date": "2026-10-21T17:29:29.603Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593837818",
-      "publisher": "Ten Speed",
+      "primary_isbn13": "9781250369628",
+      "publisher": "Celadon",
       "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOW TO WIN AT CHESS, NEXT LEVEL",
-      "updated_date": "2026-10-14T17:13:57.433Z",
+      "title": "THE LOST KITCHEN VOLUME 3: SEIZE THE SUPPER",
+      "updated_date": "2026-10-21T17:29:29.603Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593837818"
+          "isbn13": "9781250369628"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593837819?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250369622?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593837818?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250369628?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593837818&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-win-at-chess-next-level-levy-rozman%2F1149137049%3Fean%3D9780593837818&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250369628&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lost-kitchen-volume-3-erin-french%2F1149804929%3Fean%3D9781250369628&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Win-Chess-Next-Level%2FLevy-Rozman%2F9780593837818"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLost-Kitchen%2FErin-French%2F9781250369628"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593837818"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593193806?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "John Mark Comer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593193808.jpg",
-      "book_image_height": 500,
-      "book_image_width": 322,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d7fd7d04-2209-542c-b5dd-de93b9052604",
-      "contributor": "by John Mark Comer",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.571Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593193808",
-      "publisher": "WaterBrook",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "INTO THE QUIET",
-      "updated_date": "2026-10-14T17:13:57.571Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593193808"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593193806?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593193808?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593193808&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Finto-the-quiet-john-mark-comer%2F1149137024%3Fean%3D9780593193808&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInto-Quiet%2FJohn-Mark-Comer%2F9780593193808"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593193808"
+          "url": "https://bookshop.org/a/3546/9781250369628"
         }
       ]
     },
@@ -196,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668032145",
       "publisher": "Simon Element",
-      "rank": 4,
-      "rank_last_week": 2,
+      "rank": 3,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "PROTOCOLS",
       "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -233,57 +177,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Vanessa Van Edwards",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217048298.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
+      "author": "James Clear",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/5c0b3069-f885-5ddc-8e6e-308b6bb2915c",
-      "contributor": "by Vanessa Van Edwards",
+      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+      "contributor": "by James Clear",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.702Z",
-      "dagger": 0,
+      "created_date": "2026-10-21T18:00:43.614Z",
+      "dagger": 1,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217048298",
-      "publisher": "Portfolio",
-      "rank": 5,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780735211292",
+      "publisher": "Avery",
+      "rank": 4,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "CONVERSATION",
-      "updated_date": "2026-10-14T17:13:57.702Z",
-      "weeks_on_list": 1,
+      "title": "ATOMIC HABITS",
+      "updated_date": "2026-10-21T18:00:43.614Z",
+      "weeks_on_list": 359,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217048298"
+          "isbn13": "9780735211292"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217048298?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781847941831?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217048298&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fconversation-vanessa-van-edwards%2F1150521543%3Fean%3D9798217048298&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FConversation%2FVanessa-Van-Edwards%2F9798217048298"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217048298"
+          "url": "https://bookshop.org/a/3546/9780735211292"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
+      "book_image_height": 500,
+      "book_image_width": 392,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9b3c4b0a-8798-5042-9982-26a70275ba27",
+      "contributor": "by Dolly Parton and Rachel Parton George with Maurice Miner",
+      "contributor_note": "",
+      "created_date": "2026-09-02T18:40:14.733Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781984863164",
+      "publisher": "Ten Speed",
+      "rank": 5,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "GOOD LOOKIN' COOKIN'",
+      "updated_date": "2026-09-02T18:40:14.733Z",
+      "weeks_on_list": 17,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781984863164"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781984863164?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgood-lookin-cookin-dolly-parton%2F1144953293%3Fean%3D9781984863164&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOOD%2BLOOKIN%2527%2BCOOKIN%2527%2FDolly%2BParton%2Band%2BRachel%2BParton%2BGeorge%2Bwith%2BMaurice%2BMiner%2F9781984863164"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781984863164"
         }
       ]
     },
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
       "rank": 6,
-      "rank_last_week": 3,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 94,
+      "weeks_on_list": 95,
       "isbns": [
         {
           "isbn10": "",
@@ -345,225 +345,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063479419?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063459086?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jessie James Decker, Sydney Rae Bass and Karen Parker",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063479418.jpg",
+      "author": "Nara Aziza Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063459083.jpg",
       "book_image_height": 500,
-      "book_image_width": 404,
+      "book_image_width": 397,
       "book_review_link": "",
-      "book_uri": "nyt://book/b1ab0acd-6ba8-5b32-9de1-b7446def1e96",
-      "contributor": "by Jessie James Decker, Sydney Rae Bass and Karen Parker",
+      "book_uri": "nyt://book/dad97b25-360c-5824-bd26-953a5780b074",
+      "contributor": "by Nara Aziza Smith",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.829Z",
+      "created_date": "2026-10-21T17:29:29.956Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063479418",
-      "publisher": "Harper Influence",
+      "primary_isbn13": "9780063459083",
+      "publisher": "Morrow",
       "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE SECRET SAUCE",
-      "updated_date": "2026-10-14T17:13:57.829Z",
+      "title": "HOMEMADE",
+      "updated_date": "2026-10-21T17:29:29.956Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063479418"
+          "isbn13": "9780063459083"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063479419?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063459086?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063479418?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063459083?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063479418&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secret-sauce-jessie-james-decker%2F1150092420%3Fean%3D9780063479418&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063459083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhomemade-nara-aziza-smith%2F1149922279%3Fean%3D9780063459083&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Sauce%2FJesse-James-Decker%2F9780063479418"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHomemade%2FNara-Aziza-Smith%2F9780063459083"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063479418"
+          "url": "https://bookshop.org/a/3546/9780063459083"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984860089?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593853148?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Yotam Ottolenghi and Verena Lochmuller with Milli Taylor and Tara Wigley",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984860088.jpg",
+      "author": "Jeanine Donofrio with Phoebe Moore",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593853146.jpg",
       "book_image_height": 500,
-      "book_image_width": 355,
+      "book_image_width": 402,
       "book_review_link": "",
-      "book_uri": "nyt://book/0b8523d5-4dc0-53ad-81bd-b3409960a536",
-      "contributor": "by Yotam Ottolenghi and Verena Lochmuller with Milli Taylor and Tara Wigley",
+      "book_uri": "nyt://book/3425dcbd-a1dc-5512-bb4c-91ce88eb5017",
+      "contributor": "by Jeanine Donofrio with Phoebe Moore",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:57.979Z",
+      "created_date": "2026-10-21T17:29:30.081Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781984860088",
-      "publisher": "Ten Speed",
+      "primary_isbn13": "9780593853146",
+      "publisher": "Avery",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "OTTOLENGHI SIMPLE TOO",
-      "updated_date": "2026-10-14T17:13:57.979Z",
+      "title": "LOVE & LEMONS: POP OF FLAVOR",
+      "updated_date": "2026-10-21T17:29:30.081Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781984860088"
+          "isbn13": "9780593853146"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984860089?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593853148?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984860088?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593853146?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984860088&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fottolenghi-simple-too-yotam-ottolenghi%2F1149268519%3Fean%3D9781984860088&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593853146&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flove-and-lemons-pop-of-flavor-jeanine-donofrio%2F1149136755%3Fean%3D9780593853146&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOttolenghi-Simple-Too%2FYotam-Ottolenghi%2F9781984860088"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-Lemons-Pop-Flavor%2FJeanine-Donofrio%2F9780593853146"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984860088"
+          "url": "https://bookshop.org/a/3546/9780593853146"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Clear",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780735211292.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
-      "contributor": "by James Clear",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:19.644Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780735211292",
-      "publisher": "Avery",
-      "rank": 9,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "ATOMIC HABITS",
-      "updated_date": "2026-03-04T23:40:19.644Z",
-      "weeks_on_list": 358,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780735211292"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780735211292&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fatomic-habits-james-clear%2F1129201155%3Fean%3D9780735211292&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780735211292"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400344417?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Dana K. White",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400344413.jpg",
+      "author": "Sabrina Zohar",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994849.jpg",
       "book_image_height": 500,
-      "book_image_width": 343,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/e123eb38-3c84-5ea3-b4b7-7c4088708352",
-      "contributor": "by Dana K. White",
+      "book_uri": "nyt://book/ba95a687-c17c-57cc-a9d0-d41c6612358d",
+      "contributor": "by Sabrina Zohar",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.158Z",
+      "created_date": "2026-10-21T17:29:30.222Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400344413",
-      "publisher": "Thomas Nelson",
-      "rank": 10,
+      "primary_isbn13": "9780593994849",
+      "publisher": "Penguin Life",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "PROCRASTINATORS GET STUFF DONE",
-      "updated_date": "2026-10-14T17:13:58.158Z",
+      "title": "WHY AM I LIKE THIS?",
+      "updated_date": "2026-10-21T17:29:30.222Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400344413"
+          "isbn13": "9780593994849"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400344417?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400344413?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593994849?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400344413&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprocrastinators-get-stuff-done-dana-k-white%2F1149621373%3Fean%3D9781400344413&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994849&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-am-i-like-this-sabrina-zohar%2F1149731647%3Fean%3D9780593994849&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProcrastinators-Get-Stuff-Done%2FDana-K-White%2F9781400344413"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAm-Like-This%2FSabrina-Zohar%2F9780593994849"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400344413"
+          "url": "https://bookshop.org/a/3546/9780593994849"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GGPBK7DM?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Megan Trottier",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217274161.jpg",
+      "book_image_height": 500,
+      "book_image_width": 346,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1513bb0b-f783-5f6b-ba4a-20d8dee03100",
+      "contributor": "by Megan Trottier",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:29:30.414Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217274161",
+      "publisher": "Ten Speed",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MASTERING AMERICAN MAHJONG",
+      "updated_date": "2026-10-21T17:29:30.414Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217274161"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GGPBK7DM?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217274161?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217274161&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmastering-american-mahjong-megan-trottier%2F1149198584%3Fean%3D9798217274161&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMastering-American-Mahjong%2FMegan-Trottier%2F9798217274161"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217274161"
         }
       ]
     }
