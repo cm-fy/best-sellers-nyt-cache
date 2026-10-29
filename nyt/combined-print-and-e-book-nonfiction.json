@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 708,
-  "uri": "nyt://bestsellerslist/f2f22098-1781-51c3-8871-b20065026c51",
+  "uri": "nyt://bestsellerslist/a5afa324-5a2f-57b2-909d-f0f54e5f2ab7",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781538784723",
       "publisher": "Grand Central",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "IN THE SHADOW OF EIGHT",
       "updated_date": "2026-10-21T17:29:30.849Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,18 +65,242 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1538787172?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ben Meiselas, Brett Meiselas and Jordy Meiselas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538787175.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1b66bec9-f188-5e23-9f7e-b4b8e63b4ee1",
+      "contributor": "by Ben Meiselas, Brett Meiselas and Jordy Meiselas",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:57.532Z",
+      "dagger": 0,
+      "description": "The founders of the independent news network MeidasTouch give their take on our current political and social climate.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538787175",
+      "publisher": "Grand Central",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "WTF AMERICA?!",
+      "updated_date": "2026-10-28T17:27:57.532Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538787175"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1538787172?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538787175?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538787175&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwtf-america-ben-meiselas%2F1150774464%3Fean%3D9781538787175&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWtf-America%2FBen-Meiselas%2F9781538787175"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538787175"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1546012273?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Newt Gingrich",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546012276.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/02d2f51e-3540-5a29-8d64-03142b9d2907",
+      "contributor": "by Newt Gingrich",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:57.676Z",
+      "dagger": 1,
+      "description": "The former speaker of the House prognosticates about the future of our country based on developments in technology and the actions of President Trump.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781546012276",
+      "publisher": "Center Street",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "AMERICA'S GOLDEN AGE",
+      "updated_date": "2026-10-28T17:27:57.676Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781546012276"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1546012273?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781546012276?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546012276&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Famericas-golden-age-newt-gingrich%2F1149652784%3Fean%3D9781546012276&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmericas-Golden-Age%2FNewt-Gingrich%2F9781546012276"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781546012276"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GSYJP51M?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andy Cohen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217090143.jpg",
+      "book_image_height": 500,
+      "book_image_width": 415,
+      "book_review_link": "",
+      "book_uri": "nyt://book/553baf48-d9eb-5f30-b9b3-82d3e0e61201",
+      "contributor": "by Andy Cohen",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:57.817Z",
+      "dagger": 0,
+      "description": "The Emmy Award–winning host shares recollections and photographs from reality TV over two decades.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217090143",
+      "publisher": "Andy Cohen",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "ANDY'S BRAVO SCRAPBOOK",
+      "updated_date": "2026-10-28T17:27:57.817Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217090143"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GSYJP51M?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217090143?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217090143&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fandys-bravo-scrapbook-andy-cohen%2F1149929848%3Fean%3D9798217090143&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAndys-Bravo-Scrapbook%2FAndy-Cohen%2F9798217090143"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217090143"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Brian Kilmeade",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063490031.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e7347b6f-7e37-51ad-a4e8-808dbbb44679",
+      "contributor": "by Brian Kilmeade",
+      "contributor_note": "",
+      "created_date": "2026-10-28T18:18:35.314Z",
+      "dagger": 0,
+      "description": "A co-host of “Fox & Friends” portrays contributions made by six key people around the time of the formation of our country.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063490031",
+      "publisher": "Morrow",
+      "rank": 5,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "UNITING THE STATES",
+      "updated_date": "2026-10-28T18:18:35.314Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063490031"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063490017?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063490031&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funiting-the-states-brian-kilmeade%2F1149444205%3Fean%3D9780063490031&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUniting-States%2FBrian-Kilmeade%2F9780063490031"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063490031"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Jay Stratton",
       "book_image": "https://static01.nyt.com/bestsellers/images/9780063384538.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/a2bf5e57-d4b9-5b02-9571-4902067519e4",
       "contributor": "by Jay Stratton",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:30.982Z",
+      "created_date": "2026-10-28T18:13:19.163Z",
       "dagger": 0,
       "description": "A former senior U.S. intelligence official gives his account of investigations into unidentified anomalous phenomena and non-human intelligent life.",
       "first_chapter_link": "",
@@ -84,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063384538",
       "publisher": "Morrow",
-      "rank": 2,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "OUT OF THE SHADOWS",
-      "updated_date": "2026-10-21T17:29:30.982Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-10-28T18:13:19.163Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -99,14 +323,14 @@
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063384531?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
         },
         {
           "name": "Apple Books",
           "url": "https://goto.applebooks.apple/9780063384538?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063384538&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fout-of-the-shadows-jay-stratton%2F1150306489%3Fean%3D9780063384538&intsrc=APIG_15890"
         },
         {
@@ -116,118 +340,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780063384538"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Adam Grant",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059706.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/03dd7c47-d4a5-552a-8b70-23d241bfbd77",
-      "contributor": "by Adam Grant",
-      "contributor_note": "",
-      "created_date": "2026-10-21T17:53:19.896Z",
-      "dagger": 0,
-      "description": "The author of “Think Again” delves into what might reinforce the strengths or exacerbate the weaknesses of bonds within relationships.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217059706",
-      "publisher": "Viking",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "VIBE",
-      "updated_date": "2026-10-21T17:53:19.896Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217059706"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217059713?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059706&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fvibe-adam-grant%2F1149158802%3Fean%3D9798217059706&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVibe%2FAdam-Grant%2F9798217059706"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217059706"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Michael Douglas with Shane Salerno and Michael Fleming Jr",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538782224.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f009c812-9008-5dfb-8f90-24734b752a5a",
-      "contributor": "by Michael Douglas with Shane Salerno and Michael Fleming Jr",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.876Z",
-      "dagger": 0,
-      "description": "The Hollywood icon shares stories about his career and relationships.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781538782224",
-      "publisher": "Grand Central",
-      "rank": 4,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "ONE HELLUVA RIDE",
-      "updated_date": "2026-10-14T17:13:58.876Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781538782224"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538782224?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538782224&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-helluva-ride-michael-douglas%2F1150521542%3Fean%3D9781538782224&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOne-Helluva-Ride%2FMichael-Douglas%2F9781538782224"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538782224"
         }
       ]
     },
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781324131656",
       "publisher": "Norton",
-      "rank": 5,
-      "rank_last_week": 2,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "BLOCKERS",
       "updated_date": "2026-10-14T17:13:59.02Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -289,62 +401,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Brian Kilmeade",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063490031.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/e7347b6f-7e37-51ad-a4e8-808dbbb44679",
-      "contributor": "by Brian Kilmeade",
-      "contributor_note": "",
-      "created_date": "2026-10-21T17:29:31.26Z",
-      "dagger": 0,
-      "description": "A co-host of “Fox & Friends” portrays contributions made by six key people around the time of the formation of our country.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063490031",
-      "publisher": "Morrow",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "UNITING THE STATES",
-      "updated_date": "2026-10-21T17:29:31.26Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063490031"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/006349003X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063490031?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063490031&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funiting-the-states-brian-kilmeade%2F1149444205%3Fean%3D9780063490031&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUniting-States%2FBrian-Kilmeade%2F9780063490031"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063490031"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0063443910?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063443914",
       "publisher": "Morrow",
-      "rank": 7,
-      "rank_last_week": 3,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE STEPS",
       "updated_date": "2026-10-07T18:18:45.124Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -401,57 +457,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GGYQNWHJ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Charles Spencer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217379743.jpg",
+      "author": "Jennica Pounds and Joshua Lisec",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798901160626.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/c262d874-79c3-5cad-bc05-39a2c97051b5",
-      "contributor": "by Charles Spencer",
+      "book_uri": "nyt://book/a43aa484-a55b-5b45-a42f-baf097d3ae04",
+      "contributor": "by Jennica Pounds and Joshua Lisec",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.679Z",
+      "created_date": "2026-10-28T17:27:57.959Z",
       "dagger": 0,
-      "description": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death.",
+      "description": "A data analyst blames non-governmental organizations for the current state of our economy.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217379743",
-      "publisher": "Penguin Press",
-      "rank": 8,
-      "rank_last_week": 4,
+      "primary_isbn13": "9798901160626",
+      "publisher": "Passage",
+      "rank": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "SWAN SONG",
-      "updated_date": "2026-09-30T18:09:31.679Z",
-      "weeks_on_list": 4,
+      "title": "UNELECTED",
+      "updated_date": "2026-10-28T17:27:57.959Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217379743"
+          "isbn13": "9798901160626"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GGYQNWHJ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217379743?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798901160626?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217379743&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fswan-song-charles-spencer%2F1151113422%3Fean%3D9798217379743&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798901160626&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funelected-jennica-pounds%2F1149199075%3Fean%3D9798901160626&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSwan-Song-Diana-my-sister%2FCharles-Spencer%2F9798217379743"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUnelected%2FJennica-Pounds%2F9798901160626"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217379743"
+          "url": "https://bookshop.org/a/3546/9798901160626"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Grant",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217059706.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/03dd7c47-d4a5-552a-8b70-23d241bfbd77",
+      "contributor": "by Adam Grant",
+      "contributor_note": "",
+      "created_date": "2026-10-21T17:53:19.896Z",
+      "dagger": 0,
+      "description": "The author of “Think Again” delves into what might reinforce the strengths or exacerbate the weaknesses of bonds within relationships.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217059706",
+      "publisher": "Viking",
+      "rank": 10,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "VIBE",
+      "updated_date": "2026-10-21T17:53:19.896Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217059706"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GPHPNZ14?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217059713?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217059706&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fvibe-adam-grant%2F1149158802%3Fean%3D9798217059706&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVibe%2FAdam-Grant%2F9798217059706"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217059706"
         }
       ]
     },
@@ -476,12 +588,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316603782",
       "publisher": "Little, Brown",
-      "rank": 9,
-      "rank_last_week": 6,
+      "rank": 11,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE AMERICAN WAY OF KILLING",
       "updated_date": "2026-10-07T18:18:45.249Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -513,169 +625,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/132412363X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Peter King",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324123637.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0d0d3083-0a38-5bc3-8fc4-2a0548580910",
-      "contributor": "by Peter King",
-      "contributor_note": "",
-      "created_date": "2026-10-21T17:29:31.381Z",
-      "dagger": 0,
-      "description": "The rise of the National Football League over the last four decades told through the stories of some of the players, teams, coaches and controversies.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781324123637",
-      "publisher": "Norton",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE GAME",
-      "updated_date": "2026-10-21T17:29:31.381Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781324123637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/132412363X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324123637?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324123637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-game-peter-king%2F1100302006%3Fean%3D9781324123637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGame%2FPeter-King%2F9781324123637"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324123637"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063454955?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kerry Kennedy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063454958.jpg",
+      "author": "Michael Douglas with Shane Salerno and Michael Fleming Jr",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538782224.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/9089e507-3a6a-53e4-80da-5429572aec4b",
-      "contributor": "by Kerry Kennedy",
+      "book_uri": "nyt://book/f009c812-9008-5dfb-8f90-24734b752a5a",
+      "contributor": "by Michael Douglas with Shane Salerno and Michael Fleming Jr",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:31.524Z",
+      "created_date": "2026-10-14T17:13:58.876Z",
       "dagger": 0,
-      "description": "The daughter of Ethel Kennedy depicts her mother’s working-class background, marriage to Robert F. Kennedy and work in human rights.",
+      "description": "The Hollywood icon shares stories about his career and relationships.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063454958",
-      "publisher": "HarperOne",
-      "rank": 11,
-      "rank_last_week": 0,
+      "primary_isbn13": "9781538782224",
+      "publisher": "Grand Central",
+      "rank": 12,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "ETHEL KENNEDY",
-      "updated_date": "2026-10-21T17:29:31.524Z",
-      "weeks_on_list": 1,
+      "title": "ONE HELLUVA RIDE",
+      "updated_date": "2026-10-14T17:13:58.876Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063454958"
+          "isbn13": "9781538782224"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063454955?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1538782227?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063454958?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781538782224?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063454958&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fethel-kennedy-kerry-kennedy%2F1149552630%3Fean%3D9780063454958&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538782224&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fone-helluva-ride-michael-douglas%2F1150521542%3Fean%3D9781538782224&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEthel-Kennedy%2FKerry-Kennedy%2F9780063454958"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOne-Helluva-Ride%2FMichael-Douglas%2F9781538782224"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063454958"
+          "url": "https://bookshop.org/a/3546/9781538782224"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593655273?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "David Byrne",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593655276.jpg",
+      "author": "Charles Spencer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217379743.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/10/07/books/review/sleeping-beauties-david-byrne.html",
-      "book_uri": "nyt://book/60819f66-c742-5bf6-9519-c1bd7def0f26",
-      "contributor": "by David Byrne",
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/c262d874-79c3-5cad-bc05-39a2c97051b5",
+      "contributor": "by Charles Spencer",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:59.874Z",
+      "created_date": "2026-09-30T18:09:31.679Z",
       "dagger": 0,
-      "description": "The co-founder of Talking Heads and multidisciplinary artist shares insights on how innovations get reawakened.",
+      "description": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593655276",
+      "primary_isbn13": "9798217379743",
       "publisher": "Penguin Press",
-      "rank": 12,
-      "rank_last_week": 13,
+      "rank": 13,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "SLEEPING BEAUTIES",
-      "updated_date": "2026-10-14T17:13:59.874Z",
-      "weeks_on_list": 2,
+      "title": "SWAN SONG",
+      "updated_date": "2026-09-30T18:09:31.679Z",
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593655276"
+          "isbn13": "9798217379743"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593655273?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GZ6YK1L6?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593655276?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217379743?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593655276&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsleeping-beauties-david-byrne%2F1149916072%3Fean%3D9780593655276&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217379743&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fswan-song-charles-spencer%2F1151113422%3Fean%3D9798217379743&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSleeping-Beauties%2FDavid-Byrne%2F9780593655276"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSwan-Song-Diana-my-sister%2FCharles-Spencer%2F9798217379743"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593655276"
+          "url": "https://bookshop.org/a/3546/9798217379743"
         }
       ]
     },
@@ -700,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780143127741",
       "publisher": "Penguin",
-      "rank": 13,
-      "rank_last_week": 12,
+      "rank": 14,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 317,
+      "weeks_on_list": 318,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +793,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400260272?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1648213022?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Terry Bradshaw with David Fisher",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400260270.jpg",
+      "author": "Peter Navarro",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781648213021.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 334,
       "book_review_link": "",
-      "book_uri": "nyt://book/18da8653-16f9-58b2-8d8a-0e5b128906c9",
-      "contributor": "by Terry Bradshaw with David Fisher",
+      "book_uri": "nyt://book/83f3d92c-fb12-5e9c-ba95-61d309d2ef81",
+      "contributor": "by Peter Navarro",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:31.672Z",
-      "dagger": 0,
-      "description": "The Hall of Fame quarterback who became a N.F.L. broadcaster describes personal difficulties he encountered.",
+      "created_date": "2026-10-28T17:27:58.102Z",
+      "dagger": 1,
+      "description": "The senior counselor and assistant to the president in the Trump White House assesses the work of the former chief medical adviser to the president.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400260270",
-      "publisher": "Harper Select",
-      "rank": 14,
+      "primary_isbn13": "9781648213021",
+      "publisher": "War Room",
+      "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LOOKING FOR TERRY",
-      "updated_date": "2026-10-21T17:29:31.672Z",
+      "title": "WHY FAUCI MUST ROT IN PRISON",
+      "updated_date": "2026-10-28T17:27:58.102Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400260270"
+          "isbn13": "9781648213021"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400260272?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1648213022?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400260270?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781648213021?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400260270&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flooking-for-terry-terry-bradshaw%2F1149641278%3Fean%3D9781400260270&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781648213021&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-fauci-must-rot-in-prison-peter-navarro%2F1151103423%3Fean%3D9781648213021&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLooking-Terry%2FTerry-Bradshaw%2F9781400260270"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFauci-Must-Rot-Prison%2FPeter-Navarro%2F9781648213021"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400260270"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250344484?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Christine Kuehn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250344489.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b4973abf-c015-58d1-a90f-1f1d89b6b007",
-      "contributor": "by Christine Kuehn",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:14:00Z",
-      "dagger": 0,
-      "description": "The story of a family that worked as Japanese and Nazi spies during World War II.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250344489",
-      "publisher": "Celadon",
-      "rank": 15,
-      "rank_last_week": 15,
-      "sunday_review_link": "",
-      "title": "FAMILY OF SPIES",
-      "updated_date": "2026-10-14T17:14:00Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250344489"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250344484?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250344489?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250344489&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamily-of-spies-christine-kuehn%2F1147066529%3Fean%3D9781250344489&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamily-Spies%2FChristine-Kuehn%2F9781250344489"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250344489"
+          "url": "https://bookshop.org/a/3546/9781648213021"
         }
       ]
     }

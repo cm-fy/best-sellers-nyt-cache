@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/c9790eab-81f6-56a7-9de6-43e446c4b34a",
+  "uri": "nyt://bestsellerslist/c76beb13-9aca-58fc-a34e-3483df5cd7f0",
   "books": [
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1419782703?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jeff Kinney",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781419782701.jpg",
+      "book_image_height": 500,
+      "book_image_width": 341,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1a893819-48d9-5ade-997a-a58e4bd8827f",
+      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
+      "contributor_note": "Illustrated by Jeff Kinney",
+      "created_date": "2026-10-28T17:27:54.723Z",
+      "dagger": 0,
+      "description": "The travails and challenges of adolescence. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781419782701",
+      "publisher": "Amulet",
+      "rank": 1,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "DIARY OF A WIMPY KID",
+      "updated_date": "2026-10-28T17:27:54.723Z",
+      "weeks_on_list": 919,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781419782701"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1419782703?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781419782701?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419782701&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffight-or-flight-jeff-kinney%2F1149321315%3Fean%3D9781419782701&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFight-Flight-Diary-Wimpy-Kid%2FJeff-Kinney%2F9781419782701"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781419782701"
+        }
+      ]
+    },
     {
       "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/1546171606?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546171607",
       "publisher": "Scholastic",
-      "rank": 1,
-      "rank_last_week": 2,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 445,
+      "weeks_on_list": 446,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780545791441",
       "publisher": "Scholastic",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-10-14T17:13:55.157Z",
-      "weeks_on_list": 917,
+      "weeks_on_list": 918,
       "isbns": [
         {
           "isbn10": "",
@@ -121,62 +177,6 @@
     },
     {
       "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeff Kinney",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781419782695.jpg",
-      "book_image_height": 500,
-      "book_image_width": 340,
-      "book_review_link": "",
-      "book_uri": "nyt://book/66984c6d-dc3b-5b77-9b25-295fe913478a",
-      "contributor": "by Jeff Kinney. Illustrated by Jeff Kinney",
-      "contributor_note": "Illustrated by Jeff Kinney",
-      "created_date": "2026-03-12T21:08:22.271Z",
-      "dagger": 0,
-      "description": "The travails and challenges of adolescence. (Ages 9 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781419782695",
-      "publisher": "Amulet",
-      "rank": 3,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "DIARY OF A WIMPY KID",
-      "updated_date": "2026-03-12T21:08:22.271Z",
-      "weeks_on_list": 918,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781419782695"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/141978269X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781419782695?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419782695&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartypooper-jeff-kinney%2F1147057877%3Fean%3D9781419782695&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartypooper-Diary-Wimpy-Kid-Book%2FJeff-Kinney%2F9781419782695"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781419782695"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
       "rank": 4,
-      "rank_last_week": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 58,
+      "weeks_on_list": 59,
       "isbns": [
         {
           "isbn10": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9780316599399",
       "publisher": "Little, Brown",
       "rank": 5,
-      "rank_last_week": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE TWILIGHT SAGA",
       "updated_date": "2026-10-14T17:13:55.31Z",
-      "weeks_on_list": 293,
+      "weeks_on_list": 294,
       "isbns": [
         {
           "isbn10": "",
@@ -288,114 +288,58 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1665986719?tag=thenewyorktim-20",
+      "age_group": "Ages 7 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Stuart Gibbs",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665986717.jpg",
-      "book_image_height": 500,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c04d5029-8d5d-5615-879f-5dedae8d53b5",
-      "contributor": "by Stuart Gibbs",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:55.449Z",
-      "dagger": 0,
-      "description": "In a case of mistaken identity, a boy is recruited into a junior C.I.A. academy. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665986717",
-      "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "SPY SCHOOL",
-      "updated_date": "2026-10-14T17:13:55.449Z",
-      "weeks_on_list": 19,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665986717"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665986719?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665986717?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665986717&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fspy-school-goes-east-stuart-gibbs%2F1149526078%3Fean%3D9781665986717&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSpy-School-Goes-East%2FStuart-Gibbs%2F9781665986717"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665986717"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250462037?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Stephanie Garber",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250462039.jpg",
+      "author": "Peter Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316382007.jpg",
       "book_image_height": 500,
       "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/67618d15-8760-52d6-857d-c428e02147a0",
-      "contributor": "by Stephanie Garber",
+      "book_uri": "nyt://book/58650411-6a43-5082-89a6-9e2c62832d2f",
+      "contributor": "by Peter Brown",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:36.792Z",
+      "created_date": "2026-06-17T17:38:16.173Z",
       "dagger": 0,
-      "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250462039",
-      "publisher": "Flatiron",
-      "rank": 7,
-      "rank_last_week": 7,
+      "primary_isbn13": "9780316382007",
+      "publisher": "Little, Brown",
+      "rank": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "ONCE UPON A BROKEN HEART",
-      "updated_date": "2026-10-07T18:18:36.792Z",
-      "weeks_on_list": 31,
+      "title": "THE WILD ROBOT",
+      "updated_date": "2026-06-17T17:38:16.173Z",
+      "weeks_on_list": 140,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250462039"
+          "isbn13": "9780316382007"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250462037?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316382000?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250462039?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316382007?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250462039&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mirror-of-infinite-endings-stephanie-garber%2F1149447811%3Fean%3D9781250462039&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316382007&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1122451135%3Fean%3D9780316382007&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMirror-Infinite-Endings%2FStephanie-Garber%2F9781250462039"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316382007"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250462039"
+          "url": "https://bookshop.org/a/3546/9780316382007"
         }
       ]
     },
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780544336261",
       "publisher": "Clarion",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "GIVER QUARTET",
       "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 187,
+      "weeks_on_list": 188,
       "isbns": [
         {
           "isbn10": "",
@@ -456,62 +400,6 @@
       ]
     },
     {
-      "age_group": "Ages 7 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Peter Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316581097.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/757f1518-d1fd-5a6b-bf5b-4778f7cdd775",
-      "contributor": "by Peter Brown",
-      "contributor_note": "",
-      "created_date": "2026-05-20T18:34:32.318Z",
-      "dagger": 0,
-      "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316581097",
-      "publisher": "Little, Brown",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "THE WILD ROBOT",
-      "updated_date": "2026-05-20T18:34:32.318Z",
-      "weeks_on_list": 139,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316581097"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316581097?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316581097?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316581097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wild-robot-peter-brown%2F1146354980%3Fean%3D9780316581097&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWild-Robot%2FPeter-Brown%2F9780316581097"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316581097"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 6 to 9",
       "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -532,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375813658",
       "publisher": "Stepping Stone/Random House",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "MAGIC TREE HOUSE",
       "updated_date": "2026-05-20T18:34:32.732Z",
-      "weeks_on_list": 344,
+      "weeks_on_list": 345,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +452,118 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9780375813658"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250462037?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Stephanie Garber",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250462039.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/67618d15-8760-52d6-857d-c428e02147a0",
+      "contributor": "by Stephanie Garber",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:36.792Z",
+      "dagger": 0,
+      "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250462039",
+      "publisher": "Flatiron",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "ONCE UPON A BROKEN HEART",
+      "updated_date": "2026-10-07T18:18:36.792Z",
+      "weeks_on_list": 32,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250462039"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250462037?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250462039?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250462039&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-mirror-of-infinite-endings-stephanie-garber%2F1149447811%3Fean%3D9781250462039&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMirror-Infinite-Endings%2FStephanie-Garber%2F9781250462039"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250462039"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 9 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rick Riordan",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
+      "book_image_height": 500,
+      "book_image_width": 340,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f7e4a633-4c86-5c95-a745-6358eabf884f",
+      "contributor": "by Rick Riordan",
+      "contributor_note": "",
+      "created_date": "2026-05-20T18:34:32.452Z",
+      "dagger": 0,
+      "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781368051477",
+      "publisher": "Disney-Hyperion",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "PERCY JACKSON & THE OLYMPIANS",
+      "updated_date": "2026-05-20T18:34:32.452Z",
+      "weeks_on_list": 849,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781368051477"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1368051472?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781368051477?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781368051477&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lightning-thief-rick-riordan%2F1100190320%3Fean%3D9781368051477&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPercy-Jackson-Olympians-Book-One%2FRick-Riordan%2F9781368051477"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781368051477"
         }
       ]
     }

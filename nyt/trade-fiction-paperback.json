@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/7c68b530-afa0-5ff6-a572-75c4197e8e07",
+  "uri": "nyt://bestsellerslist/04c7b514-9823-5a10-868e-992d612460b8",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 47,
+      "weeks_on_list": 48,
       "isbns": [
         {
           "isbn10": "",
@@ -65,6 +65,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464243689?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Meghan Quinn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464243684.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
+      "book_review_link": "",
+      "book_uri": "nyt://book/2f82462f-c266-5696-870c-ac19b70b35bb",
+      "contributor": "by Meghan Quinn",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:57.271Z",
+      "dagger": 0,
+      "description": "The third book in the How My Neighbor Stole Christmas series. Taran is caught between brothers this holiday season.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464243684",
+      "publisher": "Bloom",
+      "rank": 2,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CHRISTMAS STAYCATION",
+      "updated_date": "2026-10-28T17:27:57.271Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464243684"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464243689?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464243684?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464243684&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchristmas-staycation-meghan-quinn%2F1148885077%3Fean%3D9781464243684&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChristmas-Staycation-Deluxe%2FMeghan-Quinn%2F9781464243684"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464243684"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 2,
-      "rank_last_week": 3,
+      "rank": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-10-21T17:57:40.507Z",
-      "weeks_on_list": 42,
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-10-14T17:25:10.669Z",
-      "weeks_on_list": 166,
+      "weeks_on_list": 167,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249617",
       "publisher": "Poisoned Pen",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "BRAIN DAMAGE",
       "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 9,
+      "weeks_on_list": 10,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +289,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
-      "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
-      "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 69,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593135228"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781635575569",
       "publisher": "Bloomsbury",
       "rank": 6,
-      "rank_last_week": 10,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "A COURT OF THORNS AND ROSES",
       "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 92,
+      "weeks_on_list": 93,
       "isbns": [
         {
           "isbn10": "",
@@ -345,174 +345,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ali Hazelwood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217192359.jpg",
-      "book_image_height": 462,
-      "book_image_width": 500,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8f2b8260-8b34-5b17-81b2-74c8099b4ebc",
-      "contributor": "by Ali Hazelwood",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.737Z",
-      "dagger": 0,
-      "description": "Two paranormal romance novellas tell stories of relationships between unlikely pairs brought together by secrets and vengeance.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217192359",
-      "publisher": "Berkley",
-      "rank": 7,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "BOUND AND UNBOUND",
-      "updated_date": "2026-10-14T17:13:58.737Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217192359"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217192359?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217192359&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbound-and-unbound-ali-hazelwood%2F1150175498%3Fean%3D9798217192359&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBound-Unbound%2FAli-Hazelwood%2F9798217192359"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217192359"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ali Hazelwood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8dcf02f0-c291-571b-ad6b-413b5279252b",
-      "contributor": "by Ali Hazelwood",
-      "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.157Z",
-      "dagger": 0,
-      "description": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593336823",
-      "publisher": "Berkley",
-      "rank": 8,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE LOVE HYPOTHESIS",
-      "updated_date": "2026-09-02T18:40:14.157Z",
-      "weeks_on_list": 49,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593336823"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593336828?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593336823?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593336823&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-love-hypothesis-ali-hazelwood%2F1138635323%3Fean%3D9780593336823&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLOVE%2BHYPOTHESIS%2FAli%2BHazelwood%2F9780593336823"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593336823"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Matt Dinniman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
-      "contributor": "by Matt Dinniman",
-      "contributor_note": "",
-      "created_date": "2026-08-12T18:23:45.637Z",
-      "dagger": 0,
-      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593820278",
-      "publisher": "Ace",
-      "rank": 9,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "CARL'S DOOMSDAY SCENARIO",
-      "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593820278"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593820278"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 10,
-      "rank_last_week": 14,
+      "rank": 7,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -569,113 +401,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rebecca Yarros",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
+      "author": "Matt Dinniman",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
       "book_image_height": 500,
-      "book_image_width": 309,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
-      "contributor": "by Rebecca Yarros",
+      "book_uri": "nyt://book/71284d84-97dc-52c6-b981-d18fb2b77de4",
+      "contributor": "by Matt Dinniman",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:40.46Z",
+      "created_date": "2026-08-12T18:23:45.637Z",
       "dagger": 0,
-      "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+      "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781649377371",
-      "publisher": "Red Tower",
-      "rank": 11,
-      "rank_last_week": 15,
+      "primary_isbn13": "9780593820278",
+      "publisher": "Ace",
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "FOURTH WING",
-      "updated_date": "2026-10-07T18:18:40.46Z",
-      "weeks_on_list": 53,
+      "title": "CARL'S DOOMSDAY SCENARIO",
+      "updated_date": "2026-08-12T18:23:45.637Z",
+      "weeks_on_list": 12,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781649377371"
+          "isbn13": "9780593820278"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593820274?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593820278?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649377371&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649377371&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593820278&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcarls-doomsday-scenario-matt-dinniman%2F1145070342%3Fean%3D9780593820278&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820278"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649377371"
+          "url": "https://bookshop.org/a/3546/9780593820278"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/4458a99f-200e-54cc-9fc5-d4f2ad0070b0",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:29:20.005Z",
+      "created_date": "2026-05-20T22:02:25.385Z",
       "dagger": 0,
-      "description": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781728296166",
-      "publisher": "Poisoned Pen",
-      "rank": 12,
-      "rank_last_week": 11,
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 9,
+      "rank_last_week": 5,
       "sunday_review_link": "",
-      "title": "NEVER LIE",
-      "updated_date": "2026-10-14T17:29:20.005Z",
-      "weeks_on_list": 32,
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 70,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781728296166"
+          "isbn13": "9780593135228"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://books.apple.com/us/audiobook/never-lie/id1648157377"
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728296166&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-lie-freida-mcfadden%2F1142398233%3Fean%3D9781728296166&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BLIE%2FFreida%2BMcFadden%2F9781728296166"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728296166"
+          "url": "https://bookshop.org/a/3546/9780593135228"
         }
       ]
     },
@@ -700,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249631",
       "publisher": "Poisoned Pen",
-      "rank": 13,
-      "rank_last_week": 9,
+      "rank": 10,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "THE DIVORCE",
       "updated_date": "2026-06-03T18:55:48.983Z",
-      "weeks_on_list": 18,
+      "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
@@ -737,57 +569,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Josh Silver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798892426374.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Ali Hazelwood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217192359.jpg",
+      "book_image_height": 462,
+      "book_image_width": 500,
       "book_review_link": "",
-      "book_uri": "nyt://book/6018f667-1466-5fab-ba78-419baa532d49",
-      "contributor": "by Josh Silver",
+      "book_uri": "nyt://book/8f2b8260-8b34-5b17-81b2-74c8099b4ebc",
+      "contributor": "by Ali Hazelwood",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:29.341Z",
+      "created_date": "2026-10-14T17:13:58.737Z",
       "dagger": 0,
-      "description": "A writer who is severely blocked claims a struggling addict’s story as her own.",
+      "description": "Two paranormal romance novellas tell stories of relationships between unlikely pairs brought together by secrets and vengeance.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798892426374",
-      "publisher": "Crooked Lane",
-      "rank": 14,
-      "rank_last_week": 0,
+      "primary_isbn13": "9798217192359",
+      "publisher": "Berkley",
+      "rank": 11,
+      "rank_last_week": 7,
       "sunday_review_link": "",
-      "title": "FRUIT FLY",
-      "updated_date": "2026-10-21T17:29:29.341Z",
-      "weeks_on_list": 2,
+      "title": "BOUND AND UNBOUND",
+      "updated_date": "2026-10-14T17:13:58.737Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798892426374"
+          "isbn13": "9798217192359"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798892426374?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217192359?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798892426374&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffruit-fly-josh-silver%2F1147593193%3Fean%3D9798892426374&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217192359&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbound-and-unbound-ali-hazelwood%2F1150175498%3Fean%3D9798217192359&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFruit-Fly%2FJosh-Silver%2F9798892426374"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBound-Unbound%2FAli-Hazelwood%2F9798217192359"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798892426374"
+          "url": "https://bookshop.org/a/3546/9798217192359"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rebecca Yarros",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
+      "book_image_height": 500,
+      "book_image_width": 309,
+      "book_review_link": "",
+      "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
+      "contributor": "by Rebecca Yarros",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:40.46Z",
+      "dagger": 0,
+      "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781649377371",
+      "publisher": "Red Tower",
+      "rank": 12,
+      "rank_last_week": 11,
+      "sunday_review_link": "",
+      "title": "FOURTH WING",
+      "updated_date": "2026-10-07T18:18:40.46Z",
+      "weeks_on_list": 54,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781649377371"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649377371&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649377371&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781649377371"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464261857?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Elizabeth Helen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464261855.jpg",
+      "book_image_height": 500,
+      "book_image_width": 394,
+      "book_review_link": "",
+      "book_uri": "nyt://book/8e909aa3-c5dd-5e8a-8da7-6bd7789f4bef",
+      "contributor": "by Elizabeth Helen",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:55.793Z",
+      "dagger": 0,
+      "description": "The seventh book in the Beasts of the Briar series. Disparate forces must join together for one final fight.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464261855",
+      "publisher": "Bloom",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "CROWNED BY ROSES",
+      "updated_date": "2026-10-28T17:27:55.793Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464261855"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464261857?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464261855?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464261855&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrowned-by-roses-elizabeth-helen%2F1149718023%3Fean%3D9781464261855&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrowned-Roses-Deluxe%2FElizabeth-Helen%2F9781464261855"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464261855"
         }
       ]
     },
@@ -812,12 +756,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250178640",
       "publisher": "St. Martin's Griffin",
-      "rank": 15,
-      "rank_last_week": 0,
+      "rank": 14,
+      "rank_last_week": 15,
       "sunday_review_link": "",
       "title": "THE WOMEN",
       "updated_date": "2026-09-23T18:21:02.583Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -844,6 +788,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781250178640"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4458a99f-200e-54cc-9fc5-d4f2ad0070b0",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:29:20.005Z",
+      "dagger": 0,
+      "description": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728296166",
+      "publisher": "Poisoned Pen",
+      "rank": 15,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "NEVER LIE",
+      "updated_date": "2026-10-14T17:29:20.005Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728296166"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://books.apple.com/us/audiobook/never-lie/id1648157377"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728296166&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-lie-freida-mcfadden%2F1142398233%3Fean%3D9781728296166&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BLIE%2FFreida%2BMcFadden%2F9781728296166"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728296166"
         }
       ]
     }

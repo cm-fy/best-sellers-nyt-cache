@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/671d92d6-f7f7-5166-8dbf-31c951ca0d6f",
+  "uri": "nyt://bestsellerslist/66527b75-d034-5326-b220-f8d5772bf223",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0593234170?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ina Garten",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593234174.jpg",
+      "book_image_height": 500,
+      "book_image_width": 381,
+      "book_review_link": "",
+      "book_uri": "nyt://book/48b8ec97-110c-57dc-8e69-6389607bfbb0",
+      "contributor": "by Ina Garten",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:55.954Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593234174",
+      "publisher": "Clarkson Potter",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SIMPLY INA",
+      "updated_date": "2026-10-28T17:27:55.954Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593234174"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593234170?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593234174?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593234174&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsimply-ina-ina-garten%2F1149724863%3Fean%3D9780593234174&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSimply-Ina%2FIna-Garten%2F9780593234174"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593234174"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400356829",
       "publisher": "Thomas Nelson",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "CONTEND",
       "updated_date": "2026-10-21T17:29:29.474Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,57 +121,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250369622?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Erin French with Rachel Holtzman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250369628.jpg",
+      "author": "Ethan Mollick",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181391.jpg",
       "book_image_height": 500,
-      "book_image_width": 375,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/2e2fef69-7be2-5e38-aee2-09df1c6cf594",
-      "contributor": "by Erin French with Rachel Holtzman",
+      "book_uri": "nyt://book/6b3788b5-0328-5560-859c-ef60624ac1fe",
+      "contributor": "by Ethan Mollick",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:29.603Z",
+      "created_date": "2026-10-28T17:27:56.101Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250369628",
-      "publisher": "Celadon",
-      "rank": 2,
+      "primary_isbn13": "9798217181391",
+      "publisher": "Portfolio",
+      "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE LOST KITCHEN VOLUME 3: SEIZE THE SUPPER",
-      "updated_date": "2026-10-21T17:29:29.603Z",
+      "title": "CO-EXISTENCE",
+      "updated_date": "2026-10-28T17:27:56.101Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250369628"
+          "isbn13": "9798217181391"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250369622?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250369628?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217181391?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250369628&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-lost-kitchen-volume-3-erin-french%2F1149804929%3Fean%3D9781250369628&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181391&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fco-existence-ethan-mollick%2F1150229796%3Fean%3D9798217181391&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLost-Kitchen%2FErin-French%2F9781250369628"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCo-Existence%2FEthan-Mollick%2F9798217181391"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250369628"
+          "url": "https://bookshop.org/a/3546/9798217181391"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mel Robbins and Sawyer Robbins",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+      "contributor": "by Mel Robbins and Sawyer Robbins",
+      "contributor_note": "",
+      "created_date": "2026-10-22T19:42:06.651Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781401971366",
+      "publisher": "Hay House",
+      "rank": 4,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE LET THEM THEORY",
+      "updated_date": "2026-10-22T19:42:06.651Z",
+      "weeks_on_list": 96,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781401971366"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781401971366"
         }
       ]
     },
@@ -140,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781668032145",
       "publisher": "Simon Element",
-      "rank": 3,
-      "rank_last_week": 4,
+      "rank": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "PROTOCOLS",
       "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 4,
-      "rank_last_week": 9,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-10-21T18:00:43.614Z",
-      "weeks_on_list": 359,
+      "weeks_on_list": 360,
       "isbns": [
         {
           "isbn10": "",
@@ -233,337 +345,225 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593799909?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
+      "author": "Ayesha Nurdjaja with Casey Elsass",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593799901.jpg",
       "book_image_height": 500,
-      "book_image_width": 392,
+      "book_image_width": 415,
       "book_review_link": "",
-      "book_uri": "nyt://book/9b3c4b0a-8798-5042-9982-26a70275ba27",
-      "contributor": "by Dolly Parton and Rachel Parton George with Maurice Miner",
+      "book_uri": "nyt://book/aef09c76-61ee-59e8-964f-cd7868c16b88",
+      "contributor": "by Ayesha Nurdjaja with Casey Elsass",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:14.733Z",
+      "created_date": "2026-10-28T17:27:56.253Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781984863164",
-      "publisher": "Ten Speed",
-      "rank": 5,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "GOOD LOOKIN' COOKIN'",
-      "updated_date": "2026-09-02T18:40:14.733Z",
-      "weeks_on_list": 17,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781984863164"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781984863164?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgood-lookin-cookin-dolly-parton%2F1144953293%3Fean%3D9781984863164&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOOD%2BLOOKIN%2527%2BCOOKIN%2527%2FDolly%2BParton%2Band%2BRachel%2BParton%2BGeorge%2Bwith%2BMaurice%2BMiner%2F9781984863164"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781984863164"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Mel Robbins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781401971366.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
-      "contributor": "by Mel Robbins",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:19.513Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781401971366",
-      "publisher": "Hay House",
-      "rank": 6,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE LET THEM THEORY",
-      "updated_date": "2026-03-04T23:40:19.513Z",
-      "weeks_on_list": 95,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781401971366"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781401971366?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781401971366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-let-them-theory-mel-robbins%2F1146342595%3Fean%3D9781401971366&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781401971366"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063459086?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Nara Aziza Smith",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063459083.jpg",
-      "book_image_height": 500,
-      "book_image_width": 397,
-      "book_review_link": "",
-      "book_uri": "nyt://book/dad97b25-360c-5824-bd26-953a5780b074",
-      "contributor": "by Nara Aziza Smith",
-      "contributor_note": "",
-      "created_date": "2026-10-21T17:29:29.956Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063459083",
-      "publisher": "Morrow",
+      "primary_isbn13": "9780593799901",
+      "publisher": "Clarkson Potter",
       "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "HOMEMADE",
-      "updated_date": "2026-10-21T17:29:29.956Z",
+      "title": "MEDITERRANEAN ALL THE WAY",
+      "updated_date": "2026-10-28T17:27:56.253Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063459083"
+          "isbn13": "9780593799901"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063459086?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593799909?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063459083?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593799901?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063459083&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhomemade-nara-aziza-smith%2F1149922279%3Fean%3D9780063459083&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593799901&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmediterranean-all-the-way-ayesha-nurdjaja%2F1149731570%3Fean%3D9780593799901&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHomemade%2FNara-Aziza-Smith%2F9780063459083"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMediterranean-All-Way%2FAyesha-Nurdjaja%2F9780593799901"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063459083"
+          "url": "https://bookshop.org/a/3546/9780593799901"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593853148?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GHX4XTGP?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jeanine Donofrio with Phoebe Moore",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593853146.jpg",
+      "author": "Sadia Badiei",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217033843.jpg",
       "book_image_height": 500,
       "book_image_width": 402,
       "book_review_link": "",
-      "book_uri": "nyt://book/3425dcbd-a1dc-5512-bb4c-91ce88eb5017",
-      "contributor": "by Jeanine Donofrio with Phoebe Moore",
+      "book_uri": "nyt://book/86541b8c-f07d-5d9b-8476-d049de56f34b",
+      "contributor": "by Sadia Badiei",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:30.081Z",
+      "created_date": "2026-10-28T17:27:56.399Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593853146",
-      "publisher": "Avery",
+      "primary_isbn13": "9798217033843",
+      "publisher": "Clarkson Potter",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LOVE & LEMONS: POP OF FLAVOR",
-      "updated_date": "2026-10-21T17:29:30.081Z",
+      "title": "SIMPLY PLANTS",
+      "updated_date": "2026-10-28T17:27:56.399Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593853146"
+          "isbn13": "9798217033843"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593853148?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GHX4XTGP?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593853146?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217033843?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593853146&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flove-and-lemons-pop-of-flavor-jeanine-donofrio%2F1149136755%3Fean%3D9780593853146&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217033843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsimply-plants-sadia-badiei%2F1149551410%3Fean%3D9798217033843&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-Lemons-Pop-Flavor%2FJeanine-Donofrio%2F9780593853146"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSimply-Plants%2FSadia-Badiei%2F9798217033843"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593853146"
+          "url": "https://bookshop.org/a/3546/9798217033843"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668212463?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sabrina Zohar",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593994849.jpg",
+      "author": "Taryn Delanie Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668212462.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 362,
       "book_review_link": "",
-      "book_uri": "nyt://book/ba95a687-c17c-57cc-a9d0-d41c6612358d",
-      "contributor": "by Sabrina Zohar",
+      "book_uri": "nyt://book/cb8b404c-6e88-57e2-ac86-5fbebf668a62",
+      "contributor": "by Taryn Delanie Smith",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:30.222Z",
+      "created_date": "2026-10-28T17:27:56.554Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593994849",
-      "publisher": "Penguin Life",
+      "primary_isbn13": "9781668212462",
+      "publisher": "37 Ink",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "WHY AM I LIKE THIS?",
-      "updated_date": "2026-10-21T17:29:30.222Z",
+      "title": "WELCOME TO THE AFTERLIFE",
+      "updated_date": "2026-10-28T17:27:56.554Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593994849"
+          "isbn13": "9781668212462"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668212463?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593994849?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668212462?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994849&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-am-i-like-this-sabrina-zohar%2F1149731647%3Fean%3D9780593994849&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668212462&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwelcome-to-the-afterlife-taryn-delanie-smith%2F1149526023%3Fean%3D9781668212462&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAm-Like-This%2FSabrina-Zohar%2F9780593994849"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWelcome-Afterlife%2FTaryn-Delanie-Smith%2F9781668212462"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593994849"
+          "url": "https://bookshop.org/a/3546/9781668212462"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GGPBK7DM?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Megan Trottier",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217274161.jpg",
+      "author": "Lysa TerKeurst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400230723.jpg",
       "book_image_height": 500,
-      "book_image_width": 346,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/1513bb0b-f783-5f6b-ba4a-20d8dee03100",
-      "contributor": "by Megan Trottier",
+      "book_uri": "nyt://book/ff81dc49-b33a-51e1-9f3a-285072b205c3",
+      "contributor": "by Lysa TerKeurst",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:30.414Z",
+      "created_date": "2026-09-23T18:21:03.24Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217274161",
-      "publisher": "Ten Speed",
+      "primary_isbn13": "9781400230723",
+      "publisher": "Thomas Nelson",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MASTERING AMERICAN MAHJONG",
-      "updated_date": "2026-10-21T17:29:30.414Z",
-      "weeks_on_list": 1,
+      "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
+      "updated_date": "2026-09-23T18:21:03.24Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217274161"
+          "isbn13": "9781400230723"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GGPBK7DM?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217274161?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400230723?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217274161&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmastering-american-mahjong-megan-trottier%2F1149198584%3Fean%3D9798217274161&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400230723&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmaking-peace-with-what-i-cant-control-lysa-terkeurst%2F1148674723%3Fean%3D9781400230723&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMastering-American-Mahjong%2FMegan-Trottier%2F9798217274161"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMaking-Peace-What-Cant-Control%2FLysa-TerKeurst%2F9781400230723"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217274161"
+          "url": "https://bookshop.org/a/3546/9781400230723"
         }
       ]
     }

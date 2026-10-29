@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/0cdfab9d-469a-5da1-866e-0755f586e4b2",
+  "uri": "nyt://bestsellerslist/2dbbd266-fcaa-5e11-86bd-8cc8938d6146",
   "books": [
     {
       "age_group": "Ages 10 to 14",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE WILD ZONE",
       "updated_date": "2026-10-07T18:18:37.398Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780063515109",
       "publisher": "Clarion",
       "rank": 2,
-      "rank_last_week": 3,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "BUILDING 903",
       "updated_date": "2026-10-07T18:18:37.525Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Struan Murray",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113248.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1c6c77ea-5560-5ed3-b988-38ff728c6587",
+      "contributor": "by Struan Murray",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:54.886Z",
+      "dagger": 0,
+      "description": "In this sequel to “Dragonborn,” Alex and her friends undertake a perilous journey to stop Drak Midna’s plot to kill all humans. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217113248",
+      "publisher": "Dutton",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "DRAGONBORN: THE TWILIGHT CHILD",
+      "updated_date": "2026-10-28T17:27:54.886Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217113248"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217113248?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113248&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragonborn-struan-murray%2F1149256815%3Fean%3D9798217113248&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragonborn%2FStruan-Murray%2F9798217113248"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217113248"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -132,7 +188,7 @@
       "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
       "contributor": "by R.J. Palacio",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:28.939Z",
+      "created_date": "2026-10-28T18:01:20.055Z",
       "dagger": 0,
       "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780375869020",
       "publisher": "Knopf",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "WONDER",
-      "updated_date": "2026-10-21T17:29:28.939Z",
-      "weeks_on_list": 565,
+      "updated_date": "2026-10-28T18:01:20.055Z",
+      "weeks_on_list": 566,
       "isbns": [
         {
           "isbn10": "",
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781492670025",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 4,
+      "rank": 5,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
       "updated_date": "2026-03-04T23:40:05.9Z",
-      "weeks_on_list": 291,
+      "weeks_on_list": 292,
       "isbns": [
         {
           "isbn10": "",
@@ -244,7 +300,7 @@
       "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
       "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
       "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-10-21T17:29:29.067Z",
+      "created_date": "2026-10-28T18:01:20.194Z",
       "dagger": 0,
       "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236558",
       "publisher": "Delacorte",
-      "rank": 5,
+      "rank": 6,
       "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-10-21T17:29:29.067Z",
-      "weeks_on_list": 8,
+      "updated_date": "2026-10-28T18:01:20.194Z",
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250424990",
       "publisher": "Odd Dot",
-      "rank": 6,
+      "rank": 7,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "GAME OF PETS: THE BOY WHO KNEW TOO MUCH",
       "updated_date": "2026-10-07T22:08:31.992Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -344,114 +400,114 @@
       ]
     },
     {
-      "age_group": "Ages 9 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20",
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/1546185941?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Tony DiTerlizzi",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217004911.jpg",
+      "author": "Kara LaReau",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781546185949.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/910d76f4-5408-51ff-a628-75df47b45235",
-      "contributor": "by Tony DiTerlizzi",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:38.335Z",
+      "book_image_width": 351,
+      "book_review_link": "https://www.nytimes.com/2026/10/16/books/review/rebecca-daphne-dumaurier-kids-novel-licorice-kara-lareau.html",
+      "book_uri": "nyt://book/d27f0683-9a1c-539f-829d-875cc8571c38",
+      "contributor": "by Kara LaReau. Illustrated by Kelly Murphy",
+      "contributor_note": "Illustrated by Kelly Murphy",
+      "created_date": "2026-10-28T17:47:49.26Z",
       "dagger": 0,
-      "description": "Timothy Quibble, a bullied middle schooler, suppresses his dark side’s thirst for revenge. (Ages 9 to 12)",
+      "description": "Kitty feels like she's living in the shadow of Max's former cat, Licorice. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217004911",
-      "publisher": "Dial",
-      "rank": 7,
+      "primary_isbn13": "9781546185949",
+      "publisher": "Scholastic",
+      "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE WUMP",
-      "updated_date": "2026-10-07T18:18:38.335Z",
-      "weeks_on_list": 2,
+      "title": "LICORICE",
+      "updated_date": "2026-10-28T17:47:49.26Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217004911"
+          "isbn13": "9781546185949"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GD5PHJDZ?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1546185941?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217004911?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781546185949?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217004911&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wump-tony-diterlizzi%2F1149062216%3Fean%3D9798217004911&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781546185949&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flicorice-kara-lareau%2F1148764998%3Fean%3D9781546185949&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520WUMP%2520by%2520Tony%2520DiTerlizzi"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLicorice%2FKara-Lareau%2F9781546185949"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217004911"
+          "url": "https://bookshop.org/a/3546/9781546185949"
         }
       ]
     },
     {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20",
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250904362.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "book_image_height": 500,
+      "book_image_width": 352,
       "book_review_link": "",
-      "book_uri": "nyt://book/43f94763-9d3f-56da-ba4f-0750070c5258",
-      "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
-      "contributor_note": "Illustrated by Charles Santoso",
-      "created_date": "2026-04-15T23:10:31.812Z",
+      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
+      "contributor": "by Katherine Applegate",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:20.403Z",
       "dagger": 0,
-      "description": "Zephyrina brings a rare stuffed bear back to the Second Chances Home for the Tossed and Treasured. (Ages 8 to 12)",
+      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250904362",
-      "publisher": "Feiwel & Friends",
-      "rank": 8,
+      "primary_isbn13": "9780063221178",
+      "publisher": "Storytide",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "POCKET BEAR",
-      "updated_date": "2026-04-15T23:10:31.812Z",
-      "weeks_on_list": 53,
+      "title": "WOMBAT WAITING",
+      "updated_date": "2026-05-13T17:27:20.403Z",
+      "weeks_on_list": 24,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250904362"
+          "isbn13": "9780063221178"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250904366?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250904362?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250904362&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpocket-bear-katherine-applegate%2F1146474049%3Fean%3D9781250904362&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPocket-Bear%2FKatherine-Applegate%2F9781250904362"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250904362"
+          "url": "https://bookshop.org/a/3546/9780063221178"
         }
       ]
     },
@@ -476,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217227105",
       "publisher": "Delacorte",
-      "rank": 9,
+      "rank": 10,
       "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "KIKI AND THE NEW MAGIC",
       "updated_date": "2026-09-02T18:40:11.944Z",
-      "weeks_on_list": 8,
+      "weeks_on_list": 9,
       "isbns": [
         {
           "isbn10": "",
@@ -508,62 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9798217227105"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 11",
-      "amazon_product_url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Geo Rutherford",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781419770555.jpg",
-      "book_image_height": 500,
-      "book_image_width": 375,
-      "book_review_link": "",
-      "book_uri": "nyt://book/f23e5240-3bfa-5325-ab1c-a9b3ef791f1a",
-      "contributor": "by Geo Rutherford",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:01.189Z",
-      "dagger": 0,
-      "description": "The histories of 25 mysterious rivers around the world. (Ages 8 to 11)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781419770555",
-      "publisher": "Abrams",
-      "rank": 10,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "SPOOKY RIVERS",
-      "updated_date": "2026-09-23T18:21:01.189Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781419770555"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1419770551?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781419770555?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781419770555&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fspooky-rivers-geo-rutherford%2F1148552355%3Fean%3D9781419770555&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSpooky-Rivers%2FGeo-Rutherford%2F9781419770555"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781419770555"
         }
       ]
     }
