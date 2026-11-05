@@ -5,61 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 304,
-  "uri": "nyt://bestsellerslist/00eb6ad4-df82-5615-a574-c81c36f40b69",
+  "uri": "nyt://bestsellerslist/1fb0d165-3ef8-588b-9fc5-9a78fce0ec6b",
   "books": [
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andrew D. Huberman with Jessica Wapner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781797182919.jpg",
+      "author": "Philip Anthony Mitchell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400356850.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/45929cd0-1832-559b-8b3b-b7ba7e32b5a5",
-      "contributor": "by Andrew D. Huberman with Jessica Wapner",
+      "book_uri": "nyt://book/88b45fae-6336-5190-9252-f86a3e7f75f0",
+      "contributor": "by Philip Anthony Mitchell",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:43.48Z",
+      "created_date": "2026-11-04T19:00:05.186Z",
       "dagger": 0,
-      "description": "Read by Andrew D. Huberman. 18 hours, 5 minutes unabridged.",
+      "description": "Read by Philip Anthony Mitchell & Matt Chandler. 7 hours, 48 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781797182919",
-      "publisher": "Simon & Schuster Audio",
+      "primary_isbn13": "9781400356850",
+      "publisher": "Thomas Nelson",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "PROTOCOLS",
-      "updated_date": "2026-10-07T18:18:43.48Z",
+      "title": "CONTEND",
+      "updated_date": "2026-11-04T19:00:05.186Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781797182919"
+          "isbn13": "9781400356850"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781797182919?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400356850?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668032152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprotocols-andrew-d-huberman-phd%2F1145846225%3Fean%3D9781668032152&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400356843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcontend-philip-anthony-mitchell%2F1149894242%3Fean%3D9781400356843&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtocols%2FAndrew-D-Huberman%2F9781668032145"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FContend%2FPhilip-Anthony-Mitchell%2F9781400356829"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668032145"
+          "url": "https://bookshop.org/a/3546/9781400356829"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "primary_isbn13": "9798350429084",
       "publisher": "Audible Studios",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-10-22T19:17:03.494Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Andrew D. Huberman with Jessica Wapner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781797182919.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/45929cd0-1832-559b-8b3b-b7ba7e32b5a5",
+      "contributor": "by Andrew D. Huberman with Jessica Wapner",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:43.48Z",
+      "dagger": 0,
+      "description": "Read by Andrew D. Huberman. 18 hours, 5 minutes unabridged.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781797182919",
+      "publisher": "Simon & Schuster Audio",
+      "rank": 3,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "PROTOCOLS",
+      "updated_date": "2026-10-07T18:18:43.48Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781797182919"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781797182919?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668032152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprotocols-andrew-d-huberman-phd%2F1145846225%3Fean%3D9781668032152&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtocols%2FAndrew-D-Huberman%2F9781668032145"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668032145"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0735211299?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781524779269",
       "publisher": "Penguin Audio",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-06-10T20:13:58.945Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -177,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Angela Duckworth",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668131626.jpg",
+      "author": "Vanessa Van Edwards",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217157570.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/3b84bcd4-9f4e-5b02-942c-7718c8165423",
-      "contributor": "by Angela Duckworth",
+      "book_uri": "nyt://book/a968f194-a971-5383-b2d7-abc7d8ab4b56",
+      "contributor": "by Vanessa Van Edwards",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:43.603Z",
+      "created_date": "2026-11-04T19:00:05.343Z",
       "dagger": 0,
-      "description": "Read by the author. 8 hours, 27 minutes unabridged.",
+      "description": "Read by the author. 7 hours, 51 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668131626",
-      "publisher": "Simon & Schuster Audio",
-      "rank": 4,
+      "primary_isbn13": "9798217157570",
+      "publisher": "Penguin Audio",
+      "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "SITUATED",
-      "updated_date": "2026-10-07T18:18:43.603Z",
+      "title": "CONVERSATION",
+      "updated_date": "2026-11-04T19:00:05.343Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668131626"
+          "isbn13": "9798217157570"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668005948?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668131626?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217157570?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668005965&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsituated-angela-duckworth%2F1148947837%3Fean%3D9781668005965&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217048304&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fconversation-vanessa-van-edwards%2F1150521543%3Fean%3D9798217048304&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSituated%2FAngela-Duckworth%2F9781668005941"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FConversation%2FVanessa-Van-Edwards%2F9798217048298"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668005941"
+          "url": "https://bookshop.org/a/3546/9798217048298"
         }
       ]
     },
@@ -244,7 +300,7 @@
       "book_uri": "nyt://book/cb26385c-1c4e-5750-9e7f-0826c7819439",
       "contributor": "by Robert Greene",
       "contributor_note": "",
-      "created_date": "2026-06-03T19:42:37.869Z",
+      "created_date": "2026-11-04T20:47:45.147Z",
       "dagger": 0,
       "description": "Read by Richard Poe. 23 hours, 6 minutes unabridged.",
       "first_chapter_link": "",
@@ -252,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781622318643",
       "publisher": "HighBridge",
-      "rank": 5,
-      "rank_last_week": 3,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "THE 48 LAWS OF POWER",
-      "updated_date": "2026-06-03T19:42:37.869Z",
-      "weeks_on_list": 7,
+      "updated_date": "2026-11-04T20:47:45.147Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -279,7 +335,7 @@
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%252048%2520LAWS%2520OF%2520POWER%2520by%2520Robert%2520Greene"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLaws-Power%2FRobert-Greene%2F9780670881468"
         },
         {
           "name": "Bookshop.org",
@@ -300,7 +356,7 @@
       "book_uri": "nyt://book/48d3065b-68d2-561a-b6ab-679299078f7e",
       "contributor": "by Chris Voss with Tahl Raz",
       "contributor_note": "",
-      "created_date": "2026-08-05T18:31:51.684Z",
+      "created_date": "2026-11-04T20:48:15.873Z",
       "dagger": 0,
       "description": "Read by Michael Kramer. 8 hours, 7 minutes unabridged.",
       "first_chapter_link": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780062471253",
       "publisher": "Harper Business",
-      "rank": 6,
-      "rank_last_week": 5,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "NEVER SPLIT THE DIFFERENCE",
-      "updated_date": "2026-08-05T18:31:51.684Z",
-      "weeks_on_list": 7,
+      "updated_date": "2026-11-04T20:48:15.873Z",
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -335,7 +391,7 @@
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DNEVER%2520SPLIT%2520THE%2520DIFFERENCE%2520by%2520Chris%2520Voss%2520with%2520Tahl%2520Raz"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Split-Difference%2FChris-Voss%2F9780062407801"
         },
         {
           "name": "Bookshop.org",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781508258476",
       "publisher": "Simon & Schuster Audio",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE COURAGE TO BE DISLIKED",
       "updated_date": "2026-08-05T17:45:07.012Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -401,169 +457,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FD7PR4K7?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "W. Lee Warren",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798400517433.jpg",
+      "author": "Sabrina Zohar",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217354054.jpg",
       "book_image_height": 500,
-      "book_image_width": 334,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/5c930353-cd96-56de-9def-e30d0d81efc1",
-      "contributor": "by W. Lee Warren",
+      "book_uri": "nyt://book/e8835ee4-abec-5705-b490-5d37c16d70d9",
+      "contributor": "by Sabrina Zohar",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:43.734Z",
+      "created_date": "2026-11-04T19:00:05.506Z",
       "dagger": 0,
-      "description": "Read by the author. 9 hours, 44 minutes unabridged.",
+      "description": "Read by Sabrina Zohar and Ramani Durvasula. 7 hours 34 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798400517433",
-      "publisher": "Tyndale House",
-      "rank": 8,
+      "primary_isbn13": "9798217354054",
+      "publisher": "Penguin Audio",
+      "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE LIFE-CHANGING ART OF SELF-BRAIN SURGERY",
-      "updated_date": "2026-10-07T18:18:43.734Z",
+      "title": "WHY AM I LIKE THIS?",
+      "updated_date": "2026-11-04T19:00:05.506Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798400517433"
+          "isbn13": "9798217354054"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FD7PR4K7?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593994841?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798400517433?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217354054?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798400509902&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-life-changing-art-of-self-brain-surgery-w-lee-warren-md%2F1147629375%3Fean%3D9798400509902&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593994856&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwhy-am-i-like-this-sabrina-zohar%2F1149731647%3Fean%3D9780593994856&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520LIFE-CHANGING%2520ART%2520OF%2520SELF-BRAIN%2520SURGERY%2520by%2520W.%2520Lee%2520Warren"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAm-Like-This%2FSabrina-Zohar%2F9780593994849"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798400509889"
+          "url": "https://bookshop.org/a/3546/9780593994849"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1949759229?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1400344417?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Brianna Wiest",
-      "book_image": "https://static01.nyt.com/bestsellers/images/DBKACX0303323.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/43008457-7db0-51c7-b791-b100e6125777",
-      "contributor": "by Brianna Wiest",
-      "contributor_note": "",
-      "created_date": "2026-07-01T21:01:14.196Z",
-      "dagger": 0,
-      "description": "Read by Stacey Glemboski. 5 hours, 44 minutes unabridged.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "DBKACX0303323",
-      "publisher": "Thought Catalog",
-      "rank": 9,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE MOUNTAIN IS YOU",
-      "updated_date": "2026-07-01T21:01:14.196Z",
-      "weeks_on_list": 6,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "DBKACX0303323"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1949759229?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781662206610?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://www.barnesandnoble.com/w/the-mountain-is-you-brianna-wiest/1141829837?ean=2940175115810"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520MOUNTAIN%2520IS%2520YOU%2520by%2520Brianna%2520Wiest"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9789355434142"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lysa TerKeurst",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400230730.jpg",
+      "author": "Dana K. White",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400344444.jpg",
       "book_image_height": 500,
-      "book_image_width": 324,
+      "book_image_width": 343,
       "book_review_link": "",
-      "book_uri": "nyt://book/24bd6091-e0f5-5d40-8afb-55353dc47c14",
-      "contributor": "by Lysa TerKeurst",
+      "book_uri": "nyt://book/8ec481af-b65c-5b7e-ad9d-c89f945c363e",
+      "contributor": "by Dana K. White",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:43.862Z",
+      "created_date": "2026-11-04T19:00:05.731Z",
       "dagger": 0,
-      "description": "Read by the author. 6 hours, 9 minutes unabridged.",
+      "description": "Read by the author. 6 hours, 45 minutes unabridged.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400230730",
+      "primary_isbn13": "9781400344444",
       "publisher": "Thomas Nelson",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
-      "updated_date": "2026-10-07T18:18:43.862Z",
+      "title": "PROCRASTINATORS GET STUFF DONE",
+      "updated_date": "2026-11-04T19:00:05.731Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400230730"
+          "isbn13": "9781400344444"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400230721?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1400344417?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400230730?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400344444?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400230747&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmaking-peace-with-what-i-cant-control-lysa-terkeurst%2F1148674723%3Fean%3D9781400230747&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400344437&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprocrastinators-get-stuff-done-dana-k-white%2F1149621373%3Fean%3D9781400344437&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMaking-Peace-What-Cant-Control%2FLysa-TerKeurst%2F9781400230723"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProcrastinators-Get-Stuff-Done%2FDana-K-White%2F9781400344413"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400230723"
+          "url": "https://bookshop.org/a/3546/9781400344413"
         }
       ]
     }

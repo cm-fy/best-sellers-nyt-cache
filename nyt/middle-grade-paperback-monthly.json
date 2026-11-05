@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 10015,
-  "uri": "nyt://bestsellerslist/73ba2819-83d4-5e0d-9fa6-0e8302e406cd",
+  "uri": "nyt://bestsellerslist/69b21a31-ea7e-5c95-9ead-c92daca2d663",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0062680382?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jan Eldredge",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780062680389.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/81714e78-e2e8-5ea0-a95e-97544c740ba6",
+      "contributor": "by Jan Eldredge",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:00.249Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780062680389",
+      "publisher": "HarperCollins",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "NIMBUS",
+      "updated_date": "2026-11-04T19:00:00.249Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780062680389"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0062680382?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780062680389?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062680389&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnimbus-jan-eldredge%2F1142795406%3Fean%3D9780062680389&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNimbus%2FJan-Eldredge%2F9780062680389"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780062680389"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/Restart-Gordon-Korman/dp/1338053809?tag=thenewyorktim-20",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781338053807",
       "publisher": "Scholastic",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "RESTART",
       "updated_date": "2026-04-01T17:34:07.278Z",
-      "weeks_on_list": 69,
+      "weeks_on_list": 70,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780547577319",
       "publisher": "Clarion",
-      "rank": 2,
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "A LONG WALK TO WATER",
       "updated_date": "2026-08-05T17:45:03.628Z",
-      "weeks_on_list": 83,
+      "weeks_on_list": 84,
       "isbns": [
         {
           "isbn10": "",
@@ -121,230 +177,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316575739?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Aubrey Hartman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316575737.jpg",
-      "book_image_height": 500,
-      "book_image_width": 341,
-      "book_review_link": "",
-      "book_uri": "nyt://book/bbad530b-633e-5ed1-85ee-9e39a7b92bab",
-      "contributor": "by Aubrey Hartman",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:39.174Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316575737",
-      "publisher": "Little, Brown",
-      "rank": 3,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE UNDEAD FOX OF DEADWOOD FOREST",
-      "updated_date": "2026-10-07T18:18:39.174Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316575737"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316575739?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316575737?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316575737&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-undead-fox-of-deadwood-forest-aubrey-hartman%2F1145683629%3Fean%3D9780316575737&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FUndead-Fox-Deadwood-Forest-Newbery%2FAubrey-Hartman%2F9780316575737"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316575737"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jonathan Haidt and Catherine Price",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217111916.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0972e753-99a1-5e9b-adc0-087cafe67b77",
-      "contributor": "by Jonathan Haidt and Catherine Price. Illustrated by Cynthia Yuan Cheng",
-      "contributor_note": "Illustrated by Cynthia Yuan Cheng",
-      "created_date": "2026-06-03T18:35:44.051Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217111916",
-      "publisher": "Rocky Pond",
-      "rank": 4,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE AMAZING GENERATION",
-      "updated_date": "2026-06-03T18:35:44.051Z",
-      "weeks_on_list": 10,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217111916"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217111916?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217111916&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-amazing-generation-jonathan-haidt%2F1147543016%3Fean%3D9798217111916&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmazing-Generation-How-Choose-Fun%2FJonathan-Haidt%2F9798217111916"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217111916"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Gordon Korman",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062563903.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/20efe851-a876-5119-a199-8ec7dde0bc23",
-      "contributor": "by Gordon Korman",
-      "contributor_note": "",
-      "created_date": "2026-07-01T20:17:06.898Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062563903",
-      "publisher": "Balzer + Bray",
-      "rank": 5,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE UNTEACHABLES",
-      "updated_date": "2026-07-01T20:17:06.898Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062563903"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Unteachables-Gordon-Korman/dp/0062563904?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062563903?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062563903&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-unteachables-gordon-korman%2F1127903155%3Fean%3D9780062563903&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.booksamillion.com/p/9780062563880"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062563903"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0763680893?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kate DiCamillo",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780763680893.jpg",
-      "book_image_height": 500,
-      "book_image_width": 336,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5bce9c03-56ac-5319-9bdf-97c5a012a091",
-      "contributor": "by Kate DiCamillo. Illustrated by Timothy Basil Ering",
-      "contributor_note": "Illustrated by Timothy Basil Ering",
-      "created_date": "2026-09-02T18:40:13.143Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780763680893",
-      "publisher": "Candlewick",
-      "rank": 6,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE TALE OF DESPEREAUX",
-      "updated_date": "2026-09-02T18:40:13.143Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780763680893"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0763680893?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780763680893?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780763680893&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-tale-of-despereaux-kate-dicamillo%2F1100305948%3Fean%3D9780763680893&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTale-Despereaux%2FKate-DiCamillo%2F9780763680893"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780763680893"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GJNTNGS5?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -356,7 +188,7 @@
       "book_uri": "nyt://book/a6c572be-e500-591f-86cc-7e55785158fe",
       "contributor": "by Dan Poblocki. Illustrated by Marie Bergeron",
       "contributor_note": "Illustrated by Marie Bergeron",
-      "created_date": "2026-10-07T18:18:39.35Z",
+      "created_date": "2026-11-04T19:00:00.413Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -364,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217252237",
       "publisher": "Penguin Workshop",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "TALES TO KEEP YOU UP AT NIGHT",
-      "updated_date": "2026-10-07T18:18:39.35Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-11-04T19:00:00.413Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -401,113 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0763680907?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Wish-Barbara-OConnor/dp/1250144051?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Kate DiCamillo",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780763680909.jpg",
-      "book_image_height": 500,
-      "book_image_width": 337,
+      "author": "Barbara O'Connor",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250144058.jpg",
+      "book_image_height": 485,
+      "book_image_width": 330,
       "book_review_link": "",
-      "book_uri": "nyt://book/f153c503-ee0e-5e21-8d3b-4eb5ff44ca0c",
-      "contributor": "by Kate DiCamillo. Illustrated by Bagram Ibatoulline",
-      "contributor_note": "Illustrated by Bagram Ibatoulline",
-      "created_date": "2026-09-02T18:40:13.289Z",
+      "book_uri": "nyt://book/46604242-8624-57d1-bdd4-424c21cde273",
+      "contributor": "by Barbara O'Connor",
+      "contributor_note": "",
+      "created_date": "2026-04-01T17:34:07.988Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780763680909",
-      "publisher": "Candlewick",
-      "rank": 8,
-      "rank_last_week": 10,
+      "primary_isbn13": "9781250144058",
+      "publisher": "Square Fish",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE MIRACULOUS JOURNEY OF EDWARD TULANE",
-      "updated_date": "2026-09-02T18:40:13.289Z",
-      "weeks_on_list": 5,
+      "title": "WISH",
+      "updated_date": "2026-04-01T17:34:07.988Z",
+      "weeks_on_list": 74,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780763680909"
+          "isbn13": "9781250144058"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0763680907?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Wish-Barbara-OConnor/dp/1250144051?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780763680909?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250144058?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780763680909&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-miraculous-journey-of-edward-tulane-kate-dicamillo%2F1100305946%3Fean%3D9780763680909&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250144058&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwish-barbara-oconnor%2F1122889643%3Fean%3D9781250144058&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIRACULOUS%2BJOURNEY%2BOF%2BEDWARD%2BTULANE%2FKate%2BDiCamillo.%2F9780763680909"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWISH%2FBarbara%2BO%2527Connor%2F9781250144058"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780763680909"
+          "url": "https://bookshop.org/a/3546/9781250144058"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Lynda Mullaly Hunt",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
+      "author": "Jonathan Haidt and Catherine Price",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217111916.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/bcd9be95-b252-588a-a9a8-f2aef2f3be6a",
-      "contributor": "by Lynda Mullaly Hunt",
-      "contributor_note": "",
-      "created_date": "2026-06-03T18:21:56.022Z",
+      "book_uri": "nyt://book/0972e753-99a1-5e9b-adc0-087cafe67b77",
+      "contributor": "by Jonathan Haidt and Catherine Price. Illustrated by Cynthia Yuan Cheng",
+      "contributor_note": "Illustrated by Cynthia Yuan Cheng",
+      "created_date": "2026-06-03T18:35:44.051Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780142426425",
-      "publisher": "Nancy Paulsen",
-      "rank": 9,
-      "rank_last_week": 3,
+      "primary_isbn13": "9798217111916",
+      "publisher": "Rocky Pond",
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
-      "title": "FISH IN A TREE",
-      "updated_date": "2026-06-03T18:21:56.022Z",
-      "weeks_on_list": 41,
+      "title": "THE AMAZING GENERATION",
+      "updated_date": "2026-06-03T18:35:44.051Z",
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780142426425"
+          "isbn13": "9798217111916"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "http://www.amazon.com/Fish-Tree-Lynda-Mullaly-Hunt/dp/0399162593?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0F87C5F9G?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780142426425?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217111916?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780142426425&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffish-in-a-tree-lynda-mullaly-hunt%2F1120198328%3Fean%3D9780142426425&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217111916&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-amazing-generation-jonathan-haidt%2F1147543016%3Fean%3D9798217111916&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFISH%2BIN%2BA%2BTREE%2FLynda%2BMullaly%2BHunt%2F9780142426425"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAmazing-Generation-How-Choose-Fun%2FJonathan-Haidt%2F9798217111916"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780142426425"
+          "url": "https://bookshop.org/a/3546/9798217111916"
         }
       ]
     },
@@ -532,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250423429",
       "publisher": "Square Fish",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "ODDER",
       "updated_date": "2026-05-06T17:41:05.452Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +396,174 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781250423429"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0763680893?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kate DiCamillo",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780763680893.jpg",
+      "book_image_height": 500,
+      "book_image_width": 336,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5bce9c03-56ac-5319-9bdf-97c5a012a091",
+      "contributor": "by Kate DiCamillo. Illustrated by Timothy Basil Ering",
+      "contributor_note": "Illustrated by Timothy Basil Ering",
+      "created_date": "2026-09-02T18:40:13.143Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780763680893",
+      "publisher": "Candlewick",
+      "rank": 8,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "THE TALE OF DESPEREAUX",
+      "updated_date": "2026-09-02T18:40:13.143Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780763680893"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0763680893?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780763680893?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780763680893&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-tale-of-despereaux-kate-dicamillo%2F1100305948%3Fean%3D9780763680893&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTale-Despereaux%2FKate-DiCamillo%2F9780763680893"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780763680893"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316601853?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kit Brooks",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316601856.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/692ce976-9fd3-55d6-ae3d-b67e0d40ef39",
+      "contributor": "by Kit Brooks. Illustrated by Brandon Dorman",
+      "contributor_note": "Illustrated by Brandon Dorman",
+      "created_date": "2026-08-24T19:15:11.871Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316601856",
+      "publisher": "Little, Brown/Christy Ottaviano",
+      "rank": 9,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LAST IMMORTALS: DAWN OF THE AXOLOTL",
+      "updated_date": "2026-08-24T19:15:11.871Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316601856"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316601853?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316601856?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316601856&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-last-immortals-kit-brooks%2F1148171329%3Fean%3D9780316601856&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLast-Immortals%2FKit-Brooks%2F9780316601856"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316601856"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0763680907?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Kate DiCamillo",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780763680909.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/f153c503-ee0e-5e21-8d3b-4eb5ff44ca0c",
+      "contributor": "by Kate DiCamillo. Illustrated by Bagram Ibatoulline",
+      "contributor_note": "Illustrated by Bagram Ibatoulline",
+      "created_date": "2026-11-04T21:17:07.048Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780763680909",
+      "publisher": "Candlewick",
+      "rank": 10,
+      "rank_last_week": 8,
+      "sunday_review_link": "",
+      "title": "THE MIRACULOUS JOURNEY OF EDWARD TULANE",
+      "updated_date": "2026-11-04T21:17:07.048Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780763680909"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0763680907?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780763639877?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780763680909&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-miraculous-journey-of-edward-tulane-kate-dicamillo%2F1100305946%3Fean%3D9780763680909&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BMIRACULOUS%2BJOURNEY%2BOF%2BEDWARD%2BTULANE%2FKate%2BDiCamillo.%2F9780763680909"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780763680909"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 532,
-  "uri": "nyt://bestsellerslist/8e64cc00-2613-57c2-b811-7874306d7032",
+  "uri": "nyt://bestsellerslist/6ed3d10e-80e2-53cd-b468-55ce5cce5de3",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-10-22T19:42:06.651Z",
-      "weeks_on_list": 22,
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-10-21T18:00:43.614Z",
-      "weeks_on_list": 96,
+      "weeks_on_list": 97,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GFCWM3CY?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Ben Meer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217046799.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/eda302aa-1d4f-5f10-970e-a2c602d37d5a",
+      "contributor": "by Ben Meer",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:57.269Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217046799",
+      "publisher": "Avery",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO BE GOOD AT LIFE",
+      "updated_date": "2026-10-14T17:13:57.269Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217046799"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GFCWM3CY?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217046799?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217046799&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-be-good-at-life-ben-meer%2F1149136792%3Fean%3D9798217046799&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHow-Be-Good-Life%2FBen-Meer%2F9798217046799"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217046799"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593418573?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593418574",
       "publisher": "Optimism",
-      "rank": 3,
+      "rank": 4,
       "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "UNREASONABLE HOSPITALITY",
       "updated_date": "2026-08-12T19:01:59.045Z",
-      "weeks_on_list": 28,
+      "weeks_on_list": 29,
       "isbns": [
         {
           "isbn10": "",
@@ -177,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Gil Durán",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668221402.jpg",
+      "author": "Vanessa Van Edwards",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217048298.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/ee761f8e-7548-5534-a13f-a9f7c8fe325c",
-      "contributor": "by Gil Durán",
+      "book_uri": "nyt://book/5c0b3069-f885-5ddc-8e6e-308b6bb2915c",
+      "contributor": "by Vanessa Van Edwards",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:43.994Z",
+      "created_date": "2026-10-14T17:13:57.702Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781668221402",
-      "publisher": "Avid Reader",
-      "rank": 4,
-      "rank_last_week": 4,
+      "primary_isbn13": "9798217048298",
+      "publisher": "Portfolio",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE NERD REICH",
-      "updated_date": "2026-10-07T18:18:43.994Z",
-      "weeks_on_list": 2,
+      "title": "CONVERSATION",
+      "updated_date": "2026-10-14T17:13:57.702Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668221402"
+          "isbn13": "9798217048298"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668221403?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GS7YCNG9?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668221402?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217048298?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668221402&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-nerd-reich-gil-duran%2F1148803930%3Fean%3D9781668221402&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217048298&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fconversation-vanessa-van-edwards%2F1150521543%3Fean%3D9798217048298&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNerd-Reich%2FGil-Durn%2F9781668221402"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FConversation%2FVanessa-Van-Edwards%2F9798217048298"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668221402"
+          "url": "https://bookshop.org/a/3546/9798217048298"
         }
       ]
     },
@@ -244,20 +300,20 @@
       "book_uri": "nyt://book/6f8497cf-f6ee-51aa-9c49-627202468227",
       "contributor": "by Ari Emanuel",
       "contributor_note": "",
-      "created_date": "2026-09-30T18:09:31.804Z",
+      "created_date": "2026-11-04T19:00:05.894Z",
       "dagger": 0,
-      "description": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
+      "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
       "primary_isbn13": "9798217209347",
       "publisher": "Knopf",
-      "rank": 5,
-      "rank_last_week": 0,
+      "rank": 6,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "ROLL THE CALLS",
-      "updated_date": "2026-09-30T18:09:31.804Z",
-      "weeks_on_list": 1,
+      "updated_date": "2026-11-04T19:00:05.894Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -289,169 +345,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Benny Blanco",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668205242.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7f28ab3c-5ccc-5f3f-8fbc-0163c257a118",
-      "contributor": "by Benny Blanco",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:03.474Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668205242",
-      "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "F*CK FAILURE",
-      "updated_date": "2026-09-23T18:21:03.474Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668205242"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668205246?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668205242?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668205242&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ff-ck-failure-benny-blanco%2F1149781358%3Fean%3D9781668205242&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFck-Failure%2FBenny-Blanco%2F9781668205242"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668205242"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Chris Voss with Tahl Raz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062407801.jpg",
-      "book_image_height": 500,
-      "book_image_width": 330,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c5d04ae-b121-5d4d-9909-0dedab06872e",
-      "contributor": "by Chris Voss with Tahl Raz",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:20.383Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062407801",
-      "publisher": "Harper Business",
-      "rank": 7,
-      "rank_last_week": 8,
-      "sunday_review_link": "",
-      "title": "NEVER SPLIT THE DIFFERENCE",
-      "updated_date": "2026-03-04T23:40:20.383Z",
-      "weeks_on_list": 11,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062407801"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0062407805?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062407801?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062407801&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-split-the-difference-chris-voss%2F1122714695%3Fean%3D9780062407801&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNever-Split-Difference%2FChris-Voss%2F9780062407801"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062407801"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Priya Parker",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
+      "author": "Ethan Mollick",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181391.jpg",
       "book_image_height": 500,
       "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/754a13d8-354e-54d9-ab61-a6fffdc99980",
-      "contributor": "by Priya Parker",
+      "book_uri": "nyt://book/6b3788b5-0328-5560-859c-ef60624ac1fe",
+      "contributor": "by Ethan Mollick",
       "contributor_note": "",
-      "created_date": "2026-09-16T18:02:44.727Z",
+      "created_date": "2026-10-28T17:27:56.101Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593420225",
-      "publisher": "Riverhead",
-      "rank": 8,
+      "primary_isbn13": "9798217181391",
+      "publisher": "Portfolio",
+      "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE ART OF FIGHTING",
-      "updated_date": "2026-09-16T18:02:44.727Z",
+      "title": "CO-EXISTENCE",
+      "updated_date": "2026-10-28T17:27:56.101Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593420225"
+          "isbn13": "9798217181391"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593420225?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593420225?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217181391?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593420225&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-art-of-fighting-priya-parker%2F1149014672%3Fean%3D9780593420225&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181391&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fco-existence-ethan-mollick%2F1150229796%3Fean%3D9798217181391&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FArt-Fighting%2FPriya-Parker%2F9780593420225"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCo-Existence%2FEthan-Mollick%2F9798217181391"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593420225"
+          "url": "https://bookshop.org/a/3546/9798217181391"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jocko Willink and Leif Babin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250183866.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b0cec2f9-300f-5850-8c43-8a67152a96a5",
+      "contributor": "by Jocko Willink and Leif Babin",
+      "contributor_note": "",
+      "created_date": "2026-11-04T20:50:55.132Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250183866",
+      "publisher": "St. Martin's",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "EXTREME OWNERSHIP",
+      "updated_date": "2026-11-04T20:50:55.132Z",
+      "weeks_on_list": 81,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250183866"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781427264305?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250183866&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextreme-ownership-jocko-willink%2F1121081209%3Fean%3D9781250183866&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExtreme-Ownership%2FJocko-Willink%2F9781250183866"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250183866"
         }
       ]
     },
@@ -477,11 +477,11 @@
       "primary_isbn13": "9780593652886",
       "publisher": "Penguin Press",
       "rank": 9,
-      "rank_last_week": 6,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "THE CREATIVE ACT",
       "updated_date": "2026-03-04T23:40:20.231Z",
-      "weeks_on_list": 40,
+      "weeks_on_list": 41,
       "isbns": [
         {
           "isbn10": "",
@@ -513,57 +513,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0358567092?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Bill Perkins",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780358567097.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/67515a63-29b7-5bb8-8476-c86cd25b48ae",
-      "contributor": "by Bill Perkins",
+      "author": "John Carreyrou",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525431992.jpg",
+      "book_image_height": 493,
+      "book_image_width": 330,
+      "book_review_link": "https://www.nytimes.com/2018/05/21/books/review/bad-blood-john-carreyrou.html",
+      "book_uri": "nyt://book/8e0812eb-d9a5-51e1-9e69-d95388750eaf",
+      "contributor": "by John Carreyrou",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:16.985Z",
+      "created_date": "2026-11-04T19:00:07.36Z",
       "dagger": 0,
-      "description": "",
+      "description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780358567097",
-      "publisher": "Mariner",
+      "primary_isbn13": "9780525431992",
+      "publisher": "Vintage",
       "rank": 10,
-      "rank_last_week": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DIE WITH ZERO",
-      "updated_date": "2026-09-02T18:40:16.985Z",
-      "weeks_on_list": 2,
+      "title": "BAD BLOOD",
+      "updated_date": "2026-11-04T19:00:07.36Z",
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780358567097"
+          "isbn13": "9780525431992"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0358567092?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780358567097?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780525431992?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780358567097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdie-with-zero-bill-perkins%2F1132050958%3Fean%3D9780358567097&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525431992&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbad-blood-john-carreyrou%2F1128112184%3Fean%3D9780525431992&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDie-Zero%2FBill-Perkins%2F9780358567097"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBAD%2BBLOOD%2FJohn%2BCarreyrou%2F9780525431992"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780358567097"
+          "url": "https://bookshop.org/a/3546/9780525431992"
         }
       ]
     }

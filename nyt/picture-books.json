@@ -5,64 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/b5de2094-eb8e-50e7-897d-da00f90969f8",
+  "uri": "nyt://bestsellerslist/f90a6f4f-81e3-54ac-85ee-665cceb61918",
   "books": [
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Hemming",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
-      "book_image_height": 500,
-      "book_image_width": 455,
-      "book_review_link": "",
-      "book_uri": "nyt://book/97fbd95d-e73e-555c-ac4c-b5537a99fd66",
-      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
-      "contributor_note": "Illustrated by Nicola Slater",
-      "created_date": "2026-06-08T16:03:46.797Z",
-      "dagger": 0,
-      "description": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728235202",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 1,
-      "rank_last_week": 1,
-      "sunday_review_link": "",
-      "title": "THE LEAF THIEF",
-      "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 41,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728235202"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728235202?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235202&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-leaf-thief-alice-hemming%2F1137949751%3Fean%3D9781728235202&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLEAF%2BTHIEF%2FAlice%2BHemming.%2F9781728235202"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728235202"
-        }
-      ]
-    },
     {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/1492648949?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781492648949",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 2,
-      "rank_last_week": 4,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A MONSTER",
       "updated_date": "2026-09-16T18:02:43.002Z",
-      "weeks_on_list": 35,
+      "weeks_on_list": 36,
       "isbns": [
         {
           "isbn10": "",
@@ -120,19 +64,75 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Hemming",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
+      "book_image_height": 500,
+      "book_image_width": 455,
+      "book_review_link": "",
+      "book_uri": "nyt://book/97fbd95d-e73e-555c-ac4c-b5537a99fd66",
+      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
+      "contributor_note": "Illustrated by Nicola Slater",
+      "created_date": "2026-06-08T16:03:46.797Z",
+      "dagger": 0,
+      "description": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728235202",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 2,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "THE LEAF THIEF",
+      "updated_date": "2026-06-08T16:03:46.797Z",
+      "weeks_on_list": 42,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728235202"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728235202?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235202&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-leaf-thief-alice-hemming%2F1137949751%3Fean%3D9781728235202&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLEAF%2BTHIEF%2FAlice%2BHemming.%2F9781728235202"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728235202"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/1728210356?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Alice Walstead",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781728210353.jpg",
-      "book_image_height": 500,
-      "book_image_width": 499,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/c89476b4-1da5-5061-8ca3-d0ce7d422bc1",
       "contributor": "by Alice Walstead. Illustrated by Megan Joyce",
       "contributor_note": "Illustrated by Megan Joyce",
-      "created_date": "2026-09-16T18:02:42.859Z",
+      "created_date": "2026-11-04T19:51:42.922Z",
       "dagger": 0,
       "description": "The Catch Club Kids attempt to snare a witch on Halloween. (Ages 4 to 7)",
       "first_chapter_link": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9781728210353",
       "publisher": "Sourcebooks Wonderland",
       "rank": 3,
-      "rank_last_week": 5,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A WITCH",
-      "updated_date": "2026-09-16T18:02:42.859Z",
-      "weeks_on_list": 36,
+      "updated_date": "2026-11-04T19:51:42.922Z",
+      "weeks_on_list": 37,
       "isbns": [
         {
           "isbn10": "",
@@ -159,10 +159,10 @@
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728210353?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781728210360?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728210353&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-witch-alice-walstead%2F1140359318%3Fean%3D9781728210353&intsrc=APIG_15890"
         },
         {
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781442402973",
       "publisher": "Simon & Schuster",
       "rank": 4,
-      "rank_last_week": 7,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "CREEPY CARROTS!",
       "updated_date": "2026-09-30T18:09:28.677Z",
-      "weeks_on_list": 22,
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
@@ -233,62 +233,6 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Alice Hemming",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
-      "book_image_height": 500,
-      "book_image_width": 458,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7c7c9223-6b01-5551-86ce-1a2f40224ad1",
-      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
-      "contributor_note": "Illustrated by Nicola Slater",
-      "created_date": "2026-08-05T17:45:02.569Z",
-      "dagger": 0,
-      "description": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464268076",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "THE PUMPKIN THIEF",
-      "updated_date": "2026-08-05T17:45:02.569Z",
-      "weeks_on_list": 12,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464268076"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/146426807X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464268076?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464268076&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-pumpkin-thief-alice-hemming%2F1148312156%3Fean%3D9781464268076&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPumpkin-Thief%2FAlice-Hemming%2F9781464268076"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464268076"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/Creepy-Pair-Underwear-Aaron-Reynolds/dp/1442402989?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781442402980",
       "publisher": "Simon & Schuster",
-      "rank": 6,
-      "rank_last_week": 10,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "CREEPY PAIR OF UNDERWEAR",
       "updated_date": "2026-10-14T17:13:55.025Z",
-      "weeks_on_list": 48,
+      "weeks_on_list": 49,
       "isbns": [
         {
           "isbn10": "",
@@ -344,6 +288,118 @@
       ]
     },
     {
+      "age_group": "Ages 3 to 6",
+      "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sally Hopgood",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781510704848.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/09e2bb62-b598-56cb-8dfe-d267fb8e3ede",
+      "contributor": "by Sally Hopgood. Illustrated by Emma Levey",
+      "contributor_note": "Illustrated by Emma Levey",
+      "created_date": "2026-05-27T22:36:37.131Z",
+      "dagger": 0,
+      "description": "A departing tortoise says goodbye to all his animal friends. (Ages 3 to 6)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781510704848",
+      "publisher": "Sky Pony",
+      "rank": 6,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "SEE YOU LATER, ALLIGATOR!",
+      "updated_date": "2026-05-27T22:36:37.131Z",
+      "weeks_on_list": 42,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781510704848"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781510704855?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781510704848&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsee-you-later-alligator-sally-hopgood%2F1123362706%3Fean%3D9781510704848&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEE%2BYOU%2BLATER%252C%2BALLIGATOR%2521%2FSally%2BHopgood.%2F9781510704848"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781510704848"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/How-Catch-Turkey-Adam-Wallace/dp/1492664359?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Adam Wallace",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781492664352.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fd5ec5c8-20bf-5036-bab5-64558daf73c3",
+      "contributor": "by Adam Wallace. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-11-04T19:52:44.531Z",
+      "dagger": 0,
+      "description": "Students try to catch a runaway turkey before their Thanksgiving play. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781492664352",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 7,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A TURKEY",
+      "updated_date": "2026-11-04T19:52:44.531Z",
+      "weeks_on_list": 28,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781492664352"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/How-Catch-Turkey-Adam-Wallace/dp/1492664359?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798228128415?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781492664352&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-turkey-adam-wallace%2F1127456044%3Fean%3D9781492664352&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BTURKEY%2FAdam%2BWallace.%2F9781492664352"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781492664352"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/1665954787?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665954785",
       "publisher": "Beach Lane",
-      "rank": 7,
-      "rank_last_week": 0,
+      "rank": 8,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "CHICKA CHICKA TRICKA TREAT",
       "updated_date": "2026-10-07T18:18:36.524Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -420,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385376716",
       "publisher": "Random House",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WONDERFUL THINGS YOU WILL BE",
       "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 480,
+      "weeks_on_list": 481,
       "isbns": [
         {
           "isbn10": "",
@@ -456,62 +512,6 @@
       ]
     },
     {
-      "age_group": "Ages 3 to 6",
-      "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sally Hopgood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781510704848.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/09e2bb62-b598-56cb-8dfe-d267fb8e3ede",
-      "contributor": "by Sally Hopgood. Illustrated by Emma Levey",
-      "contributor_note": "Illustrated by Emma Levey",
-      "created_date": "2026-05-27T22:36:37.131Z",
-      "dagger": 0,
-      "description": "A departing tortoise says goodbye to all his animal friends. (Ages 3 to 6)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781510704848",
-      "publisher": "Sky Pony",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SEE YOU LATER, ALLIGATOR!",
-      "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 41,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781510704848"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781510704855?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781510704848&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsee-you-later-alligator-sally-hopgood%2F1123362706%3Fean%3D9781510704848&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSEE%2BYOU%2BLATER%252C%2BALLIGATOR%2521%2FSally%2BHopgood.%2F9781510704848"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781510704848"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 4 to 8",
       "amazon_product_url": "https://www.amazon.com/dp/0062954547?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -533,11 +533,11 @@
       "primary_isbn13": "9780062954541",
       "publisher": "HarperCollins",
       "rank": 10,
-      "rank_last_week": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",
       "updated_date": "2026-09-30T18:09:28.55Z",
-      "weeks_on_list": 41,
+      "weeks_on_list": 42,
       "isbns": [
         {
           "isbn10": "",

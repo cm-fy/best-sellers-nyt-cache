@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "MONTHLY",
   "list_id": 10004,
-  "uri": "nyt://bestsellerslist/39ea1d3a-0946-5a3c-a091-07b0a629eb22",
+  "uri": "nyt://bestsellerslist/22ae0b9e-2f4c-5b27-bb55-d1bd2ce51381",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THE BODY KEEPS THE SCORE",
       "updated_date": "2026-07-08T18:31:31.813Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -65,57 +65,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1250344484?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Emily Wilson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781324099406.jpg",
+      "author": "Christine Kuehn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250344489.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "https://www.nytimes.com/2026/08/26/books/review/crossing-the-wine-dark-sea-emily-wilson.html",
-      "book_uri": "nyt://book/d281d7f8-31f3-50c0-9346-1e090294b2e7",
-      "contributor": "by Emily Wilson",
+      "book_image_width": 326,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b4973abf-c015-58d1-a90f-1f1d89b6b007",
+      "contributor": "by Christine Kuehn",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:35.571Z",
+      "created_date": "2026-10-14T17:14:00Z",
       "dagger": 0,
-      "description": "The translator of editions of Homer’s “Iliad” and “Odyssey” explicates potential complications encountered in her line of work.",
+      "description": "The story of a family that worked as Japanese and Nazi spies during World War II.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781324099406",
-      "publisher": "Liveright",
+      "primary_isbn13": "9781250344489",
+      "publisher": "Celadon",
       "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CROSSING THE WINE-DARK SEA",
-      "updated_date": "2026-09-09T18:10:35.571Z",
+      "title": "FAMILY OF SPIES",
+      "updated_date": "2026-10-14T17:14:00Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781324099406"
+          "isbn13": "9781250344489"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250344484?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781324099406?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250344489?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324099406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrossing-the-wine-dark-sea-emily-wilson%2F1148214886%3Fean%3D9781324099406&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250344489&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffamily-of-spies-christine-kuehn%2F1147066529%3Fean%3D9781250344489&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrossing-Wine-Dark-Sea%2FEmily-Wilson%2F9781324099406"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamily-Spies%2FChristine-Kuehn%2F9781250344489"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781324099406"
+          "url": "https://bookshop.org/a/3546/9781250344489"
         }
       ]
     },
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780060959470",
       "publisher": "Morrow",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "ALL ABOUT LOVE",
       "updated_date": "2026-09-02T18:40:18.473Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -177,113 +177,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ian Leslie",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250869517.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7adab9a6-c0b4-5937-85be-26eb991f9b7e",
-      "contributor": "by Ian Leslie",
+      "author": "John Carreyrou",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780525431992.jpg",
+      "book_image_height": 493,
+      "book_image_width": 330,
+      "book_review_link": "https://www.nytimes.com/2018/05/21/books/review/bad-blood-john-carreyrou.html",
+      "book_uri": "nyt://book/8e0812eb-d9a5-51e1-9e69-d95388750eaf",
+      "contributor": "by John Carreyrou",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:10:36.015Z",
+      "created_date": "2026-11-04T19:00:07.36Z",
       "dagger": 0,
-      "description": "The 23-year relationship between John Lennon and Paul McCartney is viewed through the lens of the songs they wrote together.",
+      "description": "The rise and fall of Theranos, the biotech startup that failed to deliver on its promise to make blood testing more efficient.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250869517",
-      "publisher": "Celadon",
+      "primary_isbn13": "9780525431992",
+      "publisher": "Vintage",
       "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "JOHN & PAUL",
-      "updated_date": "2026-09-09T18:10:36.015Z",
+      "title": "BAD BLOOD",
+      "updated_date": "2026-11-04T19:00:07.36Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250869517"
+          "isbn13": "9780525431992"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/125086951X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250869517?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780525431992?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250869517&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fjohn-paul-ian-leslie%2F1146328438%3Fean%3D9781250869517&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525431992&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbad-blood-john-carreyrou%2F1128112184%3Fean%3D9780525431992&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FJohn-Paul%2FIan-Leslie%2F9781250869517"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBAD%2BBLOOD%2FJohn%2BCarreyrou%2F9780525431992"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250869517"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Trevor Noah",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc",
-      "contributor": "by Trevor Noah",
-      "contributor_note": "",
-      "created_date": "2026-08-19T23:59:11.311Z",
-      "dagger": 0,
-      "description": "The comedian recounts growing up biracial in apartheid South Africa.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399588198",
-      "publisher": "One World",
-      "rank": 5,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "BORN A CRIME",
-      "updated_date": "2026-08-19T23:59:11.311Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399588198"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0399588191?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399588198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fborn-a-crime-trevor-noah%2F1123595364%3Fean%3D9780399588198&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBorn-Crime%2FTrevor-Noah%2F9780399588198"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399588198"
+          "url": "https://bookshop.org/a/3546/9780525431992"
         }
       ]
     },
@@ -300,7 +244,7 @@
       "book_uri": "nyt://book/69445722-6cb7-5363-89f7-384da16a9902",
       "contributor": "by Sebastian Krahl. Illustrated by Fábio Lyra",
       "contributor_note": "Illustrated by Fábio Lyra",
-      "created_date": "2026-10-07T18:18:35.833Z",
+      "created_date": "2026-11-04T18:59:57.897Z",
       "dagger": 0,
       "description": "A true-crime storyteller shares a collection of scary and gruesome tales.",
       "first_chapter_link": "",
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798886087178",
       "publisher": "Callisto",
-      "rank": 6,
-      "rank_last_week": 8,
+      "rank": 5,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "50 TRUE STORIES THAT WILL SCARE YOU TO DEATH",
-      "updated_date": "2026-10-07T18:18:35.833Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-11-04T18:59:57.897Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -345,6 +289,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Emily Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324099406.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "https://www.nytimes.com/2026/08/26/books/review/crossing-the-wine-dark-sea-emily-wilson.html",
+      "book_uri": "nyt://book/d281d7f8-31f3-50c0-9346-1e090294b2e7",
+      "contributor": "by Emily Wilson",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:35.571Z",
+      "dagger": 0,
+      "description": "The translator of editions of Homer’s “Iliad” and “Odyssey” explicates potential complications encountered in her line of work.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781324099406",
+      "publisher": "Liveright",
+      "rank": 6,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "CROSSING THE WINE-DARK SEA",
+      "updated_date": "2026-09-09T18:10:35.571Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781324099406"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1324099402?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781324099406?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324099406&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrossing-the-wine-dark-sea-emily-wilson%2F1148214886%3Fean%3D9781324099406&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrossing-Wine-Dark-Sea%2FEmily-Wilson%2F9781324099406"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781324099406"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1571313567?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -365,11 +365,11 @@
       "primary_isbn13": "9781571313560",
       "publisher": "Milkweed Editions",
       "rank": 7,
-      "rank_last_week": 4,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "BRAIDING SWEETGRASS",
       "updated_date": "2026-06-03T18:21:54.415Z",
-      "weeks_on_list": 7,
+      "weeks_on_list": 8,
       "isbns": [
         {
           "isbn10": "",
@@ -401,281 +401,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1324147431?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Patti Smith",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781101910177.jpg",
+      "author": "John U. Bacon",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781324147435.jpg",
       "book_image_height": 500,
-      "book_image_width": 337,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/52049806-406e-5619-acae-690f8662a49c",
-      "contributor": "by Patti Smith",
+      "book_uri": "nyt://book/4ba83ed0-c36e-5d92-8bc9-e4f037766f43",
+      "contributor": "by John U. Bacon",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:35.983Z",
+      "created_date": "2026-11-04T18:59:58.047Z",
       "dagger": 0,
-      "description": "The National Book Award–winning author and Rock and Roll Hall of Fame inductee shares the ebbs and flows of her life.",
+      "description": "An account of the sinking of the Edmund Fitzgerald, an American Great Lakes freighter, in 1975.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781101910177",
-      "publisher": "Random House",
+      "primary_isbn13": "9781324147435",
+      "publisher": "Liveright",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BREAD OF ANGELS",
-      "updated_date": "2026-10-07T18:18:35.983Z",
+      "title": "THE GALES OF NOVEMBER",
+      "updated_date": "2026-11-04T18:59:58.047Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781101910177"
+          "isbn13": "9781324147435"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1324147431?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781101910177?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781324147435?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101910177&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbread-of-angels-patti-smith%2F1147247468%3Fean%3D9781101910177&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781324147435&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gales-of-november-john-u-bacon%2F1146855333%3Fean%3D9781324147435&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBread-Angels%2FPatti-Smith%2F9781101910177"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGales-November%2FJohn-U-Bacon%2F9781324147435"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781101910177"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jeannette Walls",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780743247542.jpg",
-      "book_image_height": 495,
-      "book_image_width": 313,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6525f71e-9487-5a7e-9534-f26d1a493c5f",
-      "contributor": "by Jeannette Walls",
-      "contributor_note": "",
-      "created_date": "2026-07-14T17:46:17.019Z",
-      "dagger": 1,
-      "description": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780743247542",
-      "publisher": "Scribner",
-      "rank": 9,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "THE GLASS CASTLE",
-      "updated_date": "2026-07-14T17:46:17.019Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780743247542"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780743247542?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780743247542&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-glass-castle-jeannette-walls%2F1100321217%3Fean%3D9780743247542&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BGLASS%2BCASTLE%2FJeannette%2BWalls%2F9780743247542"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780743247542"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Sophie Elmhirst",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7674397b-a7b1-5ae0-9280-dc4e527e3ad6",
-      "contributor": "by Sophie Elmhirst",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:40.87Z",
-      "dagger": 0,
-      "description": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593854297",
-      "publisher": "Riverhead",
-      "rank": 10,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "A MARRIAGE AT SEA",
-      "updated_date": "2026-07-08T17:19:40.87Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593854297"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593854297?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593854297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-marriage-at-sea-sophie-elmhirst%2F1146395780%3Fean%3D9780593854297&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMarriage-Sea%2FSophie-Elmhirst%2F9780593854297"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593854297"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Tara Westover",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780399590528.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
-      "book_review_link": "https://www.nytimes.com/2018/03/01/books/review/tara-westover-educated.html",
-      "book_uri": "nyt://book/1ee7a801-b1ae-56e0-90ad-6b443e2881fd",
-      "contributor": "by Tara Westover",
-      "contributor_note": "",
-      "created_date": "2026-07-01T17:54:34.347Z",
-      "dagger": 0,
-      "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780399590528",
-      "publisher": "Random House",
-      "rank": 11,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "EDUCATED",
-      "updated_date": "2026-07-01T17:54:34.347Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780399590528"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780399590528?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780399590528&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Feducated-tara-westover%2F1126358348%3Fean%3D9780399590528&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEDUCATED%2FTara%2BWestover%2F9780399590528"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780399590528"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Cory Doctorow",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250448194.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6115a880-4566-5ce7-aabd-10e5e3054bc3",
-      "contributor": "by Cory Doctorow",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:36.133Z",
-      "dagger": 0,
-      "description": "The author of “The Reverse Centaur's Guide to Life After AI” describes how decisions by tech leaders made services worse.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250448194",
-      "publisher": "Picador",
-      "rank": 12,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "ENSHITTIFICATION",
-      "updated_date": "2026-10-07T18:18:36.133Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250448194"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250448194?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250448194&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fenshittification-cory-doctorow%2F1146657404%3Fean%3D9781250448194&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEnshittification%2FCory-Doctorow%2F9781250448194"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250448194"
+          "url": "https://bookshop.org/a/3546/9781324147435"
         }
       ]
     },
@@ -700,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780399591617",
       "publisher": "Dial",
-      "rank": 13,
-      "rank_last_week": 15,
+      "rank": 9,
+      "rank_last_week": 13,
       "sunday_review_link": "",
       "title": "SIGNS",
       "updated_date": "2026-06-03T18:21:53.973Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -737,113 +513,337 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "John Green",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780525555247.jpg",
+      "author": "Patti Smith",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781101910177.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 337,
       "book_review_link": "",
-      "book_uri": "nyt://book/46e48617-316d-5d31-b826-62f7b6580826",
-      "contributor": "by John Green",
+      "book_uri": "nyt://book/52049806-406e-5619-acae-690f8662a49c",
+      "contributor": "by Patti Smith",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:10.889Z",
+      "created_date": "2026-10-07T18:18:35.983Z",
       "dagger": 0,
-      "description": "A collection of personal essays that review different facets of the human-centered planet.",
+      "description": "The National Book Award–winning author and Rock and Roll Hall of Fame inductee shares the ebbs and flows of her life.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780525555247",
-      "publisher": "Dutton",
-      "rank": 14,
-      "rank_last_week": 9,
+      "primary_isbn13": "9781101910177",
+      "publisher": "Random House",
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
-      "title": "THE ANTHROPOCENE REVIEWED",
-      "updated_date": "2026-09-02T18:40:10.889Z",
+      "title": "BREAD OF ANGELS",
+      "updated_date": "2026-10-07T18:18:35.983Z",
       "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780525555247"
+          "isbn13": "9781101910177"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0525555218?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1101910178?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780525555247?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781101910177?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780525555247&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-anthropocene-reviewed-john-green%2F1139032320%3Fean%3D9780525555247&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781101910177&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbread-of-angels-patti-smith%2F1147247468%3Fean%3D9781101910177&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANTHROPOCENE%2BREVIEWED%2FJohn%2BGreen%2F9780525555247"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBread-Angels%2FPatti-Smith%2F9781101910177"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780525555247"
+          "url": "https://bookshop.org/a/3546/9781101910177"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063005980?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jim DeFede",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063005983.jpg",
+      "author": "Sophie Elmhirst",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
       "book_image_height": 500,
-      "book_image_width": 332,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/e6b381e2-0908-5880-867f-868f8aeb1283",
-      "contributor": "by Jim DeFede",
+      "book_uri": "nyt://book/7674397b-a7b1-5ae0-9280-dc4e527e3ad6",
+      "contributor": "by Sophie Elmhirst",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:36.265Z",
+      "created_date": "2026-07-08T17:19:40.87Z",
       "dagger": 0,
-      "description": "Thirty-eight jetliners en route to the United States were diverted to the Gander International Airport in Canada on 9/11; the basis of the musical “Come From Away.”",
+      "description": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063005983",
-      "publisher": "Morrow",
-      "rank": 15,
-      "rank_last_week": 0,
+      "primary_isbn13": "9780593854297",
+      "publisher": "Riverhead",
+      "rank": 11,
+      "rank_last_week": 10,
       "sunday_review_link": "",
-      "title": "THE DAY THE WORLD CAME TO TOWN",
-      "updated_date": "2026-10-07T18:18:36.265Z",
-      "weeks_on_list": 1,
+      "title": "A MARRIAGE AT SEA",
+      "updated_date": "2026-07-08T17:19:40.87Z",
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063005983"
+          "isbn13": "9780593854297"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063005980?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593854292?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063005983?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593854297?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063005983&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-day-the-world-came-to-town-updated-edition-jim-defede%2F1100616498%3Fean%3D9780063005983&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593854297&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-marriage-at-sea-sophie-elmhirst%2F1146395780%3Fean%3D9780593854297&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDay-World-Came-Town-Updated%2FJim-DeFede%2F9780063005983"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMarriage-Sea%2FSophie-Elmhirst%2F9780593854297"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063005983"
+          "url": "https://bookshop.org/a/3546/9780593854297"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/166809472X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Arundhati Roy",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668094723.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/658ba99f-dd26-5546-ab56-6f1cd026b7a8",
+      "contributor": "by Arundhati Roy",
+      "contributor_note": "",
+      "created_date": "2026-11-04T18:59:58.196Z",
+      "dagger": 0,
+      "description": "The author of “The Ministry of Utmost Happiness” ruminates on her relationship with her late mother.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668094723",
+      "publisher": "Scribner",
+      "rank": 12,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MOTHER MARY COMES TO ME",
+      "updated_date": "2026-11-04T18:59:58.196Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668094723"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/166809472X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668094723?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668094723&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmother-mary-comes-to-me-arundhati-roy%2F1146860647%3Fean%3D9781668094723&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMother-Mary-Comes%2FArundhati-Roy%2F9781668094723"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668094723"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250866448?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Matthew Perry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250866455.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a183ef03-0d49-54bd-b4d0-7575f4407a6d",
+      "contributor": "by Matthew Perry",
+      "contributor_note": "",
+      "created_date": "2026-11-04T18:59:58.337Z",
+      "dagger": 0,
+      "description": "The famed “Friends” actor, who died in 2023, shares stories from his childhood and his struggles with sobriety.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250866455",
+      "publisher": "Flatiron",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+      "updated_date": "2026-11-04T18:59:58.337Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250866455"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250866448?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250866455?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250866455&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffriends-lovers-and-the-big-terrible-thing-matthew-perry%2F1140530024%3Fean%3D9781250866455&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFRIENDS%252C%2BLOVERS%252C%2BAND%2BTHE%2BBIG%2BTERRIBLE%2BTHING%2FMatthew%2BPerry%2F9781250866455"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250866455"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cory Doctorow",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250448194.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6115a880-4566-5ce7-aabd-10e5e3054bc3",
+      "contributor": "by Cory Doctorow",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:36.133Z",
+      "dagger": 0,
+      "description": "The author of “The Reverse Centaur's Guide to Life After AI” describes how decisions by tech leaders made services worse.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781250448194",
+      "publisher": "Picador",
+      "rank": 14,
+      "rank_last_week": 12,
+      "sunday_review_link": "",
+      "title": "ENSHITTIFICATION",
+      "updated_date": "2026-10-07T18:18:36.133Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781250448194"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1250448190?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250448194?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250448194&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fenshittification-cory-doctorow%2F1146657404%3Fean%3D9781250448194&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEnshittification%2FCory-Doctorow%2F9781250448194"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250448194"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/153876847X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Nate Bargatze",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538768471.jpg",
+      "book_image_height": 500,
+      "book_image_width": 328,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b24acc43-faf2-51a4-8fa8-e1e46d7c8407",
+      "contributor": "by Nate Bargatze",
+      "contributor_note": "",
+      "created_date": "2026-11-04T18:59:58.517Z",
+      "dagger": 0,
+      "description": "The Grammy Award-winning comedian shares snippets from his life and career.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538768471",
+      "publisher": "Grand Central",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BIG DUMB EYES",
+      "updated_date": "2026-11-04T18:59:58.517Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538768471"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/153876847X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538768471?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538768471&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbig-dumb-eyes-nate-bargatze%2F1146368350%3Fean%3D9781538768471&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBig-Dumb-Eyes%2FNate-Bargatze%2F9781538768471"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538768471"
         }
       ]
     }

@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "MONTHLY",
   "list_id": 10016,
-  "uri": "nyt://bestsellerslist/e0aded71-e953-509c-84b5-c90a2293daa0",
+  "uri": "nyt://bestsellerslist/e8458d25-0fd0-55c3-9b6e-f7cfcf16f4cc",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9798347119615",
       "publisher": "Simon & Schuster",
       "rank": 1,
-      "rank_last_week": 2,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "21 DAYS OF FEAR",
       "updated_date": "2026-09-02T18:40:13.419Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9798347121151",
       "publisher": "Margaret K. McElderry",
       "rank": 2,
-      "rank_last_week": 0,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "FALLING LIKE LEAVES",
       "updated_date": "2026-10-07T18:25:21.679Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -121,6 +121,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H8PH61N8?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Britney S. Lewis",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798890036988.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bcd83687-6e05-52c5-8355-aec67c423478",
+      "contributor": "by Britney S. Lewis",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:00.573Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798890036988",
+      "publisher": "Page Street",
+      "rank": 3,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "BLOOD MOON",
+      "updated_date": "2026-11-04T19:00:00.573Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798890036988"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0H8PH61N8?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798890036988?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798890036988&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fblood-moon-britney-s-lewis%2F1126752012%3Fean%3D9798890036988&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBlood-Moon%2FBritney-S-Lewis%2F9798890036988"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798890036988"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1665921277?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781665921275",
       "publisher": "Simon & Schuster",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "FAKE SKATING",
       "updated_date": "2026-10-07T18:18:39.64Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -177,62 +233,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GXWBGXVR?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Don Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798890036551.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/0c35c8e7-756f-57b8-8b73-a161521ea2a1",
-      "contributor": "by Don Martin",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:39.78Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798890036551",
-      "publisher": "Page Street",
-      "rank": 4,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "VERITY VOX AND THE CURSE OF FOXFIRE",
-      "updated_date": "2026-10-07T18:18:39.78Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798890036551"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GXWBGXVR?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798890036551?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798890036551&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-vox-and-the-curse-of-foxfire-don-martin%2F1146128413%3Fean%3D9798890036551&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity-Vox-Curse-Foxfire%2FDon-Martin%2F9798890036551"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798890036551"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1728205484?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781728205489",
       "publisher": "Sourcebooks Fire",
       "rank": 5,
-      "rank_last_week": 3,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "IF HE HAD BEEN WITH ME",
       "updated_date": "2026-07-01T17:54:36.2Z",
-      "weeks_on_list": 46,
+      "weeks_on_list": 47,
       "isbns": [
         {
           "isbn10": "",
@@ -309,11 +309,11 @@
       "primary_isbn13": "9781534467637",
       "publisher": "Simon & Schuster",
       "rank": 6,
-      "rank_last_week": 1,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "BETTER THAN THE MOVIES",
       "updated_date": "2026-03-04T23:40:09.053Z",
-      "weeks_on_list": 47,
+      "weeks_on_list": 48,
       "isbns": [
         {
           "isbn10": "",
@@ -345,57 +345,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G5ZP6QPV?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jason Reynolds",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781481438261.jpg",
-      "book_image_height": 495,
-      "book_image_width": 328,
+      "author": "Anouk Filippini",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798347118960.jpg",
+      "book_image_height": 500,
+      "book_image_width": 360,
       "book_review_link": "",
-      "book_uri": "nyt://book/434525fe-4696-5f1c-a6d3-de2fbd14c542",
-      "contributor": "by Jason Reynolds",
+      "book_uri": "nyt://book/e07ebfd5-a322-5fd0-a82e-14d24a3acf8c",
+      "contributor": "by Anouk Filippini",
       "contributor_note": "",
-      "created_date": "2026-09-02T18:40:13.871Z",
+      "created_date": "2026-11-04T19:00:00.712Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781481438261",
-      "publisher": "Atheneum/Caitlyn Dlouhy",
+      "primary_isbn13": "9798347118960",
+      "publisher": "Simon & Schuster",
       "rank": 7,
-      "rank_last_week": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LONG WAY DOWN",
-      "updated_date": "2026-09-02T18:40:13.871Z",
-      "weeks_on_list": 33,
+      "title": "IT'S CHRISTMAS CRIME!",
+      "updated_date": "2026-11-04T19:00:00.712Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781481438261"
+          "isbn13": "9798347118960"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0G5ZP6QPV?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781481438261?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798347118960?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781481438261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flong-way-down-jason-reynolds%2F1125685904%3Fean%3D9781481438261&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798347118960&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fits-christmas-crime-anouk-filippini%2F1148915487%3Fean%3D9798347118960&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLONG%2BWAY%2BDOWN%2FJason%2BReynolds%2F9781481438261"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIts-Christmas-Crime%2FAnouk-Filippini%2F9798347118960"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781481438261"
+          "url": "https://bookshop.org/a/3546/9798347118960"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1665989823?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Misty Wilson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781665989824.jpg",
+      "book_image_height": 500,
+      "book_image_width": 336,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cfaa1c5e-546d-520a-b50d-376d728998dd",
+      "contributor": "by Misty Wilson",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:00.847Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781665989824",
+      "publisher": "Margaret K. McElderry",
+      "rank": 8,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "FALLING LIKE SNOW",
+      "updated_date": "2026-11-04T19:00:00.847Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781665989824"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1665989823?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781665989824?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665989824&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffalling-like-snow-misty-wilson%2F1149526112%3Fean%3D9781665989824&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFalling-Like-Snow%2FMisty-Wilson%2F9781665989824"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781665989824"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Laura Nowlin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728276229.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/596bbc7d-3bb4-5aa5-955d-1a8a4a56369c",
+      "contributor": "by Laura Nowlin",
+      "contributor_note": "",
+      "created_date": "2026-11-04T21:18:47.263Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728276229",
+      "publisher": "Sourcebooks Fire",
+      "rank": 9,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "IF ONLY I HAD TOLD HER",
+      "updated_date": "2026-11-04T21:18:47.263Z",
+      "weeks_on_list": 33,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728276229"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728276229?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728276229&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-only-i-had-told-her-laura-nowlin%2F1142811940%3Fean%3D9781728276229&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Only-Had-Told-Her%2FLaura-Nowlin%2F9781464254529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464254529"
         }
       ]
     },
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781101934746",
       "publisher": "Ember",
-      "rank": 8,
-      "rank_last_week": 7,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "GIRL IN PIECES",
       "updated_date": "2026-03-04T23:40:09.335Z",
-      "weeks_on_list": 58,
+      "weeks_on_list": 59,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781101934746"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Laura Nowlin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728276229.jpg",
-      "book_image_height": 0,
-      "book_image_width": 0,
-      "book_review_link": "",
-      "book_uri": "nyt://book/596bbc7d-3bb4-5aa5-955d-1a8a4a56369c",
-      "contributor": "by Laura Nowlin",
-      "contributor_note": "",
-      "created_date": "2026-03-04T23:40:09.204Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728276229",
-      "publisher": "Sourcebooks Fire",
-      "rank": 9,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "IF ONLY I HAD TOLD HER",
-      "updated_date": "2026-03-04T23:40:09.204Z",
-      "weeks_on_list": 32,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728276229"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464254524?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464254529?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728276229&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fif-only-i-had-told-her-laura-nowlin%2F1142811940%3Fean%3D9781728276229&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIf-Only-Had-Told-Her%2FLaura-Nowlin%2F9781464254529"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464254529"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Markus Zusak",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375842207.jpg",
-      "book_image_height": 495,
-      "book_image_width": 321,
-      "book_review_link": "https://www.nytimes.com/2006/03/27/books/27masl.html",
-      "book_uri": "nyt://book/535c6937-87ea-5803-a820-cc3cb3114056",
-      "contributor": "by Markus Zusak",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:39.908Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375842207",
-      "publisher": "Knopf",
-      "rank": 10,
-      "rank_last_week": 5,
-      "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14greenj.html",
-      "title": "THE BOOK THIEF",
-      "updated_date": "2026-10-07T18:18:39.908Z",
-      "weeks_on_list": 65,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375842207"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/The-Book-Thief-Markus-Zusak/dp/0375842209?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375842207?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375842207&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-book-thief-markus-zusak%2F1100189892%3Fean%3D9780375842207&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOOK%2BTHIEF%2FMarkus%2BZusak%2F9780375842207"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375842207"
         }
       ]
     }

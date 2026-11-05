@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/04c7b514-9823-5a10-868e-992d612460b8",
+  "uri": "nyt://bestsellerslist/833316ed-eea1-59f7-b8a4-eeb86e02e21d",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 48,
+      "weeks_on_list": 49,
       "isbns": [
         {
           "isbn10": "",
@@ -65,57 +65,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464243689?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464223343?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Meghan Quinn",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464243684.jpg",
+      "author": "Ana Huang",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464223341.jpg",
       "book_image_height": 500,
-      "book_image_width": 394,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/2f82462f-c266-5696-870c-ac19b70b35bb",
-      "contributor": "by Meghan Quinn",
+      "book_uri": "nyt://book/7b842f3e-fe45-5fa2-ae64-0d9fe26ac4a1",
+      "contributor": "by Ana Huang",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:57.271Z",
+      "created_date": "2026-11-04T19:00:06.5Z",
       "dagger": 0,
-      "description": "The third book in the How My Neighbor Stole Christmas series. Taran is caught between brothers this holiday season.",
+      "description": "The third book in the Gods of the Game series. Carina Vu becomes a nanny to the daughter of a goalkeeper who is also a single dad.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464243684",
+      "primary_isbn13": "9781464223341",
       "publisher": "Bloom",
       "rank": 2,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CHRISTMAS STAYCATION",
-      "updated_date": "2026-10-28T17:27:57.271Z",
+      "title": "THE KEEPER",
+      "updated_date": "2026-11-04T19:00:06.5Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464243684"
+          "isbn13": "9781464223341"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464243689?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464223343?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464243684?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464223341?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464243684&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchristmas-staycation-meghan-quinn%2F1148885077%3Fean%3D9781464243684&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464223341&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-keeper-ana-huang%2F1148527947%3Fean%3D9781464223341&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChristmas-Staycation-Deluxe%2FMeghan-Quinn%2F9781464243684"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKeeper-Deluxe%2FAna-Huang%2F9781464223341"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464243684"
+          "url": "https://bookshop.org/a/3546/9781464223341"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
+      "contributor": "by Sarah J. Maas",
+      "contributor_note": "",
+      "created_date": "2026-07-14T17:46:25.966Z",
+      "dagger": 0,
+      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781635575569",
+      "publisher": "Bloomsbury",
+      "rank": 3,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "A COURT OF THORNS AND ROSES",
+      "updated_date": "2026-07-14T17:46:25.966Z",
+      "weeks_on_list": 94,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781635575569"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781635575569"
         }
       ]
     },
@@ -140,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
-      "rank": 3,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-10-21T17:57:40.507Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -177,6 +233,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464246939?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Meghan Quinn",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246937.jpg",
+      "book_image_height": 500,
+      "book_image_width": 324,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a47f2f22-6fd7-544b-b035-98418e4f4448",
+      "contributor": "by Meghan Quinn",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:01.144Z",
+      "dagger": 0,
+      "description": "The third book in the \"How My Neighbor Stole Christmas\" series. Taran is caught between brothers this holiday season.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464246937",
+      "publisher": "Bloom",
+      "rank": 5,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "CHRISTMAS STAYCATION",
+      "updated_date": "2026-11-04T19:00:01.144Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464246937"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464246939?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781464246937?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246937&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchristmas-staycation-meghan-quinn%2F1148885077%3Fean%3D9781464246937&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChristmas-Staycation-Standard%2FMeghan-Quinn%2F9781464246937"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464246937"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538784051",
       "publisher": "Grand Central",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "VERITY",
       "updated_date": "2026-10-14T17:25:10.669Z",
-      "weeks_on_list": 167,
+      "weeks_on_list": 168,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781464249617",
       "publisher": "Poisoned Pen",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "BRAIN DAMAGE",
       "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 10,
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -289,57 +401,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sarah J. Maas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Andy Weir",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/cc163d0f-b8a2-573c-8e81-d804ac7844af",
-      "contributor": "by Sarah J. Maas",
+      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+      "contributor": "by Andy Weir",
       "contributor_note": "",
-      "created_date": "2026-07-14T17:46:25.966Z",
+      "created_date": "2026-05-20T22:02:25.385Z",
       "dagger": 0,
-      "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781635575569",
-      "publisher": "Bloomsbury",
-      "rank": 6,
-      "rank_last_week": 6,
+      "primary_isbn13": "9780593135228",
+      "publisher": "Ballantine",
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
-      "title": "A COURT OF THORNS AND ROSES",
-      "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 93,
+      "title": "PROJECT HAIL MARY",
+      "updated_date": "2026-05-20T22:02:25.385Z",
+      "weeks_on_list": 71,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781635575569"
+          "isbn13": "9780593135228"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1635575567?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781635575569?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575569&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-thorns-and-roses-sarah-j-maas%2F1120160516%3Fean%3D9781635575569&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCourt-Thorns-Roses%2FSarah-J-Maas%2F9781635575569"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781635575569"
+          "url": "https://bookshop.org/a/3546/9780593135228"
         }
       ]
     },
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780345539809",
       "publisher": "Del Rey",
-      "rank": 7,
-      "rank_last_week": 10,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "RED RISING",
       "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 19,
+      "weeks_on_list": 20,
       "isbns": [
         {
           "isbn10": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 8,
-      "rank_last_week": 9,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 12,
+      "weeks_on_list": 13,
       "isbns": [
         {
           "isbn10": "",
@@ -457,393 +569,281 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575583?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andy Weir",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575583.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
-      "contributor": "by Andy Weir",
+      "book_uri": "nyt://book/e2598cfd-358d-5120-ba75-8f6ff0dd5e8b",
+      "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-05-20T22:02:25.385Z",
+      "created_date": "2026-11-04T19:00:01.287Z",
       "dagger": 0,
-      "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "description": "The second book in the \"Court of Thorns and Roses\" series. Feyre gains the powers of the High Fae and a greater evil emerges.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593135228",
-      "publisher": "Ballantine",
-      "rank": 9,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781635575583",
+      "publisher": "Bloomsbury",
+      "rank": 11,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "PROJECT HAIL MARY",
-      "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 70,
+      "title": "A COURT OF MIST AND FURY",
+      "updated_date": "2026-11-04T19:00:01.287Z",
+      "weeks_on_list": 43,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593135228"
+          "isbn13": "9781635575583"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1635575583?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593135211?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781635575583?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593135228&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fproject-hail-mary-andy-weir%2F1137456421%3Fean%3D9780593135228&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575583&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-mist-and-fury-sarah-j-maas%2F1123052907%3Fean%3D9781635575583&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BCOURT%2BOF%2BMIST%2BAND%2BFURY%2FSarah%2BJ.%2BMaas%2F9781635575583"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593135228"
+          "url": "https://bookshop.org/a/3546/9781635575583"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/1635574048?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249631.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635577020.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/bafd4a0f-0a01-56eb-b3b6-6d5d85d44ed3",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/c21e5586-3a27-57ef-a7e1-3aa411dbc479",
+      "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-06-03T18:55:48.983Z",
+      "created_date": "2026-11-04T19:00:01.441Z",
       "dagger": 0,
-      "description": "After her husband ends their marriage and she turns her attention to his new girlfriend, Naomi suspects she might be in danger.",
+      "description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce’s friends.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464249631",
-      "publisher": "Poisoned Pen",
-      "rank": 10,
-      "rank_last_week": 13,
+      "primary_isbn13": "9781635577020",
+      "publisher": "Bloomsbury",
+      "rank": 12,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE DIVORCE",
-      "updated_date": "2026-06-03T18:55:48.983Z",
+      "title": "HOUSE OF EARTH AND BLOOD",
+      "updated_date": "2026-11-04T19:00:01.441Z",
+      "weeks_on_list": 20,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781635577020"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1635574048?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781635577020?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635577020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhouse-of-earth-and-blood-sarah-j-maas%2F1131130550%3Fean%3D9781635577020&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOUSE%2BOF%2BEARTH%2BAND%2BBLOOD%2FSarah%2BJ.%2BMaas%2F9781635577020"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781635577020"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/168119628X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635577990.jpg",
+      "book_image_height": 500,
+      "book_image_width": 304,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4c839330-a6b0-5520-b914-126231dcb2da",
+      "contributor": "by Sarah J. Maas",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:01.574Z",
+      "dagger": 0,
+      "description": "The fifth book in the \"Court of Thorns and Roses\" series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781635577990",
+      "publisher": "Bloomsbury",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "A COURT OF SILVER FLAMES",
+      "updated_date": "2026-11-04T19:00:01.574Z",
+      "weeks_on_list": 28,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781635577990"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/168119628X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781635577990?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635577990&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-silver-flames-sarah-j-maas%2F1137236764%3Fean%3D9781635577990&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BCOURT%2BOF%2BSILVER%2BFLAMES%2FSarah%2BJ.%2BMaas%2F9781635577990"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781635577990"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1335004092?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Rachel Reid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781335004093.jpg",
+      "book_image_height": 500,
+      "book_image_width": 321,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1974c293-b55f-5301-8575-d704fc09ab33",
+      "contributor": "by Rachel Reid",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:01.726Z",
+      "dagger": 0,
+      "description": "The second book in the Game Changers series. Rival captains of two hockey teams try to keep their relationship out of the spotlight; the basis of the TV series.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781335004093",
+      "publisher": "Carina",
+      "rank": 14,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HEATED RIVALRY",
+      "updated_date": "2026-11-04T19:00:01.726Z",
       "weeks_on_list": 19,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464249631"
+          "isbn13": "9781335004093"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249636?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/1335004092?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169304?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249631&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-divorce-freida-mcfadden%2F1149325563%3Fean%3D9781464249631&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDivorce%2FFreida-McFadden%2F9781464249631"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249631"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ali Hazelwood",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217192359.jpg",
-      "book_image_height": 462,
-      "book_image_width": 500,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8f2b8260-8b34-5b17-81b2-74c8099b4ebc",
-      "contributor": "by Ali Hazelwood",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.737Z",
-      "dagger": 0,
-      "description": "Two paranormal romance novellas tell stories of relationships between unlikely pairs brought together by secrets and vengeance.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217192359",
-      "publisher": "Berkley",
-      "rank": 11,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "BOUND AND UNBOUND",
-      "updated_date": "2026-10-14T17:13:58.737Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217192359"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H1Q6F383?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217192359?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781335004093?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217192359&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbound-and-unbound-ali-hazelwood%2F1150175498%3Fean%3D9798217192359&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781335004093&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheated-rivalry-rachel-reid%2F1129486546%3Fean%3D9781335004093&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBound-Unbound%2FAli-Hazelwood%2F9798217192359"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeated-Rivalry-Deluxe%2FRachel-Reid%2F9781335004093"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217192359"
+          "url": "https://bookshop.org/a/3546/9781335004093"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1635575605?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Rebecca Yarros",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
+      "author": "Sarah J. Maas",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781635575606.jpg",
       "book_image_height": 500,
-      "book_image_width": 309,
+      "book_image_width": 333,
       "book_review_link": "",
-      "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
-      "contributor": "by Rebecca Yarros",
+      "book_uri": "nyt://book/25225a59-40b1-5cb0-bbb2-3a63c9cbe918",
+      "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-10-07T18:18:40.46Z",
+      "created_date": "2026-11-04T19:00:01.888Z",
       "dagger": 0,
-      "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+      "description": "The third book in the \"Court of Thorns and Roses\" series. As war approaches, Feyre endeavors to take charge of her magical and political powers.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781649377371",
-      "publisher": "Red Tower",
-      "rank": 12,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "FOURTH WING",
-      "updated_date": "2026-10-07T18:18:40.46Z",
-      "weeks_on_list": 54,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781649377371"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649377371&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649377371&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649377371"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464261857?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Elizabeth Helen",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464261855.jpg",
-      "book_image_height": 500,
-      "book_image_width": 394,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8e909aa3-c5dd-5e8a-8da7-6bd7789f4bef",
-      "contributor": "by Elizabeth Helen",
-      "contributor_note": "",
-      "created_date": "2026-10-28T17:27:55.793Z",
-      "dagger": 0,
-      "description": "The seventh book in the Beasts of the Briar series. Disparate forces must join together for one final fight.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464261855",
-      "publisher": "Bloom",
-      "rank": 13,
+      "primary_isbn13": "9781635575606",
+      "publisher": "Bloomsbury",
+      "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CROWNED BY ROSES",
-      "updated_date": "2026-10-28T17:27:55.793Z",
-      "weeks_on_list": 1,
+      "title": "A COURT OF WINGS AND RUIN",
+      "updated_date": "2026-11-04T19:00:01.888Z",
+      "weeks_on_list": 25,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464261855"
+          "isbn13": "9781635575606"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464261857?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1635575605?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464261855?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781635575606?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464261855&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcrowned-by-roses-elizabeth-helen%2F1149718023%3Fean%3D9781464261855&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635575606&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-court-of-wings-and-ruin-sarah-j-maas%2F1125299079%3Fean%3D9781635575606&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCrowned-Roses-Deluxe%2FElizabeth-Helen%2F9781464261855"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BCOURT%2BOF%2BWINGS%2BAND%2BRUIN%2FSarah%2BJ.%2BMaas%2F9781635575606"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464261855"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250178649?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Kristin Hannah",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250178640.jpg",
-      "book_image_height": 500,
-      "book_image_width": 326,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6f817224-2d77-5ac1-b6bb-5ce7734064d0",
-      "contributor": "by Kristin Hannah",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:02.583Z",
-      "dagger": 0,
-      "description": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250178640",
-      "publisher": "St. Martin's Griffin",
-      "rank": 14,
-      "rank_last_week": 15,
-      "sunday_review_link": "",
-      "title": "THE WOMEN",
-      "updated_date": "2026-09-23T18:21:02.583Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250178640"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250178649?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250178640?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250178640&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-women-kristin-hannah%2F1143461662%3Fean%3D9781250178640&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWomen%2FKristin-Hannah%2F9781250178640"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250178640"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4458a99f-200e-54cc-9fc5-d4f2ad0070b0",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:29:20.005Z",
-      "dagger": 0,
-      "description": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781728296166",
-      "publisher": "Poisoned Pen",
-      "rank": 15,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "NEVER LIE",
-      "updated_date": "2026-10-14T17:29:20.005Z",
-      "weeks_on_list": 33,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781728296166"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728296161?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://books.apple.com/us/audiobook/never-lie/id1648157377"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728296166&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnever-lie-freida-mcfadden%2F1142398233%3Fean%3D9781728296166&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNEVER%2BLIE%2FFreida%2BMcFadden%2F9781728296166"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728296166"
+          "url": "https://bookshop.org/a/3546/9781635575606"
         }
       ]
     }

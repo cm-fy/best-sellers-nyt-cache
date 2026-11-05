@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/66527b75-d034-5326-b220-f8d5772bf223",
+  "uri": "nyt://bestsellerslist/7c764ef5-5640-58af-989a-4a2001a939c4",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9780593234174",
       "publisher": "Clarkson Potter",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "SIMPLY INA",
       "updated_date": "2026-10-28T17:27:55.954Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -70,13 +70,13 @@
       "asterisk": 0,
       "author": "Philip Anthony Mitchell",
       "book_image": "https://static01.nyt.com/bestsellers/images/9781400356829.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
       "book_uri": "nyt://book/a9febde8-094b-5f49-b850-8fca759d615c",
       "contributor": "by Philip Anthony Mitchell",
       "contributor_note": "",
-      "created_date": "2026-10-21T17:29:29.474Z",
+      "created_date": "2026-11-04T20:08:31.959Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9781400356829",
       "publisher": "Thomas Nelson",
       "rank": 2,
-      "rank_last_week": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "CONTEND",
-      "updated_date": "2026-10-21T17:29:29.474Z",
-      "weeks_on_list": 2,
+      "updated_date": "2026-11-04T20:08:31.959Z",
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -103,10 +103,10 @@
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400356829?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781400356843?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
+          "name": "Barnes and Noble",
           "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400356829&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcontend-philip-anthony-mitchell%2F1149894242%3Fean%3D9781400356829&intsrc=APIG_15890"
         },
         {
@@ -121,57 +121,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0593971531?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ethan Mollick",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217181391.jpg",
+      "author": "Rebekah Moyer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593971536.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 402,
       "book_review_link": "",
-      "book_uri": "nyt://book/6b3788b5-0328-5560-859c-ef60624ac1fe",
-      "contributor": "by Ethan Mollick",
+      "book_uri": "nyt://book/9e656123-5ea7-52e8-85b2-57de79d5dfc8",
+      "contributor": "by Rebekah Moyer",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:56.101Z",
+      "created_date": "2026-11-04T19:00:02.07Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217181391",
-      "publisher": "Portfolio",
+      "primary_isbn13": "9780593971536",
+      "publisher": "DK",
       "rank": 3,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CO-EXISTENCE",
-      "updated_date": "2026-10-28T17:27:56.101Z",
+      "title": "SIMPLE KITCHEN MAGIC",
+      "updated_date": "2026-11-04T19:00:02.07Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217181391"
+          "isbn13": "9780593971536"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H2GJJVDW?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0593971531?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217181391?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593971536?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217181391&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fco-existence-ethan-mollick%2F1150229796%3Fean%3D9798217181391&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593971536&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsimple-kitchen-magic-rebekah-moyer%2F1149957496%3Fean%3D9780593971536&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCo-Existence%2FEthan-Mollick%2F9798217181391"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSimple-Kitchen-Magic%2FRebekah-Moyer%2F9780593971536"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217181391"
+          "url": "https://bookshop.org/a/3546/9780593971536"
         }
       ]
     },
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
       "rank": 4,
-      "rank_last_week": 6,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-10-22T19:42:06.651Z",
-      "weeks_on_list": 96,
+      "weeks_on_list": 97,
       "isbns": [
         {
           "isbn10": "",
@@ -253,11 +253,11 @@
       "primary_isbn13": "9781668032145",
       "publisher": "Simon Element",
       "rank": 5,
-      "rank_last_week": 3,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "PROTOCOLS",
       "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 6,
+      "weeks_on_list": 7,
       "isbns": [
         {
           "isbn10": "",
@@ -309,11 +309,11 @@
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
       "rank": 6,
-      "rank_last_week": 4,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-10-21T18:00:43.614Z",
-      "weeks_on_list": 360,
+      "weeks_on_list": 361,
       "isbns": [
         {
           "isbn10": "",
@@ -345,169 +345,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593799909?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GHWLWZ88?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ayesha Nurdjaja with Casey Elsass",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593799901.jpg",
+      "author": "Morgan Eckroth",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217035366.jpg",
       "book_image_height": 500,
-      "book_image_width": 415,
+      "book_image_width": 364,
       "book_review_link": "",
-      "book_uri": "nyt://book/aef09c76-61ee-59e8-964f-cd7868c16b88",
-      "contributor": "by Ayesha Nurdjaja with Casey Elsass",
+      "book_uri": "nyt://book/43006edc-b2c0-5054-ac67-b007aa86e125",
+      "contributor": "by Morgan Eckroth",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:56.253Z",
+      "created_date": "2026-11-04T19:00:02.236Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593799901",
+      "primary_isbn13": "9798217035366",
       "publisher": "Clarkson Potter",
       "rank": 7,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MEDITERRANEAN ALL THE WAY",
-      "updated_date": "2026-10-28T17:27:56.253Z",
+      "title": "COFFEE, FOR HERE",
+      "updated_date": "2026-11-04T19:00:02.236Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593799901"
+          "isbn13": "9798217035366"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593799909?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GHWLWZ88?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593799901?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217035366?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593799901&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmediterranean-all-the-way-ayesha-nurdjaja%2F1149731570%3Fean%3D9780593799901&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217035366&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcoffee-for-here-morgan-eckroth%2F1149464693%3Fean%3D9798217035366&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMediterranean-All-Way%2FAyesha-Nurdjaja%2F9780593799901"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCoffee-Here%2FMorgan-Eckroth%2F9798217035366"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593799901"
+          "url": "https://bookshop.org/a/3546/9798217035366"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GHX4XTGP?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sadia Badiei",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217033843.jpg",
+      "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
       "book_image_height": 500,
-      "book_image_width": 402,
+      "book_image_width": 392,
       "book_review_link": "",
-      "book_uri": "nyt://book/86541b8c-f07d-5d9b-8476-d049de56f34b",
-      "contributor": "by Sadia Badiei",
+      "book_uri": "nyt://book/9b3c4b0a-8798-5042-9982-26a70275ba27",
+      "contributor": "by Dolly Parton and Rachel Parton George with Maurice Miner",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:56.399Z",
+      "created_date": "2026-09-02T18:40:14.733Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217033843",
-      "publisher": "Clarkson Potter",
+      "primary_isbn13": "9781984863164",
+      "publisher": "Ten Speed",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "SIMPLY PLANTS",
-      "updated_date": "2026-10-28T17:27:56.399Z",
-      "weeks_on_list": 1,
+      "title": "GOOD LOOKIN' COOKIN'",
+      "updated_date": "2026-09-02T18:40:14.733Z",
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217033843"
+          "isbn13": "9781984863164"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GHX4XTGP?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1984863169?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217033843?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781984863164?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217033843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsimply-plants-sadia-badiei%2F1149551410%3Fean%3D9798217033843&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984863164&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fgood-lookin-cookin-dolly-parton%2F1144953293%3Fean%3D9781984863164&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSimply-Plants%2FSadia-Badiei%2F9798217033843"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGOOD%2BLOOKIN%2527%2BCOOKIN%2527%2FDolly%2BParton%2Band%2BRachel%2BParton%2BGeorge%2Bwith%2BMaurice%2BMiner%2F9781984863164"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217033843"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668212463?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Taryn Delanie Smith",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668212462.jpg",
-      "book_image_height": 500,
-      "book_image_width": 362,
-      "book_review_link": "",
-      "book_uri": "nyt://book/cb8b404c-6e88-57e2-ac86-5fbebf668a62",
-      "contributor": "by Taryn Delanie Smith",
-      "contributor_note": "",
-      "created_date": "2026-10-28T17:27:56.554Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668212462",
-      "publisher": "37 Ink",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WELCOME TO THE AFTERLIFE",
-      "updated_date": "2026-10-28T17:27:56.554Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668212462"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668212463?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668212462?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668212462&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwelcome-to-the-afterlife-taryn-delanie-smith%2F1149526023%3Fean%3D9781668212462&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWelcome-Afterlife%2FTaryn-Delanie-Smith%2F9781668212462"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668212462"
+          "url": "https://bookshop.org/a/3546/9781984863164"
         }
       ]
     },
@@ -532,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781400230723",
       "publisher": "Thomas Nelson",
-      "rank": 10,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "MAKING PEACE WITH WHAT I CAN'T CONTROL",
       "updated_date": "2026-09-23T18:21:03.24Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -564,6 +508,62 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781400230723"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1636415784?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Dinesh D'Souza",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781636415789.jpg",
+      "book_image_height": 500,
+      "book_image_width": 346,
+      "book_review_link": "",
+      "book_uri": "nyt://book/cc59df74-31e3-5cc5-81e3-b7b79697f826",
+      "contributor": "by Dinesh D'Souza",
+      "contributor_note": "",
+      "created_date": "2026-11-04T19:00:02.388Z",
+      "dagger": 1,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781636415789",
+      "publisher": "Frontline",
+      "rank": 10,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE STONES CRY OUT",
+      "updated_date": "2026-11-04T19:00:02.388Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781636415789"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1636415784?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781636415789?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781636415789&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-stones-cry-out-dinesh-dsouza%2F1150334073%3Fean%3D9781636415789&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStones-Cry-Out%2FDinesh-DSouza%2F9781636415789"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781636415789"
         }
       ]
     }
