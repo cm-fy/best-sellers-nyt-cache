@@ -5,64 +5,8 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 13,
-  "uri": "nyt://bestsellerslist/332f54e1-385c-5642-929e-694b86d502b5",
+  "uri": "nyt://bestsellerslist/34ff5bf6-b555-5186-a3ef-6a1e5ae2ecd7",
   "books": [
-    {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/1464246025?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Daniel Nayeri",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246029.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5601bcdc-25b8-566e-9c23-372ce5a2b348",
-      "contributor": "by Daniel Nayeri",
-      "contributor_note": "",
-      "created_date": "2026-11-04T19:53:51.735Z",
-      "dagger": 0,
-      "description": "A boy named Nothing the Younger and his friends accompany the Wander Prince on an adventure to defeat the Giantess. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464246029",
-      "publisher": "Stonefruit Studio",
-      "rank": 1,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THIS IS A DOOR",
-      "updated_date": "2026-11-04T19:53:51.735Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464246029"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464246025?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464246036?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246029&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-a-door-daniel-nayeri%2F1149389014%3Fean%3D9781464246029&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Door%2FDaniel-Nayeri%2F9781464246029"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464246029"
-        }
-      ]
-    },
     {
       "age_group": "Ages 10 to 14",
       "amazon_product_url": "https://www.amazon.com/dp/B0GQ6PGS7P?tag=thenewyorktim-20",
@@ -84,12 +28,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217445981",
       "publisher": "Random House",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 1,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "THE WILD ZONE",
       "updated_date": "2026-10-07T18:18:37.398Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -120,62 +64,6 @@
       ]
     },
     {
-      "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "R.J. Palacio",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
-      "book_image_height": 500,
-      "book_image_width": 339,
-      "book_review_link": "",
-      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
-      "contributor": "by R.J. Palacio",
-      "contributor_note": "",
-      "created_date": "2026-11-04T18:59:59.197Z",
-      "dagger": 0,
-      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780375869020",
-      "publisher": "Knopf",
-      "rank": 3,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "WONDER",
-      "updated_date": "2026-11-04T18:59:59.197Z",
-      "weeks_on_list": 567,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780375869020"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780375869020"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 8 and up",
       "amazon_product_url": "https://www.amazon.com/Complete-Cookbook-Young-Chefs/dp/1492670022?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -196,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781492670025",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 4,
-      "rank_last_week": 5,
+      "rank": 2,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
       "updated_date": "2026-03-04T23:40:05.9Z",
-      "weeks_on_list": 293,
+      "weeks_on_list": 294,
       "isbns": [
         {
           "isbn10": "",
@@ -233,6 +121,62 @@
     },
     {
       "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "R.J. Palacio",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375869020.jpg",
+      "book_image_height": 500,
+      "book_image_width": 339,
+      "book_review_link": "",
+      "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+      "contributor": "by R.J. Palacio",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:23:43.326Z",
+      "dagger": 0,
+      "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375869020",
+      "publisher": "Knopf",
+      "rank": 3,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "WONDER",
+      "updated_date": "2026-11-10T21:23:43.326Z",
+      "weeks_on_list": 568,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375869020"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0051ANPZQ?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375869020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwonder-r-j-palacio%2F1101863157%3Fean%3D9780375869020&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonder%2FR-J-Palacio%2F9780375869020"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375869020"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/0063515105?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780063515109",
       "publisher": "Clarion",
-      "rank": 5,
-      "rank_last_week": 2,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "BUILDING 903",
       "updated_date": "2026-10-07T18:18:37.525Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -300,7 +244,7 @@
       "book_uri": "nyt://book/49e68640-575e-5956-9944-5c694e2e217b",
       "contributor": "by Eiko Kadono. Illustrated by Yuta Onoda",
       "contributor_note": "Illustrated by Yuta Onoda",
-      "created_date": "2026-11-04T18:59:59.333Z",
+      "created_date": "2026-11-10T21:23:43.476Z",
       "dagger": 0,
       "description": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
       "first_chapter_link": "",
@@ -308,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217236558",
       "publisher": "Delacorte",
-      "rank": 6,
+      "rank": 5,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "KIKI'S DELIVERY SERVICE",
-      "updated_date": "2026-11-04T18:59:59.333Z",
-      "weeks_on_list": 10,
+      "updated_date": "2026-11-10T21:23:43.476Z",
+      "weeks_on_list": 11,
       "isbns": [
         {
           "isbn10": "",
@@ -345,62 +289,6 @@
     },
     {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Struan Murray",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113248.jpg",
-      "book_image_height": 500,
-      "book_image_width": 327,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1c6c77ea-5560-5ed3-b988-38ff728c6587",
-      "contributor": "by Struan Murray",
-      "contributor_note": "",
-      "created_date": "2026-10-28T17:27:54.886Z",
-      "dagger": 0,
-      "description": "In this sequel to “Dragonborn,” Alex and her friends undertake a perilous journey to stop Drak Midna’s plot to kill all humans. (Ages 8 to 12)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217113248",
-      "publisher": "Dutton",
-      "rank": 7,
-      "rank_last_week": 3,
-      "sunday_review_link": "",
-      "title": "DRAGONBORN: THE TWILIGHT CHILD",
-      "updated_date": "2026-10-28T17:27:54.886Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217113248"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217113248?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113248&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragonborn-struan-murray%2F1149256815%3Fean%3D9798217113248&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragonborn%2FStruan-Murray%2F9798217113248"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217113248"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1250424992?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781250424990",
       "publisher": "Odd Dot",
-      "rank": 8,
-      "rank_last_week": 7,
+      "rank": 6,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "GAME OF PETS: THE BOY WHO KNEW TOO MUCH",
       "updated_date": "2026-10-07T22:08:31.992Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -457,6 +345,62 @@
     },
     {
       "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Katherine Applegate",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
+      "book_image_height": 500,
+      "book_image_width": 352,
+      "book_review_link": "",
+      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
+      "contributor": "by Katherine Applegate",
+      "contributor_note": "",
+      "created_date": "2026-05-13T17:27:20.403Z",
+      "dagger": 0,
+      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063221178",
+      "publisher": "Storytide",
+      "rank": 7,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "WOMBAT WAITING",
+      "updated_date": "2026-05-13T17:27:20.403Z",
+      "weeks_on_list": 26,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063221178"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063221178"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1546185941?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781546185949",
       "publisher": "Scholastic",
-      "rank": 9,
-      "rank_last_week": 8,
+      "rank": 8,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "LICORICE",
       "updated_date": "2026-10-28T17:47:49.26Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -513,57 +457,113 @@
     },
     {
       "age_group": "Ages 8 to 12",
-      "amazon_product_url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464246025?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Katherine Applegate",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063221178.jpg",
-      "book_image_height": 500,
-      "book_image_width": 352,
+      "author": "Daniel Nayeri",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464246029.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/da28fcee-aaa3-59b1-8196-199383f1716d",
-      "contributor": "by Katherine Applegate",
+      "book_uri": "nyt://book/5601bcdc-25b8-566e-9c23-372ce5a2b348",
+      "contributor": "by Daniel Nayeri",
       "contributor_note": "",
-      "created_date": "2026-05-13T17:27:20.403Z",
+      "created_date": "2026-11-04T19:53:51.735Z",
       "dagger": 0,
-      "description": "A homeless pup patiently waits for her “special person.” (Ages 8 to 12)",
+      "description": "A boy named Nothing the Younger and his friends accompany the Wander Prince on an adventure to defeat the Giantess. (Ages 8 to 12)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780063221178",
-      "publisher": "Storytide",
-      "rank": 10,
-      "rank_last_week": 9,
+      "primary_isbn13": "9781464246029",
+      "publisher": "Stonefruit Studio",
+      "rank": 9,
+      "rank_last_week": 1,
       "sunday_review_link": "",
-      "title": "WOMBAT WAITING",
-      "updated_date": "2026-05-13T17:27:20.403Z",
-      "weeks_on_list": 25,
+      "title": "THIS IS A DOOR",
+      "updated_date": "2026-11-04T19:53:51.735Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780063221178"
+          "isbn13": "9781464246029"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063221179?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464246025?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063221178?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464246036?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063221178&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwombat-waiting-katherine-applegate%2F1148362930%3Fean%3D9780063221178&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464246029&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthis-is-a-door-daniel-nayeri%2F1149389014%3Fean%3D9781464246029&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWombat-Waiting%2FKatherine-Applegate%2F9780063221178"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThis-Door%2FDaniel-Nayeri%2F9781464246029"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063221178"
+          "url": "https://bookshop.org/a/3546/9781464246029"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 8 to 12",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Struan Murray",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217113248.jpg",
+      "book_image_height": 500,
+      "book_image_width": 327,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1c6c77ea-5560-5ed3-b988-38ff728c6587",
+      "contributor": "by Struan Murray",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:54.886Z",
+      "dagger": 0,
+      "description": "In this sequel to “Dragonborn,” Alex and her friends undertake a perilous journey to stop Drak Midna’s plot to kill all humans. (Ages 8 to 12)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217113248",
+      "publisher": "Dutton",
+      "rank": 10,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "DRAGONBORN: THE TWILIGHT CHILD",
+      "updated_date": "2026-10-28T17:27:54.886Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217113248"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GHX7YYBV?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217113248?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217113248&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdragonborn-struan-murray%2F1149256815%3Fean%3D9798217113248&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDragonborn%2FStruan-Murray%2F9798217113248"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217113248"
         }
       ]
     }

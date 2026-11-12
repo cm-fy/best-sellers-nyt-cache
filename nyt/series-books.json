@@ -5,7 +5,7 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 10,
-  "uri": "nyt://bestsellerslist/7ab550dc-bc7d-53bf-86b7-4493370da208",
+  "uri": "nyt://bestsellerslist/76cfc34a-558b-5fcf-90e8-674ee8e5e11d",
   "books": [
     {
       "age_group": "Ages 9 to 12",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "DIARY OF A WIMPY KID",
       "updated_date": "2026-10-28T17:27:54.723Z",
-      "weeks_on_list": 920,
+      "weeks_on_list": 921,
       "isbns": [
         {
           "isbn10": "",
@@ -89,7 +89,7 @@
       "sunday_review_link": "",
       "title": "THE HUNGER GAMES",
       "updated_date": "2026-08-19T17:21:43.094Z",
-      "weeks_on_list": 447,
+      "weeks_on_list": 448,
       "isbns": [
         {
           "isbn10": "",
@@ -120,58 +120,114 @@
       ]
     },
     {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250289777?tag=thenewyorktim-20",
+      "age_group": "Ages 14 to 17",
+      "amazon_product_url": "https://www.amazon.com/dp/0316592641?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Stephanie Garber",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250289773.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Holly Black",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316592642.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
       "book_review_link": "",
-      "book_uri": "nyt://book/be81334a-9eac-531b-8b4c-011cd268c12c",
-      "contributor": "by Stephanie Garber",
+      "book_uri": "nyt://book/bf3a1ab4-c0ca-59da-b693-63cadc8ef94a",
+      "contributor": "by Holly Black",
       "contributor_note": "",
-      "created_date": "2026-11-04T19:56:48.06Z",
+      "created_date": "2026-11-10T21:23:43.022Z",
       "dagger": 0,
-      "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+      "description": "Jude’s quest to become the first mortal queen of the High Court of Faerie. (Ages 14 to 17)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250289773",
-      "publisher": "Flatiron",
+      "primary_isbn13": "9780316592642",
+      "publisher": "Little, Brown",
       "rank": 3,
-      "rank_last_week": 9,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "ONCE UPON A BROKEN HEART",
-      "updated_date": "2026-11-04T19:56:48.06Z",
-      "weeks_on_list": 33,
+      "title": "FOLK OF THE AIR",
+      "updated_date": "2026-11-10T21:23:43.022Z",
+      "weeks_on_list": 50,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250289773"
+          "isbn13": "9780316592642"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250289777?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0316592641?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250268402?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780316592642?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250289773&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fonce-upon-a-broken-heart-collectors-edition-stephanie-garber%2F1148883980%3Fean%3D9781250289773&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316592642&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fa-conspiracy-of-charming-monsters-holly-black%2F1149664178%3Fean%3D9780316592642&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOnce-Upon-Broken-Heart-Collectors%2FStephanie-Garber%2F9781250289773"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FConspiracy-Charming-Monsters-Illustrated-Tales%2FHolly-Black%2F9780316592642"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250289773"
+          "url": "https://bookshop.org/a/3546/9780316592642"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 to 17",
+      "amazon_product_url": "https://www.amazon.com/dp/0316606170?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Jennifer Lynn Barnes",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316606172.jpg",
+      "book_image_height": 500,
+      "book_image_width": 361,
+      "book_review_link": "",
+      "book_uri": "nyt://book/fbcff3a7-31b0-5615-97aa-1bb5f1c2cb9b",
+      "contributor": "by Jennifer Lynn Barnes",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:23:43.193Z",
+      "dagger": 0,
+      "description": "Cassie Hobbes joins the Naturals, an F.B.I. program for teens with intrinsic crime-solving abilities. (Ages 12 to 17)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316606172",
+      "publisher": "Little, Brown",
+      "rank": 4,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE NATURALS",
+      "updated_date": "2026-11-10T21:23:43.193Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316606172"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316606170?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316606172?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316606172&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdangerous-impulses-jennifer-lynn-barnes%2F1149594960%3Fean%3D9780316606172&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDangerous-Impulses-Deluxe-Limited%2FJennifer-Lynn-Barnes%2F9780316606172"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316606172"
         }
       ]
     },
@@ -196,12 +252,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780545791441",
       "publisher": "Scholastic",
-      "rank": 4,
-      "rank_last_week": 3,
+      "rank": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "HARRY POTTER",
       "updated_date": "2026-10-14T17:13:55.157Z",
-      "weeks_on_list": 919,
+      "weeks_on_list": 920,
       "isbns": [
         {
           "isbn10": "",
@@ -232,6 +288,62 @@
       ]
     },
     {
+      "age_group": "Ages 6 to 9",
+      "amazon_product_url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Mary Pope Osborne",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780375813658.jpg",
+      "book_image_height": 500,
+      "book_image_width": 317,
+      "book_review_link": "",
+      "book_uri": "nyt://book/e26096cc-b3be-546d-9193-398e7e09deae",
+      "contributor": "by Mary Pope Osborne. Illustrated by Sal Murdocca",
+      "contributor_note": "Illustrated by Sal Murdocca",
+      "created_date": "2026-05-20T18:34:32.732Z",
+      "dagger": 0,
+      "description": "These siblings can overcome space and time. (Ages 6 to 9)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780375813658",
+      "publisher": "Stepping Stone/Random House",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "MAGIC TREE HOUSE",
+      "updated_date": "2026-05-20T18:34:32.732Z",
+      "weeks_on_list": 346,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780375813658"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0375813659?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780375813658?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780375813658&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmagic-tree-house-books-1-4-boxed-set-mary-pope-osborne%2F1113013015%3Fean%3D9780375813658&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMagic-Tree-House%2FMary-Pope-Osborne%2F9780375813658"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780375813658"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 9 to 12",
       "amazon_product_url": "https://www.amazon.com/dp/1419788108?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781419788109",
       "publisher": "Amulet",
-      "rank": 5,
-      "rank_last_week": 4,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "AWESOME FRIENDLY KID",
       "updated_date": "2026-08-19T17:19:37.169Z",
-      "weeks_on_list": 60,
+      "weeks_on_list": 61,
       "isbns": [
         {
           "isbn10": "",
@@ -308,12 +420,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780316382007",
       "publisher": "Little, Brown",
-      "rank": 6,
+      "rank": 8,
       "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "THE WILD ROBOT",
       "updated_date": "2026-11-04T19:58:19.871Z",
-      "weeks_on_list": 141,
+      "weeks_on_list": 142,
       "isbns": [
         {
           "isbn10": "",
@@ -344,58 +456,58 @@
       ]
     },
     {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/0316599395?tag=thenewyorktim-20",
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250289777?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Stephenie Meyer",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316599399.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
+      "author": "Stephanie Garber",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250289773.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/11d6d99f-d28d-5fbe-b3b0-30b8b9dc0c49",
-      "contributor": "by Stephenie Meyer",
+      "book_uri": "nyt://book/be81334a-9eac-531b-8b4c-011cd268c12c",
+      "contributor": "by Stephanie Garber",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:55.31Z",
+      "created_date": "2026-11-04T19:56:48.06Z",
       "dagger": 0,
-      "description": "Vampires and werewolves and their intrigues in high school. (Ages 12 and up)",
+      "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316599399",
-      "publisher": "Little, Brown",
-      "rank": 7,
-      "rank_last_week": 5,
+      "primary_isbn13": "9781250289773",
+      "publisher": "Flatiron",
+      "rank": 9,
+      "rank_last_week": 3,
       "sunday_review_link": "",
-      "title": "THE TWILIGHT SAGA",
-      "updated_date": "2026-10-14T17:13:55.31Z",
-      "weeks_on_list": 295,
+      "title": "ONCE UPON A BROKEN HEART",
+      "updated_date": "2026-11-04T19:56:48.06Z",
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316599399"
+          "isbn13": "9781250289773"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316599395?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250289777?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316599399?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250268402?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316599399&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fnew-moon-stephenie-meyer%2F1148293660%3Fean%3D9780316599399&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250289773&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fonce-upon-a-broken-heart-collectors-edition-stephanie-garber%2F1148883980%3Fean%3D9781250289773&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNew-Moon-Deluxe-Collectors%2FStephenie-Meyer%2F9780316599399"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOnce-Upon-Broken-Heart-Collectors%2FStephanie-Garber%2F9781250289773"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316599399"
+          "url": "https://bookshop.org/a/3546/9781250289773"
         }
       ]
     },
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781368051477",
       "publisher": "Disney-Hyperion",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "PERCY JACKSON & THE OLYMPIANS",
       "updated_date": "2026-05-20T18:34:32.452Z",
-      "weeks_on_list": 850,
+      "weeks_on_list": 851,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781368051477"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 8 and up",
-      "amazon_product_url": "http://www.amazon.com/Wildwood-The-Chronicles-Book/dp/0062024701?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Colin Meloy",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780062024701.jpg",
-      "book_image_height": 167,
-      "book_image_width": 128,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1f281fcb-7f02-5cae-a7f2-b53ee2de62b5",
-      "contributor": "by Colin Meloy. Illustrated by Carson Ellis",
-      "contributor_note": "Illustrated by Carson Ellis",
-      "created_date": "2026-11-04T18:59:58.851Z",
-      "dagger": 0,
-      "description": "Prue McKeel and Curtis Mehlberg’s adventures in the Impassable Wilderness. The basis for the movie \"Wildwood.\" (Ages 8 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780062024701",
-      "publisher": "Storytide",
-      "rank": 9,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "WILDWOOD CHRONICLES",
-      "updated_date": "2026-11-04T18:59:58.851Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780062024701"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "http://www.amazon.com/Wildwood-The-Chronicles-Book/dp/0062024701?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780062024701?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780062024701&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwildwood-colin-meloy%2F1100568028%3Fean%3D9780062024701&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWILDWOOD%2FColin%2BMeloy%2F9780062024701"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780062024701"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lois Lowry",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/01757318-0118-553c-a7dc-cbc6b906c0d9",
-      "contributor": "by Lois Lowry",
-      "contributor_note": "",
-      "created_date": "2026-08-05T17:45:02.899Z",
-      "dagger": 0,
-      "description": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780544336261",
-      "publisher": "Clarion",
-      "rank": 10,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "GIVER QUARTET",
-      "updated_date": "2026-08-05T17:45:02.899Z",
-      "weeks_on_list": 189,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780544336261"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0544336267?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780544336261?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780544336261&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-giver-lois-lowry%2F1100295882%3Fean%3D9780544336261&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGiver%2FLois-Lowry%2F9780544336261"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780544336261"
         }
       ]
     }

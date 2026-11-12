@@ -5,8 +5,64 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 14,
-  "uri": "nyt://bestsellerslist/8c0fc822-09ce-5ffb-86d0-d4068c938471",
+  "uri": "nyt://bestsellerslist/47744601-f2a2-5f4a-b44e-78e165e54176",
   "books": [
+    {
+      "age_group": "Ages 14 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/0593903471?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Cassandra Clare",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593903476.jpg",
+      "book_image_height": 500,
+      "book_image_width": 298,
+      "book_review_link": "",
+      "book_uri": "nyt://book/bec6de77-2834-5f76-88b8-e69a7b581b7b",
+      "contributor": "by Cassandra Clare",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:23:43.648Z",
+      "dagger": 0,
+      "description": "When Drusilla Blackthorn is kidnapped by Prince Ash Morgenstern and taken to the land of Faerie, she uncovers a dangerous plot. (Ages 14 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780593903476",
+      "publisher": "Knopf",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE LAST KING OF FAERIE",
+      "updated_date": "2026-11-10T21:23:43.648Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780593903476"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0593903471?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780593903476?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593903476&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-last-king-of-faerie-cassandra-clare%2F1149384870%3Fean%3D9780593903476&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLast-King-Faerie%2FCassandra-Clare%2F9780593903476"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780593903476"
+        }
+      ]
+    },
     {
       "age_group": "Ages 14 and up",
       "amazon_product_url": "https://www.amazon.com/dp/B0GPNMBRHV?tag=thenewyorktim-20",
@@ -20,7 +76,7 @@
       "book_uri": "nyt://book/1ebf0f35-08bc-59cd-a97b-3728cb21f80d",
       "contributor": "by Lynn Painter",
       "contributor_note": "",
-      "created_date": "2026-11-04T18:59:59.504Z",
+      "created_date": "2026-11-10T21:23:43.829Z",
       "dagger": 0,
       "description": "As a condition of a surprise inheritance, a small-town Nebraskan girl and her family move to New York City. (Ages 14 and up)",
       "first_chapter_link": "",
@@ -28,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798347100217",
       "publisher": "Simon & Schuster",
-      "rank": 1,
+      "rank": 2,
       "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "TRUST FALL",
-      "updated_date": "2026-11-04T18:59:59.504Z",
-      "weeks_on_list": 5,
+      "updated_date": "2026-11-10T21:23:43.829Z",
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -64,62 +120,6 @@
       ]
     },
     {
-      "age_group": "Ages 13 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250376319?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "CG Drews",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250464637.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/5f1fd8cf-b942-5dd0-b0cf-92d90bde5bf8",
-      "contributor": "by CG Drews",
-      "contributor_note": "",
-      "created_date": "2026-11-04T18:59:59.635Z",
-      "dagger": 0,
-      "description": "Jonathan Covey performs a ritual that awakens the god Scorpion Deep, which he later regrets. (Ages 13 to 18)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781250464637",
-      "publisher": "Feiwel & Friends",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "SCORPION DEEP",
-      "updated_date": "2026-11-04T18:59:59.635Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250464637"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250376319?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250376312?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250464637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fscorpion-deep-cg-drews%2F1148605651%3Fean%3D9781250464637&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScorpion-Deep%2FCg-Drews%2F9781250376312"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250464637"
-        }
-      ]
-    },
-    {
       "age_group": "Ages 13 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0063462540?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -141,11 +141,11 @@
       "primary_isbn13": "9780063462540",
       "publisher": "HarperCollins",
       "rank": 3,
-      "rank_last_week": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THE SIXTH FACTION",
       "updated_date": "2026-10-14T17:13:56.25Z",
-      "weeks_on_list": 4,
+      "weeks_on_list": 5,
       "isbns": [
         {
           "isbn10": "",
@@ -177,225 +177,169 @@
     },
     {
       "age_group": "Ages 14 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0DM4BR33H?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063516489?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Andrew Joseph White",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781682638224.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Kiera Azar",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063516489.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
       "book_review_link": "",
-      "book_uri": "nyt://book/b66940ff-ffda-561b-aacc-307e319116b4",
-      "contributor": "by Andrew Joseph White",
+      "book_uri": "nyt://book/e4850da4-02ce-5f3f-a362-01451b2022e2",
+      "contributor": "by Kiera Azar",
       "contributor_note": "",
-      "created_date": "2026-11-04T20:02:12.645Z",
+      "created_date": "2026-11-10T21:23:43.943Z",
       "dagger": 0,
-      "description": "In an attempt to prove that he’s nothing like his serial killer father, Morgan hunts for the identity of his father’s final victim, Jane Doe. (Ages 14 and up)",
+      "description": "In this sequel to “Thorn Season” Alissa navigates the political landscape of the kingdom of Ansora. (Ages 14 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781682638224",
-      "publisher": "Peachtree Teen",
+      "primary_isbn13": "9780063516489",
+      "publisher": "Storytide",
       "rank": 4,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "YOU'RE NO BETTER",
-      "updated_date": "2026-11-04T20:02:12.645Z",
+      "title": "SHARPEST COURT",
+      "updated_date": "2026-11-10T21:23:43.943Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781682638224"
+          "isbn13": "9780063516489"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0DM4BR33H?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063516489?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217420469?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063516489?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781682638224&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fyoure-no-better-andrew-joseph-white%2F1149257787%3Fean%3D9781682638224&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063516489&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsharpest-court-kiera-azar%2F1149373608%3Fean%3D9780063516489&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FYoure-No-Better-Deluxe-Limited%2FAndrew-Joseph-White%2F9781682638224"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSharpest-Court-Deluxe-Limited%2FKiera-Azar%2F9780063516489"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781682638224"
+          "url": "https://bookshop.org/a/3546/9780063516489"
         }
       ]
     },
     {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/1250381592?tag=thenewyorktim-20",
+      "age_group": "Ages 12 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250438845?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Marie Lu",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250381590.jpg",
+      "author": "Marissa Meyer",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250438843.jpg",
       "book_image_height": 500,
-      "book_image_width": 333,
+      "book_image_width": 422,
       "book_review_link": "",
-      "book_uri": "nyt://book/09b985ea-ffa5-532a-b38b-641dab01599c",
-      "contributor": "by Marie Lu",
+      "book_uri": "nyt://book/07b382a9-717d-513e-a611-73ebbd50a609",
+      "contributor": "by Marissa Meyer",
       "contributor_note": "",
-      "created_date": "2026-11-04T18:59:59.894Z",
+      "created_date": "2026-11-10T21:23:44.143Z",
       "dagger": 0,
-      "description": "Rose Lin Fairchild becomes a Harbinger for the god of death, Raven, in a deal to save her best friend’s life. (Ages 14 to 18)",
+      "description": "Cath is a baker who becomes Wonderland’s hectoring Queen of Hearts. (Ages 12 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250381590",
-      "publisher": "Farrar, Straus & Giroux",
+      "primary_isbn13": "9781250438843",
+      "publisher": "Feiwel & Friends",
       "rank": 5,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "MORTAL THINGS",
-      "updated_date": "2026-11-04T18:59:59.894Z",
-      "weeks_on_list": 1,
+      "title": "HEARTLESS",
+      "updated_date": "2026-11-10T21:23:44.143Z",
+      "weeks_on_list": 23,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781250381590"
+          "isbn13": "9781250438843"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250381592?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250438845?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250381590?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250438843?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250381590&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmortal-things-marie-lu%2F1149210476%3Fean%3D9781250381590&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250438843&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fheartless-deluxe-edition-marissa-meyer%2F1151733202%3Fean%3D9781250438843&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMortal-Things%2FMarie-Lu%2F9781250381590"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeartless-Deluxe%2FMarissa-Meyer%2F9781250438843"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250381590"
+          "url": "https://bookshop.org/a/3546/9781250438843"
         }
       ]
     },
     {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0316576239?tag=thenewyorktim-20",
+      "age_group": "Ages 13 to 18",
+      "amazon_product_url": "https://www.amazon.com/dp/1250376319?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Sue Lynn Tan",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316576239.jpg",
+      "author": "CG Drews",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781250464637.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 324,
       "book_review_link": "",
-      "book_uri": "nyt://book/2a575397-f38a-54ad-97e7-fe138a184b1b",
-      "contributor": "by Sue Lynn Tan",
+      "book_uri": "nyt://book/5f1fd8cf-b942-5dd0-b0cf-92d90bde5bf8",
+      "contributor": "by CG Drews",
       "contributor_note": "",
-      "created_date": "2026-11-04T19:00:00.094Z",
+      "created_date": "2026-11-04T18:59:59.635Z",
       "dagger": 0,
-      "description": "In this sequel to “Never Ever After,” Yining leaves the Iron Mountains to seek the truth about her powers. (Ages 14 to 18)",
+      "description": "Jonathan Covey performs a ritual that awakens the god Scorpion Deep, which he later regrets. (Ages 13 to 18)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316576239",
-      "publisher": "Little, Brown",
+      "primary_isbn13": "9781250464637",
+      "publisher": "Feiwel & Friends",
       "rank": 6,
-      "rank_last_week": 0,
+      "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "FOR EVER MORE",
-      "updated_date": "2026-11-04T19:00:00.094Z",
-      "weeks_on_list": 1,
+      "title": "SCORPION DEEP",
+      "updated_date": "2026-11-04T18:59:59.635Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316576239"
+          "isbn13": "9781250464637"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316576239?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1250376319?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316576239?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781250376312?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316576239&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffor-ever-more-sue-lynn-tan%2F1149363280%3Fean%3D9780316576239&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250464637&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fscorpion-deep-cg-drews%2F1148605651%3Fean%3D9781250464637&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEver-More%2FSue-Lynn-Tan%2F9780316576239"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FScorpion-Deep%2FCg-Drews%2F9781250376312"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316576239"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 12 and up",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Erin A. Craig",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
-      "book_image_height": 500,
-      "book_image_width": 309,
-      "book_review_link": "",
-      "book_uri": "nyt://book/4ccb17b0-6cc0-55d6-9ada-83aec0579311",
-      "contributor": "by Erin A. Craig",
-      "contributor_note": "",
-      "created_date": "2026-09-09T18:10:32.228Z",
-      "dagger": 0,
-      "description": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217124183",
-      "publisher": "Delacorte",
-      "rank": 7,
-      "rank_last_week": 4,
-      "sunday_review_link": "",
-      "title": "OUR STRANGE DUET",
-      "updated_date": "2026-09-09T18:10:32.228Z",
-      "weeks_on_list": 9,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217124183"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217124183?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217124183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-strange-duet-erin-a-craig%2F1149680621%3Fean%3D9798217124183&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Strange-Duet%2FErin-A-Craig%2F9798217124183"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217124183"
+          "url": "https://bookshop.org/a/3546/9781250464637"
         }
       ]
     },
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780544824386",
       "publisher": "Clarion",
-      "rank": 8,
-      "rank_last_week": 9,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "THE WAY THINGS WORK: NEWLY REVISED EDITION",
       "updated_date": "2026-07-01T20:45:18.253Z",
-      "weeks_on_list": 17,
+      "weeks_on_list": 18,
       "isbns": [
         {
           "isbn10": "",
@@ -457,6 +401,62 @@
     },
     {
       "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Erin A. Craig",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
+      "book_image_height": 500,
+      "book_image_width": 309,
+      "book_review_link": "",
+      "book_uri": "nyt://book/4ccb17b0-6cc0-55d6-9ada-83aec0579311",
+      "contributor": "by Erin A. Craig",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:10:32.228Z",
+      "dagger": 0,
+      "description": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217124183",
+      "publisher": "Delacorte",
+      "rank": 8,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "OUR STRANGE DUET",
+      "updated_date": "2026-09-09T18:10:32.228Z",
+      "weeks_on_list": 10,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217124183"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GJ3M4C4P?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217124183?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217124183&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Four-strange-duet-erin-a-craig%2F1149680621%3Fean%3D9798217124183&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOur-Strange-Duet%2FErin-A-Craig%2F9798217124183"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217124183"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 12 and up",
       "amazon_product_url": "https://www.amazon.com/dp/0736447369?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -477,11 +477,11 @@
       "primary_isbn13": "9780736447362",
       "publisher": "Random House/Disney",
       "rank": 9,
-      "rank_last_week": 3,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "WINGS OF REVERIE",
       "updated_date": "2026-09-16T18:02:43.834Z",
-      "weeks_on_list": 13,
+      "weeks_on_list": 14,
       "isbns": [
         {
           "isbn10": "",
@@ -512,58 +512,58 @@
       ]
     },
     {
-      "age_group": "Ages 14 to 18",
-      "amazon_product_url": "https://www.amazon.com/dp/0316608319?tag=thenewyorktim-20",
+      "age_group": "Ages 12 and up",
+      "amazon_product_url": "https://www.amazon.com/dp/1368114563?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Jordan Stephanie Gray",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316608312.jpg",
-      "book_image_height": 500,
-      "book_image_width": 371,
+      "author": "Heather Fawcett",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217449484.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/089bc944-c546-51aa-9871-e54cbfda0bc4",
-      "contributor": "by Jordan Stephanie Gray",
+      "book_uri": "nyt://book/a143772d-c1b4-55ca-a3dd-b237f47a7a47",
+      "contributor": "by Heather Fawcett",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:13:56.529Z",
+      "created_date": "2026-11-10T21:40:13.245Z",
       "dagger": 0,
-      "description": "Vanessa secretly hones her werewolf skills to exact revenge on the Wolf Queen’s court. (Ages 14 to 18)",
+      "description": "Alice returns to Wonderland to find out there are other Alices there! (Ages 12 and up)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316608312",
-      "publisher": "Little, Brown",
+      "primary_isbn13": "9798217449484",
+      "publisher": "Random House/Disney",
       "rank": 10,
-      "rank_last_week": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DEVOURED",
-      "updated_date": "2026-10-14T17:13:56.529Z",
+      "title": "WONDROUS",
+      "updated_date": "2026-11-10T21:40:13.245Z",
       "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316608312"
+          "isbn13": "9798217449484"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316608319?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1368114563?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316608312?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781368114561?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316608312&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdevoured-jordan-stephanie-gray%2F1149363287%3Fean%3D9780316608312&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217449484&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fwondrous-heather-fawcett%2F1149516428%3Fean%3D9798217449484&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDevoured-Deluxe-Limited%2FJordan-Stephanie-Gray%2F9780316608312"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWondrous%2FHeather-Fawcett%2F9781368114561"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316608312"
+          "url": "https://bookshop.org/a/3546/9781368114561"
         }
       ]
     }

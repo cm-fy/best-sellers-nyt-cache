@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 1,
-  "uri": "nyt://bestsellerslist/9bceb342-d9ea-57de-8c62-524d05b0fdb3",
+  "uri": "nyt://bestsellerslist/d89afcc9-9f91-5fbc-beeb-ebf9e7afe750",
   "books": [
     {
       "age_group": "",
@@ -29,11 +29,11 @@
       "primary_isbn13": "9781639739134",
       "publisher": "Bloomsbury",
       "rank": 1,
-      "rank_last_week": 0,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "A COURT OF SPLINTERED HARMONY",
       "updated_date": "2026-11-04T19:00:06.185Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -65,62 +65,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316563854?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Michael Connelly",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316563857.jpg",
-      "book_image_height": 500,
-      "book_image_width": 313,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b5ba7f15-b69b-5438-b2d6-5673cb3141fa",
-      "contributor": "by Michael Connelly",
-      "contributor_note": "",
-      "created_date": "2026-11-04T18:59:56.828Z",
-      "dagger": 0,
-      "description": "The 21st book in the Harry Bosch series. Bosch investigates the facility where he was a ward of the state in his youth.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780316563857",
-      "publisher": "Little, Brown",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE HOLLOW",
-      "updated_date": "2026-11-04T18:59:56.828Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780316563857"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316563854?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316563857?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316563857&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hollow-michael-connelly%2F1149460640%3Fean%3D9780316563857&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollow%2FMichael-Connelly%2F9780316563857"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316563857"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/168281808X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781682818084",
       "publisher": "Red Tower",
-      "rank": 3,
-      "rank_last_week": 1,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "THRESHING DAY",
       "updated_date": "2026-10-07T18:21:49.532Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -177,174 +121,6 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "John Grisham",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550543.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/a7ee5364-063d-5297-8677-b6076b2f0562",
-      "contributor": "by John Grisham",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:44.279Z",
-      "dagger": 0,
-      "description": "When a couple is kidnapped during a honeymoon trip in the French countryside, a young lawyer is used as part of a C.I.A. operation.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385550543",
-      "publisher": "Doubleday",
-      "rank": 4,
-      "rank_last_week": 6,
-      "sunday_review_link": "",
-      "title": "THE FRENCH ILLUSION",
-      "updated_date": "2026-10-07T18:18:44.279Z",
-      "weeks_on_list": 5,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385550543"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385550543?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550543&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-french-illusion-john-grisham%2F1149667428%3Fean%3D9780385550543&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrench-Illusion%2FJohn-Grisham%2F9780385550543"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385550543"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249648.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/03927983-f9f9-53a4-98c0-fa29be7c3340",
-      "contributor": "by Freida McFadden",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:25:49.17Z",
-      "dagger": 0,
-      "description": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464249648",
-      "publisher": "Poisoned Pen",
-      "rank": 5,
-      "rank_last_week": 7,
-      "sunday_review_link": "",
-      "title": "THE WITCH",
-      "updated_date": "2026-10-14T17:25:49.17Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464249648"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798349169328?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249648&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-witch-freida-mcfadden%2F1149622698%3Fean%3D9781464249648&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWitch-Deluxe%2FFreida-McFadden%2F9781464249648"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249648"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Barbara Kingsolver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780063577541.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "https://www.nytimes.com/2026/10/05/books/review/partita-barbara-kingsolver.html",
-      "book_uri": "nyt://book/e97cbb98-4dfd-5e44-85f9-6d0cc6468a66",
-      "contributor": "by Barbara Kingsolver",
-      "contributor_note": "",
-      "created_date": "2026-10-14T17:13:58.612Z",
-      "dagger": 0,
-      "description": "When she receives an unexpected phone call from an old lover, Livia contends with memories she put aside many years ago.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780063577541",
-      "publisher": "Harper",
-      "rank": 6,
-      "rank_last_week": 10,
-      "sunday_review_link": "",
-      "title": "PARTITA",
-      "updated_date": "2026-10-14T17:13:58.612Z",
-      "weeks_on_list": 4,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780063577541"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780063577541?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063577541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartita-barbara-kingsolver%2F1149465352%3Fean%3D9780063577541&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartita%2FBarbara-Kingsolver%2F9780063577541"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780063577541"
-        }
-      ]
-    },
-    {
-      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1954118813?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -364,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781954118812",
       "publisher": "Spiegel & Grau",
-      "rank": 7,
-      "rank_last_week": 9,
+      "rank": 3,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "THE CALAMITY CLUB",
       "updated_date": "2026-05-13T21:30:50.865Z",
-      "weeks_on_list": 26,
+      "weeks_on_list": 27,
       "isbns": [
         {
           "isbn10": "",
@@ -401,6 +177,174 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "John Grisham",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780385550543.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a7ee5364-063d-5297-8677-b6076b2f0562",
+      "contributor": "by John Grisham",
+      "contributor_note": "",
+      "created_date": "2026-10-07T18:18:44.279Z",
+      "dagger": 0,
+      "description": "When a couple is kidnapped during a honeymoon trip in the French countryside, a young lawyer is used as part of a C.I.A. operation.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780385550543",
+      "publisher": "Doubleday",
+      "rank": 4,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE FRENCH ILLUSION",
+      "updated_date": "2026-10-07T18:18:44.279Z",
+      "weeks_on_list": 6,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780385550543"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0385550545?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385550543?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385550543&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-french-illusion-john-grisham%2F1149667428%3Fean%3D9780385550543&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFrench-Illusion%2FJohn-Grisham%2F9780385550543"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385550543"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316563854?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Michael Connelly",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316563857.jpg",
+      "book_image_height": 500,
+      "book_image_width": 313,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b5ba7f15-b69b-5438-b2d6-5673cb3141fa",
+      "contributor": "by Michael Connelly",
+      "contributor_note": "",
+      "created_date": "2026-11-04T18:59:56.828Z",
+      "dagger": 0,
+      "description": "The 21st book in the Harry Bosch series. Bosch investigates the facility where he was a ward of the state in his youth.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316563857",
+      "publisher": "Little, Brown",
+      "rank": 5,
+      "rank_last_week": 2,
+      "sunday_review_link": "",
+      "title": "THE HOLLOW",
+      "updated_date": "2026-11-04T18:59:56.828Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316563857"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316563854?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316563857?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316563857&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-hollow-michael-connelly%2F1149460640%3Fean%3D9780316563857&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollow%2FMichael-Connelly%2F9780316563857"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316563857"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249648.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/03927983-f9f9-53a4-98c0-fa29be7c3340",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:25:49.17Z",
+      "dagger": 0,
+      "description": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249648",
+      "publisher": "Poisoned Pen",
+      "rank": 6,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "THE WITCH",
+      "updated_date": "2026-10-14T17:25:49.17Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249648"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1464249644?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798349169328?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249648&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-witch-freida-mcfadden%2F1149622698%3Fean%3D9781464249648&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWitch-Deluxe%2FFreida-McFadden%2F9781464249648"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249648"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1538780046?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781538780046",
       "publisher": "Forever",
-      "rank": 8,
-      "rank_last_week": 3,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "A MARRIED LITTLE CHRISTMAS",
       "updated_date": "2026-10-28T18:20:48.055Z",
-      "weeks_on_list": 2,
+      "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
@@ -457,113 +401,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0316569747?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/059397512X?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "James Patterson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780316569743.jpg",
+      "author": "Danielle L. Jensen",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780593975121.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 294,
       "book_review_link": "",
-      "book_uri": "nyt://book/32d75190-4c76-509d-a0bf-e01c1dd4e264",
-      "contributor": "by James Patterson",
+      "book_uri": "nyt://book/eb64a32f-4cd8-5b6b-800c-af12d16e325b",
+      "contributor": "by Danielle L. Jensen",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:56.957Z",
+      "created_date": "2026-11-10T21:23:40.52Z",
       "dagger": 0,
-      "description": "The 36th book in the Alex Cross series. A family crisis and the D.C. underworld put the psychologist in a tight spot.",
+      "description": "A woman whose magic hurt civilization 20 years ago has her loyalty tested and questions which course of action to take.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780316569743",
-      "publisher": "Little, Brown",
-      "rank": 9,
-      "rank_last_week": 4,
+      "primary_isbn13": "9780593975121",
+      "publisher": "Del Rey",
+      "rank": 8,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "THE FAMILY CROSS",
-      "updated_date": "2026-10-28T17:27:56.957Z",
-      "weeks_on_list": 2,
+      "title": "DEFY THE DUSK",
+      "updated_date": "2026-11-10T21:23:40.52Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780316569743"
+          "isbn13": "9780593975121"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0316569747?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/059397512X?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780316569743?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780593975121?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316569743&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-family-cross-james-patterson%2F1149543134%3Fean%3D9780316569743&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593975121&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdefy-the-dusk-danielle-l-jensen%2F1149688525%3Fean%3D9780593975121&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamily-Cross%2FJames-Patterson%2F9780316569743"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDefy-Dusk%2FDanielle-L-Jensen%2F9780593975121"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780316569743"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJJJJWPF?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Lee Child and Andrew Child",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217375158.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/b36a6b5e-9889-5a8e-82fd-3c588d2cd661",
-      "contributor": "by Lee Child and Andrew Child",
-      "contributor_note": "",
-      "created_date": "2026-11-04T19:00:06.672Z",
-      "dagger": 0,
-      "description": "The 31st book in the Jack Reacher series. Gen. Susan Turner needs Reacher’s help to solve the murder of a team member on covert duty.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217375158",
-      "publisher": "Bantam",
-      "rank": 10,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "CHAIN REACTION",
-      "updated_date": "2026-11-04T19:00:06.672Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217375158"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJJJJWPF?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217375158?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217375158&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchain-reaction-lee-child%2F1150266107%3Fean%3D9798217375158&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChain-Reaction-Reacher-Novel%2FLee-Child%2F9798217375158"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217375158"
+          "url": "https://bookshop.org/a/3546/9780593975121"
         }
       ]
     },
@@ -588,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780385550345",
       "publisher": "Doubleday",
-      "rank": 11,
-      "rank_last_week": 0,
+      "rank": 9,
+      "rank_last_week": 11,
       "sunday_review_link": "",
       "title": "THE PIRATE QUEEN",
       "updated_date": "2026-09-16T18:02:46.037Z",
-      "weeks_on_list": 5,
+      "weeks_on_list": 6,
       "isbns": [
         {
           "isbn10": "",
@@ -625,225 +513,337 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1250412609?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464249652?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Louise Penny",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781250412607.jpg",
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249655.jpg",
       "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image_width": 335,
       "book_review_link": "",
-      "book_uri": "nyt://book/1f6b90f0-bd08-5163-b91f-33470077f2ce",
-      "contributor": "by Louise Penny",
+      "book_uri": "nyt://book/de82f2d1-00f9-59c9-be9d-46a5184308a7",
+      "contributor": "by Freida McFadden",
       "contributor_note": "",
-      "created_date": "2026-10-28T17:27:52.944Z",
+      "created_date": "2026-11-10T21:23:40.723Z",
       "dagger": 0,
-      "description": "The 21st book in the Chief Inspector Gamache series. Mysteries from the past confound Gamache and his team’s murder investigation.",
+      "description": "A pawnshop owner gives a financially strapped wife a potentially risky offer; inspired by O. Henry's “The Gift of the Magi.”",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781250412607",
-      "publisher": "Minotaur",
-      "rank": 12,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "MISS WOLCOTT'S GHOST",
-      "updated_date": "2026-10-28T17:27:52.944Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781250412607"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1250412609?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781250412607?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781250412607&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmiss-wolcotts-ghost-louise-penny%2F1149344440%3Fean%3D9781250412607&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMiss-Wolcotts-Ghost-Chief-Inspector%2FLouise-Penny%2F9781250412607"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781250412607"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jodi Picoult",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593726259.jpg",
-      "book_image_height": 500,
-      "book_image_width": 331,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d19f7ae5-50a0-52c6-9f32-8b6794c54f3d",
-      "contributor": "by Jodi Picoult",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:04.06Z",
-      "dagger": 0,
-      "description": "A woman who runs the Rhode Island Department for Emergency Preparedness and her husband, who is a police polygraph expert, face a crisis in their marriage.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593726259",
-      "publisher": "Ballantine",
-      "rank": 13,
-      "rank_last_week": 11,
-      "sunday_review_link": "",
-      "title": "HOLLOW BONES",
-      "updated_date": "2026-09-23T18:21:04.06Z",
-      "weeks_on_list": 7,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780593726259"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593726251?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593726259?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593726259&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhollow-bones-jodi-picoult%2F1149014562%3Fean%3D9780593726259&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHollow-Bones%2FJodi-Picoult%2F9780593726259"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593726259"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/166825106X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Bonnie Garmus",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668251065.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "",
-      "book_uri": "nyt://book/1dba302f-1c5a-54cf-ba58-66f1b73fa468",
-      "contributor": "by Bonnie Garmus",
-      "contributor_note": "",
-      "created_date": "2026-10-21T17:29:30.559Z",
-      "dagger": 0,
-      "description": "In 1982, a recent college graduate named Batter Gray winds up in the middle of internecine wars at a prestigious poetry journal.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668251065",
-      "publisher": "Scribner",
-      "rank": 14,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "PECK & PECK",
-      "updated_date": "2026-10-21T17:29:30.559Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668251065"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/166825106X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668251065?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668251065&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpeck-peck-bonnie-garmus%2F1149552676%3Fean%3D9781668251065&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPeck%2FBonnie-Garmus%2F9781668251065"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668251065"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593978382?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Jane Schoenbrun",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593978382.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
-      "book_review_link": "https://www.nytimes.com/2026/10/27/books/review/jane-schoenbrun-public-access-afterworld.html",
-      "book_uri": "nyt://book/d807e9f8-6e41-5154-9ae5-da6668e185ba",
-      "contributor": "by Jane Schoenbrun",
-      "contributor_note": "",
-      "created_date": "2026-11-04T18:59:57.118Z",
-      "dagger": 0,
-      "description": "Surreal broadcasts from a pirate TV network affect outcasts across several decades.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780593978382",
-      "publisher": "Hogarth",
-      "rank": 15,
+      "primary_isbn13": "9781464249655",
+      "publisher": "Poisoned Pen",
+      "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "PUBLIC ACCESS AFTERWORLD",
-      "updated_date": "2026-11-04T18:59:57.118Z",
+      "title": "THE GIFT",
+      "updated_date": "2026-11-10T21:23:40.723Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593978382"
+          "isbn13": "9781464249655"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593978382?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464249652?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593978382?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464249655?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593978382&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpublic-access-afterworld-jane-schoenbrun%2F1148854163%3Fean%3D9780593978382&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249655&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-gift-freida-mcfadden%2F1144358079%3Fean%3D9781464249655&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPublic-Access-Afterworld%2FJane-Schoenbrun%2F9780593978382"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGift%2FFreida-McFadden%2F9781464249655"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593978382"
+          "url": "https://bookshop.org/a/3546/9781464249655"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Barbara Kingsolver",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063577541.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "https://www.nytimes.com/2026/10/05/books/review/partita-barbara-kingsolver.html",
+      "book_uri": "nyt://book/e97cbb98-4dfd-5e44-85f9-6d0cc6468a66",
+      "contributor": "by Barbara Kingsolver",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:13:58.612Z",
+      "dagger": 0,
+      "description": "When she receives an unexpected phone call from an old lover, Livia contends with memories she put aside many years ago.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780063577541",
+      "publisher": "Harper",
+      "rank": 11,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "PARTITA",
+      "updated_date": "2026-10-14T17:13:58.612Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780063577541"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0063577542?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780063577541?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063577541&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fpartita-barbara-kingsolver%2F1149465352%3Fean%3D9780063577541&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPartita%2FBarbara-Kingsolver%2F9780063577541"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780063577541"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316569747?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "James Patterson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316569743.jpg",
+      "book_image_height": 500,
+      "book_image_width": 331,
+      "book_review_link": "",
+      "book_uri": "nyt://book/32d75190-4c76-509d-a0bf-e01c1dd4e264",
+      "contributor": "by James Patterson",
+      "contributor_note": "",
+      "created_date": "2026-10-28T17:27:56.957Z",
+      "dagger": 0,
+      "description": "The 36th book in the Alex Cross series. A family crisis and the D.C. underworld put the psychologist in a tight spot.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316569743",
+      "publisher": "Little, Brown",
+      "rank": 12,
+      "rank_last_week": 9,
+      "sunday_review_link": "",
+      "title": "THE FAMILY CROSS",
+      "updated_date": "2026-10-28T17:27:56.957Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316569743"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316569747?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316569743?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316569743&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-family-cross-james-patterson%2F1149543134%3Fean%3D9780316569743&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFamily-Cross%2FJames-Patterson%2F9780316569743"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316569743"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0778306127?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sadie Kincaid",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780778306122.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/1920d5c7-f21f-57d4-b720-63e11deb4764",
+      "contributor": "by Sadie Kincaid",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:39:38.4Z",
+      "dagger": 0,
+      "description": "The second book in the Wages of Sin series. Imogen Demotta has suspicions about the person she considered her savior.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780778306122",
+      "publisher": "MIRA",
+      "rank": 13,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THE GAME",
+      "updated_date": "2026-11-10T21:39:38.4Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780778306122"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0778306127?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780778306320?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780778306122&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-game-sadie-kincaid%2F1150050114%3Fean%3D9780778306122&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGame-Deluxe-Limited-Wages-if%2FSadie-Kincaid%2F9780778306122"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780778306122"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJJDPDPG?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Lee Child and Andrew Child",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217375158.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
+      "book_review_link": "",
+      "book_uri": "nyt://book/b36a6b5e-9889-5a8e-82fd-3c588d2cd661",
+      "contributor": "by Lee Child and Andrew Child",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:23:45.476Z",
+      "dagger": 0,
+      "description": "The 31st book in the Jack Reacher series. Gen. Susan Turner needs Reacher’s help to solve the murder of a team member on covert duty.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217375158",
+      "publisher": "Bantam",
+      "rank": 14,
+      "rank_last_week": 10,
+      "sunday_review_link": "",
+      "title": "CHAIN REACTION",
+      "updated_date": "2026-11-10T21:23:45.476Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217375158"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GJJDPDPG?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217375158?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217375158&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fchain-reaction-lee-child%2F1150266107%3Fean%3D9798217375158&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FChain-Reaction-Reacher-Novel%2FLee-Child%2F9798217375158"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217375158"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668240211?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Allen Levi",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668240212.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/5387e2c9-47ef-5912-b4bf-d9e7a6761a22",
+      "contributor": "by Allen Levi",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:51:01.874Z",
+      "dagger": 0,
+      "description": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668240212",
+      "publisher": "Atria",
+      "rank": 15,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "THEO OF GOLDEN",
+      "updated_date": "2026-11-10T21:51:01.874Z",
+      "weeks_on_list": 3,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668240212"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668240211?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781420536768?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668240212&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ftheo-of-golden-allen-levi%2F1143923011%3Fean%3D9781668240212&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTheo-Golden-Deluxe%2FAllen-Levi%2F9781668240212"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668240212"
         }
       ]
     }
