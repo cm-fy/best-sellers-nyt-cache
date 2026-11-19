@@ -5,8 +5,120 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 24,
-  "uri": "nyt://bestsellerslist/e6b44b77-c9c6-538b-9fd7-734dc71b33c0",
+  "uri": "nyt://bestsellerslist/6b63954d-c2e4-584a-87fd-606ddb179281",
   "books": [
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/0316600903?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Corre Larkin",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780316600903.jpg",
+      "book_image_height": 500,
+      "book_image_width": 402,
+      "book_review_link": "",
+      "book_uri": "nyt://book/df235fbe-e9cc-5eca-ab34-cd330799fe8a",
+      "contributor": "by Corre Larkin",
+      "contributor_note": "",
+      "created_date": "2026-11-18T17:05:45.635Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780316600903",
+      "publisher": "Voracious",
+      "rank": 1,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SEASON TO TASTE",
+      "updated_date": "2026-11-18T17:05:45.635Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780316600903"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/0316600903?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316600903?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780316600903&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fseason-to-taste-corre-larkin%2F1149629496%3Fean%3D9780316600903&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSeason-Taste%2FCorre-Larkin%2F9780316600903"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316600903"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Philip Anthony Mitchell",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781400356829.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/a9febde8-094b-5f49-b850-8fca759d615c",
+      "contributor": "by Philip Anthony Mitchell",
+      "contributor_note": "",
+      "created_date": "2026-11-04T20:08:31.959Z",
+      "dagger": 0,
+      "description": "",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781400356829",
+      "publisher": "Thomas Nelson",
+      "rank": 2,
+      "rank_last_week": 3,
+      "sunday_review_link": "",
+      "title": "CONTEND",
+      "updated_date": "2026-11-04T20:08:31.959Z",
+      "weeks_on_list": 5,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781400356829"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781400356843?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400356829&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcontend-philip-anthony-mitchell%2F1149894242%3Fean%3D9781400356829&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FContend%2FPhilip-Anthony-Mitchell%2F9781400356829"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781400356829"
+        }
+      ]
+    },
     {
       "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/B0GK74W9YM?tag=thenewyorktim-20",
@@ -28,12 +140,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217035410",
       "publisher": "Clarkson Potter",
-      "rank": 1,
-      "rank_last_week": 0,
+      "rank": 3,
+      "rank_last_week": 1,
       "sunday_review_link": "",
       "title": "TODAY WE ARE COOKING...",
       "updated_date": "2026-11-10T21:23:44.707Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -84,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593234174",
       "publisher": "Clarkson Potter",
-      "rank": 2,
-      "rank_last_week": 1,
+      "rank": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "SIMPLY INA",
       "updated_date": "2026-10-28T17:27:55.954Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -121,57 +233,57 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1984881043?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Philip Anthony Mitchell",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781400356829.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Robert Greene",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781984881045.jpg",
+      "book_image_height": 500,
+      "book_image_width": 329,
       "book_review_link": "",
-      "book_uri": "nyt://book/a9febde8-094b-5f49-b850-8fca759d615c",
-      "contributor": "by Philip Anthony Mitchell",
+      "book_uri": "nyt://book/c89d05ef-19e7-5203-a2a3-8de85c1bd9c4",
+      "contributor": "by Robert Greene",
       "contributor_note": "",
-      "created_date": "2026-11-04T20:08:31.959Z",
+      "created_date": "2026-11-18T17:05:45.779Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781400356829",
-      "publisher": "Thomas Nelson",
-      "rank": 3,
-      "rank_last_week": 2,
+      "primary_isbn13": "9781984881045",
+      "publisher": "Viking",
+      "rank": 5,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "CONTEND",
-      "updated_date": "2026-11-04T20:08:31.959Z",
-      "weeks_on_list": 4,
+      "title": "THE LAW OF THE SUBLIME",
+      "updated_date": "2026-11-18T17:05:45.779Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781400356829"
+          "isbn13": "9781984881045"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1400356822?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1984881043?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781400356843?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781984881045?at=10lIEQ"
         },
         {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781400356829&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcontend-philip-anthony-mitchell%2F1149894242%3Fean%3D9781400356829&intsrc=APIG_15890"
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781984881045&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-law-of-the-sublime-robert-greene%2F1149340839%3Fean%3D9781984881045&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FContend%2FPhilip-Anthony-Mitchell%2F9781400356829"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLaw-Sublime%2FRobert-Greene%2F9781984881045"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781400356829"
+          "url": "https://bookshop.org/a/3546/9781984881045"
         }
       ]
     },
@@ -196,12 +308,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781401971366",
       "publisher": "Hay House",
-      "rank": 4,
+      "rank": 6,
       "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "THE LET THEM THEORY",
       "updated_date": "2026-10-22T19:42:06.651Z",
-      "weeks_on_list": 98,
+      "weeks_on_list": 99,
       "isbns": [
         {
           "isbn10": "",
@@ -252,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780735211292",
       "publisher": "Avery",
-      "rank": 5,
-      "rank_last_week": 6,
+      "rank": 7,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "ATOMIC HABITS",
       "updated_date": "2026-10-21T18:00:43.614Z",
-      "weeks_on_list": 362,
+      "weeks_on_list": 363,
       "isbns": [
         {
           "isbn10": "",
@@ -289,281 +401,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1577158091?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0374621799?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Krystal Duran",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781577158097.jpg",
+      "author": "Terence Tao",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780374621797.jpg",
       "book_image_height": 500,
-      "book_image_width": 394,
+      "book_image_width": 326,
       "book_review_link": "",
-      "book_uri": "nyt://book/b776dd14-ae8a-500b-a3fa-38072ab2a083",
-      "contributor": "by Krystal Duran",
+      "book_uri": "nyt://book/9a69e83c-2adc-5314-9d87-7f5323c352df",
+      "contributor": "by Terence Tao",
       "contributor_note": "",
-      "created_date": "2026-11-10T21:23:44.849Z",
+      "created_date": "2026-11-18T17:05:45.92Z",
       "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781577158097",
-      "publisher": "Cool Springs",
-      "rank": 6,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "MORE THAN JUST A PLANT",
-      "updated_date": "2026-11-10T21:23:44.849Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781577158097"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1577158091?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781577158097?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781577158097&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmore-than-just-a-plant-krystal-duran%2F1149584763%3Fean%3D9781577158097&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMore-Than-Just-Plant%2FKrystal-Duran%2F9781577158097"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781577158097"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Andrew D. Huberman with Jessica Wapner",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668032145.jpg",
-      "book_image_height": 500,
-      "book_image_width": 318,
-      "book_review_link": "",
-      "book_uri": "nyt://book/3a986f8b-484f-58ec-a583-4d4b64c04d45",
-      "contributor": "by Andrew D. Huberman with Jessica Wapner",
-      "contributor_note": "",
-      "created_date": "2026-09-23T18:21:02.85Z",
-      "dagger": 0,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668032145",
-      "publisher": "Simon Element",
-      "rank": 7,
-      "rank_last_week": 5,
-      "sunday_review_link": "",
-      "title": "PROTOCOLS",
-      "updated_date": "2026-09-23T18:21:02.85Z",
-      "weeks_on_list": 8,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781668032145"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668032147?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668032145?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668032145&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fprotocols-andrew-d-huberman-phd%2F1145846225%3Fean%3D9781668032145&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FProtocols%2FAndrew-D-Huberman%2F9781668032145"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668032145"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1668095793?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Nigel Ng with Jenn Garbee",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781668095799.jpg",
-      "book_image_height": 500,
-      "book_image_width": 446,
-      "book_review_link": "",
-      "book_uri": "nyt://book/245b64a9-09c9-53bd-9b98-ece60062f262",
-      "contributor": "by Nigel Ng with Jenn Garbee",
-      "contributor_note": "",
-      "created_date": "2026-11-10T21:23:45.021Z",
-      "dagger": 1,
-      "description": "",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781668095799",
-      "publisher": "Simon Element",
+      "primary_isbn13": "9780374621797",
+      "publisher": "Quanta",
       "rank": 8,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "DON'T MESS UP YOUR RICE",
-      "updated_date": "2026-11-10T21:23:45.021Z",
+      "title": "SIX MATH ESSENTIALS",
+      "updated_date": "2026-11-18T17:05:45.92Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781668095799"
+          "isbn13": "9780374621797"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1668095793?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0374621799?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781668095799?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780374621797?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668095799&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdont-mess-up-your-rice-nigel-ng%2F1149525916%3Fean%3D9781668095799&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780374621797&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsix-math-essentials-terence-tao%2F1149013053%3Fean%3D9780374621797&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDont-Mess-Up-Your-Rice%2FNigel-Ng%2F9781668095799"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSix-Math-Essentials%2FTerence-Tao%2F9780374621797"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781668095799"
+          "url": "https://bookshop.org/a/3546/9780374621797"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0H1V33PFJ?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GMW44576?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Vinh Giang",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798318603198.jpg",
+      "author": "Jordan Howlett with Noah Galuten",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217129812.jpg",
       "book_image_height": 500,
-      "book_image_width": 331,
+      "book_image_width": 396,
       "book_review_link": "",
-      "book_uri": "nyt://book/bb250b65-c63e-5bb8-9574-cf4eb097230d",
-      "contributor": "by Vinh Giang",
+      "book_uri": "nyt://book/ddfe9ff7-0582-5950-bc8e-d9dda2e56ed2",
+      "contributor": "by Jordan Howlett with Noah Galuten",
       "contributor_note": "",
-      "created_date": "2026-11-10T21:23:45.164Z",
-      "dagger": 1,
+      "created_date": "2026-11-18T17:05:46.033Z",
+      "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798318603198",
-      "publisher": "Hay House",
+      "primary_isbn13": "9798217129812",
+      "publisher": "DK",
       "rank": 9,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BEFORE WE FORGET HOW TO CONNECT",
-      "updated_date": "2026-11-10T21:23:45.164Z",
+      "title": "COME HERE AND COOK",
+      "updated_date": "2026-11-18T17:05:46.033Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798318603198"
+          "isbn13": "9798217129812"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0H1V33PFJ?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GMW44576?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798318603198?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217129812?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798318603198&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbefore-we-forget-how-to-connect-vinh-giang%2F1150175527%3Fean%3D9798318603198&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217129812&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcome-here-and-cook-jordan-howlett%2F1149445990%3Fean%3D9798217129812&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBefore-We-Forget-How-Connect%2FVinh-Giang%2F9798318603198"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCome-Here-Cook%2FJordan-Howlett%2F9798217129812"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798318603198"
+          "url": "https://bookshop.org/a/3546/9798217129812"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593602536?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GC3SXNPY?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Ally Yost",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780593602539.jpg",
+      "author": "Jenna Barnard",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217034123.jpg",
       "book_image_height": 500,
-      "book_image_width": 323,
+      "book_image_width": 396,
       "book_review_link": "",
-      "book_uri": "nyt://book/e6ac44d2-4924-50b4-bb81-42cdbc8803bb",
-      "contributor": "by Ally Yost",
+      "book_uri": "nyt://book/fee66308-b6d9-5def-9348-4a4feb79fc4c",
+      "contributor": "by Jenna Barnard",
       "contributor_note": "",
-      "created_date": "2026-11-10T21:23:45.322Z",
-      "dagger": 1,
+      "created_date": "2026-11-18T17:05:46.18Z",
+      "dagger": 0,
       "description": "",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9780593602539",
-      "publisher": "WaterBrook",
+      "primary_isbn13": "9798217034123",
+      "publisher": "Clarkson Potter",
       "rank": 10,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "LOVE THAT LASTS",
-      "updated_date": "2026-11-10T21:23:45.322Z",
+      "title": "SIMPLE SUGAR",
+      "updated_date": "2026-11-18T17:05:46.18Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9780593602539"
+          "isbn13": "9798217034123"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593602536?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GC3SXNPY?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593602539?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217034123?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780593602539&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Flove-that-lasts-ally-yost%2F1149384813%3Fean%3D9780593602539&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217034123&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fsimple-sugar-jenna-barnard%2F1149014658%3Fean%3D9798217034123&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLove-That-Lasts%2FAlly-Yost%2F9780593602539"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSimple-Sugar%2FJenna-Barnard%2F9798217034123"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593602539"
+          "url": "https://bookshop.org/a/3546/9798217034123"
         }
       ]
     }

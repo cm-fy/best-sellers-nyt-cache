@@ -5,7 +5,7 @@
   "normal_list_ends_at": 15,
   "updated": "WEEKLY",
   "list_id": 17,
-  "uri": "nyt://bestsellerslist/2e5281aa-a13f-550b-8e49-77b06f347277",
+  "uri": "nyt://bestsellerslist/b64c2a55-4558-585c-85f7-8b4ced4c9746",
   "books": [
     {
       "age_group": "",
@@ -33,7 +33,7 @@
       "sunday_review_link": "",
       "title": "THEO OF GOLDEN",
       "updated_date": "2026-03-04T23:40:20.88Z",
-      "weeks_on_list": 50,
+      "weeks_on_list": 51,
       "isbns": [
         {
           "isbn10": "",
@@ -85,11 +85,11 @@
       "primary_isbn13": "9780593820254",
       "publisher": "Ace",
       "rank": 2,
-      "rank_last_week": 4,
+      "rank_last_week": 2,
       "sunday_review_link": "",
       "title": "DUNGEON CRAWLER CARL",
       "updated_date": "2026-10-21T17:57:40.507Z",
-      "weeks_on_list": 45,
+      "weeks_on_list": 46,
       "isbns": [
         {
           "isbn10": "",
@@ -145,7 +145,7 @@
       "sunday_review_link": "",
       "title": "A COURT OF THORNS AND ROSES",
       "updated_date": "2026-07-14T17:46:25.966Z",
-      "weeks_on_list": 95,
+      "weeks_on_list": 96,
       "isbns": [
         {
           "isbn10": "",
@@ -197,11 +197,11 @@
       "primary_isbn13": "9781464246937",
       "publisher": "Bloom",
       "rank": 4,
-      "rank_last_week": 5,
+      "rank_last_week": 4,
       "sunday_review_link": "",
       "title": "CHRISTMAS STAYCATION",
       "updated_date": "2026-11-04T19:00:01.144Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -233,169 +233,113 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H6CCP5VJ?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Freida McFadden",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
+      "author": "Devney Perry",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798256510701.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/145be7c2-d6e3-54f3-8cb3-a5fd82a4af37",
-      "contributor": "by Freida McFadden",
+      "book_uri": "nyt://book/4de88667-a8a4-51c7-a3a7-a5c051dced4c",
+      "contributor": "by Devney Perry",
       "contributor_note": "",
-      "created_date": "2026-09-09T18:19:09.043Z",
+      "created_date": "2026-11-18T17:18:37.359Z",
       "dagger": 0,
-      "description": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
+      "description": "At Aston University, love forces secrets belonging to three women out into the open.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781464249617",
-      "publisher": "Poisoned Pen",
+      "primary_isbn13": "9798256510701",
+      "publisher": "Bloom",
       "rank": 5,
-      "rank_last_week": 7,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "BRAIN DAMAGE",
-      "updated_date": "2026-09-09T18:19:09.043Z",
-      "weeks_on_list": 12,
+      "title": "THE SECRETS OF CLARENCE MANOR",
+      "updated_date": "2026-11-18T17:18:37.359Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781464249617"
+          "isbn13": "9798256510701"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+          "url": "https://www.amazon.com/dp/B0H6CCP5VJ?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781039416956?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798347075713?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbrain-damage-freida-mcfadden%2F1149563990%3Fean%3D9781464249617&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798256510701&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-secrets-of-clarence-manor-devney-perry%2F1150519701%3Fean%3D9798256510701&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrain-Damage%2FFreida-McFadden%2F9781464249617"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecrets-Clarence-Manor-Deluxe%2FDevney-Perry%2F9798256510701"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464249617"
+          "url": "https://bookshop.org/a/3546/9798256510701"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1668233797?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Colleen Hoover",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
+      "author": "Lauren Blakely",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668233795.jpg",
       "book_image_height": 400,
       "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
-      "contributor": "by Colleen Hoover",
+      "book_uri": "nyt://book/4dc8e7d0-6362-58b7-8e5f-917526cd80c3",
+      "contributor": "by Lauren Blakely",
       "contributor_note": "",
-      "created_date": "2026-10-14T17:25:10.669Z",
+      "created_date": "2026-11-18T17:19:14.078Z",
       "dagger": 0,
-      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth; the basis of the movie.",
+      "description": "A veterinarian who does not like Christmas returns to his hometown, where he connects with a holiday enthusiast.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781538784051",
-      "publisher": "Grand Central",
+      "primary_isbn13": "9781668233795",
+      "publisher": "Atria",
       "rank": 6,
-      "rank_last_week": 6,
+      "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "VERITY",
-      "updated_date": "2026-10-14T17:25:10.669Z",
-      "weeks_on_list": 169,
+      "title": "MISTLETOE ALL THE WAY",
+      "updated_date": "2026-11-18T17:19:14.078Z",
+      "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781538784051"
+          "isbn13": "9781668233795"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1668233797?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781538724736?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781668233795?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784051&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-colleen-hoover%2F1130171830%3Fean%3D9781538784051&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668233795&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmistletoe-all-the-way-lauren-blakely%2F1148980395%3Fean%3D9781668233795&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity%2FColleen-Hoover%2F9781538784051"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMistletoe-All-Way%2FLauren-Blakely%2F9781668276341"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781538784051"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Pierce Brown",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780345539809.jpg",
-      "book_image_height": 500,
-      "book_image_width": 332,
-      "book_review_link": "",
-      "book_uri": "nyt://book/56e017f1-a5bc-5e04-ac89-d638b3623579",
-      "contributor": "by Pierce Brown",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:39.242Z",
-      "dagger": 0,
-      "description": "Darrow, a member of the lowest rung of a society on Mars in the future, mixes in with humanity’s overlords in the hopes of taking them down.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780345539809",
-      "publisher": "Del Rey",
-      "rank": 7,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "RED RISING",
-      "updated_date": "2026-07-08T17:19:39.242Z",
-      "weeks_on_list": 21,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780345539809"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780345539809?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780345539809&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fred-rising-pierce-brown%2F1110614785%3Fean%3D9780345539809&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRed-Rising%2FPierce-Brown%2F9780345539809"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780345539809"
+          "url": "https://bookshop.org/a/3546/9781668233795"
         }
       ]
     },
@@ -420,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593820278",
       "publisher": "Ace",
-      "rank": 8,
-      "rank_last_week": 10,
+      "rank": 7,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "CARL'S DOOMSDAY SCENARIO",
       "updated_date": "2026-08-12T18:23:45.637Z",
-      "weeks_on_list": 14,
+      "weeks_on_list": 15,
       "isbns": [
         {
           "isbn10": "",
@@ -457,6 +401,118 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Freida McFadden",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/145be7c2-d6e3-54f3-8cb3-a5fd82a4af37",
+      "contributor": "by Freida McFadden",
+      "contributor_note": "",
+      "created_date": "2026-09-09T18:19:09.043Z",
+      "dagger": 0,
+      "description": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781464249617",
+      "publisher": "Poisoned Pen",
+      "rank": 8,
+      "rank_last_week": 5,
+      "sunday_review_link": "",
+      "title": "BRAIN DAMAGE",
+      "updated_date": "2026-09-09T18:19:09.043Z",
+      "weeks_on_list": 13,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781464249617"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/146424961X?tag=thenewyorktim-20&linkCode=osi&th=1&psc=1"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781039416956?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464249617&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbrain-damage-freida-mcfadden%2F1149563990%3Fean%3D9781464249617&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrain-Damage%2FFreida-McFadden%2F9781464249617"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464249617"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Pierce Brown",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780345539809.jpg",
+      "book_image_height": 500,
+      "book_image_width": 332,
+      "book_review_link": "",
+      "book_uri": "nyt://book/56e017f1-a5bc-5e04-ac89-d638b3623579",
+      "contributor": "by Pierce Brown",
+      "contributor_note": "",
+      "created_date": "2026-07-08T17:19:39.242Z",
+      "dagger": 0,
+      "description": "Darrow, a member of the lowest rung of a society on Mars in the future, mixes in with humanity’s overlords in the hopes of taking them down.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9780345539809",
+      "publisher": "Del Rey",
+      "rank": 9,
+      "rank_last_week": 7,
+      "sunday_review_link": "",
+      "title": "RED RISING",
+      "updated_date": "2026-07-08T17:19:39.242Z",
+      "weeks_on_list": 22,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9780345539809"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/034553980X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780345539809?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780345539809&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fred-rising-pierce-brown%2F1110614785%3Fean%3D9780345539809&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FRed-Rising%2FPierce-Brown%2F9780345539809"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780345539809"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -476,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780593135228",
       "publisher": "Ballantine",
-      "rank": 9,
-      "rank_last_week": 8,
+      "rank": 10,
+      "rank_last_week": 9,
       "sunday_review_link": "",
       "title": "PROJECT HAIL MARY",
       "updated_date": "2026-05-20T22:02:25.385Z",
-      "weeks_on_list": 72,
+      "weeks_on_list": 73,
       "isbns": [
         {
           "isbn10": "",
@@ -513,6 +569,62 @@
     },
     {
       "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/1668209179?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Sylvain Johnson",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781668209172.jpg",
+      "book_image_height": 500,
+      "book_image_width": 333,
+      "book_review_link": "",
+      "book_uri": "nyt://book/68e6e742-e2f4-5efc-8c9a-1783476ad914",
+      "contributor": "by Sylvain Johnson",
+      "contributor_note": "",
+      "created_date": "2026-11-18T17:05:45.222Z",
+      "dagger": 0,
+      "description": "A reimagining of “The Nutcracker” in which a serial killer known as the Mouse King rampages Montreal.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781668209172",
+      "publisher": "Gallery",
+      "rank": 11,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "SEASON'S REAPINGS",
+      "updated_date": "2026-11-18T17:05:45.222Z",
+      "weeks_on_list": 1,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781668209172"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1668209179?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781668209172?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781668209172&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fseasons-reapings-sylvain-johnson%2F1149602852%3Fean%3D9781668209172&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSeasons-Reapings%2FSylvain-Johnson%2F9781668209172"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781668209172"
+        }
+      ]
+    },
+    {
+      "age_group": "",
       "amazon_product_url": "https://www.amazon.com/dp/1635575583?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
@@ -532,12 +644,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781635575583",
       "publisher": "Bloomsbury",
-      "rank": 10,
-      "rank_last_week": 11,
+      "rank": 12,
+      "rank_last_week": 10,
       "sunday_review_link": "",
       "title": "A COURT OF MIST AND FURY",
       "updated_date": "2026-11-04T19:00:01.287Z",
-      "weeks_on_list": 44,
+      "weeks_on_list": 45,
       "isbns": [
         {
           "isbn10": "",
@@ -569,281 +681,169 @@
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/0593973259?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1464294356?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Heather Fawcett",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217483167.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
+      "author": "Lucy Score",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781464294358.jpg",
+      "book_image_height": 500,
+      "book_image_width": 313,
       "book_review_link": "",
-      "book_uri": "nyt://book/4c819ee9-35b2-5379-b01d-aa2cfa13b365",
-      "contributor": "by Heather Fawcett",
+      "book_uri": "nyt://book/976dcbe5-2950-5ac7-9542-dae352160c8a",
+      "contributor": "by Lucy Score",
       "contributor_note": "",
-      "created_date": "2026-11-10T21:54:20.407Z",
+      "created_date": "2026-11-18T17:05:45.365Z",
       "dagger": 0,
-      "description": "When their businesses are imperiled, the manager of a cat rescue and an infamous magician team up.",
+      "description": "The fifth book in the Riley Thorn mystery series. Riley and her fiancé, Nick, go undercover at a mall to stop a theft ring.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217483167",
-      "publisher": "Del Rey",
-      "rank": 11,
+      "primary_isbn13": "9781464294358",
+      "publisher": "Bloom",
+      "rank": 13,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "AGNES AUBERT'S MYSTICAL CAT SHELTER",
-      "updated_date": "2026-11-10T21:54:20.407Z",
+      "title": "THE HEIST BEFORE CHRISTMAS",
+      "updated_date": "2026-11-18T17:05:45.365Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217483167"
+          "isbn13": "9781464294358"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0593973259?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1464294356?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780593973271?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781464294358?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464294358&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-heist-before-christmas-lucy-score%2F1150480544%3Fean%3D9781464294358&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeist-Before-Christmas%2FLucy-Score%2F9781464294358"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781464294358"
+        }
+      ]
+    },
+    {
+      "age_group": "",
+      "amazon_product_url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Colleen Hoover",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
+      "book_review_link": "",
+      "book_uri": "nyt://book/3496ed1b-5352-5139-82e2-dbbec0ba1c89",
+      "contributor": "by Colleen Hoover",
+      "contributor_note": "",
+      "created_date": "2026-10-14T17:25:10.669Z",
+      "dagger": 0,
+      "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth; the basis of the movie.",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781538784051",
+      "publisher": "Grand Central",
+      "rank": 14,
+      "rank_last_week": 6,
+      "sunday_review_link": "",
+      "title": "VERITY",
+      "updated_date": "2026-10-14T17:25:10.669Z",
+      "weeks_on_list": 170,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781538784051"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/153878405X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538724736?at=10lIEQ"
         },
         {
           "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217483167&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fagnes-auberts-mystical-cat-shelter-heather-fawcett%2F1147444439%3Fean%3D9798217483167&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781538784051&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fverity-colleen-hoover%2F1130171830%3Fean%3D9781538784051&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAgnes-Auberts-Mystical-Cat-Shelter%2FHeather-Fawcett%2F9780593973271"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVerity%2FColleen-Hoover%2F9781538784051"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780593973271"
+          "url": "https://bookshop.org/a/3546/9781538784051"
         }
       ]
     },
     {
       "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1464223343?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Ana Huang",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781464223341.jpg",
-      "book_image_height": 500,
-      "book_image_width": 324,
-      "book_review_link": "",
-      "book_uri": "nyt://book/7b842f3e-fe45-5fa2-ae64-0d9fe26ac4a1",
-      "contributor": "by Ana Huang",
-      "contributor_note": "",
-      "created_date": "2026-11-04T19:00:06.5Z",
-      "dagger": 0,
-      "description": "The third book in the Gods of the Game series. Carina Vu becomes a nanny to the daughter of a goalkeeper who is also a single dad.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781464223341",
-      "publisher": "Bloom",
-      "rank": 12,
-      "rank_last_week": 2,
-      "sunday_review_link": "",
-      "title": "THE KEEPER",
-      "updated_date": "2026-11-04T19:00:06.5Z",
-      "weeks_on_list": 2,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781464223341"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1464223343?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781464223341?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781464223341&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-keeper-ana-huang%2F1148527947%3Fean%3D9781464223341&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FKeeper-Deluxe%2FAna-Huang%2F9781464223341"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781464223341"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1635574048?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/1639736050?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
       "author": "Sarah J. Maas",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781635577020.jpg",
-      "book_image_height": 500,
-      "book_image_width": 329,
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781639736058.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/c21e5586-3a27-57ef-a7e1-3aa411dbc479",
+      "book_uri": "nyt://book/26066221-d69b-5e34-ba12-157ef5a8c122",
       "contributor": "by Sarah J. Maas",
       "contributor_note": "",
-      "created_date": "2026-11-04T19:00:01.441Z",
+      "created_date": "2026-11-18T17:22:06.646Z",
       "dagger": 0,
-      "description": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce’s friends.",
+      "description": "The third book in the Crescent City series. Bryce wants to return home while Hunt is trapped in Asteri's dungeons.",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781635577020",
+      "primary_isbn13": "9781639736058",
       "publisher": "Bloomsbury",
-      "rank": 13,
-      "rank_last_week": 12,
-      "sunday_review_link": "",
-      "title": "HOUSE OF EARTH AND BLOOD",
-      "updated_date": "2026-11-04T19:00:01.441Z",
-      "weeks_on_list": 21,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781635577020"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1635574048?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781635577020?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781635577020&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhouse-of-earth-and-blood-sarah-j-maas%2F1131130550%3Fean%3D9781635577020&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOUSE%2BOF%2BEARTH%2BAND%2BBLOOD%2FSarah%2BJ.%2BMaas%2F9781635577020"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781635577020"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Josh Silver",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798892426374.jpg",
-      "book_image_height": 500,
-      "book_image_width": 333,
-      "book_review_link": "",
-      "book_uri": "nyt://book/6018f667-1466-5fab-ba78-419baa532d49",
-      "contributor": "by Josh Silver",
-      "contributor_note": "",
-      "created_date": "2026-11-10T21:23:44.561Z",
-      "dagger": 0,
-      "description": "A writer who is severely blocked claims a struggling addict’s story as her own.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798892426374",
-      "publisher": "Crooked Lane",
-      "rank": 14,
+      "rank": 15,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "FRUIT FLY",
-      "updated_date": "2026-11-10T21:23:44.561Z",
+      "title": "HOUSE OF FLAME AND SHADOW",
+      "updated_date": "2026-11-18T17:22:06.646Z",
       "weeks_on_list": 3,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798892426374"
+          "isbn13": "9781639736058"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0FZSQYNB8?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/1639736050?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798892426374?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9781639736058?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798892426374&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffruit-fly-josh-silver%2F1147593193%3Fean%3D9798892426374&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFruit-Fly%2FJosh-Silver%2F9798892426374"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798892426374"
-        }
-      ]
-    },
-    {
-      "age_group": "",
-      "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Rebecca Yarros",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
-      "book_image_height": 500,
-      "book_image_width": 309,
-      "book_review_link": "",
-      "book_uri": "nyt://book/017bca50-9a0e-5f37-b0fe-5b58fabb0fa7",
-      "contributor": "by Rebecca Yarros",
-      "contributor_note": "",
-      "created_date": "2026-10-07T18:18:40.46Z",
-      "dagger": 0,
-      "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781649377371",
-      "publisher": "Red Tower",
-      "rank": 15,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "FOURTH WING",
-      "updated_date": "2026-10-07T18:18:40.46Z",
-      "weeks_on_list": 55,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781649377371"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1649374046?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781649377371?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781649377371&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Ffourth-wing-rebecca-yarros%2F1142297916%3Fean%3D9781649377371&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781639736058&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhouse-of-flame-and-shadow-sarah-j-maas%2F1143213613%3Fean%3D9781639736058&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFOURTH%2BWING%2FRebecca%2BYarros%2F9781649377371"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHouse-Flame-Shadow-Crescent-City%2FSarah-J-Maas%2F9781639736058"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781649377371"
+          "url": "https://bookshop.org/a/3546/9781639736058"
         }
       ]
     }

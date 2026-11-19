@@ -5,117 +5,61 @@
   "normal_list_ends_at": 10,
   "updated": "WEEKLY",
   "list_id": 7,
-  "uri": "nyt://bestsellerslist/8262ce00-7784-5adb-bdc7-ffa60355db41",
+  "uri": "nyt://bestsellerslist/72216dcd-3434-5f1b-a05a-693dda138886",
   "books": [
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GLGCSF59?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/0063589834?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Caitlin Clark",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217224913.jpg",
+      "author": "Jory John",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9780063589834.jpg",
       "book_image_height": 500,
-      "book_image_width": 500,
+      "book_image_width": 411,
       "book_review_link": "",
-      "book_uri": "nyt://book/389f1307-0e7c-53a5-a90d-1316f870ac11",
-      "contributor": "by Caitlin Clark. Illustrated by Adriana Predoi",
-      "contributor_note": "Illustrated by Adriana Predoi",
-      "created_date": "2026-11-10T21:23:42.303Z",
+      "book_uri": "nyt://book/cadebbbe-a0d9-54da-878c-1cdfe753041a",
+      "contributor": "by Jory John. Illustrated by Pete Oswald",
+      "contributor_note": "Illustrated by Pete Oswald",
+      "created_date": "2026-11-18T17:05:44.19Z",
       "dagger": 0,
-      "description": "The WNBA star inspires children to give a little extra in everything they do. (Ages 4 to 8)",
+      "description": "An obliging slice of toast helps the citizens of Breadsburg. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9798217224913",
-      "publisher": "Random House",
+      "primary_isbn13": "9780063589834",
+      "publisher": "HarperCollins",
       "rank": 1,
       "rank_last_week": 0,
       "sunday_review_link": "",
-      "title": "EXTRAORDINARY! A LITTLE EXTRA TO REACH BIG DREAMS",
-      "updated_date": "2026-11-10T21:23:42.303Z",
+      "title": "THE TOAST OF THE TOWN",
+      "updated_date": "2026-11-18T17:05:44.19Z",
       "weeks_on_list": 1,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9798217224913"
+          "isbn13": "9780063589834"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GLGCSF59?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/0063589834?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217224913?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9780063589834?at=10lIEQ"
         },
         {
           "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217224913&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextraordinary-a-little-extra-to-reach-big-dreams-caitlin-clark%2F1149980947%3Fean%3D9798217224913&intsrc=APIG_15890"
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780063589834&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-toast-of-the-town-jory-john%2F1150177146%3Fean%3D9780063589834&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExtraordinary-Little-Extra-Reach-Big%2FCaitlin-Clark%2F9798217224913"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FToast-Town%2FJory-John%2F9780063589834"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217224913"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/B0GJKD21CF?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Devin Elle Kurtz",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9798217450152.jpg",
-      "book_image_height": 400,
-      "book_image_width": 312,
-      "book_review_link": "",
-      "book_uri": "nyt://book/d91897c0-6157-59e3-85b1-86bb47538efc",
-      "contributor": "by Devin Elle Kurtz",
-      "contributor_note": "",
-      "created_date": "2026-11-10T21:32:28.754Z",
-      "dagger": 0,
-      "description": "While delivering Christmas cookies in a snowstorm, Ember the dragon is blown off course down the chimney of a cantankerous giant. (Ages 4 to 8)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9798217450152",
-      "publisher": "Knopf",
-      "rank": 2,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "THE BAKERY DRAGON AND THE GIANT COOKIE",
-      "updated_date": "2026-11-10T21:32:28.754Z",
-      "weeks_on_list": 1,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9798217450152"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/B0GJKD21CF?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9798217118748?at=10lIEQ"
-        },
-        {
-          "name": "Barnes and Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217450152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-bakery-dragon-and-the-giant-cookie-devin-elle-kurtz%2F1149731561%3Fean%3D9798217450152&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBakery-Dragon-Giant-Cookie%2FDevin-Elle-Kurtz%2F9798217118748"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9798217118748"
+          "url": "https://bookshop.org/a/3546/9780063589834"
         }
       ]
     },
@@ -140,12 +84,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9798217228072",
       "publisher": "Random House",
-      "rank": 3,
-      "rank_last_week": 0,
+      "rank": 2,
+      "rank_last_week": 3,
       "sunday_review_link": "",
       "title": "DR. SEUSS'S HOW THE GRINCH STOLE CHRISTMAS... ACCORDING TO MAX!",
       "updated_date": "2026-11-10T21:23:42.577Z",
-      "weeks_on_list": 1,
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
@@ -177,57 +121,57 @@
     },
     {
       "age_group": "Ages 4 to 8",
-      "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GJKD21CF?tag=thenewyorktim-20",
       "article_chapter_link": "",
       "asterisk": 0,
-      "author": "Alice Hemming",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
-      "book_image_height": 500,
-      "book_image_width": 455,
+      "author": "Devin Elle Kurtz",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217450152.jpg",
+      "book_image_height": 400,
+      "book_image_width": 312,
       "book_review_link": "",
-      "book_uri": "nyt://book/97fbd95d-e73e-555c-ac4c-b5537a99fd66",
-      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
-      "contributor_note": "Illustrated by Nicola Slater",
-      "created_date": "2026-06-08T16:03:46.797Z",
+      "book_uri": "nyt://book/d91897c0-6157-59e3-85b1-86bb47538efc",
+      "contributor": "by Devin Elle Kurtz",
+      "contributor_note": "",
+      "created_date": "2026-11-10T21:32:28.754Z",
       "dagger": 0,
-      "description": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
+      "description": "While delivering Christmas cookies in a snowstorm, Ember the dragon is blown off course down the chimney of a cantankerous giant. (Ages 4 to 8)",
       "first_chapter_link": "",
       "price": "0.00",
       "primary_isbn10": "",
-      "primary_isbn13": "9781728235202",
-      "publisher": "Sourcebooks Jabberwocky",
-      "rank": 4,
+      "primary_isbn13": "9798217450152",
+      "publisher": "Knopf",
+      "rank": 3,
       "rank_last_week": 2,
       "sunday_review_link": "",
-      "title": "THE LEAF THIEF",
-      "updated_date": "2026-06-08T16:03:46.797Z",
-      "weeks_on_list": 43,
+      "title": "THE BAKERY DRAGON AND THE GIANT COOKIE",
+      "updated_date": "2026-11-10T21:32:28.754Z",
+      "weeks_on_list": 2,
       "isbns": [
         {
           "isbn10": "",
-          "isbn13": "9781728235202"
+          "isbn13": "9798217450152"
         }
       ],
       "buy_links": [
         {
           "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20"
+          "url": "https://www.amazon.com/dp/B0GJKD21CF?tag=thenewyorktim-20"
         },
         {
           "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781728235202?at=10lIEQ"
+          "url": "https://goto.applebooks.apple/9798217118748?at=10lIEQ"
         },
         {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235202&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-leaf-thief-alice-hemming%2F1137949751%3Fean%3D9781728235202&intsrc=APIG_15890"
+          "name": "Barnes and Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217450152&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-bakery-dragon-and-the-giant-cookie-devin-elle-kurtz%2F1149731561%3Fean%3D9798217450152&intsrc=APIG_15890"
         },
         {
           "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLEAF%2BTHIEF%2FAlice%2BHemming.%2F9781728235202"
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBakery-Dragon-Giant-Cookie%2FDevin-Elle-Kurtz%2F9798217118748"
         },
         {
           "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781728235202"
+          "url": "https://bookshop.org/a/3546/9798217118748"
         }
       ]
     },
@@ -252,12 +196,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781492664352",
       "publisher": "Sourcebooks Jabberwocky",
-      "rank": 5,
-      "rank_last_week": 7,
+      "rank": 4,
+      "rank_last_week": 5,
       "sunday_review_link": "",
       "title": "HOW TO CATCH A TURKEY",
       "updated_date": "2026-11-04T19:52:44.531Z",
-      "weeks_on_list": 29,
+      "weeks_on_list": 30,
       "isbns": [
         {
           "isbn10": "",
@@ -288,6 +232,118 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/B0GLGCSF59?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Caitlin Clark",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9798217224913.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/389f1307-0e7c-53a5-a90d-1316f870ac11",
+      "contributor": "by Caitlin Clark. Illustrated by Adriana Predoi",
+      "contributor_note": "Illustrated by Adriana Predoi",
+      "created_date": "2026-11-10T21:23:42.303Z",
+      "dagger": 0,
+      "description": "The WNBA star inspires children to give a little extra in everything they do. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9798217224913",
+      "publisher": "Random House",
+      "rank": 5,
+      "rank_last_week": 1,
+      "sunday_review_link": "",
+      "title": "EXTRAORDINARY! A LITTLE EXTRA TO REACH BIG DREAMS",
+      "updated_date": "2026-11-10T21:23:42.303Z",
+      "weeks_on_list": 2,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9798217224913"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/B0GLGCSF59?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9798217224913?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9798217224913&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fextraordinary-a-little-extra-to-reach-big-dreams-caitlin-clark%2F1149980947%3Fean%3D9798217224913&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FExtraordinary-Little-Extra-Reach-Big%2FCaitlin-Clark%2F9798217224913"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9798217224913"
+        }
+      ]
+    },
+    {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1728276136?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Walstead",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728276137.jpg",
+      "book_image_height": 500,
+      "book_image_width": 500,
+      "book_review_link": "",
+      "book_uri": "nyt://book/6bbd5ac7-a808-5448-8c39-7896f76fb733",
+      "contributor": "by Alice Walstead. Illustrated by Andy Elkerton",
+      "contributor_note": "Illustrated by Andy Elkerton",
+      "created_date": "2026-11-18T17:05:44.33Z",
+      "dagger": 0,
+      "description": "The Catch Club Kids attempt to nab Comet the reindeer. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728276137",
+      "publisher": "Sourcebooks Wonderland",
+      "rank": 6,
+      "rank_last_week": 0,
+      "sunday_review_link": "",
+      "title": "HOW TO CATCH A REINDEER",
+      "updated_date": "2026-11-18T17:05:44.33Z",
+      "weeks_on_list": 14,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728276137"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728276136?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728276137?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728276137&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fhow-to-catch-a-reindeer-alice-walstead%2F1141493572%3Fean%3D9781728276137&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BCATCH%2BA%2BREINDEER%2FAlice%2BWalstead.%2F9781728276137"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728276137"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 4 to 7",
       "amazon_product_url": "https://www.amazon.com/dp/0547199457?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -308,12 +364,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9780547199450",
       "publisher": "Clarion",
-      "rank": 6,
-      "rank_last_week": 0,
+      "rank": 7,
+      "rank_last_week": 6,
       "sunday_review_link": "",
       "title": "BALLOONS OVER BROADWAY",
       "updated_date": "2026-06-08T16:03:46.653Z",
-      "weeks_on_list": 3,
+      "weeks_on_list": 4,
       "isbns": [
         {
           "isbn10": "",
@@ -344,6 +400,62 @@
       ]
     },
     {
+      "age_group": "Ages 4 to 8",
+      "amazon_product_url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20",
+      "article_chapter_link": "",
+      "asterisk": 0,
+      "author": "Alice Hemming",
+      "book_image": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
+      "book_image_height": 500,
+      "book_image_width": 455,
+      "book_review_link": "",
+      "book_uri": "nyt://book/97fbd95d-e73e-555c-ac4c-b5537a99fd66",
+      "contributor": "by Alice Hemming. Illustrated by Nicola Slater",
+      "contributor_note": "Illustrated by Nicola Slater",
+      "created_date": "2026-06-08T16:03:46.797Z",
+      "dagger": 0,
+      "description": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
+      "first_chapter_link": "",
+      "price": "0.00",
+      "primary_isbn10": "",
+      "primary_isbn13": "9781728235202",
+      "publisher": "Sourcebooks Jabberwocky",
+      "rank": 8,
+      "rank_last_week": 4,
+      "sunday_review_link": "",
+      "title": "THE LEAF THIEF",
+      "updated_date": "2026-06-08T16:03:46.797Z",
+      "weeks_on_list": 44,
+      "isbns": [
+        {
+          "isbn10": "",
+          "isbn13": "9781728235202"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/dp/1728235200?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781728235202?at=10lIEQ"
+        },
+        {
+          "name": "Barnes & Noble",
+          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781728235202&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-leaf-thief-alice-hemming%2F1137949751%3Fean%3D9781728235202&intsrc=APIG_15890"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLEAF%2BTHIEF%2FAlice%2BHemming.%2F9781728235202"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781728235202"
+        }
+      ]
+    },
+    {
       "age_group": "Ages 3 to 6",
       "amazon_product_url": "https://www.amazon.com/dp/1510704841?tag=thenewyorktim-20",
       "article_chapter_link": "",
@@ -364,12 +476,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781510704848",
       "publisher": "Sky Pony",
-      "rank": 7,
-      "rank_last_week": 6,
+      "rank": 9,
+      "rank_last_week": 7,
       "sunday_review_link": "",
       "title": "SEE YOU LATER, ALLIGATOR!",
       "updated_date": "2026-05-27T22:36:37.131Z",
-      "weeks_on_list": 43,
+      "weeks_on_list": 44,
       "isbns": [
         {
           "isbn10": "",
@@ -420,12 +532,12 @@
       "primary_isbn10": "",
       "primary_isbn13": "9781454952770",
       "publisher": "Union Square Kids",
-      "rank": 8,
-      "rank_last_week": 0,
+      "rank": 10,
+      "rank_last_week": 8,
       "sunday_review_link": "",
       "title": "DON'T LET THE PIGEON DRIVE THE SLEIGH!",
       "updated_date": "2026-11-10T21:23:42.739Z",
-      "weeks_on_list": 33,
+      "weeks_on_list": 34,
       "isbns": [
         {
           "isbn10": "",
@@ -452,118 +564,6 @@
         {
           "name": "Bookshop.org",
           "url": "https://bookshop.org/a/3546/9781454952770"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Emily Winfield Martin",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "book_image_height": 500,
-      "book_image_width": 475,
-      "book_review_link": "",
-      "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
-      "contributor": "by Emily Winfield Martin",
-      "contributor_note": "",
-      "created_date": "2026-07-08T17:19:37.607Z",
-      "dagger": 0,
-      "description": "A celebration of future possibilities. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9780385376716",
-      "publisher": "Random House",
-      "rank": 9,
-      "rank_last_week": 9,
-      "sunday_review_link": "",
-      "title": "THE WONDERFUL THINGS YOU WILL BE",
-      "updated_date": "2026-07-08T17:19:37.607Z",
-      "weeks_on_list": 482,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9780385376716"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/0385376715?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9780385376716&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-wonderful-things-you-will-be-emily-winfield-martin%2F1122188061%3Fean%3D9780385376716&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWonderful-Things-Will-Be%2FEmily-Winfield-Martin%2F9780385376716"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9780385376716"
-        }
-      ]
-    },
-    {
-      "age_group": "Ages 3 to 7",
-      "amazon_product_url": "https://www.amazon.com/dp/1665942444?tag=thenewyorktim-20",
-      "article_chapter_link": "",
-      "asterisk": 0,
-      "author": "Karma Wilson",
-      "book_image": "https://static01.nyt.com/bestsellers/images/9781665942447.jpg",
-      "book_image_height": 457,
-      "book_image_width": 500,
-      "book_review_link": "",
-      "book_uri": "nyt://book/8bf9aa21-6568-5648-8726-7f52837721bf",
-      "contributor": "by Karma Wilson. Illustrated by Jane Chapman",
-      "contributor_note": "Illustrated by Jane Chapman",
-      "created_date": "2026-11-10T21:23:42.884Z",
-      "dagger": 0,
-      "description": "Friends season a meal with gratitude. (Ages 3 to 7)",
-      "first_chapter_link": "",
-      "price": "0.00",
-      "primary_isbn10": "",
-      "primary_isbn13": "9781665942447",
-      "publisher": "Margaret K. McElderry",
-      "rank": 10,
-      "rank_last_week": 0,
-      "sunday_review_link": "",
-      "title": "BEAR SAYS THANKS",
-      "updated_date": "2026-11-10T21:23:42.884Z",
-      "weeks_on_list": 3,
-      "isbns": [
-        {
-          "isbn10": "",
-          "isbn13": "9781665942447"
-        }
-      ],
-      "buy_links": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/dp/1665942444?tag=thenewyorktim-20"
-        },
-        {
-          "name": "Apple Books",
-          "url": "https://goto.applebooks.apple/9781665942447?at=10lIEQ"
-        },
-        {
-          "name": "Barnes & Noble",
-          "url": "https://barnesandnoble.sjv.io/c/197432/1961179/22009?prodsku=9781665942447&u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbear-says-thanks-karma-wilson%2F1104632443%3Fean%3D9781665942447&intsrc=APIG_15890"
-        },
-        {
-          "name": "Books-A-Million",
-          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBear-Says-Thanks%2FKarma-Wilson%2F9781416958567"
-        },
-        {
-          "name": "Bookshop.org",
-          "url": "https://bookshop.org/a/3546/9781665942447"
         }
       ]
     }
